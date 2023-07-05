@@ -5,7 +5,7 @@ about:
   image: img/profile.jpeg
 ---
 
-I am a Postdoctoral Research Fellow at University of Exeter, working on the. I am also finishing my PhD at University of California Davis, earning my degree in Ecology and Environmental Policy with a Designated Emphasis in Computational Social Science. My research has three core areas: innovation systems and networks, innovation studies and science policy, and environmental governance. I specialize in cases related to agri-food systems, ranging from agrobiodiversity management and organic certification to nitrogen policy. I currently hold degrees in Sustainability Science and Policy (MSc), Organic Farming (MSc), and Biology and Political Science (BA).  
+I am a Postdoctoral Research Fellow at University of Exeter, working on the InBestSoils project. I am also finishing my PhD at University of California Davis, earning my degree in Ecology and Environmental Policy with a Designated Emphasis in Computational Social Science. My research has three core areas: innovation systems and networks, innovation studies and science policy, and environmental governance. I specialize in cases related to agri-food systems, ranging from agrobiodiversity management and organic certification to nitrogen policy. I currently hold degrees in Sustainability Science and Policy (MSc), Organic Farming (MSc), and Biology and Political Science (BA).  
 
 
-This website includes [workshops and tutorials](tutorials.html) in R that focus on computational and statistical topics I have learned throughout my PhD. I enjoy teaching and being involved in R user groups, and I am enthusiastic about publicly sharing code to promote data and statistical literacy, particularly for early learners.
+This website includes [workshops and tutorials](tutorials.html) in R that focus on computational and statistical topics. I am enthusiastic about publicly sharing code to promote data and statistical literacy, particularly for early learners.
