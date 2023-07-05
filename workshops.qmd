@@ -1,6 +1,6 @@
 ---
-pagetitle: Tutorials
-title: Tutorials
+pagetitle: Workshops & Tutorials
+title: Workshops & Tutorials
 ---
 
 <style type="text/css">
@@ -8,8 +8,6 @@ h1.title {
   text-align: center;
 }
 </style>
-<br>
-<br>
 
 ***
 
