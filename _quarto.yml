@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Liza Wood"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research 
+      - href: workshops.qmd
+        text: Workshops / Tutorials
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/liza-wood/
+        aria-label: GitHub
+      - icon: twitter
+        href: https://twitter.com/wood__liza
+
+format:
+  html:
+    theme: styles.scss
+    mainfont: 'Jost'
+    toc: true

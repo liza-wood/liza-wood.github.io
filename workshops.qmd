@@ -1,0 +1,78 @@
+---
+pagetitle: Tutorials
+title: Tutorials
+---
+
+<style type="text/css">
+h1.title {
+  text-align: center;
+}
+</style>
+<br>
+<br>
+
+***
+
+[Making webpages with Rmd + GitHub](https://liza-wood.github.io/make_github_webpage/)  
+Taking a deep dive into project management and using git from Terminal as two strong foundations for building simple webpages hosted through GitHub Pages. This was a workshop designed for the UC Davis Mexican Graduate Student Association.  
+
+***
+
+[Treating text as data with PDFs and regex](https://d-rug.github.io/text-as-data/)  
+Highlighting key avenues for working with text as data (web scraping, PDF reading, and OCR) and digging into common uses for regular expressions (regex) for cleaning messy text data with an emphasis on the `stringr` package. This was a presentation designed for for the Davis R-Users Group mini-workshops.   
+
+***
+
+[Introduction to the Tidyverse](https://liza-wood.github.io/tidyverse_intro/)  
+Introductory guidance through essential data cleaning and visualizing pipelines using the tidy workflow. This was a workshop designed for the UC Davis Mexican Graduate Student Association.  
+
+***
+
+[Network visualization with `ggraph`](https://ucdavisdatalab.github.io/workshop_network_viz/)  
+An intermediate exploration of network data, including a brief review of storing and managing network data and objects, and a focus on integrating network summaries with visualization according to the grammar of graphics. This workshop was designed for the UC Davis DataLab's micro-credential program.
+
+***
+
+[Webscraping public records with `rvest` + regex intro](https://d-rug.github.io/scrape-public-salary-data/)  
+A re-vamp of my first webscraping, I demonstrate how to scrape data from public salary database, https://transparentcalifornia.com/. This was a presentation designed for for the Davis R-Users Group mini-workshops.  
+
+***
+
+[Introduction to creating a package with `roxygen2`](https://d-rug.github.io/packages_with_roxygen2/)  
+Building off of  the function-writing tutorial, I walk through the steps it takes to turn a function into a package using the `roxygen2` package. This was a presentation designed for for the Davis R-Users Group mini-workshops.   
+
+***
+
+[Real-world function writing](https://d-rug.github.io/realworld_functions_iteration/)   
+Most function tutorials walk through achieving some basic arithmetic function when instructing the use of function-writing. This approach uses the case of reading in US Patent Office .csv files and cleaning up the data to demonstrate the usefulness of combining functions and iteration. This was a presentation designed for for the Davis R-Users Group mini-workshops.  
+
+***
+
+[Selecting ERGM decay values](ergm.decay.values.html)  
+Walking through the challenge of decay value selection for running an `ergm` on networks with right-skewed degree distributions, and options for improving fit.  
+
+***
+
+[Webscraping with `xml2` + `rvest`](web.scraping.rvest.html)  
+Reviewing some of the basic functions within `xml2` and `rvest` for database scraping, using an example of the National Germplasm Repository database.   
+
+***
+
+[Network introduction with `network` + `igraph`](network.intro.html)  
+Digging into the differences in syntax of network packages for descriptives and plotting. This is mainly a comparison of `network` objects and `igraph` objects, and the slightly different approaches to working with these data. Example from a Twitter retweet network. 
+
+***
+
+[Ordered logits introduction with `MASS` + `VGAM`](ol.partialprop.html)  
+A brief introduction to ordered logits using two different packages in R, reviewing the different model specifications and some of the more advances features of the `VGAM` package, particularly non-proportional and partial proportional models. Example using simulated farmer survey data.  
+
+***
+
+[Sequential ordered logits](ol.sequential.html)  
+Advancing on the ordered logit introduction, this provides an overview of the continuation ratio (also called sequential) model to ordered logits that want to analyze a dependent ordinal variable that constitutes sequential stages. Example using simulated farmer survey data.  
+
+*** 
+
+[Introduction to R programming videos](https://www.youtube.com/@lizawood1884/playlists)  
+These videos, recorded with co-instructors Christian John, Tyler Scott, and Tara Pozzi, are available from each year of R-DAVIS instruction.  
+ 

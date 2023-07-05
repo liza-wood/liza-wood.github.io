@@ -1,0 +1,150 @@
+---
+title: "In response to Provost Brown"
+subtitle: "A data-driven approach to understand UC's bargaining claims"
+author: "Liza Wood"
+date: "November 17, 2022"
+output: html_document
+---
+
+```{r, echo = F, warning = F, message = F}
+library(tidyverse)
+library(stringr)
+library(scales)
+knitr::opts_chunk$set(
+  echo = FALSE, warning = F,  error = F, message = F,
+  fig.align = "center", out.width = '80%')
+```
+On November 15, Provost and Executive Vice President for Academic Affairs, Dr. Michael Brown, sent a letter to UC administration and faculty to provide an update on their offers re: UC UAW strike ([see the letter here](https://github.com/liza-wood/uc-strikevote/blob/main/data/2022-11-15ProvostBrownLtrreUAW%20Bargaining%20Update.pdf)). It is frustrating to see summaries like this that omit nuance and supporting data (note, I have similar gripes about UAW's communication), so I'd like to comment on a couple of unsubstantiated and misleading claims made by the University of California.  
+
+## Claim 1: Competitive compensation  
+
+Provost Brown's letter states: "Under our current proposals, our academic student employees would be among the highest compensated among public universities in the Association of American Universities (AAU), with compensation similar to what top private institutions offer."  
+
+There was a similar quote in an article in the [SF Chronicle](https://www.sfchronicle.com/bayarea/article/Why-tens-of-thousands-of-UC-employees-walked-off-17583748.php): "In its statement, the university defended its offers to the union, saying that if accepted, the wages would be among the best paid in public universities and 'more comparable to private universities such as Harvard, MIT, and USC.'".  
+
+**These comparisons claiming competitive compensation are unsubstantiated.** In a comparison to other public universities around the country, University of California lags behind, and the proposed increases of 7-10% would still leave us at the tail end. I've already explored UC pay relative to other schools in [another post](https://bit.ly/3TEZ2Jd), but here is a quick visualization of where UC would fall, relative to cost of living, compared to other public universities under the UC's proposal. **A 7% raise brings grad students on UC campuses up from the current 57-70% of their area's living wage to 61-75% of living wage. This pales in comparison to its public university peers, who pay an average of 82% living wage.**    
+
+```{r}
+df <- read.csv("~/Documents/Davis/R-Projects/uc-strikevote/data/grad_student_pay.csv") %>%
+  mutate(min_annual_50FTE = case_when(
+    university == "University of California" ~ min_annual_50FTE + (min_annual_50FTE*.07),
+    T ~ min_annual_50FTE)) %>% 
+  mutate(min_annual_100FTE = case_when(
+    university == "University of California" ~ min_annual_100FTE + (min_annual_100FTE*.07),
+    T ~ min_annual_100FTE)) %>%
+  mutate(min_annual_50FTE = round(min_annual_50FTE),
+         min_annual_100FTE = round(min_annual_100FTE))
+
+costs <- read.csv("~/Documents/Davis/R-Projects/uc-strikevote/data/cost_of_living.csv") %>% 
+  select(-per_capita_income) %>% 
+    mutate(living_wage_income = paste('$',formatC(living_wage_income, big.mark=',', 
+                                                     format = 'f', drop0trailing = T))) %>% #,
+         #per_capita_income = paste('$',formatC(per_capita_income, big.mark=',', 
+                                                      #format = 'f', drop0trailing = T))) %>% 
+  rename("University" = university,
+         "City" = city,
+         "MIT Living Wage" = living_wage_income) %>% 
+         #"US Census median income (2016-20)" = per_capita_income) %>% 
+  select(University, City, `MIT Living Wage`) # `US Census median income (2016-20)`
+df <- rbind(df, df[1,], df[1,]) 
+df[c(1,8,9), 1] <- c("University of California, Davis",
+                     "University of California, Santa Barbara",
+                     "University of California, Los Angeles")
+df <- df %>% 
+  left_join(costs, by = c("university" = "University")) %>% 
+  rename(living_wage_income = 'MIT Living Wage') %>% 
+  mutate(living_wage_income = as.numeric(str_remove_all(living_wage_income, "\\$|,"))) %>% 
+  mutate(grad100FTE_to_living_wage = round(min_annual_100FTE/living_wage_income, 2),
+         grad50FTE_to_living_wage = round(min_annual_50FTE/living_wage_income, 2))
+```
+
+```{r}
+boxPlot_perc_function <- function(fte50, fte100, title, subtitle){
+  df %>% 
+  rbind(df) %>% 
+  select(university,{{fte100}}, {{fte50}}) %>% 
+  mutate(FTE50 = factor(rep.int(c("100%", "50%"), nrow(.)/2))) %>% 
+  arrange({{fte50}}) %>% 
+  mutate(text = ifelse(FTE50 == "100%", {{fte100}}, {{fte50}})) %>% 
+  mutate(university = factor(university, levels = unique(.$university))) %>% 
+  ggplot() +
+  aes(x = university, y = {{fte50}}, fill = FTE50) +
+  geom_col() +
+  coord_flip() +
+  scale_fill_manual(values = c("lightblue", "darkblue")) +
+  stat_identity(geom = "text", colour = "white", size = 3,
+                aes(label = text),
+                position=position_stack(vjust=0.5)) +
+  theme_linedraw() +
+  labs(y = "", x = "", fill = "FTE",
+       title = title,
+       subtitle = subtitle,
+       caption = "*Assumes 50% work year-round, even mix of TA-GSR if different pay rates")
+}
+```
+
+```{r}
+boxPlot_perc_function(grad50FTE_to_living_wage, grad100FTE_to_living_wage, 
+                 "Minimum income as a proportion of living wage*",
+                 "UC salaries include the university's 7% proposed raise")
+```
+
+Similarly, claiming that this puts UC on par with 'top private institutions' has no basis. A UC graduate student employed at 50% at a Step III appointment (which is considered the default minimum hiring rate, according to UCD salary scales, see the next point for further discussion), is \$2,191. A 10% increase (again, being generous, see the next section) would be \$2,410.  
+
+In contrast, [Harvard's compensation plan](https://www.seas.harvard.edu/prospective-students/prospective-graduate-students/funding-scholarship-graduate-programs), which is the base rate for all students regardless of employment is $3,549 per month. [Stanford's compensation plan](https://gfs.stanford.edu/salary/salary21/salary_tables.pdf) for 50% FTE is a minimum of \$3,816 per month. The UC's proposal positions its graduates students to making less than 70% of the top private institutions the administration claims to match.  
+
+## Claim 2: 9-10% increase for GSRs  
+
+Provost Brown's letter states: "Most GSRs will see 9-10 percent increases in year one of the contract, with a 3 percent increase in each subsequent year. GSRs who are on the lowest two salary points will see a 17-26 percent increase in the first year. For example, a GSR who is currently on Step 2 with a 50% appointment will see their monthly salary increase by 17.5 percent in the first year of the contract."
+
+This claim is misleading for those unfamiliar with how hiring across steps works in practice. The focus of this claim is put on the 17-26% raise for Step I and II GSRs, but there's an issue here. At least according to the [UC Davis's account of the Graduate Student Salary Scale](https://ucdavis.app.box.com/v/salaryscale2122), the default compensation plan is such that Step III is the "initial appointment of student with a bachelor's degree only." 
+
+```{r, out.width='50%', fig.align='center'}
+knitr::include_graphics('img/salarydefault.png')
+```
+
+According to this default plan then, Step I and Step II shouldn't be used. I cannot speak to how many students are actually hired at these steps, but personally and among my peers, the initial hiring is Step III. Step III is also what I have considered the 'minimum' in my analyses so far. **What this means is that the UC's most impressive-looking talking point is moot. They're proposing wage increases for steps on a salary scale that, by the own proposed default, shouldn't be used.**  
+
+As a result, it calls into question the more general claim of a 9-10% increase for GSRs. If the increases are 17% and 26% for Steps I and II, these values could be over inflating the increase gained by other steps. UC is not explicit about this. On their webpage they state that: Current rates are \$22,005 — \$43,119 and proposed rates are \$28,275 — \$47,679. SO we can then assume that highest step, Step X, increases by 11%. But again, the UC default scale suggests that student post-QE should be hired at Steps VI-VII, meaning that Steps IX and X are very atypical. From my personal experience, as a fifth year student with well-developed data analysis skills, I have negotiated for only one Step IX appointment under the employment of a very supportive faculty member. **So if 17%, 26% and 11% are the increases for steps that are generally not relevant to graduate students, the remaining increases in Steps III-IX must be lower to generate a 9-10% average increase. Most likely then, the raises for the most relevant steps are only about 5%.** I would appreciate seeing a step by step breakdown of the raise increases to better understand what's being offered to the most relevant salary steps.
+
+## Claim 3: Framing tuition as part of salary rather than as a benefit  
+
+Next week I'll update with a much-needed conversation about tuition remission. 
+<!----
+## Claim 3: Framing tuition as part of salary rather than as a benefit    
+
+Provost Brown's letter states: "UC has proposed to cover 100% of campus fees for eligible [ASEs/GSRs] with 25 percent or greater appointments...This amounts to UC covering a total of \$13,707 up to \$22,248 for all tuition and fees for eligible [ASEs/GSRs], depending on the amount of tuition and fees assessed by the campus."  
+
+Let's break this down in a couple of ways: 1) The claim that "UC has proposed to cover", 2) The average cost of tuition, fees, and insurance, 3) A challenge to what tuition is really paying for, and 4) A re-framing of benefits.  
+
+1) UC's outline states that they already provide '100% coverage of tuition,' which is true -- working more than 25% has always earned graduate workers the cost of tuition. But this idea that "UC covers the cost" is misleading. True coverage would be a waiver of those fees, but in reality it is either the department (in the case of a TA) or a faculty fund/grant that pays the cost of tuition to the UC. In short, the UC still earns tuition money from graduate students.  
+
+2) In preparation for point 3, let's put a solid number to the tuition, fees, and benefits graduate students get from the UC. If you are a graduate student coming from out of state, you typically get one year of extra coverage for out-of-state tuition fees. After year-one, if you have failed to file and successfully register for residency, the UC does not promise to cover out-of-state tuition any longer (at least this was the clear proposition laid out in the offer letter I received in 2018). So for instance in for year one, out-of-state students will receive \$34,480 in benefits, between \$29,008 from out-of-state tuition + fees, and $5,472 in health insurance (based on [UC Davis 2022 rates](https://financeandbusiness.ucdavis.edu/student-resources/tuition-fees/graduate)). In the following years they will receive \$13,906 + \$5,472 = \$19,378. If we assume some generic ratio, such as 50% in-state and 50% out-of-state students (these data were not readily available online), then the average annual benefits package over a five-year graduate student tenure is \$20,888. And yes, this is a non-negligible dollar amount. In fact, it may run pretty close to what a graduate student makes annually. But because it is so large, it is worth asking what this money is going towards (especially because again, UC is not waiving this amount of money, they are taking it from departments, faculty, and grants earned by students and faculty).   
+```{r, eval = F}
+outofstate <- 5472 + 29008.17
+instate <- 5472 + 13906.17
+outofstate_annual_benefit <- (outofstate + (instate*4))/5
+instate_annual_benefit <- instate
+(outofstate_annual_benefit + instate_annual_benefit)/2
+```
+
+3) What does it mean for graduate students to pay for tuition -- what is it exactly that we're paying for? Of course, the first two to three years of a graduate school include a fair amount of coursework. I'm fully aware that part of my role as a PhD student is to learn, to be trained, to pay/work for education. However, I have not taken a class for over a year, and since my second year have never taken more than one course at a time. So if tuition is paying for education, should we be paying the value of a full course load? I also understand the university provides resources outside of course offerings. But I would say the most common include the most I tend to use are office space, academic journal access, administrative support, a gym, ...? But many of these (office, admin) are pretty standard provisions in any employment situation. So why are graduate students and their employing faculty/departments shelling out substaintial amounts each year for their enrollment?  
+
+
+4) Last, let's think about tuition, fee, and insurance benefits as just that... _an employment benefit_. Benefits are a standard part of a job package. Across all UC campuses, faculty earn a median of \$37,465 in benefits, and provosts earn a median of \$56,872 in benefits (source: Transparent California). Now of course, these are likely related mainly to health care and retirement investment matching, but that brings to a good point: graduate students get no retirement matching (the disaster of student retirement scenarios deserves a completely different post). Other than health care, we get not benefits whatsoever. Also no real paid-time-off, no transit coverage, pitiful medical leave, pitiful childcare (all also being negotiated right now). So guess what? Apart from healthcare, **our only real employment benefit is education via tuition coverage.** Tuition is our employment benefit. Framed this way, compared to the value of faculty and provost benefits (again, median of \$37,465 and \$56,872 up to \$110,101), why do folks get so hung up on \$20,888 per year? Particularly because our labor contributes to the system that we want benefits from.  
+
+```{r, eval = F}
+faculty <- read.csv("~/Documents/Davis/R-Projects/uc-strikevote/data/uc-wide-salaries.csv")
+summary(faculty$Benefits)
+prop_benefit_f <- faculty$Benefits/faculty$Regular.pay
+summary(prop_benefit_f)
+provosts <- read.csv("~/Documents/Davis/R-Projects/uc-strikevote/data/uc-provost-salaries.csv")
+summary(provosts$Benefits)
+prop_benefit_p <- provosts$Benefits/provosts$Regular.pay
+summary(prop_benefit_p)
+
+```
+
+---->
+
+

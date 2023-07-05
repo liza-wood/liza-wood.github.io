@@ -1,0 +1,55 @@
+/* Taken from allisonhorst.github.io */
+/*-- scss:defaults --*/
+
+
+@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre&family=Jost&display=swap');
+
+// Colors
+$white: #FFFFFF;
+$darkbluegreen: #004B57;
+$lightbluegreen: #006A89;
+$darkgray: #2C2C2C;
+$gray: #949799;
+$lightgray: #E5E5E5;
+$ltblue: #AED3E3;
+
+
+// Base document colors
+$navbar-bg: $lightbluegreen; // navbar
+$navbar-fg: $white; // navbar foreground elements
+$navbar-hl: $ltblue; // highlight color when hovering over navbar links
+$body-bg: $white; // page background 
+$body-color: $darkgray; // page text 
+$footer-bg: $lightgray; // footer 
+$link-color: $darkbluegreen; // hyperlinks 
+
+// Inline code
+$code-bg: $lightgray; // inline code background color
+$code-color: $darkgray; // inline code text color
+
+// Code blocks
+$code-block-bg: $white; // code block background color
+
+h1 {
+  color: $darkbluegreen;
+}
+
+h2 {
+  color: $lightbluegreen;
+}
+
+div.quarto-about-trestles .about-entity .about-link {
+    color: #fcf9f4 !important;
+    text-decoration: none;
+    border: none; 
+    background-color: #006A89;
+}
+
+.navbar-title {
+  font-family: Jost;
+}
+
+h1.title, .title.h1 {
+    font-family: Jost;
+    font-size: 2.5em;
+}

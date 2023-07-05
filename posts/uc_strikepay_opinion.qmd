@@ -1,0 +1,205 @@
+---
+title: "Grad Student Pay in Context"
+author: "Liza Wood"
+date: "November 15, 2022"
+description: ""
+type: post
+toc: FALSE
+---
+
+```{r, echo = F, warning = F, message = F}
+library(tidyverse)
+library(stringr)
+library(scales)
+knitr::opts_chunk$set(
+  echo = FALSE, warning = F,  error = F, message = F,
+  fig.align = "center", out.width = '80%')
+```
+
+```{r}
+scalepay <- read.csv("~/Documents/Davis/R-Projects/uc-strikevote/data/ucop_ladder.csv")
+df <- read.csv("~/Documents/Davis/R-Projects/uc-strikevote/data/uc-wide-salaries.csv")
+```
+
+UC graduate students have been striking for three days now, and graduate students and faculty alike still have questions about the Union's demands. Particularly, there are a number of running comments I hear that challenge the strikers demands. I'd like to create some posts responding to these throughout the strike weeks.  
+
+One of the comments I've heard is: Graduate students are asking to be paid more than some faculty. And well, are they? Having a base understanding of faculty pay is critical to understanding that question. The good news is that public salaries over a certain threshold are publicly released, and so we can easily contextualize graduate student pay demands alongside faculty pay.  
+
+An initial look at the [University of California Faculty Pay Ladder](https://www.ucop.edu/academic-personnel-programs/_files/2022-23/oct-2022-salary-scales/t1.pdf) might suggest that yes, asking for \$54,000 for 50% FTE (\$108,000 100% FTE) _is_ more than what these faculty steps outline. But I think it is important to look a bit deeper, both at faculty pay and at the demands of the union. This blog will do just that to make two key points:   
+1. UCOP Faculty pay ladder alone is misleading     
+2. Graduate students have so much to gain from bargaining for even a fraction of the union's current demands    
+
+## How much do UC faculty make?  
+
+The University of California Faculty Pay Ladder for [General faculty](https://www.ucop.edu/academic-personnel-programs/_files/2022-23/oct-2022-salary-scales/t1.pdf) and a higher tier of faculty from [Business, Economics, and Engineering](https://ap.ucsb.edu/compensation.and.benefits/ucsb.salary.scales/3.pdf) have been used by faculty to signal to students: Look, faculty don't make all that much more than graduate students, especially not compared to their \$54,000 demand. But publicly available data about faculty salaries suggest otherwise. 
+
+I have scraped publicly available salaries through the [Transparent California](https://transparentcalifornia.com/) database for faculty in the University of California system. I've focused on Assistant, Associate, and Full faculty, both AY and FY, within typical university departments (i.e. I have removed Medical and Law school faculty) in 2021. The total number of faculty represented is `r nrow(df)`. (Note that there are some faculty excluded from these data given rate limits on the Transparent California page, but I have done my best to ensure that the variation is random. See the [uc-faculty-pay script](https://github.com/liza-wood/uc-strikevote/blob/main/code/uc-faculty-salary.R) for details on the data scraping).  
+
+When comparing the UC pay ladder to both "regular pay", as termed in the Transparent California database, as well as "other pay," (off-scale), it is clear that the hiring process looks quite different in practice than on paper. Below I visualize the ranges of pay according to the UCOP scale, regular pay, and regular + other pay. Note that I have limited the y-axis so to more clearly see the difference in median values across the categories, but this hides the upper end salaries of Full professors, which at a maximum is \$778,102.  
+
+```{r}
+# Visual comparison of pay scales ----
+df_long <- df %>% 
+  #filter(appointment == "AY") %>% 
+  left_join(scalepay) %>% 
+  pivot_longer(cols = c(Regular.pay, Total.pay, scalepay), names_to = 'PayType',
+               values_to = 'Dollars') %>% 
+  mutate(PayType = factor(PayType, levels = c('scalepay', 'Regular.pay', 'Total.pay')))
+  
+levels(df_long$PayType) = c("UCOP Scale", "Regular pay", "Regular + Other pay") 
+
+df_long %>% 
+  ggplot(aes(x = level, y = Dollars, color = PayType)) + 
+  geom_boxplot() + 
+  scale_y_continuous(labels = comma, limits = c(0,400000)) +
+  scale_color_brewer(palette = "Blues") +
+  theme_bw() +
+  labs(x = "", y = "Annual salaries ($)", color = "",
+       title = "How much do UC faculty earn?",
+       subtitle = "All UC faculty (except Medical and Law faculty)",
+       caption = "Source: Transparent California; Note: y-axis limited")
+```
+
+
+We can also take a look at a table of the average salaries across these categories, below. 
+```{r}
+# Numeric comparison of pay scales ----
+proposed <- scalepay %>% 
+  group_by(level) %>% 
+  summarize(proposed_avg = paste('$',formatC(round(mean(scalepay, na.rm = T)), big.mark=',', 
+                                                      format = 'f', drop0trailing = T)))
+
+regular <- df %>% 
+  group_by(level) %>% 
+  summarize(regular_avg = paste('$',formatC(round(mean(Regular.pay, na.rm = T)), big.mark=',', 
+                                                      format = 'f', drop0trailing = T)))
+
+total <- df %>% 
+  group_by(level) %>% 
+  summarize(total_avg = paste('$',formatC(round(mean(Total.pay, na.rm = T)), big.mark=',', 
+                                                      format = 'f', drop0trailing = T)))
+
+table <- left_join(proposed, regular) %>% left_join(total)
+colnames(table) <- c("Rank", "UCOP scale", "Regular pay", "Total pay")
+kableExtra::kable(table, rownames = F, caption = "Average pay according to faculty rank across all UC faculty") %>% kableExtra::kable_styling()
+```
+When we take a look at these numbers, it seems like the UCOP pay scale is only representing somewhere between 60-65% of what faculty are _actually_ making across the UC.  
+```{r, eval = F}
+88110/112762 ; 88110/138316
+104444/128664 ; 104444/152256
+145317/204647 ; 145317/244142
+
+```
+
+Now, these are data all across the UC, spanning wide reaches of departments, expertise, etc., so we might say that these numbers are a bit exaggerated. To be sure this check wasn't missing some faculty grouping that over-inflated the numbers, I spot checked the data by scraping only the faculty in my department: Environmental Science and Policy at UC Davis, in 2021. Among these 20 faculty, average salaries across ranks tend to be about \$20,000 less than across the whole UC system, but this is likely because Davis offers different salaries than the rest of the state, and ESP is not among the highest ranking salary ladders (for instance, the Business, Economics, and Engineering departments are simply hired at higher rates, even on paper). So  it seems like these UC numbers, both state-wide and hyper-locally, can give us a decent picture of UC faculty salary ranges.  
+
+```{r}
+esp <- read.csv('~/Documents/Davis/R-Projects/uc-strikevote/data/esp21_pay.csv') 
+
+esp_long <- esp %>% 
+  left_join(scalepay, by = c("title" = "level")) %>% 
+  pivot_longer(cols = c(Regular.pay, Total.pay, scalepay), names_to = 'PayType',
+               values_to = 'Dollars') %>% 
+  mutate(PayType = factor(PayType, levels = c('scalepay', 'Regular.pay', 'Total.pay')))
+
+levels(esp_long$PayType) = c("UCOP Scale", "Regular pay", "Regular + Other pay") 
+
+esp_long %>% 
+  ggplot(aes(x = title, y = Dollars, color = PayType)) + 
+  geom_boxplot() + 
+  scale_y_continuous(labels = comma) +
+  scale_color_brewer(palette = "Blues") +
+  theme_bw() +
+  labs(x = "", y = "Annual salaries ($)", color = "",
+       title = "How much do UC faculty earn?",
+       subtitle = "UC Davis Environmental Science and Policy Department",
+       caption = "Source: Transparent California")
+```
+
+```{r}
+regular <- esp %>% 
+  group_by(title) %>% 
+  summarize(regular_avg = paste('$',formatC(round(mean(Regular.pay, na.rm = T)), big.mark=',', 
+                                                      format = 'f', drop0trailing = T)))
+
+total <- esp %>% 
+  group_by(title) %>% 
+  summarize(total_avg = paste('$',formatC(round(mean(Total.pay, na.rm = T)), big.mark=',', 
+                                                      format = 'f', drop0trailing = T)))
+table_esp <- left_join(proposed, regular, by = c("level" = "title")) %>% 
+  left_join(total, by = c("level" = "title"))
+colnames(table_esp) <- c("Rank", "UCOP scale", "Regular pay", "Total pay")
+kableExtra::kable(table_esp, rownames = F, caption = "Average pay for UCD ESP faculty") %>% kableExtra::kable_styling()
+```
+
+```{r, eval = F}
+mean(esp$Total.pay-esp$Regular.pay)
+mean(df$Other.pay)
+```
+
+Let's think about these numbers. Even in a world where the union gets its demands of \$54,000 for 50% FTE, this will still never realistically be higher than faculty. Even if a graduate student were working at their absolute maximum, 75% during the academic year and 100% during the summer at the demanded rate, they would make \$87,750. For context, the lowest total salary in the Environmental Science and Policy Department is \$96,619. But also importantly, **there is absolutely no world in which the union gets their maximum ask.** So let's consider what graduate students _realistically_ stand to gain during this bargaining process.  
+
+## What kinds of salary might graduate students _realistically_ gain from the strike?   
+
+I'll admit, I myself have balked at the \$54,000 demand by the union. I've already addressed this elsewhere, so I'll point to a [piece I wrote the other week](https://bit.ly/3TEZ2Jd) regarding the reality of graduate student pay, and how the bargaining process might actually land us somewhere competitive. In summary, I know \$54,000 is not realistic. But a realistic ask (between \$36,837 and \$42,573, depending on whether or not we adjust for different costs of living across campus) would make a _huge_ difference for graduate students, and keep graduate student pay competitive with its peers. This pay raise, from \$29,621 to \$36,837, about a 30% raise, also puts UC graduate students in similar _relative_ positions to faculty in their departments.  
+
+To understand graduate student pay relative to faculty pay, let's look at the average pay across faculty ranks for Environmental Science and Policy Department at UC Davis (regular pay, not including additional 'other' pay), compared to pay from another large public university's environmental science department: University of Michigan's School for Environment and Sustainability. Pays are relatively similar for faculty between the two schools, with slightly higher rates at UCD. But when we overlay graduate student data here, we see that graduate students at Michigan make nearly \$7,000 more annually than UCD graduate students at 50% FTE. What this means is that graduate students at UCD make relatively less money than peers in Michigan, not just in absolute terms but also relative to the faculty. For example relative to Associate Professors, graduate students in Michigan make 31% of their salary while those in California make 23% of their salary.  
+
+A realistic bargain, then, as outlined in my previous post, is 90% of living wage in the area. This would boost UCD graduate students' salaries up on par with Michigan and still only less than a third of what faculty make, at 50% FTE (see table below). And even if students work at their maximum (75% FTE all academic year and 100% FTE all summer), they would earn \$59,860 -- _still_ only 60% of the mean Assistant Professor salary, before 'other pay'.  
+
+```{r}
+table_um <- read.csv("~/Documents/Davis/R-Projects/uc-strikevote/data/um-salaries.csv") %>% 
+  mutate(FTR = as.numeric(trimws(str_remove_all(FTR, '\\$|,')))) %>% 
+  filter(Department == "Sch for Environ and Sustain") %>% 
+  group_by(rank) %>% 
+  summarize(avg = round(mean(FTR)))
+pay <- read.csv("~/Documents/Davis/R-Projects/uc-strikevote/data/grad_student_pay.csv") %>% 
+  mutate(university = ifelse(university == 'University of Michigan, Ann Arbor',
+                             "University of Michigan", university)) %>% 
+  mutate(min_annual_50FTE = round(min_annual_50FTE),
+         avg_annual_50FTE = round(avg_annual_50FTE)) %>% 
+  filter(university %in% c("University of California", "University of Michigan")) %>% 
+  select(university, avg_annual_50FTE) %>% 
+  pivot_wider(names_from = university, values_from = avg_annual_50FTE) %>% 
+  mutate(Rank = "Graduate Student") %>% 
+  select(Rank, `University of Michigan`, `University of California`) %>% 
+  mutate("University of California (realistic bargain)" = 36837)
+colnames(pay)[3] <- "University of California (current)"
+```
+
+
+```{r}
+table_prop <- table_esp %>% 
+  mutate(`Regular pay` = as.numeric(trimws(str_remove_all(`Regular pay`, '\\$|,')))) %>% 
+  select(Rank, `Regular pay`) %>% 
+  left_join(table_um, by = c("Rank" = "rank")) %>% 
+  mutate(ucpercent = round(100*(pay[[1,3]]/`Regular pay`)),
+         umpercent = round(100*(pay[[1,2]]/avg)),
+         ucprop = round(100*(36837/`Regular pay`))) %>% 
+  #mutate(`Regular pay` = paste('$', formatC(round(mean(`Regular pay`, na.rm = T)), big.mark=',', 
+  #                                                    format = 'f', drop0trailing = T)),
+    #     avg = paste('$', formatC(round(mean(avg, na.rm = T)), big.mark=',', 
+     #                                                 format = 'f', drop0trailing = T))) %>% 
+  mutate("University of California (current)" = paste0(`Regular pay`, " (", ucpercent, "%)"),
+         "University of Michigan" = paste0(`avg`, " (", umpercent, "%)"),
+         "University of California (realistic bargain)" = paste0(`Regular pay`, " (", ucprop, "%)")) %>% 
+  select(Rank, `University of Michigan`,`University of California (current)`, `University of California (realistic bargain)`)
+table3 <- pay %>% 
+  mutate(`University of Michigan` = paste('$', formatC(round(mean(`University of Michigan`, na.rm = T)), big.mark=',', 
+                                                      format = 'f', drop0trailing = T)),
+         `University of California (current)` = paste('$', formatC(round(mean(`University of California (current)`, na.rm = T)), big.mark=',', 
+                                                      format = 'f', drop0trailing = T)),
+         `University of California (realistic bargain)` = paste('$', formatC(round(mean(`University of California (realistic bargain)`, na.rm = T)), big.mark=',', 
+                                                      format = 'f', drop0trailing = T))) %>% 
+  rbind(table_prop) 
+#36837/28649
+kableExtra::kable(table3, rownames = F, caption = "Average faculty pay and its relationship to graduate student pay") %>% kableExtra::kable_styling()
+
+```
+
+```{r}
+monthly <- (36837*2)/12
+max <- ((monthly*.75)*9)+((monthly)*3)
+#59860/99525 
+```
+
