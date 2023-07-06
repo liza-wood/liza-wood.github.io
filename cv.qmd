@@ -101,7 +101,7 @@ Instructor |  Contracted by California State Water Board
   R for Water Resources Data Science <span style="float:right;">Spring 2023</span>  
   
 Teaching Assistant | UC Davis -- UC Davis DataLab   
-  IST 8x: Adventures in Data Science <span style="float:right;">Winter & Spring 2022</span>   
+  IST 8x: Adventures in Data Science <span style="float:right;">Winter & Spring 2022 & 2023</span>   
   
 Instructor |  UC Davis -- Graduate Group in Ecology  
   ECL 298: R Data Analysis for Visualization in Science <span style="float:right;">Fall 2020, 2021 & 2022</span>    
