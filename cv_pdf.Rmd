@@ -1,52 +1,47 @@
 ---
-pagetitle: CV
 title: Liza Wood
+output: pdf_document
+urlcolor: blue
+header-includes:
+  - \usepackage{markdown}
+  - \usepackage{lipsum}
 ---
 
-<style type="text/css">
-h1.title, h2.subtitle, h3.subtitle {
-  text-align: center;
-}
-</style>
-
-<center> <i class="fa fa-envelope-square" aria-hidden="true"></i> belwood@ucdavis.edu | [<i class="fa fa-globe" aria-hidden="true"></i> website](https://liza-wood.github.io/)</center>
-
 ***
+  
+## EDUCATION
 
-### EDUCATION 
-
-Ph.D., Ecology  
-Areas of Emphasis: Environmental Policy  <span style="float:right;">2023</span>  
+Ph.D., Ecology and Environmental Policy    \hfill 2023    
 Designated Emphasis: Computational Social Science  
 University of California Davis, Davis, CA   
 
-M.Sc., Organic Farming and Food Production Systems                        <span style="float:right;">2015</span>  
+M.Sc., Organic Farming and Food Production Systems  \hfill 2015  
 Newcastle University, Newcastle upon Tyne, United Kingdom   
 
-M.Sc., Sustainability Science and Policy		            	               <span style="float:right;">2014</span>  
+M.Sc., Sustainability Science and Policy  \hfill 2014    
 Maastricht University, Maastricht, Netherlands   
 
-B.A., Political Science | B.A., Biology 		             	   	           <span style="float:right;">2013</span>  
+B.A., Political Science | B.A., Biology  \hfill 2013    	
 Honors College at the College of Charleston, Charleston, SC  
 
-***  
+***
 
 ### EMPLOYMENT  
 
-Postdoctoral Research Fellow <span style="float:right;">2023 – present</span>   
+Postdoctoral Research Fellow \hfill 2023 – present  
 University of Exeter, Department of Management -- Sustainable Futures  
 
-Graduate Student Researcher and Teaching Assistant <span style="float:right;">2018 – 2023</span>   
+Graduate Student Researcher and Teaching Assistant \hfill 2018 – 2023  
 University of California Davis, Center for Environmental Policy & Behavior and DataLab
 
-Assistant Director of First-Year Experience <span style="float:right;">2016 – 2018</span>    
+Assistant Director of First-Year Experience  \hfill 2016 – 2018   
 College of Charleston, New Student Programs  
 
 ***
 
-### PUBLICATIONS
+## PUBLICATIONS
 
-#### PEER-REVIEW PUBLICATIONS  
+### PEER-REVIEW PUBLICATIONS  
 
 **Wood, L.**, Scott, T. (2022) Transportation agencies as consumers and producers of science: The case of state, regional, and county transportation agencies in California. *Transport Policy 128*. https://doi.org/10.1016/j.tranpol.2022.08.016.   
 
@@ -55,7 +50,7 @@ College of Charleston, New Student Programs
 Rudnick, J., Lubell, M., Khalsa, S.D.S., Tatge, S., **Wood, L.**, Sears, M., Brown, P. (2021). A Farm Systems Approach to the Adoption of Sustainable Nitrogen Management Practices in California. *Agriculture and Human Values 38*. https://doi.org/10.1007/s10460-021-10190-5.  
 
 
-#### IN-PREPARATION    
+### IN-PREPARATION    
 
 **Wood, L.**, Hubbard, K., Zystro, J. Alternative sustainability transition pathways: Quantifying drivers of innovation diffusion in the organic niche. 
 
@@ -63,7 +58,7 @@ Rudnick, J., Lubell, M., Khalsa, S.D.S., Tatge, S., **Wood, L.**, Sears, M., Bro
 
 **Wood, L.** Who benefits from public innovation? Trends in plant variety development and university technology transfer. 
 
-#### REPORTS         
+### REPORTS         
 
 **Wood, L**. (2022). Assessing the Resilience of the Organic Seed System: A Network Perspective. [Proceedings of the 11th Organic Seed Growers Conference](https://seedalliance.org/wp-content/uploads/2022/03/2022-OSGC-Proceedings-Final.pdf).
 
@@ -73,9 +68,9 @@ Hubbard, K., Zystro, J., & **Wood, L**. (2022). [State of Organic Seed](https://
 
 ***
 
-### PRESENTATIONS  
+## PRESENTATIONS  
 
-**Wood, L** & Scott, T.A. (2023, January) govscienceuseR: Tools for quantifying science in policy. Conference of Policy Process Research. Denver, CO.  
+**Wood, L** & Scott, T.A. (2023, January) [govscienceuseR: Tools for quantifying science in policy](https://liza-wood.github.io/gsp_vignette.html). Conference of Policy Process Research. Denver, CO.  
 
 **Wood, L** & Lubell, M. (2022, November). Analyzing sustainability transitions with innovation system networks: The case of the organic seed system in the United States. International Sustainable Transitions Conference, remote presentation.  
 
@@ -91,44 +86,45 @@ Hubbard, K., Zystro, J., & **Wood, L**. (2022). [State of Organic Seed](https://
 
 **Wood, L**. (2019, July). “Assessing Seed System Resilience: A Case Study from Northeastern Thailand.” International Association for the Study of the Commons, Lima, Peru.  
 
+Korey, C., **Wood, L**. & Warnick, C. (2017, October). “FYEvolution: Multiple Transitions Revealed Through Student Voice Assessment.” Students in Transition, Costa Mesa, CA.  
+
 ***
 
-### TEACHING EXPERIENCE   
+## TEACHING EXPERIENCE   
 
-#### DATA SCIENCE AND METHODS  
+### DATA SCIENCE AND METHODS  
 
 Instructor |  Contracted by California State Water Board   
-  R for Water Resources Data Science <span style="float:right;">Spring 2023</span>  
-  
+  R for Water Resources Data Science \hfill Spring 2023  
+   
 Teaching Assistant | UC Davis -- UC Davis DataLab   
-  IST 8x: Adventures in Data Science <span style="float:right;">Winter & Spring 2022</span>   
+  IST 8x: Adventures in Data Science \hfill Winter & Spring 2022    
   
 Instructor |  UC Davis -- Graduate Group in Ecology  
-  ECL 298: R Data Analysis for Visualization in Science <span style="float:right;">Fall 2020, 2021 & 2022</span>    
+  ECL 298: R Data Analysis for Visualization in Science \hfill Fall 2020, 2021 & 2022 
   
 
-#### ENVIRONMENTAL AND SUSTAINABILITY SCIENCE  
+### ENVIRONMENTAL AND SUSTAINABILITY SCIENCE  
 
 Teaching Assistant | UC Davis -- Departments of Plant Sciences and Environmental Science and Policy  
-  PLS 49: Organic Crop Production Practicum <span style="float:right;">Fall 2019, Spring 2020</span>   
-  ESP 10: Current Issues in the Environment <span style="float:right;">Winter 2019</span>  
+  PLS 49: Organic Crop Production Practicum  \hfill Fall 2019, Spring 2020  
+  ESP 10: Current Issues in the Environment  \hfill Winter 2019  
 
 Instructor |  College of Charleston -- Department of Environmental and Sustainability Science  
-  FYET 177: Sustainable Food in the Foothills of the Andes <span style="float:right;">Spring 2017, 2018 & 2019</span>      
-  FYSE 142: Farm to Fork: The Sustainable Food Movement in Charleston <span style="float:right;">Spring 2018</span>    
+  FYET 177: Sustainable Food in the Foothills of the Andes  \hfill Spring 2017, 2018 & 2019  
+  FYSE 142: Farm to Fork: The Sustainable Food Movement in Charleston  \hfill Spring 2018  
 
 ***
 
 ### SELECTED FELLOWSHIPS & AWARDS  
-UC Davis Henry A. Jastro Student Research Fellowship  <span style="float:right;"> 2019 – 2023</span>  
-Fulbright Netherlands Research Award, Semi-finalist   <span style="float:right;"> 2022</span>   
-USDA Western Sustainable Agriculture Research & Education Graduate Student Grant  <span style="float:right;"> 2020 – 2022</span>    
-UC Davis Angela and Theodore Foin Graduate Award  <span style="float:right;"> 2020 – 2021</span>     
-Ford Foundation Fellowship Program, Honorable Mention <span style="float:right;"> 2020</span>    
-UC Davis Muir Institute Graduate Fellowship   <span style="float:right;"> 2019 – 2020</span>    
-UC Davis Graduate Group in Ecology Fellowship  <span style="float:right;"> 2018 – 2020</span>      
-Rotary Foundation Global Grant Scholarship to Newcastle, United Kingdom  <span style="float:right;"> 2014 – 2015</span>      
-Fulbright Maastricht University Award to Maastricht, The Netherlands  <span style="float:right;"> 2013 – 2014</span>     
+UC Davis Henry A. Jastro Student Research Fellowship \hfill 2019 – 2023  
+Fulbright Netherlands Research Award, Semi-finalist  \hfill 2022  
+USDA Western Sustainable Agriculture Research & Education Graduate Student Grant \hfill 2020 – 2022   
+UC Davis Angela and Theodore Foin Graduate Award \hfill 2020 – 2021    
+Ford Foundation Fellowship Program, Honorable Mention \hfill  2020  
+UC Davis Muir Institute Graduate Fellowship \hfill 2019 – 2020   
+UC Davis Graduate Group in Ecology Fellowship \hfill 2018 – 2020      
+Rotary Foundation Global Grant Scholarship to Newcastle, United Kingdom \hfill 2014 – 2015   
+Fulbright Maastricht University Award to Maastricht, The Netherlands \hfill 2013 – 2014
 
 ***
-

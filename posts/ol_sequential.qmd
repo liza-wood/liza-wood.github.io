@@ -1,0 +1,82 @@
+---
+pagetitle: Sequential logits
+title: Sequential ordered logits
+subtitle: Digging deeper in `vglm()`
+---
+
+In a [previous tutorial](ol.partialprop.html) I went over two packages for ordered logits -- `polr()` and `vglm()` -- and walked through some of the basics for running models in both. In those models I focused on more classical cumulative ratio models, but now I am going to introduce continuation ratio models, also called a sequential model. A good review can be found in Chapters 4 and 5 of O'Connell's [Logistic Regression Models for Ordinal Response Variables](https://www.google.com/books/edition/Logistic_Regression_Models_for_Ordinal_R/yMiSDwAAQBAJ?hl=en&gbpv=0). In short though, the added value is this: Unlike the more common cumulative ordered logistic regression (i.e. ordered logit), where the model is estimating the likelihood of being at or above a certain category (e.g. P(Y>=2)), a sequential logit evaluates the likelihood of being in a particular level against the likelihood of being in the level just below it (e.g. P[Y>2|Y>=2]).
+
+Let's see how we can run this models using the `VGAM` package.  
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, results = TRUE)
+```
+
+```{r setup, results = F}
+library(VGAM) 
+library(dplyr)
+```
+
+```{r, echo=F, include = F}
+df <- read.csv("data/farmer.sample.data.2.csv")
+dfr <- round(df[ ,c(3,5,6)], 2)
+dff <- df[ ,c(1,2,4,7)]
+df <- cbind(dfr, dff)
+colnames(df)[4] <- "interest"
+
+df$interest <- ifelse(df$interest == "None", "Not",
+                      ifelse(df$interest == "Conceptual", "Somewhat",
+                      ifelse(df$interest == "Applied", "Very", NA)))
+df <- df %>% 
+  dplyr::select(interest, acres, income, education, econ.value, envt.value, info.count)
+
+df$interest = factor(df$interest, c('Not', 'Somewhat', 'Very'))
+```
+
+I'll be using the same data set described in the previous tutorial, farmer interest in adopting a new technology.  
+
+```{r inspect data}
+head(df)
+```
+
+If we wanted to run a more classic, cumulative model, the model specifications would be as follows, namely specifying our family as "cumulative". Note we are also specifying that parallel = T for now, indicating that we assume that the slopes between stages are parallel, and that we reverse the order of our stages because `vglm()` oddly defaults to descending order.
+
+```{r}
+cumltv.model <- vglm(ordered(interest) ~ acres + income + education + 
+                         econ.value + envt.value + info.count, data = df, 
+                       family=cumulative(parallel = T, reverse = T))
+summary(cumltv.model)
+```
+
+The switch to the sequential model takes just a change in the family, now specifying it as "cratio", and no longer reversing the order.
+
+```{r}
+seqntl.model <- vglm(ordered(interest) ~ acres + income + education + 
+                         econ.value + envt.value + info.count, data = df, 
+                       family=cratio(parallel = T))
+summary(seqntl.model)
+```
+
+Here we see that the results between the two models are quite similar, though the effect sizes are slightly smaller in the sequential model with less significance. The main difference is in the conditions of the linear predictors (as noted above). Deciding which family of ordered logits is right for your model may depend on model fit, or perhaps theoretically with the nature of the variable. If you believe that the stages you are evaluating are predicated on going through the previous stage, then a sequential model might be for you.  
+
+Also important to note in `vglm()` is that we cannot rely on the `brant()` function as we can with `polr` models. So, testing our proportional odds assumption (that is, the assumption that parallel = T), takes a bit of manual work. Let's first specify the model without making the proportional odds assumption.  
+
+```{r}
+seqntl.model.nonprop = vglm(ordered(interest) ~ acres + income + education + 
+                         econ.value + envt.value + info.count, data = df, 
+                          family=cratio(parallel = F))
+summary(seqntl.model.nonprop)
+```
+
+A first good sign is that we did not encounter any errors. In some cases, `vglm()` cannot fit the non-proportional model if it really isn't suited. If the model runs, however, we still want to check the assumption. Below is a method for testing whether or not the model overall meets the assumption (though it does not provide p-values for specific variables). We calculate the p-value against the hypothesis that the proportion odds assumption is correct.
+
+```{r}
+dev <- deviance(seqntl.model) - deviance(seqntl.model.nonprop)
+degf <- seqntl.model@df.residual - seqntl.model.nonprop@df.residual
+p.value <- 1 - pchisq(q = dev , df = degf)
+p.value
+```
+
+```{r, echo = F, message = F, warning = F}
+detach("package:VGAM", character.only=TRUE)
+```

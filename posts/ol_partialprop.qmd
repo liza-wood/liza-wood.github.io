@@ -1,0 +1,149 @@
+---
+pagetitle: Ordered logits
+title: Ordered logits introduction
+subtitle: A quick look at `polr` and `vglm`
+---
+
+Logistic regression models that regress on an **ordinal** dependent variable (think: Likert scale responses, course grades, categories that have a natural sequence, etc.) will use an **ordered logit**. Ordered logits are often run in R using `polr` in the MASS package, however the `vglm` function in the VGAM package offers a more advanced suite of options. This tutorial walks through setting up ordered logits with each function.  
+
+First, let's load in our packages.
+
+```{r setup, echo=T, include = F}
+library(MASS) # polr package
+library(VGAM) # vglm package
+library(brant) # Brant test of proportional odds
+library(dplyr)
+```
+
+```{r, include = F}
+df <- read.csv("data/farmer.sample.data.2.csv")
+dfr <- round(df[ ,c(3,5,6)], 2)
+dff <- df[ ,c(1,2,4,7)]
+df <- cbind(dfr, dff)
+colnames(df)[4] <- "interest"
+
+df$interest <- ifelse(df$interest == "None", "Not",
+                      ifelse(df$interest == "Conceptual", "Somewhat",
+                      ifelse(df$interest == "Applied", "Very", NA)))
+df <- df %>% 
+  dplyr::select(interest, acres, income, education, econ.value, envt.value, info.count)
+```
+
+For this example, suppose we are interested in the question: What drives farmers' interest in technology x? We have data on farmers' education and income, their farm size, as well as their attitudes towards things like earning money, protecting the environment, as well has how connected they are to different information sources. We are interested in the dependent variable: Farmer interest in the technology, scored as no interest (None), some interest (Somewhat), or very interested (Very) (1-3). Let's inspect these data.
+
+```{r inspect data}
+head(df)
+# Make sure your dependent variable is in the right order
+df$interest = factor(df$interest, c('Not', 'Somewhat', 'Very'))
+```
+
+Note: These data have been inspired by farmer survey data sets, but have simulated values and therefore do not reflect any actual farmers.
+
+### `polr`
+
+Most ordered logit models, such as those run with the defaults of the `polr` function, assume a cumulative link function. A cumulative link function looks at the probability of being at one level, compared to all of the levels below them (e.g. P(Y>=2)). This is the only kind of link function available in `polr`, which is important to keep in mind when later comparing it to `vglm`. 
+
+Now, let's take a look at our model, where we are interested in seeing how farm operator/operation variables, attitudes, and information affect a farmer's interest in a technology. 
+
+```{r models}
+polr.model <- polr(interest ~ acres + income + education + econ.value + 
+                     envt.value + info.count, data = df, Hess = T) 
+# We use Hess = T in order to return the Hessian matrix, which allows us to look at the model's summary
+summary(polr.model)
+```
+
+The summary of the `polr` function returns the coefficients, standard errors and t-values. These results indicate that economic attitudes and income are significantly negatively correlated with technology interest, and environmental attitudes and information sources is positively correlated. Ordered logit coefficient values, in their raw form, is their logit value, where the strength of the effect is hard to interpret. Typically, estimates are exponentiated to be read as odds.
+
+```{r polr coeff}
+polr.model$coefficients
+```
+
+We can also calculate the p-value manually for an easier read of results, and bind it to the summary table.
+
+```{r calculate p-values}
+# Save an object as the coefficient table
+ctable <- coef(summary(polr.model))
+# Calculate and store p values
+p <- round((pnorm(abs(ctable[, "t value"]), lower.tail = FALSE) * 2),3)
+# Bind these objects into one table
+table <- cbind(ctable, "p value" = p)
+
+table
+```
+
+Before relying too much on these results, however, one assumption of ordered logits that ought to be tested is the proportional odds assumption. What is assumed here is that the slopes from level to level of the dependent variable are relatively similar, allowing us to use only one coefficient per independent variable. The Brant test was developed to test this assumption, and the `brant` package and function allow us to quickly test this with `polr` model objects. 
+
+```{r brant test}
+brant(polr.model)
+```
+
+This test evaluates whether or not the proportional odds assumption has been met, where the null hypothesis is that the assumption has been met. In this case, a p-value < 0.05 is cause to reject the null  hypothesis, meaning that reject the proportional odds assumption. Based on these outputs, we see that the overall (Omnibus) model fails the proportional odds test, where probability = 0, and this is particularly driven by economic values, where the p-value is $1.2^{-5}$. 
+
+A failed proportional odds assumption calls for a non-proportional ordered logit, or at least partial proportional model. However, `polr` doesn't allow us to do this, which is where we switch to `vglm`.
+
+### `vglm`
+
+The `vglm` function can model more advanced ordinal regressions -- non-proportional and partial proportional, as well as different link functions. However, it requires a few more model specifications than the `polr` model. We will explore these using the same data as above.  
+
+First, you need to specify the family of the link function. As noted above, the default family for `polr` and most people thinking about ordered logits is the cumulative link function, so for now we will leave it at that with `family = cumulative`. (See my post on the [sequential ordered logit](ol.sequential.html) using the `cratio` link function). We also get to specify whether or not the parallel odds assumption, also called the proportional odds assumption, has been met with `parallel = T/F`. Last, the default in `vglm` is to reverse the order of the ordered dependent variable, so most intuitive interpretations require that the order be reversed with `reverse = T`. Below are examples of running the proportional, non-proportional, and partial proportional models. Note that the partial proportional model is specified by using a `~` followed by the variable(s) that you want to be left not proportional.
+
+```{r, warning=F, error=F}
+# a proportional model
+vgam.model.prop <- vglm(ordered(interest) ~ acres + income + education + 
+                         econ.value + envt.value + info.count, data = df, 
+                       family=cumulative(parallel = T, reverse = T))
+
+# a non-proportional model
+vgam.model.nonprop <- vglm(ordered(interest) ~ acres + income + education + 
+                            econ.value + envt.value + info.count,  data = df, 
+                          family=cumulative(parallel = F, reverse = T))
+
+# a partial proportional model
+vgam.model.partialprop <- vglm(ordered(interest) ~ acres + income + education + 
+                                econ.value + envt.value + info.count, data = df, 
+                              family=cumulative(parallel = F ~ econ.value, reverse = T))
+```
+
+While `polr` model objects of the S3 class, as are most objects in R, `vglm` models are S4. In this case, while some functions operate the same, others vary. For instance, you can use the same  `summary()` function.
+
+```{r vglm summary}
+# vagm models provide p-values immediately
+summary(vgam.model.partialprop)
+```
+
+At the bottom of this summary, coefficients are already presented in exponentaited form. Still, it is useful to know how to manipulate this model object to get out the values of interest. In a `polr` model you can use a $ sign after the model object to get just the coefficients, but in vglm you use the @ sign after the model summary object to pull out a variety of the model parts.
+
+```{r vglm coeff}
+vgam.summary <- summary(vgam.model.partialprop)
+# coef3 pulls out the whole model output table
+vgam.summary@coef3
+# coefficient pulls out only the coefficients
+vgam.summary@coefficients
+```
+
+If you want to neatly compile a table, including exponentiated coefficients, confidence intervals, and p-values, the following code helps compile this. 
+```{r}
+# Calculate exponentiated coefficients (odds) using the model summary object
+odds <- data.frame(exp(vgam.summary@coefficients))
+# Extrac p-value
+p <- data.frame(vgam.summary@coef3[,4])
+# Calculate the confidence intervals using the original model object
+ci <- data.frame(exp(confint(vgam.model.partialprop)))
+# Combine and round 
+vglm.table <- round(cbind(odds, ci, p),3)
+colnames(vglm.table) <- c("Estimate", "LCI", "UCI", "p-value")
+
+vglm.table
+```
+
+For more on ordered logit model, see posts on:  
+
+* [Sequential ordered logit](ol.sequential.html)
+* [Predicted probabilities with ordered logits](ol.predictedprobs.html)
+
+```{r, echo = F, message = F, warning = F}
+detach("package:MASS", unload=TRUE)
+detach("package:VGAM", unload=TRUE)
+detach("package:brant", unload=TRUE)
+```
+

@@ -2,6 +2,8 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/ol_partialprop.html",
+      "/posts/ol_sequential.html",
       "/posts/response_to_provost_brown.html",
       "/posts/uc_strikepay_opinion.html",
       "/posts/uc_strikevote_opinion.html"
