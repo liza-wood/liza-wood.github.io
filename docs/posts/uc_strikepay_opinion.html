@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.475">
+<meta name="generator" content="quarto-1.3.353">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -19,7 +19,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -78,41 +78,43 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">Liza Wood</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html">
+    <a class="nav-link" href="../index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../research.html">
+    <a class="nav-link" href="../research.html" rel="" target="">
  <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../workshops.html">
+    <a class="nav-link" href="../workshops.html" rel="" target="">
  <span class="menu-text">Workshops / Tutorials</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../cv.html">
+    <a class="nav-link" href="../cv.html" rel="" target="">
  <span class="menu-text">CV</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/liza-wood/"><i class="bi bi-github" role="img" aria-label="GitHub">
+    <a class="nav-link" href="https://github.com/liza-wood/" rel="" target=""><i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/wood__liza"><i class="bi bi-twitter" role="img">
+    <a class="nav-link" href="https://twitter.com/wood__liza" rel="" target=""><i class="bi bi-twitter" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools">
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -154,12 +156,6 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<div class="cell">
-
-</div>
-<div class="cell" data-layout-align="center">
-
-</div>
 <p>UC graduate students have been striking for three days now, and graduate students and faculty alike still have questions about the Union’s demands. Particularly, there are a number of running comments I hear that challenge the strikers demands. I’d like to create some posts responding to these throughout the strike weeks.</p>
 <p>One of the comments I’ve heard is: Graduate students are asking to be paid more than some faculty. And well, are they? Having a base understanding of faculty pay is critical to understanding that question. The good news is that public salaries over a certain threshold are publicly released, and so we can easily contextualize graduate student pay demands alongside faculty pay.</p>
 <p>An initial look at the <a href="https://www.ucop.edu/academic-personnel-programs/_files/2022-23/oct-2022-salary-scales/t1.pdf">University of California Faculty Pay Ladder</a> might suggest that yes, asking for $54,000 for 50% FTE ($108,000 100% FTE) <em>is</em> more than what these faculty steps outline. But I think it is important to look a bit deeper, both at faculty pay and at the demands of the union. This blog will do just that to make two key points:<br>
@@ -182,45 +178,42 @@ ul.task-list li input[type="checkbox"] {
 <p>We can also take a look at a table of the average salaries across these categories, below.</p>
 <div class="cell" data-layout-align="center">
 <div class="cell-output-display">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
+<table class="table table-sm table-striped small" data-quarto-postprocess="true">
 <caption>Average pay according to faculty rank across all UC faculty</caption>
- <thead>
-  <tr>
-   <th style="text-align:left;"> Rank </th>
-   <th style="text-align:left;"> UCOP scale </th>
-   <th style="text-align:left;"> Regular pay </th>
-   <th style="text-align:left;"> Total pay </th>
-  </tr>
- </thead>
+<thead>
+<tr class="header">
+<th style="text-align: left;" data-quarto-table-cell-role="th">Rank</th>
+<th style="text-align: left;" data-quarto-table-cell-role="th">UCOP scale</th>
+<th style="text-align: left;" data-quarto-table-cell-role="th">Regular pay</th>
+<th style="text-align: left;" data-quarto-table-cell-role="th">Total pay</th>
+</tr>
+</thead>
 <tbody>
-  <tr>
-   <td style="text-align:left;"> Assistant </td>
-   <td style="text-align:left;"> $ 88,110 </td>
-   <td style="text-align:left;"> $ 112,762 </td>
-   <td style="text-align:left;"> $ 138,316 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Associate </td>
-   <td style="text-align:left;"> $ 104,444 </td>
-   <td style="text-align:left;"> $ 128,664 </td>
-   <td style="text-align:left;"> $ 152,256 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Full </td>
-   <td style="text-align:left;"> $ 145,317 </td>
-   <td style="text-align:left;"> $ 204,647 </td>
-   <td style="text-align:left;"> $ 244,142 </td>
-  </tr>
+<tr class="odd">
+<td style="text-align: left;">Assistant</td>
+<td style="text-align: left;">$ 88,110</td>
+<td style="text-align: left;">$ 112,762</td>
+<td style="text-align: left;">$ 138,316</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Associate</td>
+<td style="text-align: left;">$ 104,444</td>
+<td style="text-align: left;">$ 128,664</td>
+<td style="text-align: left;">$ 152,256</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Full</td>
+<td style="text-align: left;">$ 145,317</td>
+<td style="text-align: left;">$ 204,647</td>
+<td style="text-align: left;">$ 244,142</td>
+</tr>
 </tbody>
 </table>
+
 
 </div>
 </div>
 <p>When we take a look at these numbers, it seems like the UCOP pay scale is only representing somewhere between 60-65% of what faculty are <em>actually</em> making across the UC.</p>
-<div class="cell" data-layout-align="center">
-
-</div>
 <p>Now, these are data all across the UC, spanning wide reaches of departments, expertise, etc., so we might say that these numbers are a bit exaggerated. To be sure this check wasn’t missing some faculty grouping that over-inflated the numbers, I spot checked the data by scraping only the faculty in my department: Environmental Science and Policy at UC Davis, in 2021. Among these 20 faculty, average salaries across ranks tend to be about $20,000 less than across the whole UC system, but this is likely because Davis offers different salaries than the rest of the state, and ESP is not among the highest ranking salary ladders (for instance, the Business, Economics, and Engineering departments are simply hired at higher rates, even on paper). So it seems like these UC numbers, both state-wide and hyper-locally, can give us a decent picture of UC faculty salary ranges.</p>
 <div class="cell" data-layout-align="center">
 <div class="cell-output-display">
@@ -233,43 +226,40 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="cell" data-layout-align="center">
 <div class="cell-output-display">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
+<table class="table table-sm table-striped small" data-quarto-postprocess="true">
 <caption>Average pay for UCD ESP faculty</caption>
- <thead>
-  <tr>
-   <th style="text-align:left;"> Rank </th>
-   <th style="text-align:left;"> UCOP scale </th>
-   <th style="text-align:left;"> Regular pay </th>
-   <th style="text-align:left;"> Total pay </th>
-  </tr>
- </thead>
+<thead>
+<tr class="header">
+<th style="text-align: left;" data-quarto-table-cell-role="th">Rank</th>
+<th style="text-align: left;" data-quarto-table-cell-role="th">UCOP scale</th>
+<th style="text-align: left;" data-quarto-table-cell-role="th">Regular pay</th>
+<th style="text-align: left;" data-quarto-table-cell-role="th">Total pay</th>
+</tr>
+</thead>
 <tbody>
-  <tr>
-   <td style="text-align:left;"> Assistant </td>
-   <td style="text-align:left;"> $ 88,110 </td>
-   <td style="text-align:left;"> $ 99,525 </td>
-   <td style="text-align:left;"> $ 109,572 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Associate </td>
-   <td style="text-align:left;"> $ 104,444 </td>
-   <td style="text-align:left;"> $ 126,977 </td>
-   <td style="text-align:left;"> $ 152,874 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Full </td>
-   <td style="text-align:left;"> $ 145,317 </td>
-   <td style="text-align:left;"> $ 201,382 </td>
-   <td style="text-align:left;"> $ 220,094 </td>
-  </tr>
+<tr class="odd">
+<td style="text-align: left;">Assistant</td>
+<td style="text-align: left;">$ 88,110</td>
+<td style="text-align: left;">$ 99,525</td>
+<td style="text-align: left;">$ 109,572</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Associate</td>
+<td style="text-align: left;">$ 104,444</td>
+<td style="text-align: left;">$ 126,977</td>
+<td style="text-align: left;">$ 152,874</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Full</td>
+<td style="text-align: left;">$ 145,317</td>
+<td style="text-align: left;">$ 201,382</td>
+<td style="text-align: left;">$ 220,094</td>
+</tr>
 </tbody>
 </table>
 
-</div>
-</div>
-<div class="cell" data-layout-align="center">
 
+</div>
 </div>
 <p>Let’s think about these numbers. Even in a world where the union gets its demands of $54,000 for 50% FTE, this will still never realistically be higher than faculty. Even if a graduate student were working at their absolute maximum, 75% during the academic year and 100% during the summer at the demanded rate, they would make $87,750. For context, the lowest total salary in the Environmental Science and Policy Department is $96,619. But also importantly, <strong>there is absolutely no world in which the union gets their maximum ask.</strong> So let’s consider what graduate students <em>realistically</em> stand to gain during this bargaining process.</p>
 </section>
@@ -279,53 +269,47 @@ ul.task-list li input[type="checkbox"] {
 <p>To understand graduate student pay relative to faculty pay, let’s look at the average pay across faculty ranks for Environmental Science and Policy Department at UC Davis (regular pay, not including additional ‘other’ pay), compared to pay from another large public university’s environmental science department: University of Michigan’s School for Environment and Sustainability. Pays are relatively similar for faculty between the two schools, with slightly higher rates at UCD. But when we overlay graduate student data here, we see that graduate students at Michigan make nearly $7,000 more annually than UCD graduate students at 50% FTE. What this means is that graduate students at UCD make relatively less money than peers in Michigan, not just in absolute terms but also relative to the faculty. For example relative to Associate Professors, graduate students in Michigan make 31% of their salary while those in California make 23% of their salary.</p>
 <p>A realistic bargain, then, as outlined in my previous post, is 90% of living wage in the area. This would boost UCD graduate students’ salaries up on par with Michigan and still only less than a third of what faculty make, at 50% FTE (see table below). And even if students work at their maximum (75% FTE all academic year and 100% FTE all summer), they would earn $59,860 – <em>still</em> only 60% of the mean Assistant Professor salary, before ‘other pay’.</p>
 <div class="cell" data-layout-align="center">
-
-</div>
-<div class="cell" data-layout-align="center">
 <div class="cell-output-display">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
+<table class="table table-sm table-striped small" data-quarto-postprocess="true">
 <caption>Average faculty pay and its relationship to graduate student pay</caption>
- <thead>
-  <tr>
-   <th style="text-align:left;"> Rank </th>
-   <th style="text-align:left;"> University of Michigan </th>
-   <th style="text-align:left;"> University of California (current) </th>
-   <th style="text-align:left;"> University of California (realistic bargain) </th>
-  </tr>
- </thead>
+<thead>
+<tr class="header">
+<th style="text-align: left;" data-quarto-table-cell-role="th">Rank</th>
+<th style="text-align: left;" data-quarto-table-cell-role="th">University of Michigan</th>
+<th style="text-align: left;" data-quarto-table-cell-role="th">University of California (current)</th>
+<th style="text-align: left;" data-quarto-table-cell-role="th">University of California (realistic bargain)</th>
+</tr>
+</thead>
 <tbody>
-  <tr>
-   <td style="text-align:left;"> Graduate Student </td>
-   <td style="text-align:left;"> $ 36,082 </td>
-   <td style="text-align:left;"> $ 29,621 </td>
-   <td style="text-align:left;"> $ 36,837 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Assistant </td>
-   <td style="text-align:left;"> 103453 (35%) </td>
-   <td style="text-align:left;"> 99525 (30%) </td>
-   <td style="text-align:left;"> 99525 (37%) </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Associate </td>
-   <td style="text-align:left;"> 118012 (31%) </td>
-   <td style="text-align:left;"> 126977 (23%) </td>
-   <td style="text-align:left;"> 126977 (29%) </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Full </td>
-   <td style="text-align:left;"> 187309 (19%) </td>
-   <td style="text-align:left;"> 201382 (15%) </td>
-   <td style="text-align:left;"> 201382 (18%) </td>
-  </tr>
+<tr class="odd">
+<td style="text-align: left;">Graduate Student</td>
+<td style="text-align: left;">$ 36,082</td>
+<td style="text-align: left;">$ 29,621</td>
+<td style="text-align: left;">$ 36,837</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Assistant</td>
+<td style="text-align: left;">103453 (35%)</td>
+<td style="text-align: left;">99525 (30%)</td>
+<td style="text-align: left;">99525 (37%)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Associate</td>
+<td style="text-align: left;">118012 (31%)</td>
+<td style="text-align: left;">126977 (23%)</td>
+<td style="text-align: left;">126977 (29%)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Full</td>
+<td style="text-align: left;">187309 (19%)</td>
+<td style="text-align: left;">201382 (15%)</td>
+<td style="text-align: left;">201382 (18%)</td>
+</tr>
 </tbody>
 </table>
 
-</div>
-</div>
-<div class="cell" data-layout-align="center">
 
+</div>
 </div>
 
 
@@ -359,9 +343,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -426,6 +424,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {

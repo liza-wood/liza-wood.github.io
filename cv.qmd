@@ -54,7 +54,7 @@ College of Charleston, New Student Programs
 
 Rudnick, J., Lubell, M., Khalsa, S.D.S., Tatge, S., **Wood, L.**, Sears, M., Brown, P. (2021). A Farm Systems Approach to the Adoption of Sustainable Nitrogen Management Practices in California. *Agriculture and Human Values 38*. https://doi.org/10.1007/s10460-021-10190-5.  
 
-
+<!---
 #### IN-PREPARATION    
 
 **Wood, L.**, Hubbard, K., Zystro, J. Alternative sustainability transition pathways: Quantifying drivers of innovation diffusion in the organic niche. 
@@ -62,6 +62,7 @@ Rudnick, J., Lubell, M., Khalsa, S.D.S., Tatge, S., **Wood, L.**, Sears, M., Bro
 **Wood, L.**, Lubell, M. Mapping regional affinity and multi-scalar networks in the organic seed niche innovation system: An empirical test of the Global Innovation System framework. 
 
 **Wood, L.** Who benefits from public innovation? Trends in plant variety development and university technology transfer. 
+--->
 
 #### REPORTS         
 
@@ -74,6 +75,10 @@ Hubbard, K., Zystro, J., & **Wood, L**. (2022). [State of Organic Seed](https://
 ***
 
 ### PRESENTATIONS  
+
+**Wood, L** (2023, August) Sustained coexistence pathways for non-proprietary innovation. International Sustainable Transitions Conference. Utrecht, NL.   
+
+**Wood, L**, Scott, T.A, Struthers, C., Kim, S. (2023, July) Science politics: How political context shapes public agencies’ use of science in environmental policymaking. Environmental Politics and Governance Conference. Glasgow, UK.   
 
 **Wood, L** & Scott, T.A. (2023, January) govscienceuseR: Tools for quantifying science in policy. Conference of Policy Process Research. Denver, CO.  
 
