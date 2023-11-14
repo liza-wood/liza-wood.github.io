@@ -109,7 +109,7 @@ Teaching Assistant | UC Davis -- UC Davis DataLab
   IST 8x: [Adventures in Data Science](https://ucdavisdatalab.github.io/adventures_in_data_science/) <span style="float:right;">Winter & Spring 2022 & 2023</span>   
   
 Instructor |  UC Davis -- Graduate Group in Ecology  
-  ECL 298: R Data Analysis for Visualization in Science <span style="float:right;">Fall 2020, 2021 & 2022</span>    
+  ECL 298: [R Data Analysis for Visualization in Science](https://gge-ucd.github.io/R-DAVIS/) <span style="float:right;">Fall 2020, 2021 & 2022</span>    
   
 
 #### ENVIRONMENTAL AND SUSTAINABILITY SCIENCE  
@@ -124,7 +124,7 @@ Instructor |  College of Charleston -- Department of Environmental and Sustainab
 
 ***
 
-### SELECTED FELLOWSHIPS & AWARDS  
+### SELECTED FELLOWSHIPS, GRANTS & AWARDS  
 UC Davis Henry A. Jastro Student Research Fellowship  <span style="float:right;"> 2019 – 2023</span>  
 Fulbright Netherlands Research Award, Semi-finalist   <span style="float:right;"> 2022</span>   
 USDA Western Sustainable Agriculture Research & Education Graduate Student Grant  <span style="float:right;"> 2020 – 2022</span>    
