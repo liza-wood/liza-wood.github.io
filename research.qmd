@@ -45,7 +45,7 @@ Relevant publications and projects:
 
 * **Wood, L.**, Lubell, M., Rudnick, J., Khalsa, S.D.S., Tatge, S., Sears, M., Brown, P. (2021) Mandatory information-based policy tools facilitate California farmers’ learning about nitrogen management. *Land Use Policy 114, 105923*. https://doi.org/10.1016/j.landusepol.2021.105923.  
 * Rudnick, J., Lubell, M., Khalsa, S.D.S., Tatge, S., **Wood, L.**, Sears, M., Brown, P. (2021). A farm systems approach to the adoption of sustainable nitrogen management practices in California. *Agriculture and Human Values 38, 783-801*. https://doi.org/10.1007/s10460-021-10190-5.   
-* Wood, L & Lubell, M. (2022). [Vina Subbasin Farmer Survey Report](http://www.buttecounty.net/wrcdocs/Reports/SpecialProjects/AgIrrEffSurveyRpt/Ag_Irr_Eff_Survey_Rpt_Final_combined.pdf). A report by Environmental Social Research Analysis, LLC. | [Interactive data](https://liza-wood.shinyapps.io/Vina-interactive-survey/)  
+* Wood, L & Lubell, M. (2022). [Vina Subbasin Farmer Survey Report](https://www.buttecounty.net/DocumentCenter/View/5316/Agricultural-Irrigation-Efficiency-Study-Report-PDF). A report by Environmental Social Research Analysis, LLC. | [Interactive data](https://liza-wood.shinyapps.io/Vina-interactive-survey/)  
 <br>
 
 *** 
