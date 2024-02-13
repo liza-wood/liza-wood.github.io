@@ -9,7 +9,7 @@ h1.title, h2.subtitle, h3.subtitle {
 }
 </style>
 
-<center> <i class="fa fa-envelope-square" aria-hidden="true"></i> belwood@ucdavis.edu | [<i class="fa fa-globe" aria-hidden="true"></i> website](https://liza-wood.github.io/)</center>
+<center> <i class="fa fa-envelope-square" aria-hidden="true"></i> l.wood3@exeter.ac.uk | [<i class="fa fa-globe" aria-hidden="true"></i> website](https://liza-wood.github.io/)</center>
 
 ***
 
@@ -48,18 +48,26 @@ College of Charleston, New Student Programs
 
 #### PEER-REVIEW PUBLICATIONS  
 
-**Wood, L.**, Scott, T. (2022) Transportation agencies as consumers and producers of science: The case of state, regional, and county transportation agencies in California. *Transport Policy 128*. https://doi.org/10.1016/j.tranpol.2022.08.016.   
+**Wood, L.**, Scott, T. (2022) Transportation agencies as consumers and producers of science: The case of state, regional, and county transportation agencies in California. *Transport Policy 128*. [https://doi.org/10.1016/j.tranpol.2022.08.016](https://doi.org/10.1016/j.tranpol.2022.08.016).   
 
-**Wood, L.**, Lubell, M., Rudnick, J., Khalsa, S.D.S., Tatge, S., Sears, M., Brown, P. (2021) Mandatory information-based policy tools facilitate California farmers’ learning about nitrogen management. *Land Use Policy 114*. https://doi.org/10.1016/j.landusepol.2021.105923.    
+**Wood, L.**, Lubell, M., Rudnick, J., Khalsa, S.D.S., Tatge, S., Sears, M., Brown, P. (2021) Mandatory information-based policy tools facilitate California farmers’ learning about nitrogen management. *Land Use Policy 114*. [https://doi.org/10.1016/j.landusepol.2021.105923](https://doi.org/10.1016/j.landusepol.2021.105923).    
 
-Rudnick, J., Lubell, M., Khalsa, S.D.S., Tatge, S., **Wood, L.**, Sears, M., Brown, P. (2021). A Farm Systems Approach to the Adoption of Sustainable Nitrogen Management Practices in California. *Agriculture and Human Values 38*. https://doi.org/10.1007/s10460-021-10190-5.  
+Rudnick, J., Lubell, M., Khalsa, S.D.S., Tatge, S., **Wood, L.**, Sears, M., Brown, P. (2021). A Farm Systems Approach to the Adoption of Sustainable Nitrogen Management Practices in California. *Agriculture and Human Values 38*. [https://doi.org/10.1007/s10460-021-10190-5](https://doi.org/10.1007/s10460-021-10190-5).  
 
 <!---
-#### IN-PREPARATION    
+#### UNDER REVIEW   
 
-**Wood, L.**, Hubbard, K., Zystro, J. Alternative sustainability transition pathways: Quantifying drivers of innovation diffusion in the organic niche. 
+**Wood, L.**, Hubbard, K., Zystro, J. Flexible regulation as a double-edged sword: The case of the organic seed standard.
 
-**Wood, L.**, Lubell, M. Mapping regional affinity and multi-scalar networks in the organic seed niche innovation system: An empirical test of the Global Innovation System framework. 
+**Wood, L.**, Lubell, M. Mapping the spatial structure of the organic seed system: A network approach to the Global Innovation System framework. 
+
+**Wood, L.**, Vantaggiato, F.P., Scott, T.A. Tracing the path of knowledge on ‘environmental governance processes’ for theory-building. 
+
+#### IN PREPARATION 
+
+**Wood, L.**, Lubell, M. Resource constellations and institutional logics shape network-building processes in the organic seed niche. 
+
+Wood, L., Pascucci, S. Entanglements of ecological systems and organizational transformation.
 
 **Wood, L.** Who benefits from public innovation? Trends in plant variety development and university technology transfer. 
 --->
@@ -100,17 +108,17 @@ Hubbard, K., Zystro, J., & **Wood, L**. (2022). [State of Organic Seed](https://
 
 ### TEACHING EXPERIENCE   
 
-#### DATA SCIENCE AND METHODS  
+#### DATA SCIENCE   
 
 Instructor |  Contracted by California State Water Board   
-  [R for Water Resources Data Science](https://www.r4wrds.com/) <span style="float:right;">Spring 2023</span>  
+  [R for Water Resources Data Science](https://www.r4wrds.com/) <span style="float:right;">Spring 2023 & 2024</span>  
   
 Teaching Assistant | UC Davis -- UC Davis DataLab   
   IST 8x: [Adventures in Data Science](https://ucdavisdatalab.github.io/adventures_in_data_science/) <span style="float:right;">Winter & Spring 2022 & 2023</span>   
   
 Instructor |  UC Davis -- Graduate Group in Ecology  
   ECL 298: [R Data Analysis for Visualization in Science](https://gge-ucd.github.io/R-DAVIS/) <span style="float:right;">Fall 2020, 2021 & 2022</span>    
-  
+
 
 #### ENVIRONMENTAL AND SUSTAINABILITY SCIENCE  
 
