@@ -51,7 +51,7 @@ A brief introduction to function-writing using the case of reading in US Patent 
   
 *** 
 
-[Converting Evernote notes to markdown files](posts/evernote-to-md.html/)  
+[Converting Evernote notes to markdown files](posts/evernote-to-md.html)  
 A quick overview of using the `evernote2md` package in R to convert .enex files from Evernote into more accessible .md files. 
 
 
