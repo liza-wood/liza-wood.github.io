@@ -78,7 +78,7 @@ Wood, L., Pascucci, S. Entanglements of ecological systems and organizational tr
 
 Hubbard, K., Zystro, J., & **Wood, L**. (2022). [State of Organic Seed](https://stateoforganicseed.org/state-of-organic-seed-2022/). Port Townsend, Washington. \| Data explorer: <https://organicseed.shinyapps.io/SOSData/>
 
-**Wood, L**., Lubell, M. (2022). [Vina Subbasin Farmer Survey Report](http://www.buttecounty.net/wrcdocs/Reports/SpecialProjects/AgIrrEffSurveyRpt/Ag_Irr_Eff_Survey_Rpt_Final_combined.pdf) \| Data explorer: <https://liza-wood.shinyapps.io/Vina-interactive-survey/>
+**Wood, L**., Lubell, M. (2022). [Vina Subbasin Farmer Survey Report](https://www.buttecounty.net/DocumentCenter/View/5316/Agricultural-Irrigation-Efficiency-Study-Report-PDF) \| Data explorer: <https://liza-wood.shinyapps.io/Vina-interactive-survey/>
 
 ***
 
