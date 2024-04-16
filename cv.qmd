@@ -145,3 +145,13 @@ Fulbright Maastricht University Award to Maastricht, The Netherlands  <span styl
 
 ***
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HJX1JG1FCV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HJX1JG1FCV');
+</script>
+

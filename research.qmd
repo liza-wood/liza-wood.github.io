@@ -58,4 +58,13 @@ During Fall term of 2022, University of California graduate and post-doctoral un
 My first initiative was [an opinion on the UC strike action vote](posts/uc_strikevote_opinion.html), which evaluated the current wages for graduate students across the US and put them in the context of cost of living the UC union's demands. I also looked into the relationship between [student and faculty salaries at the UC](posts/uc_strikepay_opinion.html), largely in response to faculty resistance at graduate student demands. Following the UC's first official communication since the start of the strike, I drafted a [response to the Provost](https://liza-wood.github.io/posts/response_to_provost_brown.html) to point out the UC's false claims regarding the wages it was offering. Finally, as the Union and the UC began making more compromising proposals, I developed an [interactive pay estimator](https://liza-wood.shinyapps.io/uc_pay_estimator/) to help graduate students understand what these proposals meant for the salaries for the following academic year.  
 
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HJX1JG1FCV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HJX1JG1FCV');
+</script>
 

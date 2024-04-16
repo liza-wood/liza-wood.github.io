@@ -292,7 +292,12 @@ Log-likelihood: -502.0035 on 1010 degrees of freedom
 
 Number of Fisher scoring iterations: 5 
 
-No Hauck-Donner effect found in any of the estimates</code></pre>
+No Hauck-Donner effect found in any of the estimates
+
+
+Exponentiated coefficients:
+     acres     income  education econ.value envt.value info.count 
+ 1.0566490  0.8482910  0.9678279  0.6297238  1.6369976  1.1420599 </code></pre>
 </div>
 </div>
 <p>Here we see that the results between the two models are quite similar, though the effect sizes are slightly smaller in the sequential model with less significance. The main difference is in the conditions of the linear predictors (as noted above). Deciding which family of ordered logits is right for your model may depend on model fit, or perhaps theoretically with the nature of the variable. If you believe that the stages you are evaluating are predicated on going through the previous stage, then a sequential model might be for you.</p>
@@ -336,7 +341,14 @@ Log-likelihood: -490.188 on 1004 degrees of freedom
 
 Number of Fisher scoring iterations: 5 
 
-No Hauck-Donner effect found in any of the estimates</code></pre>
+No Hauck-Donner effect found in any of the estimates
+
+
+Exponentiated coefficients:
+     acres:1      acres:2     income:1     income:2  education:1  education:2 
+   1.0981470    1.0067392    0.7998604    0.8958571    1.0302870    0.9116913 
+econ.value:1 econ.value:2 envt.value:1 envt.value:2 info.count:1 info.count:2 
+   0.8572417    0.4642337    1.8834549    1.2815419    1.1166244    1.1660390 </code></pre>
 </div>
 </div>
 <p>A first good sign is that we did not encounter any errors. In some cases, <code>vglm()</code> cannot fit the non-proportional model if it really isn’t suited. If the model runs, however, we still want to check the assumption. Below is a method for testing whether or not the model overall meets the assumption (though it does not provide p-values for specific variables). We calculate the p-value against the hypothesis that the proportion odds assumption is correct.</p>
