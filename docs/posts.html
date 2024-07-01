@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.4.555">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -47,7 +47,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -56,6 +62,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -94,15 +101,42 @@ ul.task-list li input[type="checkbox"] {
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Liza Wood</span>
     </a>
@@ -114,37 +148,37 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
- <span class="menu-text">Home</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html" rel="" target="">
- <span class="menu-text">Research</span></a>
+    <a class="nav-link" href="./research.html"> 
+<span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./workshops.html" rel="" target="">
- <span class="menu-text">Workshops / Tutorials</span></a>
+    <a class="nav-link" href="./workshops.html"> 
+<span class="menu-text">Workshops / Tutorials</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html" rel="" target="">
- <span class="menu-text">CV</span></a>
+    <a class="nav-link" href="./cv.html"> 
+<span class="menu-text">CV</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/liza-wood/" rel="" target=""><i class="bi bi-github" role="img" aria-label="GitHub">
+    <a class="nav-link" href="https://github.com/liza-wood/"> <i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/wood__liza" rel="" target=""><i class="bi bi-twitter" role="img">
+    <a class="nav-link" href="https://twitter.com/wood__liza"> <i class="bi bi-twitter" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools">
-</div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -165,7 +199,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -173,7 +207,9 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
+
 
 
 
@@ -181,67 +217,69 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1688636287909" data-listing-reading-time-sort="8">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1688636287909" data-listing-reading-time-sort="8" data-listing-word-count-sort="1422">
 <div class="thumbnail">
-<p><a href="./posts/ol_partialprop.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+<p><a href="./posts/ol_partialprop.html" class="no-external"></a></p><a href="./posts/ol_partialprop.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./posts/ol_partialprop.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/ol_partialprop.html">
 <h3 class="no-anchor listing-title">
-Ordered logits introduction
+<a href="./posts/ol_partialprop.html" class="no-external">Ordered logits introduction</a>
 </h3>
 <div class="listing-subtitle">
-A quick look at <code>polr</code> and <code>vglm</code>
+<a href="./posts/ol_partialprop.html" class="no-external">A quick look at <code>polr</code> and <code>vglm</code></a>
 </div>
 <div class="listing-description">
-Logistic regression models that regress on an <strong>ordinal</strong> de…<strong></strong><code></code><code></code>
+<a href="./posts/ol_partialprop.html" class="no-external">Logistic regression models that regress on an <strong>ordinal</strong> dependent variable (think: Likert scale responses, course grades, categories that have a natural sequence, etc.) will…<strong></strong><code></code><code></code></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/ol_partialprop.html"> </a>
+<p><a href="./posts/ol_partialprop.html" class="no-external"></a></p><a href="./posts/ol_partialprop.html" class="no-external">
+</a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1688636307986" data-listing-reading-time-sort="5">
+<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1688636307986" data-listing-reading-time-sort="5" data-listing-word-count-sort="814">
 <div class="thumbnail">
-<p><a href="./posts/ol_sequential.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+<p><a href="./posts/ol_sequential.html" class="no-external"></a></p><a href="./posts/ol_sequential.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./posts/ol_sequential.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/ol_sequential.html">
 <h3 class="no-anchor listing-title">
-Sequential ordered logits
+<a href="./posts/ol_sequential.html" class="no-external">Sequential ordered logits</a>
 </h3>
 <div class="listing-subtitle">
-Digging deeper in <code>vglm()</code>
+<a href="./posts/ol_sequential.html" class="no-external">Digging deeper in <code>vglm()</code></a>
 </div>
 <div class="listing-description">
-In a previous tutorial I went over two packages for ordered logits – <code>polr()</code> and <code>vglm()</code> – and walked through some of the basics for running models in both. In those models I focused on more classical cumulative ratio models, but now I am going to introduce…
+<a href="./posts/ol_sequential.html" class="no-external">In a previous tutorial I went over two packages for ordered logits – <code>polr()</code> and <code>vglm()</code> – and walked through some of the basics for running models in both. In those models I…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/ol_sequential.html"> </a>
+<p><a href="./posts/ol_sequential.html" class="no-external"></a></p><a href="./posts/ol_sequential.html" class="no-external">
+</a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1707782400000" data-listing-file-modified-sort="1707818163788" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6">
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1707782400000" data-listing-file-modified-sort="1707818163788" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1031">
 <div class="thumbnail">
-<p><a href="./posts/evernote-to-md.html"> <p class="card-img-top"><img src="posts/img/evernote-structure.png"  class="thumbnail-image card-img"/></p> </a></p>
+<p><a href="./posts/evernote-to-md.html" class="no-external"></a></p><a href="./posts/evernote-to-md.html" class="no-external">
+<p class="card-img-top"><img src="posts/img/evernote-structure.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./posts/evernote-to-md.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/evernote-to-md.html">
 <h3 class="no-anchor listing-title">
-Converting Evernote notes (.enex) to markdown (.md)
+<a href="./posts/evernote-to-md.html" class="no-external">Converting Evernote notes (.enex) to markdown (.md)</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/evernote-to-md.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-For researchers, systematically managing notes can be a game-changer for helping navigate the endless sea of knowledge the we…<strong><code></code></strong>
+<a href="./posts/evernote-to-md.html" class="no-external">For researchers, systematically managing notes can be a game-changer for helping navigate the endless sea of knowledge the we spend our careers accumulating. There are a…<strong><code></code></strong></a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/evernote-to-md.html">
+<a href="./posts/evernote-to-md.html" class="no-external">
 <div class="listing-date">
 Feb 13, 2024
 </div>
@@ -251,25 +289,25 @@ Liza Wood
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1694559600000" data-listing-file-modified-sort="1707752595497" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9">
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1694559600000" data-listing-file-modified-sort="1707752595497" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1613">
 <div class="thumbnail">
-<p><a href="./posts/googledoc-aggiedown.html"> <p class="card-img-top"><img src="posts/img/bibtext-option.png"  class="thumbnail-image card-img"/></p> </a></p>
+<p><a href="./posts/googledoc-aggiedown.html" class="no-external"></a></p><a href="./posts/googledoc-aggiedown.html" class="no-external">
+<p class="card-img-top"><img src="posts/img/bibtext-option.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./posts/googledoc-aggiedown.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/googledoc-aggiedown.html">
 <h3 class="no-anchor listing-title">
-Translating Google Docs to <code>aggiedown</code> LaTeX
+<a href="./posts/googledoc-aggiedown.html" class="no-external">Translating Google Docs to <code>aggiedown</code> LaTeX</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/googledoc-aggiedown.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-In 2018, Ryan Peek created the aggiedown package: “An R Markdown template using the bookdown package for preparing a PhD thesis at the University of California Davis.” This service to the PhD students of UC Davis…
+<a href="./posts/googledoc-aggiedown.html" class="no-external">In 2018, Ryan Peek created the aggiedown package: “An R Markdown template using the bookdown package for preparing a PhD thesis at the University of California Davis.” This…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/googledoc-aggiedown.html">
+<a href="./posts/googledoc-aggiedown.html" class="no-external">
 <div class="listing-date">
 Sep 13, 2023
 </div>
@@ -279,25 +317,25 @@ Liza Wood
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1668643200000" data-listing-file-modified-sort="1688582233970" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12">
+<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1668643200000" data-listing-file-modified-sort="1688582233970" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2331">
 <div class="thumbnail">
-<p><a href="./posts/response_to_provost_brown.html"> <p class="card-img-top"><img src="posts/response_to_provost_brown_files/figure-html/unnamed-chunk-4-1.png"  class="thumbnail-image card-img"/></p> </a></p>
+<p><a href="./posts/response_to_provost_brown.html" class="no-external"></a></p><a href="./posts/response_to_provost_brown.html" class="no-external">
+<p class="card-img-top"><img src="posts/response_to_provost_brown_files/figure-html/unnamed-chunk-4-1.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./posts/response_to_provost_brown.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/response_to_provost_brown.html">
 <h3 class="no-anchor listing-title">
-In response to Provost Brown
+<a href="./posts/response_to_provost_brown.html" class="no-external">In response to Provost Brown</a>
 </h3>
 <div class="listing-subtitle">
-A data-driven approach to understand UC’s bargaining claims
+<a href="./posts/response_to_provost_brown.html" class="no-external">A data-driven approach to understand UC’s bargaining claims</a>
 </div>
 <div class="listing-description">
-On November 15…
+<a href="./posts/response_to_provost_brown.html" class="no-external">On November 15, Provost and Executive Vice President for Academic Affairs, Dr.&nbsp;Michael Brown, sent a letter to UC administration and faculty to provide an update on their…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/response_to_provost_brown.html">
+<a href="./posts/response_to_provost_brown.html" class="no-external">
 <div class="listing-date">
 Nov 17, 2022
 </div>
@@ -307,25 +345,25 @@ Liza Wood
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1668470400000" data-listing-file-modified-sort="1688581553574" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="14">
+<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1668470400000" data-listing-file-modified-sort="1688581553574" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="14" data-listing-word-count-sort="2627">
 <div class="thumbnail">
-<p><a href="./posts/uc_strikepay_opinion.html"> <p class="card-img-top"><img src="posts/uc_strikepay_opinion_files/figure-html/unnamed-chunk-3-1.png"  class="thumbnail-image card-img"/></p> </a></p>
+<p><a href="./posts/uc_strikepay_opinion.html" class="no-external"></a></p><a href="./posts/uc_strikepay_opinion.html" class="no-external">
+<p class="card-img-top"><img src="posts/uc_strikepay_opinion_files/figure-html/unnamed-chunk-3-1.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./posts/uc_strikepay_opinion.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/uc_strikepay_opinion.html">
 <h3 class="no-anchor listing-title">
-Grad Student Pay in Context
+<a href="./posts/uc_strikepay_opinion.html" class="no-external">Grad Student Pay in Context</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/uc_strikepay_opinion.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-UC graduate students have been striking for three days now, and graduate students and faculty alike still have questions about the Union’s…
+<a href="./posts/uc_strikepay_opinion.html" class="no-external">UC graduate students have been striking for three days now, and graduate students and faculty alike still have questions about the Union’s demands. Particularly, there are a…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/uc_strikepay_opinion.html">
+<a href="./posts/uc_strikepay_opinion.html" class="no-external">
 <div class="listing-date">
 Nov 15, 2022
 </div>
@@ -335,25 +373,25 @@ Liza Wood
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1666738800000" data-listing-file-modified-sort="1688581777032" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="19">
+<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1666738800000" data-listing-file-modified-sort="1688581777032" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="19" data-listing-word-count-sort="3760">
 <div class="thumbnail">
-<p><a href="./posts/uc_strikevote_opinion.html"> <p class="card-img-top"><img src="posts/uc_strikevote_opinion_files/figure-html/unnamed-chunk-6-1.png"  class="thumbnail-image card-img"/></p> </a></p>
+<p><a href="./posts/uc_strikevote_opinion.html" class="no-external"></a></p><a href="./posts/uc_strikevote_opinion.html" class="no-external">
+<p class="card-img-top"><img src="posts/uc_strikevote_opinion_files/figure-html/unnamed-chunk-6-1.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./posts/uc_strikevote_opinion.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="./posts/uc_strikevote_opinion.html">
 <h3 class="no-anchor listing-title">
-Opinion: UC Strike Action Vote
+<a href="./posts/uc_strikevote_opinion.html" class="no-external">Opinion: UC Strike Action Vote</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="./posts/uc_strikevote_opinion.html" class="no-external"></a>
 </div>
 <div class="listing-description">
-UC students are voting on whether they want to strike this week. The strike is driven by many years running of incremental bargaining for improved cost of…
+<a href="./posts/uc_strikevote_opinion.html" class="no-external">UC students are voting on whether they want to strike this week. The strike is driven by many years running of incremental bargaining for improved cost of living and rights…</a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="./posts/uc_strikevote_opinion.html">
+<a href="./posts/uc_strikevote_opinion.html" class="no-external">
 <div class="listing-date">
 Oct 26, 2022
 </div>
@@ -447,10 +485,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -460,8 +515,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -473,7 +537,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -517,6 +704,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -542,6 +730,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -602,6 +816,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+
 
 
 

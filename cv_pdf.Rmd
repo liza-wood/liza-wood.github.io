@@ -1,6 +1,7 @@
 ---
 title: Liza Wood
-author: "l.wood3@exeter.ac.uk | [liza-wood.github.io](https://liza-wood.github.io/)"
+author: | 
+  | email: l.wood3@exeter.ac.uk | website: https://liza-wood.github.io/
 output: pdf_document
 urlcolor: blue
 header-includes:
@@ -13,7 +14,7 @@ header-includes:
 ## EDUCATION
 
 Ph.D., Ecology and Environmental Policy    \hfill 2023    
-Designated Emphasis: Computational Social Science  
+Specialization: Computational Social Science  
 University of California Davis, Davis, CA, USA     
 
 M.Sc., Organic Farming and Food Production Systems  \hfill 2015  
@@ -29,8 +30,8 @@ Honors College at the College of Charleston, Charleston, SC, USA
 
 ## EMPLOYMENT  
 
-Postdoctoral Research Fellow, UKRI & EU HORIZON InBestSoil \hfill 2023 – present  
-University of Exeter, Environment and Sustainability Institute and [Sustainable Futures](https://business-school.exeter.ac.uk/management/about/sustainable-futures/)  
+Postdoctoral Research Fellow  \hfill 2023 – present  
+University of Exeter, [Environment and Sustainability Institute](https://www.exeter.ac.uk/research/esi/) and [Sustainable Futures](https://business-school.exeter.ac.uk/management/about/sustainable-futures/)  
 
 Graduate Student Researcher and Teaching Assistant  
 University of California Davis   
@@ -48,7 +49,7 @@ South Carolina Sea Grant Consortium
 
 ## PUBLICATIONS
 
-### PEER-REVIEW PUBLICATIONS  
+### PEER-REVIEWED PUBLICATIONS  
 
 **Wood, L.**, Scott, T. (2022) Transportation agencies as consumers and producers of science: The case of state, regional, and county transportation agencies in California. *Transport Policy 128*. https://doi.org/10.1016/j.tranpol.2022.08.016.   
 
@@ -58,23 +59,25 @@ Rudnick, J., Lubell, M., Khalsa, S.D.S., Tatge, S., **Wood, L.**, Sears, M., Bro
 
 ### UNDER REVIEW     
 
-**Wood, L.**, Hubbard, K., Zystro, J. Flexible regulation as a double-edged sword: The case of the organic seed standard. Revise and resubmit in *Regulation & Governance*.
+**Wood, L.**, Hubbard, K., Zystro, J. Compliance within regulatory gray areas: The case of the organic seed standard. Revise and resubmit in *Regulation & Governance*.
+
+**Wood, L.**, Vantaggiato, F.P., Scott, T.A. Tracing the path of knowledge on ‘environmental governance processes’ for theory-building. Revise and resubmit in *Environmental Policy and Governance*.
+
+Scott, T., Kim, S., **Wood, L.** Open access, professional popularity, and agency involvement drive science referenced in U.S. EPA regulatory impact analyses from 2000 to 2022. Revise and resubmit in *Regulation & Governance*.
 
 **Wood, L.**, Lubell, M. Mapping the spatial structure of the organic seed system: A network approach to the Global Innovation System framework. Under review in *Research Policy*.
-
-**Wood, L.**, Vantaggiato, F.P., Scott, T.A. Tracing the path of knowledge on ‘environmental governance processes’ for theory-building. Under review in *Environmental Policy and Governance*.
 
 **Wood, L.**, Lubell, M. Resource constellations and institutional logics shape network-building processes in the organic seed niche. Under review in *Environmental Innovation and Societal Transitions*.
 
 ### IN PREPARATION 
 
-**Wood, L.**, Struthers, C., Scott, T.A., Kim, S. Science politics: How political context shapes public agencies’ use of science in environmental policymaking. In prep for *Journal of Public Administration Research and Theory*
+**Wood, L.**, Struthers, C., Scott, T.A., Kim, S. Science politics: How political context shapes public agencies’ use of science in environmental policymaking.  
 
-**Wood, L.**, Pascucci, S. Entanglements of ecological systems and organizational transformation in the organic seed niche. In prep for *Global Environmental Change* 
+**Wood, L.** How public and private innovations shape environmental sustainability: Evidence from a century of plant patents.  
 
-**Wood, L.**, Who benefits from public innovation? Trends in plant variety development and university technology transfer. In prep for *Research Policy*
+**Wood, L.**, Pascucci, S. Entanglements of ecological systems and organizational transformation in the organic seed niche.  
 
-van denBroek, O.M, Moon, J. Knudsen, J., **Wood, L.** Organizing cross-sector partnerships: Towards a network governance model. In prep for *Business & Society*  
+van denBroek, O.M, Moon, J. Knudsen, J., **Wood, L.** Organizing cross-sector partnerships: Towards a network governance model. 
 
 
 ### REPORTS & CHAPTER         
@@ -89,6 +92,11 @@ Hubbard, K., Zystro, J., & **Wood, L**. (2022). [State of Organic Seed](https://
 
 ## PRESENTATIONS  
 
+**Wood, L.** (2024, June) How public and private innovations shape environmental sustainability: Evidence from a century of plant patents. Environmental Politics and Governance Conference. Quebec City, CA. 
+
+**Wood, L.**, Pascucci, S. (2024, March) Mapping the research landscape of collaborative
+processes in sustainable business model innovation. King's College London Centre for Sustainable Business Short Paper Workshop: Unlocking pathways for a sustainable future. London, UK.  
+
 **Wood, L** (2023, August) Sustained coexistence pathways for non-proprietary innovation. International Sustainable Transitions Conference. Utrecht, NL.   
 
 **Wood, L**, Scott, T.A, Struthers, C., Kim, S. (2023, July) Science politics: How political context shapes public agencies’ use of science in environmental policymaking. Environmental Politics and Governance Conference. Glasgow, UK.  
@@ -97,59 +105,78 @@ Hubbard, K., Zystro, J., & **Wood, L**. (2022). [State of Organic Seed](https://
 
 **Wood, L** & Lubell, M. (2022, November). Analyzing sustainability transitions with innovation system networks: The case of the organic seed system in the United States. International Sustainable Transitions Conference, remote presentation.  
 
-**Wood, L**. (2022, June). “Supporting innovation for sustainable agriculture: The case of the organic seed system in the United States.” Newcastle University School of Natural and Environmental Sciences Seminar Series, invited talk, remote presentation.  
+**Wood, L**. (2022, June). Supporting innovation for sustainable agriculture: The case of the organic seed system in the United States. Newcastle University School of Natural and Environmental Sciences Seminar Series, invited talk, remote presentation.  
 
-**Wood, L**. (2022, May). “Governing agrobiodiversity: A comparison of regional seed innovation systems as social-ecological networks.” 8th Annual Duck Family Workshop on Environmental Politics and Governance, University of Washington. Seattle, WA.     
+**Wood, L**. (2022, May). Governing agrobiodiversity: A comparison of regional seed innovation systems as social-ecological networks. 8th Annual Duck Family Workshop on Environmental Politics and Governance, University of Washington. Seattle, WA.     
 
-**Wood, L**. (2022, March). “Seed innovation systems in the US: The politics of science for  agro-ecological transitions.” Atlanta Academy on Science and Innovation Policy. Atlanta, GA.    
+**Wood, L**. (2022, March). Seed innovation systems in the US: The politics of science for  agro-ecological transitions. Atlanta Academy on Science and Innovation Policy. Atlanta, GA.    
 
-**Wood, L**. (2021, December). “Mapping the seed innovation system.” Mars-Wrigley Cacao Research &  Development Seminar Series. Davis, CA.  
+**Wood, L**. (2021, December). Mapping the seed innovation system. Mars-Wrigley Cacao Research &  Development Seminar Series. Davis, CA.  
 
-**Wood, L**. & Rudnick, J. (2020, April). “The effect of information-based policy tools on farmers’ nitrogen management.” American Association of Geographers Annual Meeting, remote presentation.    
+**Wood, L**. & Rudnick, J. (2020, April). The effect of information-based policy tools on farmers’ nitrogen management. American Association of Geographers Annual Meeting, remote presentation.    
 
-**Wood, L**. (2019, July). “Assessing Seed System Resilience: A Case Study from Northeastern Thailand.” International Association for the Study of the Commons, Lima, Peru.  
+**Wood, L**. (2019, July). Assessing Seed System Resilience: A Case Study from Northeastern Thailand. International Association for the Study of the Commons, Lima, Peru.  
 
 ***
 
 ## TEACHING EXPERIENCE   
 
-### UNDERGRADUATE COURSES  
-   
-Teaching Assistant | UC Davis   
-&nbsp;&nbsp;DataLab   
-&nbsp;&nbsp;&nbsp;&nbsp;IST 8x: [Adventures in Data Science](https://ucdavisdatalab.github.io/adventures_in_data_science/) \hfill Winter & Spring 2022 & 2023    
-&nbsp;&nbsp;Plant Sciences Department   
-&nbsp;&nbsp;&nbsp;&nbsp;PLS 49: Organic Crop Production Practicum  \hfill Fall 2019, Spring 2020  
-&nbsp;&nbsp;Department of Environmental Science and Policy  
-&nbsp;&nbsp;&nbsp;&nbsp;ESP 10: Current Issues in the Environment  \hfill Winter 2019  
+### DATA SCIENCE   
 
-Instructor |  College of Charleston  
-&nbsp;&nbsp;Environmental and Sustainability Studies Department  
-&nbsp;&nbsp;&nbsp;&nbsp;FYET 177: Sustainable Food in the Foothills of the Andes  \hfill Spring 2017, 2018 & 2019  
-&nbsp;&nbsp;&nbsp;&nbsp;FYSE 142: Farm to Fork: The Sustainable Food Movement in Charleston  \hfill Spring 2018  
+Instructor |  Contracted by California State Water Board   
+&nbsp;&nbsp;[R for Water Resources Data Science](https://www.r4wrds.com/) \hfill Spring 2023, 2024 & 2025  
   
+Teaching Assistant | UC Davis -- UC Davis DataLab   
+&nbsp;&nbsp;IST 8x: [Adventures in Data Science](https://ucdavisdatalab.github.io/adventures_in_data_science/) \hfill Winter & Spring 2022 & 2023
+  
+Instructor |  UC Davis -- Graduate Group in Ecology  
+&nbsp;&nbsp;ECL 298: [R Data Analysis for Visualization in Science](https://gge-ucd.github.io/R-DAVIS/)  \hfill Fall 2020, 2021 & 2022  
 
-### GRADUATE COURSES  
+### ENVIRONMENTAL AND SUSTAINABILITY SCIENCE  
 
-Instructor |  UC Davis  
-&nbsp;&nbsp;Graduate Group in Ecology  
-&nbsp;&nbsp;&nbsp;&nbsp;ECL 298: [R Data Analysis for Visualization in Science](https://gge-ucd.github.io/R-DAVIS/) \hfill Fall 2020, 2021 & 2022 
-    
-Seminar leader |  UC Davis  
-&nbsp;&nbsp;Graduate Group in Ecology  
-&nbsp;&nbsp;&nbsp;&nbsp;ECL 290: Science Fiction and Near Futures in Ecology \hfill Spring 2020 
+Teaching Assistant | UC Davis -- Departments of Plant Sciences and Environmental Science and Policy  
+&nbsp;&nbsp;PLS 49: Organic Crop Production Practicum  \hfill Fall 2019, Spring 2020      
+&nbsp;&nbsp;ESP 10: Current Issues in the Environment  \hfill Winter 2019   
+
+Instructor |  College of Charleston -- Department of Environmental and Sustainability Science  
+&nbsp;&nbsp;FYET 177: Sustainable Food in the Foothills of the Andes \hfill Spring 2017, 2018 & 2019    
+&nbsp;&nbsp;FYSE 142: Farm to Fork: The Sustainable Food Movement in Charleston \hfill Spring 2018  
   
 ***
 
-## SELECTED FELLOWSHIPS & AWARDS  
-UC Davis Henry A. Jastro Student Research Fellowship \hfill 2019 – 2023  
-Fulbright Netherlands Research Award, Semi-finalist  \hfill 2022  
+## GRANTS & AWARDS  
+
 USDA Western Sustainable Agriculture Research & Education Graduate Student Grant \hfill 2020 – 2022   
-UC Davis Angela and Theodore Foin Graduate Award \hfill 2020 – 2021    
+Rotary Foundation Global Grant Scholarship to Newcastle, United Kingdom \hfill 2014 – 2015   
+Fulbright Maastricht University Award to Maastricht, The Netherlands \hfill 2013 – 2014  
+
+## FELLOWSHIPS AND HONORABLE MENTIONS 
+Fulbright Netherlands Research Award, Semi-finalist  \hfill 2022  
+UC Davis Henry A. Jastro Student Research Fellowship \hfill 2019 – 2023  
+UC Davis Angela and Theodore Foin Graduate Fellowship \hfill 2020 – 2021    
 Ford Foundation Fellowship Program, Honorable Mention \hfill  2020  
 UC Davis Muir Institute Graduate Fellowship \hfill 2019 – 2020   
-UC Davis Graduate Group in Ecology Fellowship \hfill 2018 – 2020      
-Rotary Foundation Global Grant Scholarship to Newcastle, United Kingdom \hfill 2014 – 2015   
-Fulbright Maastricht University Award to Maastricht, The Netherlands \hfill 2013 – 2014
+UC Davis Graduate Group in Ecology Fellowship \hfill 2018 – 2020    
 
-***
+***   
+
+## SERVICE
+
+Reviewer | _Policy Studies Journal, Society & Natural Resources_ \hfill  2023 – 2024  
+[Davis R Users Group](https://d-rug.github.io/) Coordinator | UC Davis \hfill  2021 – 2023  
+Ecology Graduate Group Graduate Student Mentor | UC Davis  \hfill  2019 – 2022   
+Data Carpentries Instructor | The Carpentries \hfill  2021 – 2022    
+Admissions Committee Application Reviewer | UC Davis \hfill  2019 – 2021       
+Sustainability Literacy Writing Committee Member | College of Charleston \hfill  2017 – 2018      
+Faculty for Sustainable Living Workshop Coordinator | College of Charleston \hfill  2016 – 2018   
+Internal Fellowship Interview Panelist | College of Charleston \hfill  2016 – 2017 
+
+***  
+
+## COMPUTATIONAL & STATISTICAL TRAINING 
+Applied Statistical Modeling: Multi-level and Bayesian approaches | UC Davis PLS 298 \hfill  2021      
+Introduction to Social and Ecological Network Analysis Short Course | SESYNC   \hfill  2020  
+Political Science Quantitative Methods I & II | UC Davis POL 212 & 213  \hfill  2020       
+Algorithmic Reading: Quantitative Text Analysis in R | UC Davis STS 275   \hfill   2020      
+Social Network Analysis Short Course | UC Davis PHR 298 \hfill 2019  
+Introduction to Computational Social Science | UC Davis CMN 275    \hfill   2019    

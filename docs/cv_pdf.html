@@ -2,11 +2,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.4.555">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="l.wood3@exeter.ac.uk | liza-wood.github.io">
 
 <title>Liza Wood</title>
 <style>
@@ -46,7 +45,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -55,6 +60,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -70,9 +76,9 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Liza Wood</span>
     </a>
@@ -84,37 +90,37 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
- <span class="menu-text">Home</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html" rel="" target="">
- <span class="menu-text">Research</span></a>
+    <a class="nav-link" href="./research.html"> 
+<span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./workshops.html" rel="" target="">
- <span class="menu-text">Workshops / Tutorials</span></a>
+    <a class="nav-link" href="./workshops.html"> 
+<span class="menu-text">Workshops / Tutorials</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html" rel="" target="">
- <span class="menu-text">CV</span></a>
+    <a class="nav-link" href="./cv.html"> 
+<span class="menu-text">CV</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/liza-wood/" rel="" target=""><i class="bi bi-github" role="img" aria-label="GitHub">
+    <a class="nav-link" href="https://github.com/liza-wood/"> <i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/wood__liza" rel="" target=""><i class="bi bi-twitter" role="img">
+    <a class="nav-link" href="https://twitter.com/wood__liza"> <i class="bi bi-twitter" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools">
-</div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -131,7 +137,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#employment" id="toc-employment" class="nav-link" data-scroll-target="#employment">EMPLOYMENT</a></li>
   <li><a href="#publications" id="toc-publications" class="nav-link" data-scroll-target="#publications">PUBLICATIONS</a>
   <ul class="collapse">
-  <li><a href="#peer-review-publications" id="toc-peer-review-publications" class="nav-link" data-scroll-target="#peer-review-publications">PEER-REVIEW PUBLICATIONS</a></li>
+  <li><a href="#peer-reviewed-publications" id="toc-peer-reviewed-publications" class="nav-link" data-scroll-target="#peer-reviewed-publications">PEER-REVIEWED PUBLICATIONS</a></li>
   <li><a href="#under-review" id="toc-under-review" class="nav-link" data-scroll-target="#under-review">UNDER REVIEW</a></li>
   <li><a href="#in-preparation" id="toc-in-preparation" class="nav-link" data-scroll-target="#in-preparation">IN PREPARATION</a></li>
   <li><a href="#reports-chapter" id="toc-reports-chapter" class="nav-link" data-scroll-target="#reports-chapter">REPORTS &amp; CHAPTER</a></li>
@@ -139,10 +145,13 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#presentations" id="toc-presentations" class="nav-link" data-scroll-target="#presentations">PRESENTATIONS</a></li>
   <li><a href="#teaching-experience" id="toc-teaching-experience" class="nav-link" data-scroll-target="#teaching-experience">TEACHING EXPERIENCE</a>
   <ul class="collapse">
-  <li><a href="#undergraduate-courses" id="toc-undergraduate-courses" class="nav-link" data-scroll-target="#undergraduate-courses">UNDERGRADUATE COURSES</a></li>
-  <li><a href="#graduate-courses" id="toc-graduate-courses" class="nav-link" data-scroll-target="#graduate-courses">GRADUATE COURSES</a></li>
+  <li><a href="#data-science" id="toc-data-science" class="nav-link" data-scroll-target="#data-science">DATA SCIENCE</a></li>
+  <li><a href="#environmental-and-sustainability-science" id="toc-environmental-and-sustainability-science" class="nav-link" data-scroll-target="#environmental-and-sustainability-science">ENVIRONMENTAL AND SUSTAINABILITY SCIENCE</a></li>
   </ul></li>
-  <li><a href="#selected-fellowships-awards" id="toc-selected-fellowships-awards" class="nav-link" data-scroll-target="#selected-fellowships-awards">SELECTED FELLOWSHIPS &amp; AWARDS</a></li>
+  <li><a href="#grants-awards" id="toc-grants-awards" class="nav-link" data-scroll-target="#grants-awards">GRANTS &amp; AWARDS</a></li>
+  <li><a href="#fellowships-and-honorable-mentions" id="toc-fellowships-and-honorable-mentions" class="nav-link" data-scroll-target="#fellowships-and-honorable-mentions">FELLOWSHIPS AND HONORABLE MENTIONS</a></li>
+  <li><a href="#service" id="toc-service" class="nav-link" data-scroll-target="#service">SERVICE</a></li>
+  <li><a href="#computational-statistical-training" id="toc-computational-statistical-training" class="nav-link" data-scroll-target="#computational-statistical-training">COMPUTATIONAL &amp; STATISTICAL TRAINING</a></li>
   </ul>
 </nav>
     </div>
@@ -161,7 +170,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Author</div>
     <div class="quarto-title-meta-contents">
-             <p>l.wood3@exeter.ac.uk | <a href="https://liza-wood.github.io/">liza-wood.github.io</a> </p>
+             <p> </p>
           </div>
   </div>
     
@@ -170,58 +179,61 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
+
 
 <hr>
 <section id="education" class="level2">
 <h2 class="anchored" data-anchor-id="education">EDUCATION</h2>
-<p>Ph.D., Ecology and Environmental Policy <br>
-Designated Emphasis: Computational Social Science<br>
+<p>Ph.D., Ecology and Environmental Policy 2023<br>
+Specialization: Computational Social Science<br>
 University of California Davis, Davis, CA, USA</p>
-<p>M.Sc., Organic Farming and Food Production Systems <br>
+<p>M.Sc., Organic Farming and Food Production Systems 2015<br>
 Newcastle University, Newcastle upon Tyne, UK</p>
-<p>M.Sc., Sustainability Science and Policy <br>
+<p>M.Sc., Sustainability Science and Policy 2014<br>
 Maastricht University, Maastricht, NL</p>
-<p>B.A., Political Science | B.A., Biology <br>
+<p>B.A., Political Science | B.A., Biology 2013<br>
 Honors College at the College of Charleston, Charleston, SC, USA</p>
 <hr>
 </section>
 <section id="employment" class="level2">
 <h2 class="anchored" data-anchor-id="employment">EMPLOYMENT</h2>
-<p>Postdoctoral Research Fellow, UKRI &amp; EU HORIZON InBestSoil – present<br>
-University of Exeter, Environment and Sustainability Institute and <a href="https://business-school.exeter.ac.uk/management/about/sustainable-futures/">Sustainable Futures</a></p>
+<p>Postdoctoral Research Fellow 2023 – present<br>
+University of Exeter, <a href="https://www.exeter.ac.uk/research/esi/">Environment and Sustainability Institute</a> and <a href="https://business-school.exeter.ac.uk/management/about/sustainable-futures/">Sustainable Futures</a></p>
 <p>Graduate Student Researcher and Teaching Assistant<br>
 University of California Davis<br>
-&nbsp;&nbsp;<a href="https://datalab.ucdavis.edu">DataLab</a> – 2023<br>
-&nbsp;&nbsp;<a href="https://environmentalpolicy.ucdavis.edu">Center for Environmental Policy &amp; Behavior</a> – 2022<br>
-&nbsp;&nbsp;<a href="https://horticulture.ucdavis.edu/">Horticulture Innovation Lab &amp; USAID</a> </p>
-<p>Assistant Director of First-Year Experience – 2018<br>
+&nbsp;&nbsp;<a href="https://datalab.ucdavis.edu">DataLab</a> 2022 – 2023<br>
+&nbsp;&nbsp;<a href="https://environmentalpolicy.ucdavis.edu">Center for Environmental Policy &amp; Behavior</a> 2018 – 2022<br>
+&nbsp;&nbsp;<a href="https://horticulture.ucdavis.edu/">Horticulture Innovation Lab &amp; USAID</a> 2019</p>
+<p>Assistant Director of First-Year Experience 2016 – 2018<br>
 College of Charleston, New Student Programs</p>
-<p>Climate &amp; Fisheries Extension Researcher – 2013<br>
+<p>Climate &amp; Fisheries Extension Researcher 2012 – 2013<br>
 South Carolina Sea Grant Consortium</p>
 <hr>
 </section>
 <section id="publications" class="level2">
 <h2 class="anchored" data-anchor-id="publications">PUBLICATIONS</h2>
-<section id="peer-review-publications" class="level3">
-<h3 class="anchored" data-anchor-id="peer-review-publications">PEER-REVIEW PUBLICATIONS</h3>
+<section id="peer-reviewed-publications" class="level3">
+<h3 class="anchored" data-anchor-id="peer-reviewed-publications">PEER-REVIEWED PUBLICATIONS</h3>
 <p><strong>Wood, L.</strong>, Scott, T. (2022) Transportation agencies as consumers and producers of science: The case of state, regional, and county transportation agencies in California. <em>Transport Policy 128</em>. https://doi.org/10.1016/j.tranpol.2022.08.016.</p>
 <p><strong>Wood, L.</strong>, Lubell, M., Rudnick, J., Khalsa, S.D.S., Tatge, S., Sears, M., Brown, P. (2021) Mandatory information-based policy tools facilitate California farmers’ learning about nitrogen management. <em>Land Use Policy 114</em>. https://doi.org/10.1016/j.landusepol.2021.105923.</p>
 <p>Rudnick, J., Lubell, M., Khalsa, S.D.S., Tatge, S., <strong>Wood, L.</strong>, Sears, M., Brown, P. (2021). A Farm Systems Approach to the Adoption of Sustainable Nitrogen Management Practices in California. <em>Agriculture and Human Values 38</em>. https://doi.org/10.1007/s10460-021-10190-5.</p>
 </section>
 <section id="under-review" class="level3">
 <h3 class="anchored" data-anchor-id="under-review">UNDER REVIEW</h3>
-<p><strong>Wood, L.</strong>, Hubbard, K., Zystro, J. Flexible regulation as a double-edged sword: The case of the organic seed standard. Revise and resubmit in <em>Regulation &amp; Governance</em>.</p>
+<p><strong>Wood, L.</strong>, Hubbard, K., Zystro, J. Compliance within regulatory gray areas: The case of the organic seed standard. Revise and resubmit in <em>Regulation &amp; Governance</em>.</p>
+<p><strong>Wood, L.</strong>, Vantaggiato, F.P., Scott, T.A. Tracing the path of knowledge on ‘environmental governance processes’ for theory-building. Revise and resubmit in <em>Environmental Policy and Governance</em>.</p>
+<p>Scott, T., Kim, S., <strong>Wood, L.</strong> Open access, professional popularity, and agency involvement drive science referenced in U.S. EPA regulatory impact analyses from 2000 to 2022. Revise and resubmit in <em>Regulation &amp; Governance</em>.</p>
 <p><strong>Wood, L.</strong>, Lubell, M. Mapping the spatial structure of the organic seed system: A network approach to the Global Innovation System framework. Under review in <em>Research Policy</em>.</p>
-<p><strong>Wood, L.</strong>, Vantaggiato, F.P., Scott, T.A. Tracing the path of knowledge on ‘environmental governance processes’ for theory-building. Under review in <em>Environmental Policy and Governance</em>.</p>
 <p><strong>Wood, L.</strong>, Lubell, M. Resource constellations and institutional logics shape network-building processes in the organic seed niche. Under review in <em>Environmental Innovation and Societal Transitions</em>.</p>
 </section>
 <section id="in-preparation" class="level3">
 <h3 class="anchored" data-anchor-id="in-preparation">IN PREPARATION</h3>
-<p><strong>Wood, L.</strong>, Struthers, C., Scott, T.A., Kim, S. Science politics: How political context shapes public agencies’ use of science in environmental policymaking. In prep for <em>Journal of Public Administration Research and Theory</em></p>
-<p><strong>Wood, L.</strong>, Pascucci, S. Entanglements of ecological systems and organizational transformation in the organic seed niche. In prep for <em>Global Environmental Change</em></p>
-<p><strong>Wood, L.</strong>, Who benefits from public innovation? Trends in plant variety development and university technology transfer. In prep for <em>Research Policy</em></p>
-<p>van denBroek, O.M, Moon, J. Knudsen, J., <strong>Wood, L.</strong> Organizing cross-sector partnerships: Towards a network governance model. In prep for <em>Business &amp; Society</em></p>
+<p><strong>Wood, L.</strong>, Struthers, C., Scott, T.A., Kim, S. Science politics: How political context shapes public agencies’ use of science in environmental policymaking.</p>
+<p><strong>Wood, L.</strong> How public and private innovations shape environmental sustainability: Evidence from a century of plant patents.</p>
+<p><strong>Wood, L.</strong>, Pascucci, S. Entanglements of ecological systems and organizational transformation in the organic seed niche.</p>
+<p>van denBroek, O.M, Moon, J. Knudsen, J., <strong>Wood, L.</strong> Organizing cross-sector partnerships: Towards a network governance model.</p>
 </section>
 <section id="reports-chapter" class="level3">
 <h3 class="anchored" data-anchor-id="reports-chapter">REPORTS &amp; CHAPTER</h3>
@@ -233,57 +245,78 @@ South Carolina Sea Grant Consortium</p>
 </section>
 <section id="presentations" class="level2">
 <h2 class="anchored" data-anchor-id="presentations">PRESENTATIONS</h2>
+<p><strong>Wood, L.</strong> (2024, June) How public and private innovations shape environmental sustainability: Evidence from a century of plant patents. Environmental Politics and Governance Conference. Quebec City, CA.</p>
+<p><strong>Wood, L.</strong>, Pascucci, S. (2024, March) Mapping the research landscape of collaborative processes in sustainable business model innovation. King’s College London Centre for Sustainable Business Short Paper Workshop: Unlocking pathways for a sustainable future. London, UK.</p>
 <p><strong>Wood, L</strong> (2023, August) Sustained coexistence pathways for non-proprietary innovation. International Sustainable Transitions Conference. Utrecht, NL.</p>
 <p><strong>Wood, L</strong>, Scott, T.A, Struthers, C., Kim, S. (2023, July) Science politics: How political context shapes public agencies’ use of science in environmental policymaking. Environmental Politics and Governance Conference. Glasgow, UK.</p>
 <p><strong>Wood, L</strong> &amp; Scott, T.A. (2023, January) <a href="https://github.com/govscienceuseR">govscienceuseR: Tools for quantifying science in policy</a>. Conference of Policy Process Research. Denver, CO.</p>
 <p><strong>Wood, L</strong> &amp; Lubell, M. (2022, November). Analyzing sustainability transitions with innovation system networks: The case of the organic seed system in the United States. International Sustainable Transitions Conference, remote presentation.</p>
-<p><strong>Wood, L</strong>. (2022, June). “Supporting innovation for sustainable agriculture: The case of the organic seed system in the United States.” Newcastle University School of Natural and Environmental Sciences Seminar Series, invited talk, remote presentation.</p>
-<p><strong>Wood, L</strong>. (2022, May). “Governing agrobiodiversity: A comparison of regional seed innovation systems as social-ecological networks.” 8th Annual Duck Family Workshop on Environmental Politics and Governance, University of Washington. Seattle, WA.</p>
-<p><strong>Wood, L</strong>. (2022, March). “Seed innovation systems in the US: The politics of science for agro-ecological transitions.” Atlanta Academy on Science and Innovation Policy. Atlanta, GA.</p>
-<p><strong>Wood, L</strong>. (2021, December). “Mapping the seed innovation system.” Mars-Wrigley Cacao Research &amp; Development Seminar Series. Davis, CA.</p>
-<p><strong>Wood, L</strong>. &amp; Rudnick, J. (2020, April). “The effect of information-based policy tools on farmers’ nitrogen management.” American Association of Geographers Annual Meeting, remote presentation.</p>
-<p><strong>Wood, L</strong>. (2019, July). “Assessing Seed System Resilience: A Case Study from Northeastern Thailand.” International Association for the Study of the Commons, Lima, Peru.</p>
+<p><strong>Wood, L</strong>. (2022, June). Supporting innovation for sustainable agriculture: The case of the organic seed system in the United States. Newcastle University School of Natural and Environmental Sciences Seminar Series, invited talk, remote presentation.</p>
+<p><strong>Wood, L</strong>. (2022, May). Governing agrobiodiversity: A comparison of regional seed innovation systems as social-ecological networks. 8th Annual Duck Family Workshop on Environmental Politics and Governance, University of Washington. Seattle, WA.</p>
+<p><strong>Wood, L</strong>. (2022, March). Seed innovation systems in the US: The politics of science for agro-ecological transitions. Atlanta Academy on Science and Innovation Policy. Atlanta, GA.</p>
+<p><strong>Wood, L</strong>. (2021, December). Mapping the seed innovation system. Mars-Wrigley Cacao Research &amp; Development Seminar Series. Davis, CA.</p>
+<p><strong>Wood, L</strong>. &amp; Rudnick, J. (2020, April). The effect of information-based policy tools on farmers’ nitrogen management. American Association of Geographers Annual Meeting, remote presentation.</p>
+<p><strong>Wood, L</strong>. (2019, July). Assessing Seed System Resilience: A Case Study from Northeastern Thailand. International Association for the Study of the Commons, Lima, Peru.</p>
 <hr>
 </section>
 <section id="teaching-experience" class="level2">
 <h2 class="anchored" data-anchor-id="teaching-experience">TEACHING EXPERIENCE</h2>
-<section id="undergraduate-courses" class="level3">
-<h3 class="anchored" data-anchor-id="undergraduate-courses">UNDERGRADUATE COURSES</h3>
-<p>Teaching Assistant | UC Davis<br>
-&nbsp;&nbsp;DataLab<br>
-&nbsp;&nbsp;&nbsp;&nbsp;IST 8x: <a href="https://ucdavisdatalab.github.io/adventures_in_data_science/">Adventures in Data Science</a> Winter &amp; Spring 2022 &amp; 2023<br>
-&nbsp;&nbsp;Plant Sciences Department<br>
-&nbsp;&nbsp;&nbsp;&nbsp;PLS 49: Organic Crop Production Practicum Fall 2019, Spring 2020<br>
-&nbsp;&nbsp;Department of Environmental Science and Policy<br>
-&nbsp;&nbsp;&nbsp;&nbsp;ESP 10: Current Issues in the Environment Winter 2019</p>
-<p>Instructor | College of Charleston<br>
-&nbsp;&nbsp;Environmental and Sustainability Studies Department<br>
-&nbsp;&nbsp;&nbsp;&nbsp;FYET 177: Sustainable Food in the Foothills of the Andes Spring 2017, 2018 &amp; 2019<br>
-&nbsp;&nbsp;&nbsp;&nbsp;FYSE 142: Farm to Fork: The Sustainable Food Movement in Charleston Spring 2018</p>
+<section id="data-science" class="level3">
+<h3 class="anchored" data-anchor-id="data-science">DATA SCIENCE</h3>
+<p>Instructor | Contracted by California State Water Board<br>
+&nbsp;&nbsp;<a href="https://www.r4wrds.com/">R for Water Resources Data Science</a> Spring 2023, 2024 &amp; 2025</p>
+<p>Teaching Assistant | UC Davis – UC Davis DataLab<br>
+&nbsp;&nbsp;IST 8x: <a href="https://ucdavisdatalab.github.io/adventures_in_data_science/">Adventures in Data Science</a> Winter &amp; Spring 2022 &amp; 2023</p>
+<p>Instructor | UC Davis – Graduate Group in Ecology<br>
+&nbsp;&nbsp;ECL 298: <a href="https://gge-ucd.github.io/R-DAVIS/">R Data Analysis for Visualization in Science</a> Fall 2020, 2021 &amp; 2022</p>
 </section>
-<section id="graduate-courses" class="level3">
-<h3 class="anchored" data-anchor-id="graduate-courses">GRADUATE COURSES</h3>
-<p>Instructor | UC Davis<br>
-&nbsp;&nbsp;Graduate Group in Ecology<br>
-&nbsp;&nbsp;&nbsp;&nbsp;ECL 298: <a href="https://gge-ucd.github.io/R-DAVIS/">R Data Analysis for Visualization in Science</a> Fall 2020, 2021 &amp; 2022</p>
-<p>Seminar leader | UC Davis<br>
-&nbsp;&nbsp;Graduate Group in Ecology<br>
-&nbsp;&nbsp;&nbsp;&nbsp;ECL 290: Science Fiction and Near Futures in Ecology Spring 2020</p>
+<section id="environmental-and-sustainability-science" class="level3">
+<h3 class="anchored" data-anchor-id="environmental-and-sustainability-science">ENVIRONMENTAL AND SUSTAINABILITY SCIENCE</h3>
+<p>Teaching Assistant | UC Davis – Departments of Plant Sciences and Environmental Science and Policy<br>
+&nbsp;&nbsp;PLS 49: Organic Crop Production Practicum Fall 2019, Spring 2020<br>
+&nbsp;&nbsp;ESP 10: Current Issues in the Environment Winter 2019</p>
+<p>Instructor | College of Charleston – Department of Environmental and Sustainability Science<br>
+&nbsp;&nbsp;FYET 177: Sustainable Food in the Foothills of the Andes Spring 2017, 2018 &amp; 2019<br>
+&nbsp;&nbsp;FYSE 142: Farm to Fork: The Sustainable Food Movement in Charleston Spring 2018</p>
 <hr>
 </section>
 </section>
-<section id="selected-fellowships-awards" class="level2">
-<h2 class="anchored" data-anchor-id="selected-fellowships-awards">SELECTED FELLOWSHIPS &amp; AWARDS</h2>
-<p>UC Davis Henry A. Jastro Student Research Fellowship – 2023<br>
-Fulbright Netherlands Research Award, Semi-finalist <br>
-USDA Western Sustainable Agriculture Research &amp; Education Graduate Student Grant – 2022<br>
-UC Davis Angela and Theodore Foin Graduate Award – 2021<br>
-Ford Foundation Fellowship Program, Honorable Mention <br>
-UC Davis Muir Institute Graduate Fellowship – 2020<br>
-UC Davis Graduate Group in Ecology Fellowship – 2020<br>
-Rotary Foundation Global Grant Scholarship to Newcastle, United Kingdom – 2015<br>
-Fulbright Maastricht University Award to Maastricht, The Netherlands – 2014</p>
+<section id="grants-awards" class="level2">
+<h2 class="anchored" data-anchor-id="grants-awards">GRANTS &amp; AWARDS</h2>
+<p>USDA Western Sustainable Agriculture Research &amp; Education Graduate Student Grant 2020 – 2022<br>
+Rotary Foundation Global Grant Scholarship to Newcastle, United Kingdom 2014 – 2015<br>
+Fulbright Maastricht University Award to Maastricht, The Netherlands 2013 – 2014</p>
+</section>
+<section id="fellowships-and-honorable-mentions" class="level2">
+<h2 class="anchored" data-anchor-id="fellowships-and-honorable-mentions">FELLOWSHIPS AND HONORABLE MENTIONS</h2>
+<p>Fulbright Netherlands Research Award, Semi-finalist 2022<br>
+UC Davis Henry A. Jastro Student Research Fellowship 2019 – 2023<br>
+UC Davis Angela and Theodore Foin Graduate Fellowship 2020 – 2021<br>
+Ford Foundation Fellowship Program, Honorable Mention 2020<br>
+UC Davis Muir Institute Graduate Fellowship 2019 – 2020<br>
+UC Davis Graduate Group in Ecology Fellowship 2018 – 2020</p>
 <hr>
+</section>
+<section id="service" class="level2">
+<h2 class="anchored" data-anchor-id="service">SERVICE</h2>
+<p>Reviewer | <em>Policy Studies Journal, Society &amp; Natural Resources</em> 2023 – 2024<br>
+<a href="https://d-rug.github.io/">Davis R Users Group</a> Coordinator | UC Davis 2021 – 2023<br>
+Ecology Graduate Group Graduate Student Mentor | UC Davis 2019 – 2022<br>
+Data Carpentries Instructor | The Carpentries 2021 – 2022<br>
+Admissions Committee Application Reviewer | UC Davis 2019 – 2021<br>
+Sustainability Literacy Writing Committee Member | College of Charleston 2017 – 2018<br>
+Faculty for Sustainable Living Workshop Coordinator | College of Charleston 2016 – 2018<br>
+Internal Fellowship Interview Panelist | College of Charleston 2016 – 2017</p>
+<hr>
+</section>
+<section id="computational-statistical-training" class="level2">
+<h2 class="anchored" data-anchor-id="computational-statistical-training">COMPUTATIONAL &amp; STATISTICAL TRAINING</h2>
+<p>Applied Statistical Modeling: Multi-level and Bayesian approaches | UC Davis PLS 298 2021<br>
+Introduction to Social and Ecological Network Analysis Short Course | SESYNC 2020<br>
+Political Science Quantitative Methods I &amp; II | UC Davis POL 212 &amp; 213 2020<br>
+Algorithmic Reading: Quantitative Text Analysis in R | UC Davis STS 275 2020<br>
+Social Network Analysis Short Course | UC Davis PHR 298 2019<br>
+Introduction to Computational Social Science | UC Davis CMN 275 2019</p>
 
 
 </section>
@@ -368,10 +401,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -381,8 +431,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -394,7 +453,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -438,6 +620,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -463,6 +646,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -523,6 +732,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+
 
 
 
