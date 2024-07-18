@@ -54,9 +54,8 @@ College of Charleston, New Student Programs
 
 Rudnick, J., Lubell, M., Khalsa, S.D.S., Tatge, S., **Wood, L.**, Sears, M., Brown, P. (2021). A Farm Systems Approach to the Adoption of Sustainable Nitrogen Management Practices in California. *Agriculture and Human Values 38*. [https://doi.org/10.1007/s10460-021-10190-5](https://doi.org/10.1007/s10460-021-10190-5).  
 
+<!---
 #### UNDER REVIEW     
-
-**Wood, L.**, Hubbard, K., Zystro, J. Compliance within regulatory gray areas: The case of the organic seed standard. Revise & resubmit.
 
 **Wood, L.**, Lubell, M. Resource constellations and institutional logics shape network-building processes in the organic seed niche. Revise & resubmit.
 
@@ -65,8 +64,10 @@ Rudnick, J., Lubell, M., Khalsa, S.D.S., Tatge, S., **Wood, L.**, Sears, M., Bro
 **Wood, L.**, Vantaggiato, F.P., Scott, T.A. Tracing the path of knowledge on ‘environmental governance processes’ for theory-building. Revise & resubmit.
 
 Scott, T., Kim, S., **Wood, L.** Open access, professional popularity, and agency involvement drive science referenced in U.S. EPA regulatory impact analyses from 2000 to 2022. Revise & resubmit.
-
+---> 
 #### WORKING PAPERS  
+
+**Wood, L.**, Hubbard, K., Zystro, J. Compliance within regulatory gray areas: The case of the organic seed standard. Revise & resubmit.
 
 **Wood, L.**, Struthers, C., Scott, T.A., Kim, S. Science politics: How political context shapes public agencies’ use of science in environmental policymaking.  
 
@@ -75,6 +76,7 @@ Scott, T., Kim, S., **Wood, L.** Open access, professional popularity, and agenc
 **Wood, L.**, Pascucci, S. Entanglements of ecological systems and organizational transformation in the organic seed niche.  
 
 van denBroek, O.M, **Wood, L.**, Moon, J. Knudsen, J. Organizing cross-sector partnerships: Towards a network governance model. 
+
 
 #### REPORTS         
 
