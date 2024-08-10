@@ -1,6 +1,6 @@
 ---
 title: "Social-ecological networks with `motifR`: Organizing and analyzing data"
-author: "Francesa Vantaggiato & Liza Wood"
+author: "Francesca Vantaggiato & Liza Wood"
 date: "August 10, 2024"
 description: ""
 type: post
@@ -61,7 +61,7 @@ SE_edges <- data.frame(from = c(S_nodes$name,
                                    (nrow(S_nodes)+20), replace = T))
 SE_edges <- SE_edges[!duplicated(SE_edges),]
 
-## Create networks and their matrices
+## Create networks
 SS_net <- igraph::graph_from_data_frame(SS_edges, 
                                         vertices = S_nodes, directed = F)
 
@@ -69,12 +69,6 @@ EE_net <- igraph::graph_from_data_frame(EE_edges,
                                         vertices = E_nodes, directed = F)
 
 SE_net <- igraph::graph_from_data_frame(SE_edges, directed = F)
-SE_matrix <- as.matrix(igraph::as_adjacency_matrix(SE_net)) 
-## Use next line only if one-mode, rather than two mode
-SE_matrix_Srow <- SE_matrix[1:nrow(S_nodes), (nrow(S_nodes)+1):ncol(SE_matrix)]
-SE_matrix_Srow <- SE_matrix_Srow[order(rownames(SE_matrix_Srow)), order(colnames(SE_matrix_Srow))]
-## The rows should be actors and the columns should be ecological units; if your network is switched, just transpose
-SE_matrix_Erow <- t(SE_matrix_Srow)
 ```
 
 Based on these three networks, we need four matrices. These include:  
@@ -113,7 +107,7 @@ dim(SE_matrix_Erow) # All ecological units x all actors
 
 # Merge matrices 
 
-Once you have your four matrices, we do we a series of merges. We merge the social matrix to the SE matrix with social rows. Then we merge the ecological matrix to the SE matrix with ecological rows. These two matrix should have the same number of columns with their names in the same order, which allows then to just bind them on top of one another. 
+Once you have your four matrices, we do a series of merges. We merge the social matrix to the SE matrix with social rows. Then we merge the ecological matrix to the SE matrix with ecological rows. These two matrix should have the same number of columns with their names in the same order, which allows then to just bind them on top of one another. 
 
 ```{r}
 ## Join S and SE for 'top' part of SEN (SS + SE networks)
@@ -130,7 +124,7 @@ SEN_matrix <- as.matrix(SEN_matrix)
 
 # Create full SEN 
 
-Now we can build a single network that is our full, multi-level social-ecological network(SEN). We'll first bind together the social and ecological node attributes, and create a new attribute 'sesType', which will be important for specifying levesl in `motifR`. 
+Now we can build a single network that is our full, multi-level social-ecological network (SEN). We'll first bind together the social and ecological node attributes, and create a new attribute 'sesType', which will be important for specifying levels in `motifR`. 
 
 ```{r}
 ## Bind node attributes (need same columns) and add a 'sesType' attribute that motifR wants to see: ecological = 0, social = 1 (can add more if more levels are there)
