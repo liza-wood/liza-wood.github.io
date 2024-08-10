@@ -13,9 +13,9 @@ knitr::opts_chunk$set(
   fig.align = "center", out.width = '80%')
 ```
 
-This post briefly covers how to go about organizing data for social-ecological network (SEN) analysis and running some of the main functions in Angst's `motifR` (2020). 
+This post briefly covers how to go about organizing data for social-ecological network (SEN) analysis and running some of the main functions in Angst & Seppelt's `motifR` (2020). 
 
-First, lets' load in all of the packages we'll need. We use both `igraph` and `network`, which can conflict with one another, so let's load in `igraph` first and we'll be sure to specify when package to use for some finicky functions.
+First, lets' load in all of the packages we'll need. (Note: We use both `igraph` and `network`, which can conflict with one another, though not in this the code shared with this post). 
 
 ```{r}
 library(igraph)
@@ -31,30 +31,36 @@ First, we'll simulate some data to use. The basic premise is that we need three 
 
 1. Social network: A one-mode network with ties that link actors. We'll think of these as social-to-social (SS) ties, and the associated attributes will be only for the social actors.  
 2. Ecological network: A one-mode network with ties that link 'ecological units'. Ecological units will vary based on the system being studied, and we'll just leave them generic. But these will be ecological-to-ecological (EE) ties, where ties represent ecological interdependence, and the associated attributes will be only for the ecological units, if relevant.  
-3. Social-ecological: A two-mode network with ties that link social actors to ecological units. These are usually about the management or interaction of social actors on/with the different ecological units (SE).   
+3. Social-ecological network: A two-mode network with ties that link social actors to ecological units (SE). These are usually about the management or interaction of social actors on/with the different ecological units.   
 
 The code for simulating these data are below. While generic, they give a sense of the shape of the data for each network.
 ```{r}
 set.seed(12)
-## Create social and ecological nodes, and organize with leading zero otherwise ordering will be annoying later
+## Create social and ecological nodes, and organize with leading zero 
+## otherwise ordering will be annoying later
 S_nodes <- data.frame('name' = 1:99,
                       'type' = sample(paste("Type", LETTERS[1:3]), 
                                       99, replace = T))
 S_nodes$name <- ifelse(nchar(S_nodes$name) == 1, 
                        paste0('Actor ', 0, S_nodes$name), 
                        paste('Actor', S_nodes$name))
+
 E_nodes <- data.frame('name' = 1:30,
                       'type' = 'Ecol Unit')
 E_nodes$name <- ifelse(nchar(E_nodes$name) == 1, 
                        paste0('EU ', 0, E_nodes$name), 
                        paste('EU', E_nodes$name))
-## Create social-social, ecological-ecological, and social-ecological edges; and get rid of duplicates
+
+## Create social-social, ecological-ecological, and social-ecological edges; 
+## making sure to get rid of duplicates
 SS_edges <- data.frame(from = sample(S_nodes$name, 150, replace = T),
                        to = sample(S_nodes$name, 150, replace = T))
 SS_edges <- SS_edges[!duplicated(SS_edges),]
+
 EE_edges <- data.frame(from = sample(E_nodes$name, 40, replace = T),
                        to = sample(E_nodes$name, 40, replace = T))
 EE_edges <- EE_edges[!duplicated(EE_edges),]
+
 SE_edges <- data.frame(from = c(S_nodes$name, 
                                 sample(S_nodes$name, 20, replace = T)),
                        to = sample(E_nodes$name, 
@@ -87,8 +93,10 @@ SS_matrix <- SS_matrix[order(rownames(SS_matrix)), order(colnames(SS_matrix))]
 EE_matrix <- as.matrix(igraph::as_adjacency_matrix(EE_net))
 EE_matrix <- EE_matrix[order(rownames(EE_matrix)), order(colnames(EE_matrix))]
 
-## Typically the SE network should be two-mode, but for the simulation we made it one-mode (easier) and now will manually reduce the matrix
-## if the network were two-mode already, use get_incidence_matrix
+## Typically the SE network should be two-mode, but for the simulating data we 
+## quickly made it one-mode (easier) and now will manually reduce the matrix
+## If you are working with a network that is two-mode already, 
+## use get_incidence_matrix()
 SE_matrix <- as.matrix(igraph::as_adjacency_matrix(SE_net)) 
 ## Use next line only if one-mode, rather than two mode
 SE_matrix_Srow <- SE_matrix[1:nrow(S_nodes), (nrow(S_nodes)+1):ncol(SE_matrix)]
@@ -107,13 +115,23 @@ dim(SE_matrix_Erow) # All ecological units x all actors
 
 # Merge matrices 
 
-Once you have your four matrices, we do a series of merges. We merge the social matrix to the SE matrix with social rows. Then we merge the ecological matrix to the SE matrix with ecological rows. These two matrix should have the same number of columns with their names in the same order, which allows then to just bind them on top of one another. 
+Once we have our four matrices, we do a series of merges. We merge the social matrix to the SE matrix with social rows. Then we merge the ecological matrix to the SE matrix with ecological rows. 
 
 ```{r}
 ## Join S and SE for 'top' part of SEN (SS + SE networks)
 ## In this case, both should have actors as rownames (Srow)
 SEN_S_matrix <- merge(SS_matrix, SE_matrix_Srow, by = "row.names", all = TRUE)
-SEN_E_matrix <- merge(EE_matrix, SE_matrix_Erow, by = "row.names", all = TRUE)
+SEN_E_matrix <- merge(SE_matrix_Erow, EE_matrix, by = "row.names", all = TRUE)
+```
+
+These two matrices should have the same number of columns with their names in the same order, which allows then to just bind them on top of one another. 
+
+```{r}
+## Check that they are the same
+table(colnames(SEN_S_matrix) == colnames(SEN_E_matrix))
+```
+
+```{r}
 ## Combine both and reset
 SEN_matrix <- rbind(SEN_S_matrix, SEN_E_matrix)
 rownames(SEN_matrix) <- SEN_matrix[,1]
@@ -127,17 +145,17 @@ SEN_matrix <- as.matrix(SEN_matrix)
 Now we can build a single network that is our full, multi-level social-ecological network (SEN). We'll first bind together the social and ecological node attributes, and create a new attribute 'sesType', which will be important for specifying levels in `motifR`. 
 
 ```{r}
-## Bind node attributes (need same columns) and add a 'sesType' attribute that motifR wants to see: ecological = 0, social = 1 (can add more if more levels are there)
+## Bind node attributes (need same columns) and add a 'sesType' attribute 
+## that motifR wants to see: ecological = 0, social = 1 (can add more if more 
+## levels are there)
 SE_nodes <- rbind(S_nodes, E_nodes)
 SE_nodes$sesType <- ifelse(SE_nodes$type == "Ecol Unit", 0, 1)
 ```
 
-Then we will create the network itself using the `network` package. One reason we have been ordering the row and column names (alphabetically) has been to ensure that the network is build with the nodes in the order that matches the node list. Double check this, as this will make sure you that your node attributes align to our nodes correctly. 
+Then we will create the network itself using the `network` package. One reason we have been ordering the row and column names (alphabetically) has been to ensure that the network is built with the nodes in the order that matches the node list. Double check this, as this will make sure you that your node attributes align to our nodes correctly. 
 ```{r}
-## Create the network
 SEN_net <- network(SEN_matrix, 
                    vertex.attr = SE_nodes, directed = FALSE) 
-### WARNING: vertex.attr need to be in the right order, the network function does not match names with attr (in this case, attr = "level) for you; this is why ordering the matrices has been useful
 ```
 
 # `motifR` 
@@ -155,7 +173,7 @@ plot_mnet(
 
 ## Note: `reticulate`
 
-`motifR` relies on the `reticulate` package in R to run over python. `reticulate` is awesome but can be annoying if python is installed in several places or you you have path issues. This may not be necessary, but if you run into issues, one thing to do is to check your environment and make sure that your path is to python on your computer. 
+`motifR` relies on the `reticulate` package in R to run over python. `reticulate` is great but can be annoying if python is installed in several places or you you have path issues. This may not be necessary, but if you run into issues, one thing to do is to check your environment and make sure that your path is to python on your computer. 
 
 ```{r, eval = F}
 # Check out your system environment here
@@ -167,13 +185,13 @@ Sys.setenv(RETICULATE_PYTHON_FALLBACK = '/Users/[[NAME]]/anaconda3/bin/python3')
 
 ## Motifs 
 
-Assuming `reticulate` isn't giving you any issues, you can look at the different motifs available in the `motifR` package and their names. The code below will open a new window that allows you to select through different motifes and see them visually. If you cannot see them, trying making your pop-out window larger. 
+Assuming `reticulate` isn't creating any issues, we can look at the different motifs available in the `motifR` package and their names. The code below will open a new window that allows you to select through different motifs and see them visually. If you cannot see them, trying making your pop-out window larger. 
 
 ```{r, eval = F}
 explore_motifs() # opens interactive window
 ```
 
-And then you can show these motifs in your network.
+And then we can also see these motifs in our own network.
 
 ```{r,out.width = '60%', fig.show='hold'}
 show_motif("1,2[II.C]", net = SEN_net, directed = FALSE, label = TRUE) + 
@@ -184,7 +202,7 @@ show_motif("2,2[V.D]", net = SEN_net, directed = FALSE, label = TRUE) +
   labs(title = "2,2[V.D]")
 ```
 
-And then use the `count_motifs` function to look at the counts of different motifs
+And then use the `count_motifs` function to look at the counts of different motifs.
 
 ```{r, message=F}
 ## It may be easier just to make a list of the motifs you are interested in 
@@ -199,7 +217,7 @@ count_motifs(SEN_net, lvl_attr = "sesType",
 
 Once we have the counts of the network motifs, we want to know whether or not these motifs are observed more or less than would be expected, given a baseline model. We can use the `simulate_baseline` function to do this.
 
-The baseline model against which we compare can vary. One, simple baseline is a random, Erdos-Renyi graph. We'll start with this as an example to see how the function works. 
+The baseline model against which we compare can vary. One simple baseline is a random, Erdos-Renyi graph. We'll start with this as an example to see how the function works. 
 
 ```{r sim random, eval = F}
 n_iter <- 50 # number of iterations: low for example but recommended >1000
@@ -217,8 +235,7 @@ sim_random <- simulate_baseline(net = SEN_net,
 sim_random <- readRDS('~/Documents/Davis/R-Projects/liza-wood.github.io/posts/data/sen_sim_random.RDS')
 ```
 
-
-The results are just a data frame with the counts of each motif for however many simulated graphs there are.
+The result is a data frame with the counts of each motif for however many simulated graphs there are.
 
 ```{r}
 head(sim_random)
@@ -226,7 +243,7 @@ head(sim_random)
 
 ## Simulate networks, ERGM 
 
-Now that we understand simulate baseline, we can use a more complex baseline model. Rather than use a random graph, which most graphs are likely to be significantly different from, we can simulate networks using Exponential Random Graph Models (ERGMs). 
+Now that we understand `simulate_baseline`, we can use a more complex baseline model. Rather than use a random graph, which most graphs are likely to be significantly different from, we can simulate networks using Exponential Random Graph Models (ERGMs). 
 
 For SENs, however, we need to think about what kind of ERGM makes sense as baseline. Sometimes, ecological networks are 'fixed', meaning that ecological relationships are not a matter of choice. In an example, the interdependence between hydrological areas are fairly fixed (barring engineering) because water flows are dependent on the geomorphology of a place. In these scenarios, we can estimate a 'partial' ERGM, using only the social level, given that this is the only level really able to change.
 
@@ -245,9 +262,10 @@ actor_ergm <- ergm(actor_net ~ density +
                      gwesp(.25, fixed=TRUE))
 ```
 
-Then we use this partial ERGM as the baseline model for our simulations
+Then we use this partial ERGM as the baseline model for our simulations.
 ```{r sim ergm p, eval = F}
-### Now, instead of model = erdos renyi, model = 'partial-ergm', specify what level the ergm is partial for, and the ergm itself
+## Now, instead of model = erdos renyi, model = 'partial-ergm', 
+## specify what level the ergm is partial for, and the ergm itself
 sim_ergm_p <- simulate_baseline(SEN_net,
                                 motifs_of_interest, 
                                 n = n_iter, 
@@ -262,7 +280,7 @@ sim_ergm_p <- simulate_baseline(SEN_net,
 #saveRDS(sim_ergm_p, '~/Documents/Davis/R-Projects/liza-wood.github.io/posts/data/sen_sim_ergm_p.RDS')
 sim_ergm_p <- readRDS('~/Documents/Davis/R-Projects/liza-wood.github.io/posts/data/sen_sim_ergm_p.RDS')
 ```
-In a case where your ecological nodes are not fixed (e.g. foraging behavior), you can also run and set a full ERGM as your baseline. 
+In a case where ecological nodes are not fixed (e.g. foraging behavior), we can also run and set a full ERGM as your baseline. 
 ```{r}
 se_ergm <- ergm(SEN_net ~ edges + 
                           nodefactor("sesType") +
@@ -271,7 +289,6 @@ se_ergm <- ergm(SEN_net ~ edges +
 ```
 
 ```{r sim ergm, eval = F}
-### Now, instead of model = erdos renyi, model = 'partial-ergm', specify what level the ergm is partial for, and the ergm itself
 sim_ergm <- simulate_baseline(SEN_net,
                                 motifs_of_interest, 
                                 n = n_iter, 
@@ -288,7 +305,7 @@ sim_ergm <- readRDS('~/Documents/Davis/R-Projects/liza-wood.github.io/posts/data
 
 # Plotting distributions 
 
-Whichever baseline you set, it is then useful to view the observed motif count to the distribution of the motif counts from the simulated networks. First, in a single example, we can take a look
+Whichever baseline you set, it is then useful to view the observed motif count to the distribution of the motif counts from the simulated networks. First, in a single example, we can take a look. 
 
 ```{r}
 motif_counts <- count_motifs(SEN_net, lvl_attr = c("sesType"),
@@ -302,7 +319,7 @@ ggplot(sim_ergm, aes(x = sim_ergm[,1])) +
   theme_linedraw()
 ```
 
-However, it may be easier just to iterate across each motif
+However, it may be easier just to iterate across each motif using something like the loop below. 
 
 ```{r, out.width = '60%', fig.show = 'hold'}
 for(i in 1:nrow(motif_counts)){
@@ -317,7 +334,7 @@ for(i in 1:nrow(motif_counts)){
 
 # z-scores for observed versus simulated motif counts
 
-To determine whether or not there is a statistically significant difference between the observed and simulated motif counts, we can calculate a z-score. Remember, z-scores greater or less than +/- 2 are considered significant. 
+To determine whether or not there is a statistically significant difference between the observed and simulated motif counts, we can calculate a z-score. 
 
 Again, we could do this one-by-one for each motif of interest:
 ```{r}
@@ -340,7 +357,6 @@ for(i in 1:length(motifs_of_interest)){
   ## Repeating this function but could link back to earlier object
   motif_count <- count_motifs(SEN_net, lvl_attr = c("sesType"),
                               motifs = motifs_of_interest[[i]])
-  ## Simulated motif n: mean and sd
   motif_count$mean_motif_sim <- mean(sim_ergm[,i])
   motif_count$sd_motif_sim <- sd(sim_ergm[,i])
   motif_count$zscore <- (motif_count$count- motif_count$mean_motif_sim) /
@@ -353,7 +369,9 @@ head(results)
 
 # Plotting results 
 
-Last, we'd like to put our results into one single graph so that we can compare z-scores of each motif. With only one network, and all of our results not statistically signiciant, it isn't very interesting:
+Last, we'd like to put our results into one single graph so that we can compare z-scores of each motif. We can identify important cutpoints, such as z scores +/- 2, to help identify when a different may be singificant. 
+
+With our randomly generate network, all of our results not statistically significant, it isn't very interesting, but the point is to share the plot code: 
 
 ```{r}
 ggplot(results, aes(x = motif, y = zscore)) +
@@ -363,7 +381,7 @@ ggplot(results, aes(x = motif, y = zscore)) +
   theme_linedraw()
 ```
 
-But, if you had multiple networks, could create specific groups for line drawing and color them accordingly, making comparison easier. 
+And if we were to expand this analysis to compare motifs across different networks, we could add grouping and coloring to help compare. For example: 
 
 ```{r}
 results$net <- "whole"
