@@ -35,7 +35,7 @@ First, we'll simulate some data to use. The basic premise is that we need three 
 
 The code for simulating these data are below. While generic, they give a sense of the shape of the data for each network.
 ```{r}
-set.seed(12)
+set.seed(19)
 ## Create social and ecological nodes, and organize with leading zero 
 ## otherwise ordering will be annoying later
 S_nodes <- data.frame('name' = 1:99,

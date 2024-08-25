@@ -238,7 +238,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </ol>
 <p>The code for simulating these data are below. While generic, they give a sense of the shape of the data for each network.</p>
 <div class="cell" data-layout-align="center">
-<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">set.seed</span>(<span class="dv">12</span>)</span>
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">set.seed</span>(<span class="dv">19</span>)</span>
 <span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="do">## Create social and ecological nodes, and organize with leading zero </span></span>
 <span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="do">## otherwise ordering will be annoying later</span></span>
 <span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>S_nodes <span class="ot">&lt;-</span> <span class="fu">data.frame</span>(<span class="st">'name'</span> <span class="ot">=</span> <span class="dv">1</span><span class="sc">:</span><span class="dv">99</span>,</span>
@@ -447,15 +447,15 @@ TRUE
 <span id="cb22-6"><a href="#cb22-6" aria-hidden="true" tabindex="-1"></a>             <span class="at">directed =</span> <span class="cn">FALSE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
 <pre><code>Processing 1,2 motifs
-[ Classifying 301 gadgets ................................................... ]
+[ Classifying 302 gadgets ................................................... ]
 [ ########################################################################### ]
 Processing 2,2 motifs
-[ Classifying 301 gadgets ................................................... ]
+[ Classifying 302 gadgets ................................................... ]
 [ ########################################################################### ]</code></pre>
 </div>
 <div class="cell-output cell-output-stdout">
 <pre><code>              motif count
-1,2[II.C] 1,2[II.C]     8
+1,2[II.C] 1,2[II.C]    11
 2,2[I.D]   2,2[I.D]    20
 2,2[V.D]   2,2[V.D]     1</code></pre>
 </div>
@@ -545,10 +545,10 @@ Processing 2,2 motifs
 <span id="cb32-3"><a href="#cb32-3" aria-hidden="true" tabindex="-1"></a>                             <span class="at">directed =</span> <span class="cn">FALSE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
 <pre><code>Processing 1,2 motifs
-[ Classifying 301 gadgets ................................................... ]
+[ Classifying 302 gadgets ................................................... ]
 [ ########################################################################### ]
 Processing 2,2 motifs
-[ Classifying 301 gadgets ................................................... ]
+[ Classifying 302 gadgets ................................................... ]
 [ ########################################################################### ]</code></pre>
 </div>
 <div class="sourceCode cell-code" id="cb34"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb34-1"><a href="#cb34-1" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>(sim_ergm, <span class="fu">aes</span>(<span class="at">x =</span> sim_ergm[,<span class="dv">1</span>])) <span class="sc">+</span> </span>
@@ -610,7 +610,7 @@ Processing 2,2 motifs
 <span id="cb36-6"><a href="#cb36-6" aria-hidden="true" tabindex="-1"></a>zscore <span class="ot">&lt;-</span> (motif_count<span class="sc">-</span>mean_motif_sim)<span class="sc">/</span>sd_motif_sim</span>
 <span id="cb36-7"><a href="#cb36-7" aria-hidden="true" tabindex="-1"></a>zscore</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
-<pre><code>[1] 0.2523347</code></pre>
+<pre><code>[1] 1.399311</code></pre>
 </div>
 </div>
 <p>This z-score is very close to zero, which makes sense: our networks were randomly generated and so we wouldn’t expected them to be statsitically different from other randomly generated networks.</p>
@@ -629,19 +629,19 @@ Processing 2,2 motifs
 <span id="cb38-11"><a href="#cb38-11" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
 <pre><code>Processing 1,2 motifs
-[ Classifying 301 gadgets ................................................... ]
+[ Classifying 302 gadgets ................................................... ]
 [ ########################################################################### ]
 Processing 2,2 motifs
-[ Classifying 301 gadgets ................................................... ]
+[ Classifying 302 gadgets ................................................... ]
 [ ########################################################################### ]
 Processing 2,2 motifs
-[ Classifying 301 gadgets ................................................... ]
+[ Classifying 302 gadgets ................................................... ]
 [ ########################################################################### ]</code></pre>
 </div>
 <div class="sourceCode cell-code" id="cb40"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb40-1"><a href="#cb40-1" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(results)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
 <pre><code>              motif count mean_motif_sim sd_motif_sim     zscore
-1,2[II.C] 1,2[II.C]     8           7.34     2.615573 0.25233472
+1,2[II.C] 1,2[II.C]    11           7.34     2.615573 1.39931073
 2,2[I.D]   2,2[I.D]    20          14.26     5.279185 1.08728901
 2,2[V.D]   2,2[V.D]     1           0.96     1.292995 0.03093592</code></pre>
 </div>

@@ -11,6 +11,11 @@ h1.title {
 
 ***
 
+[Preparing data for social-ecological network analysis with `motifR`](https://liza-wood.github.io/sen_motifr/)  
+An overview on preparing social-ecological network for analysis in `motifR` along with the use of basic functions. 
+
+***
+
 [Introduction to `flexdashboard` with interactive data visualiation](https://liza-wood.github.io/intro-shiny/)  
 An introduction to making interactive dashboards with `flexdashboard` and Shiny integration. This was a brief lesson designed for the UC Davis Ecology Graduate Group Data Visualization ECL 290. 
 
