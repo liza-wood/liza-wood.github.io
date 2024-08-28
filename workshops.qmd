@@ -11,7 +11,7 @@ h1.title {
 
 ***
 
-[Preparing data for social-ecological network analysis with `motifR`](https://liza-wood.github.io/sen_motifr/)  
+[Preparing data for social-ecological network analysis with `motifR`](posts/sen_motifr.html)  
 An overview on preparing social-ecological network for analysis in `motifR` along with the use of basic functions. 
 
 ***
