@@ -24,9 +24,9 @@ Relevant publications and reports:
 
 *** 
 
-### Science in policy & policy in science   
+### Science for policy 
 
-Science is not value-free. Instead, policy-makers often use science that speaks to their problem framing, and scientists ask and frame questions based on their positionality. To understand how policy-makers use science, I am working with a team to design computational tools for extracting and analyzing citations across a range of policy documents. My main case is the transportation sector, where agencies rely on a vast array of science and engineering inputs to design infrastructure, site and plan operations, and make policies. To understand how and where transportation and transit agencies use science, this project looks at scientific resources that state and regional transit agencies use for plans and projects. Transportation planning and project development processes generate large quantities of procedural documents -- plans, project proposals, and environmental assessments, which we analyze to extract and assess the nature and sources of science that informs transportation governance.  
+Science is not value-free. Instead, policy-makers often use science that speaks to their problem framing, and scientists ask and frame questions based on their positionality. To understand how policy-makers use science, I work with a team to design computational tools for extracting and analyzing citations across a range of policy documents. Using a variety of cases (environmental and regulatory impact statements, transportation sector documents, etc), we look at the scientific resources that inform plans and projects to understand the scientific supply and demand for environmental policy. 
 
 Relevant publications and projects:  
 
@@ -35,6 +35,11 @@ Relevant publications and projects:
 <br>
 
 *** 
+
+<!---
+### Policy for science 
+--->
+
 
 ### Ag policy for environmental conservation  
 

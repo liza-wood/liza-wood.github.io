@@ -13,8 +13,8 @@ header-includes:
   
 ## EDUCATION
 
-Ph.D., Ecology and Environmental Policy    \hfill 2023    
-Specialization: Computational Social Science  
+Ph.D., Environmental Policy (Ecology Graduate Group)    \hfill 2023    
+Concentration: Computational Social Science  
 University of California Davis, Davis, CA, USA     
 
 M.Sc., Organic Farming and Food Production Systems  \hfill 2015  
@@ -31,7 +31,7 @@ Honors College at the College of Charleston, Charleston, SC, USA
 ## EMPLOYMENT  
 
 Postdoctoral Research Fellow  \hfill 2023 – present  
-University of Exeter, [Environment and Sustainability Institute](https://www.exeter.ac.uk/research/esi/) and [Sustainable Futures](https://business-school.exeter.ac.uk/management/about/sustainable-futures/)  
+University of Exeter Business School, [Sustainable Futures](https://business-school.exeter.ac.uk/management/about/sustainable-futures/)  
 
 Graduate Student Researcher and Teaching Assistant  
 University of California Davis   
@@ -59,26 +59,28 @@ Rudnick, J., Lubell, M., Khalsa, S.D.S., Tatge, S., **Wood, L.**, Sears, M., Bro
 
 ### UNDER REVIEW     
 
-**Wood, L.**, Hubbard, K., Zystro, J. Compliance within regulatory gray areas: The case of the organic seed standard. Revise and resubmit in *Regulation & Governance*.
+**Wood, L.**, Vantaggiato, F.P., Scott, T.A. Tracing the path of knowledge on ‘environmental governance processes’ for theory-building. Revise and resubmit.
 
-**Wood, L.**, Vantaggiato, F.P., Scott, T.A. Tracing the path of knowledge on ‘environmental governance processes’ for theory-building. Revise and resubmit in *Environmental Policy and Governance*.
+Scott, T., Kim, S., **Wood, L.** Open access, professional popularity, and agency involvement drive science referenced in U.S. EPA regulatory impact analyses from 2000 to 2022. Revise and resubmit.
 
-Scott, T., Kim, S., **Wood, L.** Open access, professional popularity, and agency involvement drive science referenced in U.S. EPA regulatory impact analyses from 2000 to 2022. Revise and resubmit in *Regulation & Governance*.
+**Wood, L.**, Lubell, M. Resource constellations and institutional logics shape network-building processes in the organic seed niche. Revise and resubmit.
 
-**Wood, L.**, Lubell, M. Mapping the spatial structure of the organic seed system: A network approach to the Global Innovation System framework. Under review in *Research Policy*.
+**Wood, L.**, Lubell, M. Mapping the spatial structure of the organic seed system: A network approach to the Global Innovation System framework. Under review. 
 
-**Wood, L.**, Lubell, M. Resource constellations and institutional logics shape network-building processes in the organic seed niche. Under review in *Environmental Innovation and Societal Transitions*.
 
 ### IN PREPARATION 
+
+**Wood, L.**, Hubbard, K., Zystro, J. Compliance within regulatory gray areas: The case of the organic seed standard.
 
 **Wood, L.**, Struthers, C., Scott, T.A., Kim, S. Science politics: How political context shapes public agencies’ use of science in environmental policymaking.  
 
 **Wood, L.** How public and private innovations shape environmental sustainability: Evidence from a century of plant patents.  
 
+<!---
 **Wood, L.**, Pascucci, S. Entanglements of ecological systems and organizational transformation in the organic seed niche.  
 
 van denBroek, O.M, Moon, J. Knudsen, J., **Wood, L.** Organizing cross-sector partnerships: Towards a network governance model. 
-
+--->
 
 ### REPORTS & CHAPTER         
 
@@ -90,12 +92,16 @@ Hubbard, K., Zystro, J., & **Wood, L**. (2022). [State of Organic Seed](https://
 
 ***
 
+
 ## PRESENTATIONS  
 
+**Wood, L.** (2024, September) How public innovation shapes environmental sustainability: Evidence from 90 years of plant patents. Research Policy 8th Online Conference for Early Career Researchers. 
+
+**Wood, L.** & Pascucci, S. (2024, July) Entanglements of ecological systems and organizational transformation in the organic seed niche. European Group for Organizational Studies. Milan, IT.  
+ 
 **Wood, L.** (2024, June) How public and private innovations shape environmental sustainability: Evidence from a century of plant patents. Environmental Politics and Governance Conference. Quebec City, CA. 
 
-**Wood, L.**, Pascucci, S. (2024, March) Mapping the research landscape of collaborative
-processes in sustainable business model innovation. King's College London Centre for Sustainable Business Short Paper Workshop: Unlocking pathways for a sustainable future. London, UK.  
+**Wood, L.**, Pascucci, S. (2024, March) Mapping the research landscape of collaborative processes in sustainable business model innovation. King's College London Centre for Sustainable Business Short Paper Workshop: Unlocking pathways for a sustainable future. London, UK.  
 
 **Wood, L** (2023, August) Sustained coexistence pathways for non-proprietary innovation. International Sustainable Transitions Conference. Utrecht, NL.   
 
@@ -171,6 +177,7 @@ Sustainability Literacy Writing Committee Member | College of Charleston \hfill 
 Faculty for Sustainable Living Workshop Coordinator | College of Charleston \hfill  2016 – 2018   
 Internal Fellowship Interview Panelist | College of Charleston \hfill  2016 – 2017 
 
+<!---
 ***  
 
 ## COMPUTATIONAL & STATISTICAL TRAINING 
@@ -180,3 +187,4 @@ Political Science Quantitative Methods I & II | UC Davis POL 212 & 213  \hfill  
 Algorithmic Reading: Quantitative Text Analysis in R | UC Davis STS 275   \hfill   2020      
 Social Network Analysis Short Course | UC Davis PHR 298 \hfill 2019  
 Introduction to Computational Social Science | UC Davis CMN 275    \hfill   2019    
+--->

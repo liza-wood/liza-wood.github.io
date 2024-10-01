@@ -1,7 +1,7 @@
 ---
 pagetitle: CV
 title: Liza Wood
-subtitle: Center for Environmental Policy & Behavior <br> University of California, Davis 
+output: pdf_document
 ---
 
 <style type="text/css">
