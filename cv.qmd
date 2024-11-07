@@ -61,13 +61,14 @@ Rudnick, J., Lubell, M., Khalsa, S.D.S., Tatge, S., **Wood, L.**, Sears, M., Bro
 
 Scott, T., Kim, S., **Wood, L.** Open access, professional popularity, and agency involvement drive science referenced in U.S. EPA regulatory impact analyses from 2000 to 2022. Revise & resubmit.
 
-**Wood, L.**, Lubell, M. Mapping the spatial structure of the organic seed system: A network approach to the Global Innovation System framework. Under review. 
+**Wood, L.**, Lubell, M. Mapping the spatial structure of the organic seed system: A network approach to the Global Innovation System framework. Revise & resubmit.
 
-<!---
 
-#### WORKING PAPERS  
+#### IN PREPARATION   
 
 **Wood, L.**, Hubbard, K., Zystro, J. Compliance within regulatory gray areas: The case of the organic seed standard. 
+
+**Wood, L.** How public and private innovations shape environmental sustainability: Evidence from a century of plant patents. 
 
 **Wood, L.**, Struthers, C., Scott, T.A., Kim, S. Science politics: How political context shapes public agencies’ use of science in environmental policymaking.  
 
@@ -75,6 +76,7 @@ Scott, T., Kim, S., **Wood, L.** Open access, professional popularity, and agenc
 
 van denBroek, O.M, **Wood, L.**, Moon, J. Knudsen, J. Organizing cross-sector partnerships: Towards a network governance model. 
 
+<!---
 #### CONFERENCE PAPERS 
 
 **Wood, L.**, Struthers, C., Scott, T.A., Kim, S. Science politics: How political context shapes public agencies’ use of science in environmental policymaking. Environmental Politics and Governance, 2023.  

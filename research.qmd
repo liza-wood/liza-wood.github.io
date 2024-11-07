@@ -8,43 +8,41 @@ h1.title {
 }
 </style>
 
-***
-
-### Seed innovation systems  
-
-<!---<img height="350" style="float: right; margin-left: 2em;" src="img/field.jpg"> --->
-Seed systems -- the seed savers, breeders, producers, companies, and agencies that are responsible for supplying our agricultural system with seeds -- are complex networks that rely on coordination of information and resources across multiple stakeholders.  Little is known about the systems-level interactions that support such a system, and the organic sector faces particular challenges with regards to research & development, intellectual property protections, and supply chain reliability. For this work, along with the [Organic Seed Alliance](https://seedalliance.org/), I conduct network analyses of organic seed systems to better understand opportunities for supporting transitions to a more sustainable seed system. We have released the [2022 State of Organic Seed Report](https://stateoforganicseed.org/state-of-organic-seed-2022/), alongside an [interactive data site](https://organicseed.shinyapps.io/SOSData/) to explore the survey and network data. We have also worked together to submit [public comments](https://seedalliance.org/2022/osa-provides-comments-to-usda-on-corporate-consolidation-and-control-over-seed/) regarding seed industry consolidation. This project is funded by the [Western Sustainable Agriculture Research and Education Program](https://projects.sare.org/sare_project/GW20-216/). 
-
-Relevant publications and reports:  
-
-* Wood, L. (2023). Final Report for [Network analysis of organic seed systems: a systems-level analysis for resilience](https://projects.sare.org/project-reports/gw20-216/). | Interactive data for [organic seed actors](https://liza-wood.shinyapps.io/actors-organic-seed-innovation/) and [organic seed networks](https://liza-wood.shinyapps.io/network-organic-seed-innovation/)  
-* Hubbard, K., Zystro, J., & **Wood, L**. (2022). [State of Organic Seed](https://stateoforganicseed.org/state-of-organic-seed-2022/). Port Townsend, Washington.  
-* **Wood, L**. (2022). Assessing the Resilience of the Organic Seed System: A Network Perspective. [Proceedings of the 11th Organic Seed Growers Conference](https://seedalliance.org/wp-content/uploads/2022/03/2022-OSGC-Proceedings-Final.pdf).   
-<br>
 
 *** 
 
 ### Science for policy 
 
-Science is not value-free. Instead, policy-makers often use science that speaks to their problem framing, and scientists ask and frame questions based on their positionality. To understand how policy-makers use science, I work with a team to design computational tools for extracting and analyzing citations across a range of policy documents. Using a variety of cases (environmental and regulatory impact statements, transportation sector documents, etc), we look at the scientific resources that inform plans and projects to understand the scientific supply and demand for environmental policy. 
+This research agenda is rooted in the premise that science – how it is conducted and how it is used – is not immune from politics. Instead, science and policy are in dynamic interaction, shaping one another and having a considerable impact on how we understand and react to sustainability challenges. Thus, I focus on how science is used in environmental policy using computational tools. Specifically, I work with a team designing programs and workflows for extracting and analyzing citations across a range of policy documents, allowing for large-scale bibliometric analyses.
+
 
 Relevant publications and projects:  
 
+* **Wood, L.**, Struthers, C., Scott, T.A., Kim, S. Science politics: How political context shapes public agencies’ use of science in environmental policymaking. Working paper for the Environmental Politics and Governance, 2023.  
 * **Wood, L** & Scott, T.A. (2023) [govscienceuseR](https://github.com/govscienceuseR): Tools for quantifying science in policy. Conference paper for Conference of Policy Process Research. Denver, CO.   
 * **Wood, L.**, Scott, T. (2022) Transportation agencies as consumers and producers of science: The case of state, regional, and county transportation agencies in California. Revise & resubmit in *Transport Policy 128*. [https://doi.org/10.1016/j.tranpol.2022.08.016](https://doi.org/10.1016/j.tranpol.2022.08.016).   
 <br>
 
 *** 
 
-<!---
-### Policy for science 
---->
+### Innovation systems and networks 
 
+<!---<img height="350" style="float: right; margin-left: 2em;" src="img/field.jpg"> --->
 
-### Ag policy for environmental conservation  
+This research agenda explores the conditions under which ‘niche’ innovations develop, as these niches are an important source of the technological and organizational changes necessary for environmental sustainability. Theories in this field have been built around qualitative case studies, but rarely have these propositions been quantitatively tested. My research fills this gap by analyzing niche innovation systems using social network methods, focusing on an innovation that is deeply intertwined with regional agro-ecological diversity: agricultural seeds. Specifically, I work with the case of the organic seed niche – a network of informational, economic, and ecological relationships – built using original survey data of organic seed stakeholders in the US. In this research I have worked along with the [Organic Seed Alliance](https://seedalliance.org/) to release the [2022 State of Organic Seed Report](https://stateoforganicseed.org/state-of-organic-seed-2022/) and submit [public comments](https://seedalliance.org/2022/osa-provides-comments-to-usda-on-corporate-consolidation-and-control-over-seed/) regarding seed industry consolidation. This project is funded by the [Western Sustainable Agriculture Research and Education Program](https://projects.sare.org/sare_project/GW20-216/). 
 
-<!---<img height="300" style="float: right; margin-left: 2em;" src="img/tractor.jpg">--->
-How policies affect farmer behavior in confronting environmental challenges has major implications for the sustainability of the food system. Policies such as voluntary incentives and certification, mandatory reporting, and sponsored research support are just some of the approaches utilized by the US government. My work in this area looks at programs like the Irrigated Lands Regulatory Program (ILRP), a California policy that mandates engagement with information-based tools. In the context of the ILRP, we evaluate farmers surveys to quantitatively assess the stages that farmers go through as they learn about nitrogen management and change behavior. A summary of our team's research research can be found in this [PDF presentation](https://www.nationalacademies.org/event/02-11-2021/docs/D8EB911B024B8CBEB9AA0D4B91AA983EB7BBBED0C524). We have also evaluated farmers' opinions related to policies for California's Sustainable Groundwater Management Act (SGMA).  
+Relevant publications and reports:  
+
+* Wood, L. (2023). Final Report for [Network analysis of organic seed systems: a systems-level analysis for resilience](https://projects.sare.org/project-reports/gw20-216/). | Interactive data for [organic seed actors](https://liza-wood.shinyapps.io/actors-organic-seed-innovation/) and [organic seed networks](https://liza-wood.shinyapps.io/network-organic-seed-innovation/)  
+* Hubbard, K., Zystro, J., & **Wood, L**. (2022). [State of Organic Seed](https://stateoforganicseed.org/state-of-organic-seed-2022/). Port Townsend, Washington. | [Interactive data site](https://organicseed.shinyapps.io/SOSData/). 
+* **Wood, L**. (2022). Assessing the Resilience of the Organic Seed System: A Network Perspective. [Proceedings of the 11th Organic Seed Growers Conference](https://seedalliance.org/wp-content/uploads/2022/03/2022-OSGC-Proceedings-Final.pdf).   
+<br>
+
+*** 
+
+### Agri-environmental regulation 
+
+In this research area, I investigate whether the policy tools designed for better environmental outcomes have their intended effect. Policies such as voluntary incentives and certification, mandatory reporting, and sponsored research support are just some of the approaches utilized by the US government. These tools often have complex designs, such as blending stringent requirements with regulator discretion, and there is still much to be understood about how and why firms comply in different policy landscapes. I use farmer surveys in different agri-environmental contexts to understand compliance from the lenses of regulation and farmer behavior literature.
 
 Relevant publications and projects:  
 
@@ -55,13 +53,22 @@ Relevant publications and projects:
 
 *** 
 
+
+### Innovation for the public good
+
+Improving environmental outcomes will depend, in part, on technological innovation. But innovation is not value-free; it reflects the diverse motivations and imaginations of innovators. Sector can influence these motivations and public, 'mission-oriented' innovation policy has recently gained traction as a promise for sustainability transitions. However, there is still much to understand about how public institutions are involved in mission-based innovation. This research agenda shifts the focus from traditional innovation studies' attention from _how much_ to _what kinds_ of innovation are publicly supported. 
+
+Relevant publications and projects:  
+
+* **Wood, L.** How public and private innovations shape environmental sustainability: Evidence from a century of plant patents. Working paper at the Environmental Politics and Governance, 2024 & RP 8th 8th Online Conference for ECRs, 2024. 
+
+<!---
 ### Graduate student strike action  
 
-<!---<img  height="270.4" style="float: right; margin-left: 2em;" src="img/strike.png">--->
 During Fall term of 2022, University of California graduate and post-doctoral unions went on strike to demand higher wagers, stronger protections, and more comprehensive benefits. As a fifth-year graduate student at the time of the strike action, I felt that the claims coming from both the Union and the UC were opaque. In response, I dedicated much of my strike time to digging into the data behind the union's and university's claims throughout the striking and bargaining process.  
 
 My first initiative was [an opinion on the UC strike action vote](posts/uc_strikevote_opinion.html), which evaluated the current wages for graduate students across the US and put them in the context of cost of living the UC union's demands. I also looked into the relationship between [student and faculty salaries at the UC](posts/uc_strikepay_opinion.html), largely in response to faculty resistance at graduate student demands. Following the UC's first official communication since the start of the strike, I drafted a [response to the Provost](https://liza-wood.github.io/posts/response_to_provost_brown.html) to point out the UC's false claims regarding the wages it was offering. Finally, as the Union and the UC began making more compromising proposals, I developed an [interactive pay estimator](https://liza-wood.shinyapps.io/uc_pay_estimator/) to help graduate students understand what these proposals meant for the salaries for the following academic year.  
-
+--->
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-HJX1JG1FCV"></script>
@@ -72,4 +79,3 @@ My first initiative was [an opinion on the UC strike action vote](posts/uc_strik
 
   gtag('config', 'G-HJX1JG1FCV');
 </script>
-
