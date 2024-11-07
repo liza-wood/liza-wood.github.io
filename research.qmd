@@ -11,7 +11,7 @@ h1.title {
 
 *** 
 
-### Science for policy 
+### Science in policymaking
 
 This research agenda is rooted in the premise that science – how it is conducted and how it is used – is not immune from politics. Instead, science and policy are in dynamic interaction, shaping one another and having a considerable impact on how we understand and react to sustainability challenges. Thus, I focus on how science is used in environmental policy using computational tools. Specifically, I work with a team designing programs and workflows for extracting and analyzing citations across a range of policy documents, allowing for large-scale bibliometric analyses.
 
