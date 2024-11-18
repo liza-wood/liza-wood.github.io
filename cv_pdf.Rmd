@@ -41,11 +41,12 @@ University of California Davis
 
 Assistant Director of First-Year Experience  \hfill 2016 – 2018    
 College of Charleston, New Student Programs  
-
+<!---
 Climate & Fisheries Extension Researcher  \hfill 2012 – 2013  
 South Carolina Sea Grant Consortium
+--->
 
-***
+***  
 
 ## PUBLICATIONS
 
@@ -59,26 +60,23 @@ Rudnick, J., Lubell, M., Khalsa, S.D.S., Tatge, S., **Wood, L.**, Sears, M., Bro
 
 ### UNDER REVIEW     
 
-**Wood, L.**, Vantaggiato, F.P., Scott, T.A. Tracing the path of knowledge on ‘environmental governance processes’ for theory-building. Revise and resubmit.
+**Wood, L.**, Lubell, M. Resource constellations and institutional logics shape network-building processes in the organic seed niche. Revise and resubmit in _Environmental Innovation and Societal Transitions_.
 
-Scott, T., Kim, S., **Wood, L.** Open access, professional popularity, and agency involvement drive science referenced in U.S. EPA regulatory impact analyses from 2000 to 2022. Revise and resubmit.
+**Wood, L.** Mapping the spatial structure of the organic seed system: A network approach to the Global Innovation System framework. Revise and resubmit in _Research Policy_.
 
-**Wood, L.**, Lubell, M. Resource constellations and institutional logics shape network-building processes in the organic seed niche. Revise and resubmit.
+Scott, T., Kim, S., **Wood, L.** Open access, professional popularity, and agency involvement drive science referenced in U.S. EPA regulatory impact analyses from 2000 to 2022. Revise and resubmit in _Regulation & Governance_.
 
-**Wood, L.** Mapping the spatial structure of the organic seed system: A network approach to the Global Innovation System framework. Revise and resubmit.
-
+**Wood, L.**, Vantaggiato, F.P., Scott, T.A. Tracing the path of knowledge on ‘environmental governance processes’ for theory-building. Revise and resubmit in _Environmental Policy and Governance_.
 
 ### IN PREPARATION 
 
-**Wood, L.**, Struthers, C., Scott, T.A., Kim, S. Science politics: How political context shapes public agencies’ use of science in environmental policymaking.  
+**Wood, L.**, Struthers, C., Scott, T.A., Kim, S. Science politics: How political context shapes public agencies’ use of science in environmental policymaking. In prep for _Journal of Public Administration Research and Theory_. 
 
-**Wood, L.**, Hubbard, K., Zystro, J. Compliance within regulatory gray areas: The case of the organic seed standard.
+**Wood, L.** How public and private innovations shape environmental sustainability: Evidence from a century of plant patents. In prep for _Journal of Public Policy_.
 
-**Wood, L.** How public and private innovations shape environmental sustainability: Evidence from a century of plant patents.  
+**Wood, L.**, Hubbard, K., Zystro, J. Compliance within regulatory gray areas: The case of the organic seed standard. In prep for _Policy Studies Journal_.
 
-**Wood, L.**, Pascucci, S. Entanglements of ecological systems and organizational transformation in the organic seed niche.  
-
-van denBroek, O.M, Moon, J. Knudsen, J., **Wood, L.** Organizing cross-sector partnerships: Towards a network governance model. 
+**Wood, L.**, Pascucci, S. Entanglements of ecological systems and organizational transformation in the organic seed niche. In prep for _Organization_.
 
 
 ### REPORTS & CHAPTER         
