@@ -63,6 +63,7 @@ Scott, T., Kim, S., **Wood, L.** Open access, professional popularity, and agenc
 
 **Wood, L.**, Lubell, M. Mapping the spatial structure of the organic seed system: A network approach to the Global Innovation System framework. Revise & resubmit.
 
+<!---
 
 #### IN PREPARATION   
 
@@ -72,7 +73,6 @@ Scott, T., Kim, S., **Wood, L.** Open access, professional popularity, and agenc
 
 **Wood, L.**, Struthers, C., Scott, T.A., Kim, S. Science politics: How political context shapes public agencies’ use of science in environmental policymaking.  
 
-<!---
 
 **Wood, L.**, Pascucci, S. Entanglements of ecological systems and organizational transformation in the organic seed niche.  
 
