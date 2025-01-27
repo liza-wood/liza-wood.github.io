@@ -33,6 +33,7 @@ This research agenda explores the conditions under which ‘niche’ innovations
 
 Relevant publications and reports:  
 
+* Wood, L., Lubell, M. (2025) Resource constellations and institutional logics shape network-building processes in the organic seed niche. Accepted. *Environmental Innovation and Societal Transitions*.  
 * Wood, L. (2023). Final Report for [Network analysis of organic seed systems: a systems-level analysis for resilience](https://projects.sare.org/project-reports/gw20-216/). | Interactive data for [organic seed actors](https://liza-wood.shinyapps.io/actors-organic-seed-innovation/) and [organic seed networks](https://liza-wood.shinyapps.io/network-organic-seed-innovation/)  
 * Hubbard, K., Zystro, J., & **Wood, L**. (2022). [State of Organic Seed](https://stateoforganicseed.org/state-of-organic-seed-2022/). Port Townsend, Washington. | [Interactive data site](https://organicseed.shinyapps.io/SOSData/). 
 * **Wood, L**. (2022). Assessing the Resilience of the Organic Seed System: A Network Perspective. [Proceedings of the 11th Organic Seed Growers Conference](https://seedalliance.org/wp-content/uploads/2022/03/2022-OSGC-Proceedings-Final.pdf).   
