@@ -82,6 +82,8 @@ processes in sustainable business model innovation. KCL24
 
 #### REPORTS         
 
+**Wood, L.**, Pascucci, S., Foppe, A., Ashouri, S., Materia, V., Alerasoul, A. (2024). [How to design sustainable business models: A research integrated protocol](https://zenodo.org/records/14224521). Deliverable 5.1 for InBestSoil: Monetary valuation of soil ecosystem services and creation of initiatives to invest in soil health.  
+
 **Wood, L**. (2022). Assessing the Resilience of the Organic Seed System: A Network Perspective. [Proceedings of the 11th Organic Seed Growers Conference](https://seedalliance.org/wp-content/uploads/2022/03/2022-OSGC-Proceedings-Final.pdf).
 
 Hubbard, K., Zystro, J., & **Wood, L**. (2022). [State of Organic Seed](https://stateoforganicseed.org/state-of-organic-seed-2022/). Port Townsend, Washington. \| Data explorer: <https://organicseed.shinyapps.io/SOSData/>
@@ -127,7 +129,7 @@ Hubbard, K., Zystro, J., & **Wood, L**. (2022). [State of Organic Seed](https://
 #### DATA SCIENCE   
 
 Instructor |  Contracted by California State Water Board   
-  [R for Water Resources Data Science](https://www.r4wrds.com/) <span style="float:right;">Spring 2023 & 2024</span>  
+  [R for Water Resources Data Science](https://www.r4wrds.com/) <span style="float:right;">Spring 2023, 2024 & 2025</span>  
   
 Teaching Assistant | UC Davis -- UC Davis DataLab   
   IST 8x: [Adventures in Data Science](https://ucdavisdatalab.github.io/adventures_in_data_science/) <span style="float:right;">Winter & Spring 2022 & 2023</span>   
