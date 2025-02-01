@@ -12,6 +12,8 @@ website:
         text: Research 
       - href: workshops.qmd
         text: Workshops / Tutorials
+      - href: teaching.qmd
+        text: Teaching 
       - href: cv.qmd
         text: CV
     right:
