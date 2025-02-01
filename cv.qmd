@@ -169,7 +169,7 @@ Fulbright Maastricht University Award to Maastricht, The Netherlands  <span styl
 ## SERVICE
 
 Program Committee Member | Atlanta Conference on Science and Innovation Policy <span style="float:right;"> 2025</span>  
-Reviewer | _Policy Studies Journal, Society & Natural Resources, Environmental Innovations and Societal Transitions_ <span style="float:right;">  2023 – 2024</span>  
+Reviewer | _Policy Studies Journal, Society & Natural Resources, Environmental Innovations and Societal Transitions, Frontiers in Agronomy_ <span style="float:right;">  2023 – 2025</span>  
 [Davis R Users Group](https://d-rug.github.io/) Coordinator | UC Davis <span style="float:right;"> 2021 – 2023</span>  
 Ecology Graduate Group Graduate Student Mentor | UC Davis <span style="float:right;">  2019 – 2022</span>   
 Data Carpentries Instructor | The Carpentries <span style="float:right;">  2021 – 2022</span>    
