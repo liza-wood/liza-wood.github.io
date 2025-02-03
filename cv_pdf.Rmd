@@ -52,6 +52,10 @@ South Carolina Sea Grant Consortium
 
 ### PEER-REVIEWED PUBLICATIONS  
 
+**Wood, L.**, Lubell, M. Resource constellations and institutional logics shape network-building processes in the organic seed niche. _Environmental Innovation and Societal Transitions_, accepted. 
+
+**Wood, L.**, Vantaggiato, F.P., Scott, T.A. Tracing the path of knowledge on ‘environmental governance processes’ for theory-building. _Environmental Policy and Governance_, accepted. 
+
 **Wood, L.**, Scott, T. (2022) Transportation agencies as consumers and producers of science: The case of state, regional, and county transportation agencies in California. *Transport Policy 128*. https://doi.org/10.1016/j.tranpol.2022.08.016.   
 
 **Wood, L.**, Lubell, M., Rudnick, J., Khalsa, S.D.S., Tatge, S., Sears, M., Brown, P. (2021) Mandatory information-based policy tools facilitate California farmers’ learning about nitrogen management. *Land Use Policy 114*. https://doi.org/10.1016/j.landusepol.2021.105923.    
@@ -60,21 +64,22 @@ Rudnick, J., Lubell, M., Khalsa, S.D.S., Tatge, S., **Wood, L.**, Sears, M., Bro
 
 ### UNDER REVIEW     
 
-**Wood, L.**, Lubell, M. Resource constellations and institutional logics shape network-building processes in the organic seed niche. Revise and resubmit in _Environmental Innovation and Societal Transitions_.
+**Wood, L.** Mapping the spatial structure of the organic seed system: A network approach to the Global Innovation System framework. 
 
-**Wood, L.** Mapping the spatial structure of the organic seed system: A network approach to the Global Innovation System framework. Revise and resubmit in _Research Policy_.
+Scott, T., Kim, S., **Wood, L.** Open access, professional popularity, and agency involvement drive science referenced in U.S. EPA regulatory impact analyses from 2000 to 2022. 
 
-Scott, T., Kim, S., **Wood, L.** Open access, professional popularity, and agency involvement drive science referenced in U.S. EPA regulatory impact analyses from 2000 to 2022. Revise and resubmit in _Regulation & Governance_.
+**Wood, L.**, Zystro, J., Hubbard, K. Compliance in regulatory gray areas: The case of the organic seed standard. 
 
-**Wood, L.**, Vantaggiato, F.P., Scott, T.A. Tracing the path of knowledge on ‘environmental governance processes’ for theory-building. Revise and resubmit in _Environmental Policy and Governance_.
+### CONFERENCE PAPERS
 
-### IN PREPARATION 
+**Wood, L.** How public and private innovations shape environmental sustainability: Evidence from a century of plant patents. Research Policy 8th Online Conference for Early Career Researchers (2024).  
 
-**Wood, L.**, Struthers, C., Scott, T.A., Kim, S. Science politics: How political context shapes public agencies’ use of science in environmental policymaking. In prep for _Journal of Public Administration Research and Theory_. 
+**Wood, L.** & Pascucci, S. Entanglements of ecological systems and organizational transformation in the organic seed niche. European Group for Organizational Studies (2024).  
 
-**Wood, L.** How public and private innovations shape environmental sustainability: Evidence from a century of plant patents. In prep for _Journal of Public Policy_.
+**Wood, L.**, Pascucci, S. Mapping the research landscape of collaborative processes in sustainable business model innovation. King's College London Centre for Sustainable Business Short Paper Workshop: Unlocking pathways for a sustainable future (2024)   
 
-**Wood, L.**, Hubbard, K., Zystro, J. Compliance within regulatory gray areas: The case of the organic seed standard. In prep for _Policy Studies Journal_.
+**Wood, L.**, Struthers, C., Scott, T.A., Kim, S. Science politics: How political context shapes public agencies’ use of science in environmental policymaking. Environmental Politics and Governance Conference (2023).  
+
 
 ### REPORTS & CHAPTER         
 
@@ -89,33 +94,27 @@ Hubbard, K., Zystro, J., & **Wood, L**. (2022). [State of Organic Seed](https://
 
 ## PRESENTATIONS  
 
-**Wood, L.** (2024, September) How public innovation shapes environmental sustainability: Evidence from 90 years of plant patents. Research Policy 8th Online Conference for Early Career Researchers. Remote presentation. 
+### CONFERENCE PRESENTATIONS  
 
-**Wood, L.** & Pascucci, S. (2024, July) Entanglements of ecological systems and organizational transformation in the organic seed niche. European Group for Organizational Studies. Milan, IT.  
- 
-**Wood, L.** (2024, June) How public and private innovations shape environmental sustainability: Evidence from 90 years of plant patents. Environmental Politics and Governance Conference. Quebec City, CA. 
+Research Policy 8th Online Conference for Early Career Researchers \hfill 2024  
+European Group for Organizational Studies \hfill 2024  
+Environmental Politics and Governance Conference \hfill 2023, 2024  
+King's College London Centre for Sustainable Business Short Paper Workshop \hfill 2024  
+International Sustainable Transitions Conference  \hfill 2022, 2023   
+Conference of Policy Process Research  \hfill 2023  
+Duck Family Workshop on Environmental Politics and Governance  \hfill 2022   
+Atlanta Academy on Science and Innovation Policy  \hfill 2022   
+American Association of Geographers Annual Meeting  \hfill 2020   
+International Association for the Study of the Commons  \hfill 2019  
 
-**Wood, L.**, Pascucci, S. (2024, March) Mapping the research landscape of collaborative processes in sustainable business model innovation. King's College London Centre for Sustainable Business Short Paper Workshop: Unlocking pathways for a sustainable future. London, UK.  
+### INVITED TALKS    
 
-**Wood, L** (2023, August) Sustained coexistence pathways for non-proprietary innovation. International Sustainable Transitions Conference. Utrecht, NL.   
+Newcastle University School of Natural and Environmental Sciences Seminar Series  \hfill 2022  
+_Supporting innovation for sustainable agriculture: The case of the organic seed system in the United States._ 
 
-**Wood, L**, Scott, T.A, Struthers, C., Kim, S. (2023, July) Science politics: How political context shapes public agencies’ use of science in environmental policymaking. Environmental Politics and Governance Conference. Glasgow, UK.  
+Mars-Wrigley Cacao Research and Development Seminar Series \hfill 2022   
+_Mapping the seed innovation system_  
 
-**Wood, L** & Scott, T.A. (2023, January) [govscienceuseR: Tools for quantifying science in policy](https://github.com/govscienceuseR). Conference of Policy Process Research. Denver, CO.  
-
-**Wood, L** & Lubell, M. (2022, November). Analyzing sustainability transitions with innovation system networks: The case of the organic seed system in the United States. International Sustainable Transitions Conference, remote presentation.  
-
-**Wood, L**. (2022, June). Supporting innovation for sustainable agriculture: The case of the organic seed system in the United States. Newcastle University School of Natural and Environmental Sciences Seminar Series, invited talk, remote presentation.  
-
-**Wood, L**. (2022, May). Governing agrobiodiversity: A comparison of regional seed innovation systems as social-ecological networks. 8th Annual Duck Family Workshop on Environmental Politics and Governance, University of Washington. Seattle, WA.     
-
-**Wood, L**. (2022, March). Seed innovation systems in the US: The politics of science for  agro-ecological transitions. Atlanta Academy on Science and Innovation Policy. Atlanta, GA.    
-
-**Wood, L**. (2021, December). Mapping the seed innovation system. Mars-Wrigley Cacao Research &  Development Seminar Series. Davis, CA.  
-
-**Wood, L**. & Rudnick, J. (2020, April). The effect of information-based policy tools on farmers’ nitrogen management. American Association of Geographers Annual Meeting, remote presentation.    
-
-**Wood, L**. (2019, July). Assessing Seed System Resilience: A Case Study from Northeastern Thailand. International Association for the Study of the Commons, Lima, Peru.  
 
 ***
 
