@@ -1,0 +1,209 @@
+---
+title: "Part 3. Imperfections of bibliometric data"
+author: "Liza Wood"
+date: "February 4 2025"
+description: ""
+#type: post
+toc: FALSE
+---
+
+## Know thy query rules 
+
+What are the defaults of Scopus vs. Web of Science and why it matters
+* Which keywords?
+* Lemmatization
+* AND or OR taking precedence
+
+## Imperfect indexing of references 
+
+
+
+```{r}
+base_url = 'https://wos-api.clarivate.com/api/wos'
+url <- httr2::url_parse(base_url)
+```
+
+So there are 71 articles in the database. BUT, there are limited to how many can be returned at a time. Without specifying any return, we get 10. 
+```{r}
+query <- paste0('(AB=(\"commons\"))')
+
+url$query <- list(firstRecord = 1,
+                  optionView = 'FR',
+                  databaseId = 'WOS',
+                  lang='en',
+                  publishTimeSpan='2010-01-01+2024-12-31',
+                  cursor = "*",
+                  usrQuery = query)
+built_url = url_build(url)
+qurl <- str_replace(built_url,"%2A","*")
+
+js <- request(qurl) %>%  httr2::req_headers(`X-ApiKey` = wos_key) %>% 
+  req_perform() %>%  resp_body_string() %>%  jsonlite::fromJSON()
+total_records <- js$QueryResult$RecordsFound
+
+count = 25
+num_queries <- ceiling(total_records/count)
+
+wos <- list()
+for(i in 1:num_queries){
+  Sys.sleep(0.5) # Need to slow it down a little
+  url$query <- list(firstRecord = (i*count)-(count-1),
+                  optionView = 'FR',
+                  databaseId = 'WOS',
+                  lang='en',
+                  count = count,
+                  publishTimeSpan='2010-01-01+2024-12-31',
+                  cursor = "*",
+                  usrQuery = query)
+  built_url = url_build(url)
+  qurl <- built_url
+  js <- request(qurl) |> httr2::req_headers(`X-ApiKey` = wos_key) |>
+    req_perform() |> resp_body_string() |> jsonlite::fromJSON()
+  wos[[i]] <- js$Data$Records$records$REC
+}
+
+extractWOS_IDs <- function(x,value.var = NULL){
+  if(class(x)=='data.frame')
+  {y = data.table(x)
+    return(y = dcast(y,.~type,value.var = value.var,fun.aggregate = function(x) paste(x, collapse=";;")))}
+  if(class(x)=='list'){
+   y = as.data.frame(x)
+   return(y)
+  }
+}
+
+id_list <- lapply(wos,function(st) {
+  st_list <- lapply(st$dynamic_data$cluster_related$identifiers$identifier,
+                    extractWOS_IDs,value.var = 'value')
+  st_id = rbindlist(st_list,fill = T,use.names = T)
+  st_id$UID <- st$UID
+  st_id
+  })
+
+wos_ids <- rbindlist(id_list,fill = T,use.names = T)
+wos_ids <- wos_ids[,c('UID', 'doi')]
+```
+
+Now let's get the references of those
+```{r}
+uids <- wos_ids$UID
+## Then use the UIDs to get the references
+base_url = 'https://wos-api.clarivate.com/api/wos/references/'
+url <- httr2::url_parse(base_url)
+
+# Do this to create the shape of the data frame
+citations <- data.frame(matrix(ncol = 10))
+colnames(citations) <- c("UID", "CitedAuthor", "TimesCited", "Year", "Page",
+                         "Volume", "CitedWork", "CitedTitle", "DOI", "WOS_sourceUID")
+
+for(i in 1:length(uids)){
+  url$query <- list(firstRecord = 1,
+                    databaseId = 'WOS',
+                    uniqueId= uids[i],
+                    count = 100)
+  built_url = url_build(url)
+  qurl <- built_url
+  qurl <- str_replace(qurl,"%3A",":")
+  qurl <- str_replace(qurl,"%2A","*")
+  #qurl <- paste0(qurl,'/references')
+  js <- request(qurl) |> httr2::req_headers(`X-ApiKey` = wos_key) |>
+    req_perform() |> resp_body_string() |> jsonlite::fromJSON()
+  if(length(js$Data) > 0){
+    wos_ref <- js$Data
+  } else {Sys.sleep(.8)
+    next}
+  #edt$WOS_sourceUID <- look_at_refs[[i]]
+  if(FALSE %in% (colnames(citations) %in% colnames(wos_ref))){
+    add <- colnames(citations)[which(!(colnames(citations) %in% colnames(wos_ref)))]
+    for(j in 1:length(add)){
+      wos_ref[,add[j]] <- NA
+    }
+  }
+  wos_ref <- dplyr::select(wos_ref, colnames(citations))
+  wos_ref <- wos_ref[!is.na(wos_ref$UID),]
+  wos_ref$WOS_sourceUID <- uids[i]
+  citations <- rbind(citations, wos_ref)
+  Sys.sleep(.8)
+}
+
+citations <- citations[!is.na(citations$UID),]
+citations_ostrom <- citations[str_detect(citations$CitedAuthor, 'Ostrom'), ]
+citations_ostrom_u <- unique(citations_ostrom[, -10])
+```
+
+# Comparing reference lists between databases 
+
+```{r}
+base_url = 'https://wos-api.clarivate.com/api/wos'
+url <- httr2::url_parse(base_url)
+
+query <- paste0('(TI=\"A General Framework for Analyzing Sustainability of Social-Ecological Systems\")')
+
+url$query <- list(firstRecord = 1,
+                  optionView = 'FR',
+                  databaseId = 'WOS',
+                  lang='en',
+                  #publishTimeSpan='1990-01-01+1990-12-31',
+                  cursor = "*",
+                  usrQuery = query)
+built_url = url_build(url)
+qurl <- str_replace(built_url,"%2A","*")
+
+js <- request(qurl) %>%  httr2::req_headers(`X-ApiKey` = wos_key) %>% 
+  req_perform() %>%  resp_body_string() %>%  jsonlite::fromJSON()
+js$QueryResult$RecordsFound
+records <- js$Data$Records$records$REC
+```
+
+```{r}
+base_url = 'https://wos-api.clarivate.com/api/wos/references/'
+url <- httr2::url_parse(base_url)
+
+# Do this to create the shape of the data frame
+citations <- data.frame(matrix(ncol = 10))
+colnames(citations) <- c("UID", "CitedAuthor", "TimesCited", "Year", "Page",
+                         "Volume", "CitedWork", "CitedTitle", "DOI", "WOS_sourceUID")
+
+url$query <- list(firstRecord = 1,
+                    databaseId = 'WOS',
+                    uniqueId= records$UID,
+                    count = 100)
+qurl = url_build(url)
+qurl <- str_replace(qurl,"%3A",":")
+qurl <- str_replace(qurl,"%2A","*")
+js <- request(qurl) |> httr2::req_headers(`X-ApiKey` = wos_key) |>
+  req_perform() |> resp_body_string() |> jsonlite::fromJSON()
+references <- js$Data
+```
+
+
+```{r}
+
+options(openalexR.mailto = my_email)
+
+#### oa_fetch lets you feed in ALL the ids at once and handles the pagination for you...
+#### for now, this seems to work ok...
+#res <- openalexR::oa_fetch(entity = 'works',identifier = dt$OA_ID,abstract = F,per_page = 200,paging = 'cursor')
+#### for me (Liza) it isn't working so I rewrote and focused on references and
+#### language filter, also pub year because I want us to filter sooner than later
+res <- openalexR::oa_fetch(entity = 'works',
+                           identifier = "W2034994370",
+                           output = 'dataframe',
+                           options = list(select = c('id', 'publication_year',
+                                                      'language', 'type',
+                                                      'referenced_works')),
+                           abstract = F,per_page = 200,paging = 'cursor')
+
+
+summary(lengths(res$referenced_works))
+
+res_sets <- mapply(function(x,y) data.table(work_id = x, reference_id = y),
+                   x = res$id, y = res$referenced_works, SIMPLIFY = F)
+
+el <- rbindlist(res_sets,use.name = T,fill = T)
+el$work_id <- basename(el$work_id)
+el$reference_id <- basename(el$reference_id)
+```
+
+
+

@@ -83,6 +83,8 @@ Scott, T., Kim, S., **Wood, L.** Open access, professional popularity, and agenc
 
 ### REPORTS & CHAPTER         
 
+**Wood, L.**, Pascucci, S., Foppe, A., Ashouri, S., Materia, V., Alerasoul, A. (2024). [How to design sustainable business models: A research integrated protocol](https://zenodo.org/records/14224521). Deliverable 5.1 for InBestSoil: Monetary valuation of soil ecosystem services and creation of initiatives to invest in soil health.  
+
 Hubbard, K., Zystro, J., & **Wood, L**. (2022). [State of Organic Seed](https://stateoforganicseed.org/state-of-organic-seed-2022/). Port Townsend, Washington. \| Data explorer: <https://organicseed.shinyapps.io/SOSData/>
 
 **Wood, L**., Lubell, M. (2022). [Vina Subbasin Farmer Survey Report](https://www.buttecounty.net/DocumentCenter/View/5316/Agricultural-Irrigation-Efficiency-Study-Report-PDF) \| Data explorer: <https://liza-wood.shinyapps.io/Vina-interactive-survey/>

@@ -1,0 +1,8 @@
+---
+title: "Part 2. Bibliometric data"
+author: "Liza Wood"
+date: "February 4 2025"
+description: ""
+#type: post
+toc: FALSE
+---

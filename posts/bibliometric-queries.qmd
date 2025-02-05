@@ -1,0 +1,447 @@
+---
+title: "Part 1. Querying Bibliometric APIs and wrangling output"
+author: "Liza Wood"
+date: "February 4 2025"
+description: ""
+type: post
+toc: TRUE
+---
+
+```{r, echo = F, results = F}
+knitr::opts_chunk$set(
+  echo = T, warning = F,  error = F, message = F)
+```
+# Introduction 
+
+Bibliometric data, particularly collected via APIs, can help make literature reviews (and our understanding of a literature) more streamlined, reproducible, and powerful. 
+
+1. Streamlined: By starting your queries and/or data extraction right from the API, there is no more exporting files from search pages or copying a pasting information from journals' metadata. Once you get a hand of the API, this will help smooth out the process and allow you to quickly work with large databases without any manual steps.   
+2. Reproducible: Relatedly, reducing manual steps in the literature review process (and instead embedding those steps into code) makes your research process more transparent and reproducible. Rather than providing the search terms, having your query explicitly written into your code will help other researchers understand exactly what you searched for, how you later filtered the data, and what details you extract and clean. 
+3. Powerful: There is a lot of data available in bibliometric databases that are hard to extract from the user interface. With the API, you can leverage data such as references, impact metrics, author affiliations, etc. more easily than if you were working with the user interface. 
+
+This tutorial is Part 1 of a three-part series, which focuses on the basics of API use and accomplishing the first two benefits: streamlined and reproducible. It will walk through using various APIs -- Web of Science, Scopus, and OpenAlex -- to query bibliometric databases and clean up the outputs to make them usable. 
+
+# Getting started 
+
+## API Keys 
+First, we'll need API keys for the proprietary databases: Web of Science (Clarivate) and Scopus (Elsevier). These are typically available for free if you are affiliated with a university that subscribes to these publishers, but it does require applying. For Web of Science, they have several API products and the main one we use is the [Web of Science API Expanded](https://developer.clarivate.com/apis/wos). Scopus has fewer options and you can apply here through the [Elsevier Developer Portal](https://dev.elsevier.com/)
+
+When you get these keys, there is a matter of storage. These keys are yours, so you should keep them stored separately (and hidden/ignored) in your R workflow and source them in so that they are not hard coding into code that you may share or store publicly in GitHub. Some may think this is chaos to just keep them outside, but...
+```{r}
+source('~/Documents/Davis/R-Projects/wos_key.R')
+source('~/Documents/Davis/R-Projects/scopus_key.R')
+```
+
+## Packages 
+
+Second, we're going to rely on four packages for this tutorial, below. I'll note that there are packages that act as wrappers around bibliometric APIs, such as [wosr](https://github.com/cran/wosr). However, these packages are not always maintained and can bug, so here we are going to be interfacing directly with the APIs, which means we only only need a few packages, namely `httr2` and `jsonlite`. 
+
+```{r}
+#library(wosr)
+library(data.table)
+library(stringr)
+library(httr2)
+library(jsonlite)
+```
+
+
+# Web of Science / Clarivate
+
+First we will set our base URL of the API, which will will append our search queries to. 
+
+```{r}
+base_url = 'https://wos-api.clarivate.com/api/wos'
+url <- httr2::url_parse(base_url)
+```
+
+## Query a phrase 
+
+Now first, let's identify what we want to query. We will go with something simple: 
+```{r}
+query <- "niche innovation"
+```
+
+However, it is good to know that the default in WoS is that it lemmatizes words unless you embed the word in quotes. So we will embed this query in quotes and then write our query so that it searches for these exact words in either the title, author keywords, or abstract. For more guidance on field tags, visit the [WoS documentation](https://webofscience.help.clarivate.com/en-us/Content/wos-core-collection/woscc-search-field-tags.htm)
+
+```{r}
+query <- paste0('"', query,'"')
+query <- paste0('(TI=(',query,') OR AK=(',query,') OR AB=(',query,'))')
+query
+```
+
+Now to build the query out, we can specify other elements of the API query into a list that is appended to the url. 
+
+```{r}
+# Create URL query
+url$query <- list(firstRecord = 1,
+                  optionView = 'FR',
+                  databaseId = 'WOS',
+                  lang='en',
+                  publishTimeSpan='1900-01-01+2023-12-31',
+                  cursor = "*",
+                  usrQuery = query)
+built_url = url_build(url)
+qurl <- str_replace(built_url,"%2A","*")
+
+js <- request(qurl) %>%  httr2::req_headers(`X-ApiKey` = wos_key) %>% 
+  req_perform() %>%  resp_body_string() %>%  jsonlite::fromJSON()
+js$QueryResult$RecordsFound
+```
+
+So there are 71 articles in the database. BUT, there are limited to how many can be returned at a time. Without specifying any return, we get 10. 
+```{r}
+records <- js$Data$Records$records$REC
+nrow(records)
+```
+
+So we need to specify a count, but it cannot be so high, a max of 25. Still, we'll need to deal wit pagination. But, the clarivate API doesn't seem to provide a "next" style cursor, instead, it has a silly feature where you say 'I'd like to start the next result at the 100th item', queries return 100 at a time, so basically, the janky way I solve this is by iterating and adding 100 to first record index each query
+
+```{r}
+count = 25
+total_records <- js$QueryResult$RecordsFound
+num_queries <- ceiling(total_records/count)
+
+wos <- list()
+for(i in 1:num_queries){
+  Sys.sleep(0.5) # Need to slow it down a little
+
+  url$query <- list(firstRecord = (i*count)-(count-1),
+                  optionView = 'FR',
+                  databaseId = 'WOS',
+                  lang='en',
+                  count = count,
+                  publishTimeSpan='1900-01-01+2023-12-31',
+                  cursor = "*",
+                  usrQuery = query)
+  built_url = url_build(url)
+  qurl <- built_url
+  js <- request(qurl) |> httr2::req_headers(`X-ApiKey` = wos_key) |>
+    req_perform() |> resp_body_string() |> jsonlite::fromJSON()
+  wos[[i]] <- js$Data$Records$records$REC
+}
+
+```
+
+Now we have all of the outputs from the database, but they are hard to manage, as there are dataframes of static and dynamic data nested together
+
+APIs are powerful, but it can be intimidating to manage your API query and wrangle the data that comes out (typically as a JSON). 
+```{r}
+sum(unlist(lapply(wos, nrow)))
+#head(wos[[1]])
+```
+
+
+So let's unfurl these by writing a few functions.
+
+First we will get out its IDs from the dynamic data
+```{r}
+
+extractWOS_IDs <- function(x,value.var = NULL){
+  if(class(x)=='data.frame')
+  {y = data.table(x)
+    return(y = dcast(y,.~type,value.var = value.var,fun.aggregate = function(x) paste(x, collapse=";;")))}
+  if(class(x)=='list'){
+   y = as.data.frame(x)
+   return(y)
+  }
+}
+
+id_list <- lapply(wos,function(st) {
+  st_list <- lapply(st$dynamic_data$cluster_related$identifiers$identifier,
+                    extractWOS_IDs,value.var = 'value')
+  st_id = rbindlist(st_list,fill = T,use.names = T)
+  st_id$UID <- st$UID
+  st_id
+  })
+
+wos_ids <- rbindlist(id_list,fill = T,use.names = T)
+wos_ids <- wos_ids[,c('UID', 'doi')]
+```
+
+Also use this function to get titles 
+
+```{r}
+#### turns out the same function works for titles, just swap in 'content' for value.var
+title_list = lapply(wos,function(st) {
+  st_title = rbindlist(lapply(st$static_data$summary$titles$title, 
+                              extractWOS_IDs, value.var = 'content'),
+                    fill = T, use.names = T)
+  st_title$UID <- st$UID
+  st_title})
+
+wos_titles <- data.frame(rbindlist(title_list,fill = T,use.names = T))
+wos_titles <- wos_titles[c('UID', 'item', 'source')]
+```
+
+
+Then let's get some additional data from the static data
+```{r}
+# Item type (Article, Review, etc.)
+wos_item_type = lapply(wos, function(x)
+  sapply(x$static_data$fullrecord_metadata$normalized_doctypes$doctype, 
+         function(y) y[[1]]))
+
+# Abstract 
+wos_abstract = lapply(wos, function(x) 
+  x$static_data$fullrecord_metadata$abstracts$abstract$abstract_text)
+wos_abstract = lapply(wos_abstract, function(y) y[['p']])
+# Some of these break up into many segments, so let's collapse them
+for(i in 1:length(wos_abstract)){
+  if(typeof(wos_abstract[[i]]) == "list"){
+    for(j in 1:length(wos_abstract[[i]])){
+      wos_abstract[[i]][[j]] <- paste(wos_abstract[[i]][[j]], collapse = " ")
+    }
+  }
+}
+
+# Publication year
+wos_pub_year = lapply(wos, function(x) 
+  sapply(x$static_data$summary$pub_info$pubyear,
+         function(y) y[[1]]))
+
+# Keywords
+wos_keywords = lapply(wos, function(x) 
+  sapply(x$static_data$fullrecord_metadata$keywords$keyword,
+         function(y) toupper(paste0(sort(y), collapse = ";"))))
+
+wos_type <- data.table(UID = unlist(lapply(wos,function(x) x$UID)),
+                       TYPE = unlist(wos_item_type),
+                       ABSTRACT = unlist(wos_abstract),
+                       KEYWORDS = unlist(wos_keywords),
+                       PUBYEAR = unlist(wos_pub_year))
+```
+
+Now let's combine them 
+
+```{r}
+wos_dt <- merge(wos_ids, wos_titles, by = 'UID')
+wos_dt <- merge(wos_dt, wos_type, by = 'UID')
+colnames(wos_dt)[which(colnames(wos_dt) %in%
+                   c('item', 'source'))] <- c("title", 'pub_name')
+colnames(wos_dt) <- toupper(colnames(wos_dt))
+```
+
+```{r}
+#head(wos_dt[,c("DOI", "PUB_NAME", "ABSTRACT")])
+```
+
+
+## Query DOIs 
+
+Now, if you already had the list of DOIS you are interested in, you can directly query the DOIs and get the accompanying information
+```{r}
+dois <- wos_dt$DOI[!is.na(wos_dt$DOI)]
+query <- paste0(dois, collapse = " OR ")
+query <- paste0('DO=(',query,')')
+query
+```
+
+
+```{r}
+url$query <- list(firstRecord = 1,
+                  optionView = 'FR',
+                  databaseId = 'WOS',
+                  lang='en',
+                  publishTimeSpan='1900-01-01+2023-12-31',
+                  cursor = "*",
+                  usrQuery = query)
+built_url = url_build(url)
+qurl <- str_replace(built_url,"%2A","*")
+
+js <- request(qurl) %>%  httr2::req_headers(`X-ApiKey` = wos_key) %>% 
+  req_perform() %>%  resp_body_string() %>%  jsonlite::fromJSON()
+js$QueryResult$RecordsFound
+```
+
+
+This is pretty good at catching them:
+```{r}
+length(dois) == js$QueryResult$RecordsFound
+```
+
+# Scopus  
+```{r}
+
+#### note this only works on campus OR VPN-ing to campus
+### the cursor * ability needed to scan more than 200 results requires what SCOPUS calls an "entitlement"
+### that "entitlement" requires an institutional subscription
+#### the workaround would be to chunk the call in increments < 200 results, e.g., search by publication month or something
+
+#req = httr2::request(base)
+base = 'https://api.elsevier.com/content/search/scopus'
+url <- httr2::url_parse(base)
+#url$port <- 80
+### if complete instead of standard, then 200
+count = '25'
+```
+
+## Query a phrase 
+```{r}
+# Scopus:
+### note this: https://stackoverflow.com/questions/35526682/scopus-search-title-abs-key
+# TITLE-ABS-KEY means "is this satisfied in total in those three"
+# so instead, we do title OR key OR abs where title and key have same filter, and abs says "must be 'environmental governance'"
+
+query <- "niche innovation"
+```
+
+Good source: https://webofscience.help.clarivate.com/en-us/Content/wos-core-collection/woscc-search-field-tags.htm
+
+```{r}
+query <- paste0('"', query,'"')
+query <- paste0('TITLE-ABS-KEY ( ',query,' )')
+query
+```
+
+```{r}
+
+#### abstract
+url$query <- list(apiKey = scopus_key,
+                  httpAccept = 'application/json',
+                  view = 'COMPLETE',
+                  cursor ='*',
+                  #count = count,
+                  query = query)
+qurl = url_build(url)
+#### for some reason, scopus wants un-encoded * and I'm not sure the fancy way to do that, so just encode above and then use string replace here
+qurl <- str_replace(qurl,"%2A","*")
+js = request(qurl) %>%  req_perform() %>%  
+  resp_body_string() %>%  jsonlite::fromJSON()
+js$`search-results`$`opensearch:totalResults`
+js$`search-results`$`opensearch:itemsPerPage` 
+```
+
+But because scopus does have a cursor, we'll use a while loop 
+```{r}
+scopus = list()
+i = 1
+while(i == 1 | 
+      js$`search-results`$cursor$`@current` != js$`search-results`$cursor$`@next`){
+  Sys.sleep(0.25)
+  url$query <- list(apiKey = scopus_key,
+                    httpAccept = 'application/json',
+                    view = 'COMPLETE',
+                    cursor = ifelse(i == 1, "*", js$`search-results`$cursor$`@next`),
+                    count = count,
+                    query = query 
+  )
+  qurl = url_build(url)
+  #### for some reason, scopus wants un-encoded * and I'm not sure the fancy way to do that, so just encode   above and then use string replace here
+  qurl <- str_replace(qurl,"%2A","*")
+  js = request(qurl) %>%  req_perform() %>%  
+    resp_body_string() %>%  jsonlite::fromJSON()
+ 
+  scopus[[i]] <- js$`search-results`$entry
+  i = i + 1
+}
+```
+
+Now we have all of the outputs from the database, but they are hard to manage, as there are dataframes of static and dynamic data nested together
+```{r}
+sum(unlist(lapply(scopus, nrow)))
+head(scopus[[1]])
+```
+
+```{r}
+
+### for some reason, author-count poses a bit of an issue becuase it's weird
+### it's also unnecessary, and then I drop freetoread while at it..
+scopus_filter <- lapply(scopus, function(x) 
+  x[!names(x) %in% c('freetoread',"freetoreadLabel",'author-count')])
+
+scopus_dt <- rbindlist(scopus_filter, use.names = T, fill = T)
+scopus_dt <- scopus_dt[,c('dc:identifier', 'prism:doi', 'dc:title', 
+                          'prism:publicationName', 'subtypeDescription', 
+                          'dc:description', 'authkeywords', 'prism:coverDate')]
+colnames(scopus_dt) <- colnames(wos_dt)
+scopus_dt$PUBYEAR <- lubridate::year(scopus_dt$PUBYEAR)
+scopus_dt$KEYWORDS <- stringr::str_replace_all(scopus_dt$KEYWORDS, " \\| ", ";")
+```
+
+```{r}
+head(scopus_dt[,c("DOI", "PUB_NAME", "ABSTRACT")])
+```
+
+## Query DOIs  
+
+Again, if you already had the list of DOIS you are interested in, you can directly query the DOIs and get the accompanying information. However, if I try to feed in all of the DOIs at once I get an error about an overloaded query, so if I wanted to query all of them I would have to break them up and query iteratively. For now, I only query one set. 
+```{r}
+dois <- scopus_dt$DOI[!is.na(scopus_dt$DOI)]
+query <- paste0('DOI (', dois[1:(length(dois)/5)], ")", collapse = " OR ")
+```
+
+https://schema.elsevier.com/dtds/document/bkapi/search/SCOPUSSearchTips.htm
+
+```{r}
+#### abstract
+url$query <- list(apiKey = scopus_key,
+                  httpAccept = 'application/json',
+                  view = 'COMPLETE',
+                  cursor ='*',
+                  #count = count,
+                  query = query)
+qurl = url_build(url)
+#### for some reason, scopus wants un-encoded * and I'm not sure the fancy way to do that, so just encode above and then use string replace here
+qurl <- str_replace(qurl,"%2A","*")
+js = request(qurl) %>%  req_perform() %>%  
+  resp_body_string() %>%  jsonlite::fromJSON()
+js$`search-results`$`opensearch:totalResults`
+```
+
+
+# OpenAlex
+
+## Query by DOI 
+```{r OpenAlex ID query, results = F, cache = T}
+#First I can identify the 97 article's works' cited in an open-source database called OpenAlex.
+my_email <- 'belwood@ucdavis.edu'
+works_base = 'https://api.openalex.org/works'
+
+oa_dt <- data.frame()
+# Few enough that we can just loop through
+for(i in 1:length(dois)){
+  if(i %in% c(seq(30, length(dois), by = 30))){ Sys.sleep(8)}
+  qurl <- paste0(works_base,'?filter=doi:',dois[i],'&mailto=',my_email)
+  qurl <- URLencode(qurl)
+  req <- httr2::request(qurl)
+  resp <- req %>%  req_perform() %>%  resp_body_json()
+  if(length(resp$results) == 0){ 
+    id_dt <- data.frame('id' = NA, 'doi' = dois[i], inv_abs = NA)
+  } else {
+     id_dt = rbindlist(lapply(resp$results, function(x) 
+               as.data.table(x[c('id', 'doi')])))
+     inv_abs <- resp$results[[1]]$abstract_inverted_index
+     if(is.null(inv_abs)){
+       inv_abs <- NA
+     }
+  id_dt <- unique(id_dt)
+  id_dt$inv_abs <- list(inv_abs)
+    }
+  oa_dt <- rbind(oa_dt, id_dt)
+}
+
+```
+
+```{r}
+unpack_abstract <- function(x) {
+  if(length(x) != 0 & !is.na(x)){
+    vec <- unlist(x)
+    df <- data.frame('word' = names(vec), 'location' = vec)
+    df <- df[order(df$location),]
+    abs <- paste(df$word, collapse = " ")
+    abs <- stringr::str_remove_all(abs, '(?<=\\w)\\d')
+  } else {
+    abs <- NA
+  }
+  return(abs)
+}
+
+oa_dt$abstract <- NA
+for(i in 1:nrow(oa_dt)){
+  oa_dt$abstract[i] <- unpack_abstract(oa_dt$inv_abs[i])
+}
+table(is.na(oa_dt$abstract)) # OA is inferior on the abstract front 
+table(is.na(scopus_dt$ABSTRACT)) 
+```
+
+
