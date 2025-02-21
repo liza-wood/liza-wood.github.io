@@ -13,7 +13,7 @@ header-includes:
   
 ## EDUCATION
 
-Ph.D., Environmental Policy (Ecology Graduate Group)    \hfill 2023    
+Ph.D., Environmental Policy emphasis in Ecology Graduate Group    \hfill 2023    
 Concentration: Computational Social Science  
 University of California Davis, Davis, CA, USA     
 
@@ -52,9 +52,9 @@ South Carolina Sea Grant Consortium
 
 ### PEER-REVIEWED PUBLICATIONS  
 
-**Wood, L.**, Lubell, M. Resource constellations and institutional logics shape network-building processes in the organic seed niche. _Environmental Innovation and Societal Transitions_, accepted. 
+**Wood, L.**, Vantaggiato, F.P., Scott, T.A. (2025) Tracing the path of knowledge on ‘environmental governance processes’ for theory-building. _Environmental Policy and Governance_, accepted. 
 
-**Wood, L.**, Vantaggiato, F.P., Scott, T.A. Tracing the path of knowledge on ‘environmental governance processes’ for theory-building. _Environmental Policy and Governance_, accepted. 
+**Wood, L.**, Lubell, M. (2025) Resource constellations and institutional logics shape network-building processes in the organic seed niche. _Environmental Innovation and Societal Transitions 55_,  https://doi.org/10.1016/j.eist.2025.100965. 
 
 **Wood, L.**, Scott, T. (2022) Transportation agencies as consumers and producers of science: The case of state, regional, and county transportation agencies in California. *Transport Policy 128*. https://doi.org/10.1016/j.tranpol.2022.08.016.   
 
@@ -64,11 +64,11 @@ Rudnick, J., Lubell, M., Khalsa, S.D.S., Tatge, S., **Wood, L.**, Sears, M., Bro
 
 ### UNDER REVIEW     
 
-**Wood, L.** Mapping the spatial structure of the organic seed system: A network approach to the Global Innovation System framework. 
+**Wood, L.** Mapping the spatial structure of the organic seed system: A network approach to the Global Innovation System framework. Revise and resubmit in _Research Policy_. 
 
-Scott, T., Kim, S., **Wood, L.** Open access, professional popularity, and agency involvement drive science referenced in U.S. EPA regulatory impact analyses from 2000 to 2022. 
+Scott, T., Kim, S., **Wood, L.** Open access, professional popularity, and agency involvement drive science referenced in U.S. EPA regulatory impact analyses from 2000 to 2022. Revise and resubmit in _Regulation & Governance_. 
 
-**Wood, L.**, Zystro, J., Hubbard, K. Compliance in regulatory gray areas: The case of the organic seed standard. 
+**Wood, L.**, Zystro, J., Hubbard, K. Compliance in regulatory gray areas: The case of the organic seed standard. Under review in _Policy Studies Journal_. 
 
 ### CONFERENCE PAPERS
 
@@ -81,7 +81,7 @@ Scott, T., Kim, S., **Wood, L.** Open access, professional popularity, and agenc
 **Wood, L.**, Struthers, C., Scott, T.A., Kim, S. Science politics: How political context shapes public agencies’ use of science in environmental policymaking. Environmental Politics and Governance Conference (2023).  
 
 
-### REPORTS & CHAPTER         
+### REPORTS        
 
 **Wood, L.**, Pascucci, S., Foppe, A., Ashouri, S., Materia, V., Alerasoul, A. (2024). [How to design sustainable business models: A research integrated protocol](https://zenodo.org/records/14224521). Deliverable 5.1 for InBestSoil: Monetary valuation of soil ecosystem services and creation of initiatives to invest in soil health.  
 
