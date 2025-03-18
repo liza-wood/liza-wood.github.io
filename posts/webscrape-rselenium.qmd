@@ -28,7 +28,7 @@ You don't need to use the browser in fancy ways, you can just take the HTML. Why
 # Clicking through
 
 I find this useful especially if links get redirected
-
+# 'arg' should be one of “xpath”, “css selector”, “id”, “name”, “tag name”, “class name”, “link text”, “partial link text”
 https://stackoverflow.com/questions/29831142/how-can-i-click-a-link-in-a-webpage-in-rselenium
 ?selKeys
 
