@@ -47,6 +47,8 @@ College of Charleston, New Student Programs
 
 #### PEER-REVIEW PUBLICATIONS  
 
+Scott, T., Kim, S., **Wood, L.** *Accepted*. Open access, professional popularity, and agency involvement drive science referenced in U.S. EPA regulatory impact analyses from 2000 to 2022. *Regulation & Governance.*  
+
 **Wood, L.**, Vantaggiato, F.P., Scott, T.A. (2025) Tracing the path of knowledge on ‘environmental governance processes’ for theory-building. *Environmental Policy and Governance*. [https://doi.org/10.1002/eet.2151](https://doi.org/10.1002/eet.2151) 
 
 **Wood, L.**, Lubell, M. (2025) Resource constellations and institutional logics shape network-building processes in the organic seed niche. *Environmental Innovation and Societal Transitions*. [https://doi.org/10.1016/j.eist.2025.100965](https://doi.org/10.1016/j.eist.2025.100965)  
@@ -57,15 +59,14 @@ College of Charleston, New Student Programs
 
 Rudnick, J., Lubell, M., Khalsa, S.D.S., Tatge, S., **Wood, L.**, Sears, M., Brown, P. (2021). A farm systems approach to the adoption of sustainable nitrogen management practices in California. *Agriculture and Human Values 38*. [https://doi.org/10.1007/s10460-021-10190-5](https://doi.org/10.1007/s10460-021-10190-5).  
 
+<!---
 #### IN PREPARATION     
-
-Scott, T., Kim, S., **Wood, L.** Open access, professional popularity, and agency involvement drive science referenced in U.S. EPA regulatory impact analyses from 2000 to 2022. _Revise & resubmit._
 
 **Wood, L.** Mapping the spatial structure of the organic seed system: A network approach to the Global Innovation System framework. _Revise & resubmit._  
 
 **Wood, L.**, Hubbard, K., Zystro, J. Compliance in regulatory gray areas: The case of the organic seed standard. _Under review._
 
-<!---
+
 
 
 **Wood, L.**, Colombo, L., Pascucci, S. Entanglements of ecological systems and organizational transformation in the organic seed niche. EGOS24. 

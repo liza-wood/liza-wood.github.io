@@ -52,7 +52,7 @@ South Carolina Sea Grant Consortium
 
 ### PEER-REVIEWED PUBLICATIONS  
 
-**Wood, L.**, Vantaggiato, F.P., Scott, T.A. (2025) Tracing the path of knowledge on ‘environmental governance processes’ for theory-building. _Environmental Policy and Governance_, accepted. 
+**Wood, L.**, Vantaggiato, F.P., Scott, T.A. (2025) Tracing the path of knowledge on ‘environmental governance processes’ for theory-building. _Environmental Policy and Governance_, https://doi.org/10.1002/eet.2151. 
 
 **Wood, L.**, Lubell, M. (2025) Resource constellations and institutional logics shape network-building processes in the organic seed niche. _Environmental Innovation and Societal Transitions 55_,  https://doi.org/10.1016/j.eist.2025.100965. 
 
@@ -68,26 +68,26 @@ Rudnick, J., Lubell, M., Khalsa, S.D.S., Tatge, S., **Wood, L.**, Sears, M., Bro
 
 Scott, T., Kim, S., **Wood, L.** Open access, professional popularity, and agency involvement drive science referenced in U.S. EPA regulatory impact analyses from 2000 to 2022. Revise and resubmit in _Regulation & Governance_. 
 
-**Wood, L.**, Zystro, J., Hubbard, K. Compliance in regulatory gray areas: The case of the organic seed standard. Under review in _Policy Studies Journal_. 
+**Wood, L.**, Zystro, J., Hubbard, K. Compliance in regulatory gray areas: The case of the organic seed standard. Revise and resubmit in _Policy Studies Journal_. 
 
 ### CONFERENCE PAPERS
 
 **Wood, L.** How public and private innovations shape environmental sustainability: Evidence from a century of plant patents. Research Policy 8th Online Conference for Early Career Researchers (2024).  
 
-**Wood, L.** & Pascucci, S. Entanglements of ecological systems and organizational transformation in the organic seed niche. European Group for Organizational Studies (2024).  
+**Wood, L.**, Pascucci, S. Entanglements of ecological systems and organizational transformation in the organic seed niche. European Group for Organizational Studies (2024).  
 
 **Wood, L.**, Pascucci, S. Mapping the research landscape of collaborative processes in sustainable business model innovation. King's College London Centre for Sustainable Business Short Paper Workshop: Unlocking pathways for a sustainable future (2024)   
 
 **Wood, L.**, Struthers, C., Scott, T.A., Kim, S. Science politics: How political context shapes public agencies’ use of science in environmental policymaking. Environmental Politics and Governance Conference (2023).  
 
 
-### REPORTS        
+### REPORTS FOR PRACTITIONERS        
 
 **Wood, L.**, Pascucci, S., Foppe, A., Ashouri, S., Materia, V., Alerasoul, A. (2024). [How to design sustainable business models: A research integrated protocol](https://zenodo.org/records/14224521). Deliverable 5.1 for InBestSoil: Monetary valuation of soil ecosystem services and creation of initiatives to invest in soil health.  
 
-Hubbard, K., Zystro, J., & **Wood, L**. (2022). [State of Organic Seed](https://stateoforganicseed.org/state-of-organic-seed-2022/). Port Townsend, Washington. \| Data explorer: <https://organicseed.shinyapps.io/SOSData/>
+Hubbard, K., Zystro, J., **Wood, L**. (2022). [State of Organic Seed](https://stateoforganicseed.org/state-of-organic-seed-2022/). Port Townsend, Washington. \| Data explorer: <https://organicseed.shinyapps.io/SOSData/>
 
-**Wood, L**., Lubell, M. (2022). [Vina Subbasin Farmer Survey Report](https://www.buttecounty.net/DocumentCenter/View/5316/Agricultural-Irrigation-Efficiency-Study-Report-PDF) \| Data explorer: <https://liza-wood.shinyapps.io/Vina-interactive-survey/>
+**Wood, L**. Lubell, M. (2022). [Vina Subbasin Farmer Survey Report](https://www.buttecounty.net/DocumentCenter/View/5316/Agricultural-Irrigation-Efficiency-Study-Report-PDF) \| Data explorer: <https://liza-wood.shinyapps.io/Vina-interactive-survey/>
 
 **Wood, L**. (2013). "Sowing sustainability: Rice commodity pathways, NGOs, and farmers' engagement with alternative agriculture in northeastern Thailand." [Growing Sustainable Communities: A Development Guide for Southeast Asia.](https://books.google.com/books/about/Growing_Sustainable_Communities.html?id=sTtZAQAACAAJ&source=kp_book_description) (pp. 111-151). Ed. Brennan, L. et al. Australia: Tilde University Press. 
 
@@ -98,21 +98,27 @@ Hubbard, K., Zystro, J., & **Wood, L**. (2022). [State of Organic Seed](https://
 
 ### CONFERENCE PRESENTATIONS  
 
-Research Policy 8th Online Conference for Early Career Researchers \hfill 2024  
-European Group for Organizational Studies \hfill 2024  
-Environmental Politics and Governance Conference \hfill 2023, 2024  
-King's College London Centre for Sustainable Business Short Paper Workshop \hfill 2024  
-International Sustainability Transitions Conference  \hfill 2022, 2023   
-Conference of Policy Process Research  \hfill 2023  
-Duck Family Workshop on Environmental Politics and Governance  \hfill 2022   
-Atlanta Academy on Science and Innovation Policy  \hfill 2022   
-American Association of Geographers Annual Meeting  \hfill 2020   
-International Association for the Study of the Commons  \hfill 2019  
+European Forum for Studies of Policies for Research and Innovation |  Germany \hfill 2025  
+Atlanta Conference on Science and Innovation Policy | Georgia USA \hfill 2025  
+International Sustainability Transitions Conference | virtual, Netherlands, Portugal  \hfill 2022, 2023, 2025  
+Research Policy 8th Online Conference for Early Career Researchers | virtual \hfill 2024  
+European Group for Organizational Studies | Italy \hfill 2024  
+Environmental Politics and Governance Conference | United Kingdom, Canada  \hfill 2023, 2024  
+King's College London Centre for Sustainable Business Short Paper Workshop | United Kingdom \hfill 2024  
+Conference of Policy Process Research | Colorado USA \hfill 2023  
+Duck Family Workshop on Environmental Politics and Governance | Washington USA \hfill 2022   
+Atlanta Academy on Science and Innovation Policy | Georgia USA  \hfill 2022   
+American Association of Geographers Annual Meeting | virtual \hfill 2020   
+International Association for the Study of the Commons | Peru \hfill 2019  
 
-### INVITED TALKS    
+### INVITED TALKS AND LECTURES 
+
+Politecnico di Bari, Management Group  \hfill 2025  
+_Who innovates for climate adaptation? Evidence from plant variety development_   
+_Policy-science-business interface for sustainability_ 
 
 Newcastle University School of Natural and Environmental Sciences Seminar Series  \hfill 2022  
-_Supporting innovation for sustainable agriculture: The case of the organic seed system in the United States._ 
+_Supporting innovation for sustainable agriculture: The case of the organic seed system in the United States_ 
 
 Mars-Wrigley Cacao Research and Development Seminar Series \hfill 2022   
 _Mapping the seed innovation system_  
@@ -164,7 +170,7 @@ UC Davis Graduate Group in Ecology Fellowship \hfill 2018 – 2020
 ## SERVICE
 
 Program Committee Member | Atlanta Conference on Science and Innovation Policy \hfill  2025  
-Reviewer | _Policy Studies Journal, Society & Natural Resources, Environmental Innovations and Societal Transitions_ \hfill  2023 – 2024  
+Reviewer | _Policy Studies Journal, Society & Natural Resources, Environmental Innovations and Societal Transitions_ \hfill  2023 – 2025  
 [Davis R Users Group](https://d-rug.github.io/) Coordinator | UC Davis \hfill  2021 – 2023  
 Ecology Graduate Group Graduate Student Mentor | UC Davis  \hfill  2019 – 2022   
 Data Carpentries Instructor | The Carpentries \hfill  2021 – 2022    
