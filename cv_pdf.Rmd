@@ -47,10 +47,18 @@ South Carolina Sea Grant Consortium
 --->
 
 ***  
+<!---
+## VISITING AFFILIATIONS 
+
+Visiting Researcher | Department of Mechanics, Mathematics, and Management, Politecnico di Bari \hfill  April - May 2025 
+Associate Fellow | Centre for Sustainable Business, King's College London Business School   \hfill 2024 - 2025 
+---> 
 
 ## PUBLICATIONS
 
 ### PEER-REVIEWED PUBLICATIONS  
+
+Scott, T., Kim, S., **Wood, L.** *Accepted*. Open access, professional popularity, and agency involvement drive science referenced in U.S. EPA regulatory impact analyses from 2000 to 2022. _Regulation & Governance._   
 
 **Wood, L.**, Vantaggiato, F.P., Scott, T.A. (2025) Tracing the path of knowledge on ‘environmental governance processes’ for theory-building. _Environmental Policy and Governance_, https://doi.org/10.1002/eet.2151. 
 
@@ -65,8 +73,6 @@ Rudnick, J., Lubell, M., Khalsa, S.D.S., Tatge, S., **Wood, L.**, Sears, M., Bro
 ### UNDER REVIEW     
 
 **Wood, L.** Mapping the spatial structure of the organic seed system: A network approach to the Global Innovation System framework. Revise and resubmit in _Research Policy_. 
-
-Scott, T., Kim, S., **Wood, L.** Open access, professional popularity, and agency involvement drive science referenced in U.S. EPA regulatory impact analyses from 2000 to 2022. Revise and resubmit in _Regulation & Governance_. 
 
 **Wood, L.**, Zystro, J., Hubbard, K. Compliance in regulatory gray areas: The case of the organic seed standard. Revise and resubmit in _Policy Studies Journal_. 
 
@@ -99,23 +105,21 @@ Hubbard, K., Zystro, J., **Wood, L**. (2022). [State of Organic Seed](https://st
 ### CONFERENCE PRESENTATIONS  
 
 European Forum for Studies of Policies for Research and Innovation |  Germany \hfill 2025  
-Atlanta Conference on Science and Innovation Policy | Georgia USA \hfill 2025  
-International Sustainability Transitions Conference | virtual, Netherlands, Portugal  \hfill 2022, 2023, 2025  
 Research Policy 8th Online Conference for Early Career Researchers | virtual \hfill 2024  
 European Group for Organizational Studies | Italy \hfill 2024  
 Environmental Politics and Governance Conference | United Kingdom, Canada  \hfill 2023, 2024  
 King's College London Centre for Sustainable Business Short Paper Workshop | United Kingdom \hfill 2024  
+International Sustainability Transitions Conference | virtual, Netherlands  \hfill 2022, 2023  
 Conference of Policy Process Research | Colorado USA \hfill 2023  
 Duck Family Workshop on Environmental Politics and Governance | Washington USA \hfill 2022   
 Atlanta Academy on Science and Innovation Policy | Georgia USA  \hfill 2022   
 American Association of Geographers Annual Meeting | virtual \hfill 2020   
 International Association for the Study of the Commons | Peru \hfill 2019  
 
-### INVITED TALKS AND LECTURES 
+### INVITED TALKS 
 
 Politecnico di Bari, Management Group  \hfill 2025  
 _Who innovates for climate adaptation? Evidence from plant variety development_   
-_Policy-science-business interface for sustainability_ 
 
 Newcastle University School of Natural and Environmental Sciences Seminar Series  \hfill 2022  
 _Supporting innovation for sustainable agriculture: The case of the organic seed system in the United States_ 
@@ -131,7 +135,7 @@ _Mapping the seed innovation system_
 ### DATA SCIENCE   
 
 Instructor |  Contracted by California State Water Board   
-&nbsp;&nbsp;[R for Water Resources Data Science](https://www.r4wrds.com/) \hfill Spring 2023, 2024 & 2025  
+&nbsp;&nbsp;[R for Water Resources Data Science](https://r4wrds.netlify.app/) \hfill Spring 2023, 2024 & 2025  
   
 Teaching Assistant | UC Davis -- UC Davis DataLab   
 &nbsp;&nbsp;IST 8x: [Adventures in Data Science](https://ucdavisdatalab.github.io/adventures_in_data_science/) \hfill Winter & Spring 2022 & 2023
@@ -143,7 +147,10 @@ Instructor |  UC Davis -- Graduate Group in Ecology
 
 Teaching Assistant | UC Davis -- Departments of Plant Sciences and Environmental Science and Policy  
 &nbsp;&nbsp;PLS 49: Organic Crop Production Practicum  \hfill Fall 2019, Spring 2020      
-&nbsp;&nbsp;ESP 10: Current Issues in the Environment  \hfill Winter 2019   
+&nbsp;&nbsp;ESP 10: Current Issues in the Environment  \hfill Winter 2019  
+
+Instructor | UC Davis -- Graduate Group Ecology  
+&nbsp;&nbsp;ECL 290: Science Fiction and Near Futures of Ecology \hfill Spring 2020 
 
 Instructor |  College of Charleston -- Department of Environmental and Sustainability Science  
 &nbsp;&nbsp;FYET 177: Sustainable Food in the Foothills of the Andes \hfill Spring 2017, 2018 & 2019    
@@ -151,19 +158,30 @@ Instructor |  College of Charleston -- Department of Environmental and Sustainab
   
 ***
 
-## GRANTS & AWARDS  
-University of Exeter Department of Management Seed Funding  \hfill 2024 – 2025  
-USDA Western Sustainable Agriculture Research & Education Graduate Student Grant \hfill 2020 – 2022   
-Rotary Foundation Global Grant Scholarship to Newcastle, United Kingdom \hfill 2014 – 2015   
-Fulbright Maastricht University Award to Maastricht, The Netherlands \hfill 2013 – 2014  
+## GRANTS, FELLOWSHIPS & AWARDS  
 
-## FELLOWSHIPS AND HONORABLE MENTIONS 
+### RESEARCH 
+University of Exeter Department of Management Seed Funding (£1,000)  \hfill 2024 – 2025  
+USDA Western Sustainable Agriculture Research & Education Graduate Grant ($24,997) \hfill 2020 – 2022   
+UC Davis Henry A. Jastro Student Research Fellowship ($12,450) \hfill 2019 – 2023  
 Fulbright Netherlands Research Award, Semi-finalist  \hfill 2022  
-UC Davis Henry A. Jastro Student Research Fellowship \hfill 2019 – 2023  
-UC Davis Angela and Theodore Foin Graduate Fellowship \hfill 2020 – 2021    
-Ford Foundation Fellowship Program, Honorable Mention \hfill  2020  
-UC Davis Muir Institute Graduate Fellowship \hfill 2019 – 2020   
-UC Davis Graduate Group in Ecology Fellowship \hfill 2018 – 2020    
+UC Davis Angela and Theodore Foin Graduate Fellowship ($900) \hfill 2020 – 2021   
+Ford Foundation Fellowship Program, Honorable Mention \hfill  2020   
+Davis Muir Institute Graduate Fellowship ($5,000) \hfill 2019 – 2020   
+College of Charleston Political Science Department, 1st place for Best Paper Award \hfill 2013  
+ASIANetwork/Freeman-Asia Foundation Student-Faculty Fellowship to Thailand ($6,000) \hfill  2012   
+College of Charleston Summer Undergraduate Research with Faculty Grant ($5,000) \hfill 2011   
+
+### EDUCATION 
+UC Davis Graduate Group in Ecology Fellowship \hfill 2018 – 2020   
+Rotary Foundation Global Grant Scholarship to Newcastle, United Kingdom \hfill 2014 – 2015   
+Fulbright Maastricht University Award to Maastricht, The Netherlands \hfill 2013 – 2014   
+College of Charleston Bishop Robert Smith Award \hfill 2013  
+College of Charleston Biology Outstanding Student in the Major Award \hfill 2013  
+College of Charleston Political Science Outstanding Student in the Major Award \hfill 2013  
+College of Charleston Maggie T. Pennington Scholarship \hfill 2012-2013   
+College of Charleston Alexandria Dengate Scholarship \hfill 2011-2012    
+
 
 ***   
 

@@ -145,6 +145,9 @@ Instructor |  UC Davis -- Graduate Group in Ecology
 Teaching Assistant | UC Davis -- Departments of Plant Sciences and Environmental Science and Policy  
   PLS 49: Organic Crop Production Practicum <span style="float:right;">Fall 2019, Spring 2020</span>   
   ESP 10: Current Issues in the Environment <span style="float:right;">Winter 2019</span>  
+  
+Instructor | UC Davis -- Graduate Group Ecology  
+  ECL 290: Science Fiction and Near Futures of Ecology <span style="float:right;">Spring 2020</span>  
 
 Instructor |  College of Charleston -- Department of Environmental and Sustainability Science  
   FYET 177: Sustainable Food in the Foothills of the Andes <span style="float:right;">Spring 2017, 2018 & 2019</span>      
@@ -152,23 +155,33 @@ Instructor |  College of Charleston -- Department of Environmental and Sustainab
 
 ***
 
-### SELECTED FELLOWSHIPS, GRANTS & AWARDS  
-University of Exeter Department of Management Seed Funding  <span style="float:right;"> 2024 – 2025</span>  
-UC Davis Henry A. Jastro Student Research Fellowship  <span style="float:right;"> 2019 – 2023</span>  
-Fulbright Netherlands Research Award, Semi-finalist   <span style="float:right;"> 2022</span>   
-USDA Western Sustainable Agriculture Research & Education Graduate Student Grant  <span style="float:right;"> 2020 – 2022</span>    
-UC Davis Angela and Theodore Foin Graduate Award  <span style="float:right;"> 2020 – 2021</span>     
-Ford Foundation Fellowship Program, Honorable Mention <span style="float:right;"> 2020</span>    
-UC Davis Muir Institute Graduate Fellowship   <span style="float:right;"> 2019 – 2020</span>    
-UC Davis Graduate Group in Ecology Fellowship  <span style="float:right;"> 2018 – 2020</span>      
-Rotary Foundation Global Grant Scholarship to Newcastle, United Kingdom  <span style="float:right;"> 2014 – 2015</span>      
-Fulbright Maastricht University Award to Maastricht, The Netherlands  <span style="float:right;"> 2013 – 2014</span>     
+### GRANTS, FELLOWSHIPS & AWARDS  
 
+#### RESEARCH 
+University of Exeter Department of Management Seed Funding (£1,000)  <span style="float:right;">2024 – 2025</span>      
+USDA Western Sustainable Agriculture Research & Education Graduate Grant ($24,997) <span style="float:right;">2020 – 2022</span>       
+UC Davis Henry A. Jastro Student Research Fellowship ($12,450) <span style="float:right;">2019 – 2023</span>      
+Fulbright Netherlands Research Award, Semi-finalist  <span style="float:right;">2022</span>      
+UC Davis Angela and Theodore Foin Graduate Fellowship ($900) <span style="float:right;">2020 – 2021</span>       
+Ford Foundation Fellowship Program, Honorable Mention <span style="float:right;">2020</span>       
+Davis Muir Institute Graduate Fellowship ($5,000) <span style="float:right;">2019 – 2020</span>       
+College of Charleston Political Science Department, 1st place for Best Paper Award <span style="float:right;">2013</span>      
+ASIANetwork/Freeman-Asia Foundation Student-Faculty Fellowship to Thailand ($6,000) <span style="float:right;">2012</span>       
+College of Charleston Summer Undergraduate Research with Faculty Grant ($5,000) <span style="float:right;">2011</span>       
 
+#### EDUCATION 
+UC Davis Graduate Group in Ecology Fellowship <span style="float:right;">2018 – 2020</span>       
+Rotary Foundation Global Grant Scholarship to Newcastle, United Kingdom <span style="float:right;">2014 – 2015</span>       
+Fulbright Maastricht University Award to Maastricht, The Netherlands <span style="float:right;">2013 – 2014</span>       
+College of Charleston Bishop Robert Smith Award <span style="float:right;">2013</span>      
+College of Charleston Biology Outstanding Student in the Major Award <span style="float:right;">2013</span>      
+College of Charleston Political Science Outstanding Student in the Major Award <span style="float:right;">2013</span>      
+College of Charleston Maggie T. Pennington Scholarship <span style="float:right;">2012-2013</span>       
+College of Charleston Alexandria Dengate Scholarship <span style="float:right;">2011-2012</span>        
 
 ***
 
-## SERVICE  
+### SERVICE  
 
 Program Committee Member | Atlanta Conference on Science and Innovation Policy <span style="float:right;"> 2025</span>  
 Reviewer | _Policy Studies Journal, Society & Natural Resources, Environmental Innovations and Societal Transitions, Frontiers in Agronomy_ <span style="float:right;">  2023 – 2025</span>  
