@@ -40,7 +40,7 @@ University of California Davis
 &nbsp;&nbsp;[Horticulture Innovation Lab & USAID](https://horticulture.ucdavis.edu/) \hfill 2019
 
 Assistant Director of First-Year Experience  \hfill 2016 – 2018    
-College of Charleston, New Student Programs  
+College of Charleston, [New Student Programs](https://charleston.edu/first-year-experience/index.php)    
 <!---
 Climate & Fisheries Extension Researcher  \hfill 2012 – 2013  
 South Carolina Sea Grant Consortium
@@ -58,7 +58,7 @@ Associate Fellow | Centre for Sustainable Business, King's College London Busine
 
 ### PEER-REVIEWED PUBLICATIONS  
 
-Scott, T., Kim, S., **Wood, L.** *Accepted*. Open access, professional popularity, and agency involvement drive science referenced in U.S. EPA regulatory impact analyses from 2000 to 2022. _Regulation & Governance._   
+Scott, T., Kim, S., **Wood, L.** (2025) Open access, professional popularity, and agency involvement drive science referenced in U.S. EPA regulatory impact analyses from 2000 to 2022. _Regulation & Governance_, http://doi.org/10.1111/rego.70026.      
 
 **Wood, L.**, Vantaggiato, F.P., Scott, T.A. (2025) Tracing the path of knowledge on ‘environmental governance processes’ for theory-building. _Environmental Policy and Governance_, https://doi.org/10.1002/eet.2151. 
 
@@ -116,16 +116,22 @@ Atlanta Academy on Science and Innovation Policy | Georgia USA  \hfill 2022
 American Association of Geographers Annual Meeting | virtual \hfill 2020   
 International Association for the Study of the Commons | Peru \hfill 2019  
 
-### INVITED TALKS 
+### TALKS, WORKSHOPS, AND DISCUSSANT ROLES 
 
-Politecnico di Bari, Management Group  \hfill 2025  
-_Who innovates for climate adaptation? Evidence from plant variety development_   
-
-Newcastle University School of Natural and Environmental Sciences Seminar Series  \hfill 2022  
-_Supporting innovation for sustainable agriculture: The case of the organic seed system in the United States_ 
-
-Mars-Wrigley Cacao Research and Development Seminar Series \hfill 2022   
-_Mapping the seed innovation system_  
+Politecnico di Bari, Management Group  \hfill April 2025  
+&nbsp;&nbsp;Invited talk | _Who innovates for climate adaptation? Evidence from plant variety development_   
+London Environment and Public Policy Workshop \hfill September 2024  
+&nbsp;&nbsp;Invited discussant | Panel: Palace politics in climate and environmental governance  
+University of California, Data Visualization ECL 290 \hfill October 2023  
+&nbsp;&nbsp;Invited lecture | [_Interactive data with Shiny flexdashboard_](https://liza-wood.github.io/intro-shiny/)  
+University of California Davis Mexican Graduate Student Association \hfill May 2023  
+&nbsp;&nbsp;Invited workshop | [_Introduction to the Tidyverse_](https://liza-wood.github.io/tidyverse_intro/) & [_Making websites with Rmd & GitHub_](https://liza-wood.github.io/make_github_webpage/)  
+University of California, UC Davis DataLab Micro-credential Program \hfill May 2023  
+&nbsp;&nbsp;Invited workshop | [_Network visualization_](https://ucdavisdatalab.github.io/workshop_network_viz/)  
+Newcastle University School of Natural and Environmental Sciences Seminar Series  \hfill June 2022  
+&nbsp;&nbsp;Invited talk | _Supporting innovation for sustainable agriculture_   
+Mars-Wrigley Cacao Research and Development Seminar Series \hfill December 2021   
+&nbsp;&nbsp;Invited talk | _Mapping the seed innovation system_  
 
 
 ***
