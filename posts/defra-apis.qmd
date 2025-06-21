@@ -1,0 +1,320 @@
+---
+title: "Environmental data from Defra"
+author: "Liza Wood"
+date: "May 26 2025"
+description: ""
+type: post
+toc: TRUE
+---
+
+```{r, echo = F, results = F}
+knitr::opts_chunk$set(
+  echo = T, warning = F,  error = F, message = F)
+```
+
+# Introduction: Data at Defra 
+
+In 2023 Defra published their [Defra digital and data transformation strategy](https://www.gov.uk/government/publications/defra-digital-and-data-transformation-strategy-2023-to-2030), which envisions more collaboration across Defra groups, united by high quality data and data skills. 
+
+To achieve Defra's mission, they explain that "we need to work together to collectively deliver better outcomes for the environment and for users." Defra works with 35 agencies and public bodies[^1], but this strategy focuses on the core department and its main 'arm's length bodies (ALB)': Animal and Plant Health Agency, Environment Agency, Natural England, Rural Payments Agency, and Marine Management Organisation.
+
+In their digital transformation vision, Defra wants to make their data: easier to interact with, support facilitation across the group, and inform policy. For this to be achieve, Defra pays out 6 missions:  
+
+1. Transformed services that deliver the right outcomes for people and the environment.  
+2. Putting in place common business capabilities and modern delivery practices to realise better digital services.  
+3. Make better use of data to power decision-making and services.  
+4. Efficient, secure, and sustainable technology and services.  
+5. Digital confidence and skills at scale.  
+6. Removing the barriers to transformation.  
+
+To do this, Defra is evolving to create a Common Data Analytics Platform (CDAP) through the Data Analytics & Science Hub (DASH). DASH is still quite new, however, so we might want to consider how data is currently stored in Defra.
+
+# Find Defra data 
+
+Currently, the home for Defra' data is in this [Data Services Platform](https://environment.data.gov.uk/), which points users to two main interfaces for data. One is the wider [catalog of open data in the UK](https://www.data.gov.uk/), in which over 4500 unique datasets are published on the Environment. These datasets are downloadable for individual use. The second is their [API portal](https://environment.data.gov.uk/apiportal), which provides [Linked Data](https://environment.data.gov.uk/support/faqs/275876955) that supports FAIR data practices (e.g. findable, accessible, interoperable, and reusable). These APIs feed into Defra's [applications](https://environment.data.gov.uk/appgallery) that help users interact with data.
+
+Researchers are most likely interested in using the APIs (Application Programming Interfaces) to access data, as the data available on APIs are typically up-to-date and the query structures makes the data cleaning more manageable and reproducible. But, what are APIs and how can we leverage them? This tutorial will provide examples of how to get data from Defra's APIs, compare how their APIs differ
+
+# Defra APIs
+
+Defra currently has 11 different APIs active on its website. Right now the documentation for format for each is somewhat different, so I will walk through a few of them
+
+The general idea is that a database storing (usually large amounts of) relational data, held on a server, can be 'queried' by combining the base URI (in a sense, the root directory) with specific query parameters and selected targeted return fields. This tutorial will walk through combining these different elements to return different parts of a database to users in R. 
+
+Before we get started, let's load in our key packages for working with APIs:
+
+```{r}
+library(jsonlite)
+library(httr)
+```
+
+## Asset management 
+
+We'll start with the example of the [Asset Management API](https://environment.data.gov.uk/asset-management/doc/reference). 
+
+### Base
+
+URI is the root directory of where the data are stored for a given API. In this case, the documentation explains that the base URI for Asset Management data is 
+`http://environment.data.gov.uk/asset-management`. This means that every query we make will build on this URI. 
+
+```{r}
+base <- "http://environment.data.gov.uk/asset-management/"
+```
+
+### Endpoints
+
+In the URI represents the starting point, then the various endpoints of an API help guide us in where in want to go to find the data. In the case of the Asset Management API there are six different subdirectories: Assets, Maintenance activities, Maintenance tasks, Maintenance plans, Capital schemes, and Completed capital schemes. 
+
+If we look at the first option of the API in each of these categories (e.g. [Capital schemes](https://environment.data.gov.uk/asset-management/doc/reference#main-capital-projects)) we see that we can request a list all the information (in these cases, assets, activities, projects, etc.). So let's start with a basic query to list the projects in the capital scheme projects. 
+
+```{r}
+proj_query <- paste0(base, "id/capital-project")
+proj_query
+```
+
+To request, we use the `VERB` function from the `httr` package, and specify that we want to GET, which is the project query. 
+```{r}
+response <- VERB("GET", proj_query)
+```
+
+We then extract the content from the response, and specify that we want to retrieve it as "text". Then because the text is automatically stored in a JSON format, we want to convert it into an R object with `fromJSON`. 
+
+
+```{r}
+response <- fromJSON(content(response, "text")) 
+```
+
+Then our response object has two elements, meta and items. The meta holds metadata about the data request, for example the version of the API or the limit of the request. The items elements holds the project data. 
+```{r}
+names(response)
+```
+
+So we can pull out the projects data and inspect it. 
+```{r}
+projects <- response$items
+
+colnames(projects)
+dim(projects)
+```
+
+You'll notice that there are only 100 projects, which is suspicious. This is because there are usually limits on how much data can be pulled at once. We can confirm this by looking at the request's metadata.
+
+```{r}
+response$meta$limit
+```
+
+
+So this API limits the request to 100 responses. In order to get more than 100 responses then, we need to submit multiple queries that page through the responses. We can read a bit about this in the documentation: 
+
+"If a limit or offset is applicable, whether explicit in the query or implicitly imposed by the API, then the metadata object will include a limit or offset field to show what limits were applied."
+
+This signals to us that we can use the offset parameter to page through the responses, which brings us to the next section on query parameters. 
+
+
+### Query parameters
+
+Query parameters help you be more specific about what you want from the data, allowing you to specify details about your desired endpoint.
+
+`offset` 
+
+Above, we just learned that there is actually an 'offset' parameter that helps us overcome limits. To use the parameter, we set up the query by using the `?_` format, followed by a parameter and its argument `offset=101`. 
+
+```{r}
+proj_query_offset <- paste0(base, "id/capital-project?_offset=101")
+proj_query_offset
+```
+
+When we run this new query, we still get 100 projects:  
+```{r}
+response <- VERB("GET", proj_query_offset)
+response <- fromJSON(httr::content(response, "text")) 
+projects_offset <- response$items
+
+dim(projects_offset)
+```
+
+However, these should be different than our first query due to the offset parameter. We can compare their labels (i.e. project names) to see that they are different.
+```{r}
+projects$label[1:5]
+```
+
+```{r}
+projects_offset$label[1:5]
+```
+
+At this point we'll take an interlude to queries to ask: How can we efficiently get all of the projects listed? Iteration! We can cycle through this request with different offsets using a simple `while` loop. 
+```{r}
+#options("scipen"=10) 
+
+# set x to the limit max to help us identify when we've hit the last page
+x = 100
+# start on page 0
+page = 0
+# set i (iteration) to 1
+i = 1
+# initiate an empty list in which we will compile the projects
+projects_list <- list()
+# Loop through so that while the output is 100 long, we continue,
+# as we expect that there is another page
+while(x == 100){
+  project <- paste0(base, "id/capital-project?_offset=")
+  response <- VERB("GET", paste0(project, page))
+  response <- fromJSON(httr::content(response, "text")) 
+  projects_list[[i]] <- response$items
+  # re-set x based on nrow to identify when we've hit the last page
+  x <- nrow(response$items)
+  # re-set page by adding the limit value to the page value
+  page = page+100
+  # add to the iteration so that we will in different list items
+  i = i+1
+}
+# Bind it all together as a data frame
+projects_df <- data.frame(data.table::rbindlist(projects_list))
+
+```
+
+So, what do we see from this projects data frame? Now we gather that there are 740 projects ongoing.
+```{r}
+dim(projects_df)
+```
+
+
+**Back to parameters**
+Beyond the page offset, there are typically parameters outlined in the documentation. This is true for the Assets in the API, however not true to the capital schemes. Annoying, but what we _do_ have are fields that are marked as 'filterable' and we can see an example of this in the documentation. So we can adjust these fields to make them filterable queries.
+
+For instance, we can query for the minimum government investment to equal £10,000 by appending the min- fields in the query. I only knew how to do this based on the example, calling for me nor
+```{r}
+project <- paste0(base, "id/capital-project?min-governmentInvestment=10000")
+response <- VERB("GET", project)
+response <- fromJSON(httr::content(response, "text")) 
+min_govt_invest <- response$items
+nrow(min_govt_invest)
+```
+
+Similarly, we can query for the max government investment to equal £10 using the max fields in the query. I only knew how to do this based on the example, calling for me nor
+```{r}
+project <- paste0(base, "id/capital-project?max-governmentInvestment=10")
+response <- VERB("GET", project)
+response <- fromJSON(httr::content(response, "text")) 
+max_govt_invest <- response$items
+```
+
+```{r}
+project <- paste0(base, "id/capital-project?governmentInvestment=10")
+response <- VERB("GET", project)
+response <- fromJSON(httr::content(response, "text")) 
+exact_govt_invest <- response$items
+```
+
+Combining queries
+```{r}
+project <- paste0(base, "id/capital-project?min-governmentInvestment=10&max-governmentInvestment=50")
+response <- VERB("GET", project)
+response <- fromJSON(httr::content(response, "text")) 
+range_govt_invest <- response$items
+```
+
+**specific projects**
+
+Here we can use another endpoint, which is id (	/id/capital-project/{id})
+
+
+```{r}
+range_govt_invest$notation[1]
+```
+
+```{r}
+single_project_query <- paste0(base, "id/capital-project/2020/21-010095")
+response <- VERB("GET", single_project_query)
+response <- fromJSON(httr::content(response, "text")) 
+single_project <- response$items
+```
+
+```{r}
+dim(single_project)
+```
+Now we have 19 columns.
+
+```{r}
+single_project$governmentInvestment
+
+```
+
+
+**all project data**
+
+We can iterate through, but we'll find that many projects are formatted somewhat differently if they have nested elements
+```{r}
+library(stringr)
+ongoing_list <- list()
+for(i in 1:nrow(projects_list)){
+  if(str_detect(projects_list$notation[i], 'TBC\\d')){ next }
+  url <- paste0(base, 'id/capital-project/', projects_list$notation[i])
+  response <- VERB("GET", url)
+  response <- fromJSON(httr::content(response, "text")) 
+  proj <- response$items
+  #if(is.list(proj$county)){
+  #  proj$county <- paste(unlist(proj$county), collapse = "; ")
+  #}
+  #if(length(proj$inRegion) == 1){ # if just a list
+  #  proj$inRegion <- proj$inRegion[[1]]
+  #}
+  ongoing_list[[i]] <- proj
+}
+
+
+```
+
+
+
+### Return fields 
+
+However, we only have six columns of basic information about them, which the API suggests is only a fraction of the overall data available. This is because the six columns available are the default return fields, despite their being more possible return fields. A note is that despite the documentation suggesting that all fields can be returned with the query parameter, _view=full, correspondence with Defra has told me that this query field is not applicable to capital schemes.  
+
+I have yet to successfully identify how to pull certain fields from the API, despite this being a common query approach 
+
+
+### Issues with the Asset Management API
+
+* Unclear whether or not we can specify certain fields
+* Missing fields
+* No clear queries, but there are filters; no documentation on the filters
+
+
+## Ecology
+
+Very different documentation. What can we do with this?
+```{r}
+base <- "http://environment.data.gov.uk/ecology/api/v1/"
+```
+
+```{r}
+site_query <- paste0(base, "sites")
+response <- VERB("GET", site_query)
+sites <- fromJSON(httr::content(response, "text")) 
+```
+
+```{r}
+sites$ids <- str_extract(sites$site_id, 'site\\/(bio|fish).*')
+
+id <- str_replace_all(sites$site_ids[1], "\\:", "%3A")
+id <- str_replace_all(id, "\\/", "%2F")
+site_query <- paste0(base, id)
+response <- VERB("GET", site_query)
+response <- fromJSON(httr::content(response, "text")) 
+```
+
+```{r}
+# Examples
+query <- "observations?skip=0&take=50&ultimate_foi_id=http%3A%2F%2Fenvironment.data.gov.uk%2Fecology%2Fspecies%2Ffish%2F194"
+query <- paste0(base, query)
+response <- VERB("GET", query)
+response <- fromJSON(httr::content(response, "text")) 
+
+
+```
+
+
+
+
+[^1]: These organizations include two non-ministerial bodies (Forestry Commission and The Water Services Regulation Authority), five exectuvie agencies (Animal and Plant Health Agency, Centre for Environment, Fisheries, and Aquaculture Science, Rural Payments Agency, Veterinary Medicines Directorate), nine executive non-departmental public bodies (e.g. Environment Agency, Natural England, Agriculture and Horticulture Development Board), four advisory non-departmental public body (e.g. Defra's Science Advisory Council), one tribunal (Plant Varieties and Seeds Tribunal), and 15 other groups (e.g. National Parks authorities).

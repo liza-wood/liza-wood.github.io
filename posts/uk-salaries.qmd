@@ -1,0 +1,117 @@
+---
+title: "The cost of living in the UK"
+author: "Liza Wood"
+date: "May 26 2025"
+description: ""
+type: post
+toc: TRUE
+---
+
+```{r, echo = F, results = F}
+knitr::opts_chunk$set(
+  echo = T, warning = F,  error = F, message = F)
+```
+
+Pay As You Earn (https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/realtimeinformationstatisticsreferencetableseasonallyadjusted)
+
+```{r}
+
+library(tidyverse)
+
+process_data <- function(sheet_n, start_row, summary_stat){
+  df <- openxlsx::read.xlsx('posts/data/rtisajun2025.xlsx', sheet = sheet_n, startRow = start_row)
+  if(sheet_n %in% 21:22){
+    start <- which(colnames(df) == "City.of.London")
+    end <- which(colnames(df) == "Westminster")
+    df <- df[,c(1,start:end)]
+  }
+  df <- df %>% 
+    pivot_longer(cols = 2:ncol(df), names_to = "category", values_to = summary_stat)
+  df$year <- str_extract(df$Date, '\\d+')
+  df$month <- trimws(str_remove_all(df$Date, '\\d+'))
+  df$month <- sapply(df$month, function(x) which(x == month.name))
+  df$date <- as.Date(paste(df$year, sprintf("%02d", df$month), "01",  sep = "-"))
+  return(df)
+}
+```
+
+
+```{r}
+#openxlsx::getSheetNames('posts/data/rtisajun2025.xlsx')
+# Median and mean by...
+# 8/9: NUTS1
+# 14/15: NUUTs2 (has inner/outer/northern London)
+# 20/21: LA (has London neighborhoods)
+# 24/25: industry
+# 29/30: age
+nuts1_median <- process_data(9, 7, "median")
+nuts1_mean <- process_data(10, 7, "mean")
+nuts1 <- full_join(nuts1_median, nuts1_mean)
+
+nuts2_median <- process_data(15, 7, "median")
+nuts2_mean <- process_data(16, 7, "mean")
+nuts2 <- full_join(nuts2_median, nuts2_mean)
+
+la_median <- process_data(21, 8, "median")
+la_mean <- process_data(22, 8, "mean")
+la <- full_join(la_median, la_mean)
+
+industry_median <- process_data(25, 7, "median")
+industry_mean <- process_data(26, 7, "mean")
+industry <- full_join(industry_median, industry_mean)
+
+age_median <- process_data(30, 6, "median")
+age_mean <- process_data(31, 6, "mean")
+age <- full_join(age_median, age_mean)
+```
+
+
+```{r}
+order <- nuts1 %>% 
+  filter(year == 2025, month == 4) %>% 
+  arrange(-mean)
+nuts1 %>% 
+  pivot_longer(cols = c(median, mean), names_to = "statistic", values_to = "value") %>% 
+  filter(!category %in% c("Scotland", "Northern.Ireland", "Wales")) %>% 
+  ggplot(aes(x = date, y = value, color = factor(category, order$category))) +
+  geom_point(alpha = 0.6) +
+  facet_wrap(~statistic) +
+  theme_minimal() +
+  labs(y = "", color = "")
+```
+
+```{r}
+keep <- c("City.of.London", "Kensington.and.Chelsea", "Camden",
+          "Islington", "Tower.Hamlets", "Hackney",
+          "Barnet", "Haringey", "Ealing", "Waltham.Forest", "Enfield")
+order <- la %>% 
+  filter(year == 2025, month == 4, category %in% keep) %>% 
+  arrange(-mean)
+la %>% 
+    filter(category %in% keep) %>% 
+  pivot_longer(cols = c(median, mean), names_to = "statistic", values_to = "value") %>% 
+  ggplot(aes(x = date, y = value, color = factor(category, order$category))) +
+  geom_point(alpha = 0.6) +
+  facet_wrap(~statistic) +
+  theme_minimal() +
+  labs(y = "", color = "")
+```
+
+```{r}
+keep <- c()
+order <- industry %>% 
+  filter(year == 2025, month == 4) %>% 
+  arrange(-mean)
+industry %>% 
+  #  filter(category %in% keep) %>% 
+  pivot_longer(cols = c(median, mean), names_to = "statistic", values_to = "value") %>% 
+  ggplot(aes(x = date, y = value, color = factor(category, order$category))) +
+  geom_point(alpha = 0.6) +
+  facet_wrap(~statistic) +
+  theme_minimal() +
+  labs(y = "", color = "")
+```
+
+
+HM Land Registry: properties that have sold each of these years (since 2011)
+

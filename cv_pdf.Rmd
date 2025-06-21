@@ -122,13 +122,13 @@ Politecnico di Bari, Management Group  \hfill April 2025
 &nbsp;&nbsp;Invited talk | _Who innovates for climate adaptation? Evidence from plant variety development_   
 London Environment and Public Policy Workshop \hfill September 2024  
 &nbsp;&nbsp;Invited discussant | Panel: Palace politics in climate and environmental governance  
-University of California, Data Visualization ECL 290 \hfill October 2023  
+University of California Davis, Data Visualization ECL 290 \hfill October 2023  
 &nbsp;&nbsp;Invited lecture | [_Interactive data with Shiny flexdashboard_](https://liza-wood.github.io/intro-shiny/)  
-University of California Davis Mexican Graduate Student Association \hfill May 2023  
+University of California Davis, Mexican Graduate Student Association \hfill May 2023  
 &nbsp;&nbsp;Invited workshop | [_Introduction to the Tidyverse_](https://liza-wood.github.io/tidyverse_intro/) & [_Making websites with Rmd & GitHub_](https://liza-wood.github.io/make_github_webpage/)  
-University of California, UC Davis DataLab Micro-credential Program \hfill May 2023  
+University of California Davis, DataLab Micro-credential Program \hfill May 2023  
 &nbsp;&nbsp;Invited workshop | [_Network visualization_](https://ucdavisdatalab.github.io/workshop_network_viz/)  
-Newcastle University School of Natural and Environmental Sciences Seminar Series  \hfill June 2022  
+Newcastle University, School of Natural and Environmental Sciences Seminar Series  \hfill June 2022  
 &nbsp;&nbsp;Invited talk | _Supporting innovation for sustainable agriculture_   
 Mars-Wrigley Cacao Research and Development Seminar Series \hfill December 2021   
 &nbsp;&nbsp;Invited talk | _Mapping the seed innovation system_  
