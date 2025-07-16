@@ -1,0 +1,31 @@
+---
+title: "Click-through webscraping"
+---
+In this tutorial I will focus on scraping data from a page completely hosted on Java -- namely spatial data housed in Esri -- to learn how to click through and download data using only pointers to different web elements.
+
+I'll do this using the USDA CropCROS (Crop Layer) data
+
+These data are an excellent source of land use data across the US, but they do not yet have an API to interface with.
+
+So, how can we bulk download across different conditions.
+
+
+I have introduced how to host RSelenium on a remote server for headless browsing, and some of the key capabilities of it in previous tutorials. 
+
+Three key filters:
+Crops: Can select multiple
+
+Areas: Can only select one at a time, and must be selected to export data
+
+Years: Can only select one at a time, and default selects at 2024. You can only change the date with the slider.
+
+## Crops
+
+## Areas
+
+## Years
+
+## Combining
+
+## Room for improvement
+Trycatch the errors to re-set

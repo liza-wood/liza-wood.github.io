@@ -59,28 +59,15 @@ Scott, T., Kim, S., **Wood, L.** (2025) Open access, professional popularity, an
 
 Rudnick, J., Lubell, M., Khalsa, S.D.S., Tatge, S., **Wood, L.**, Sears, M., Brown, P. (2021). A farm systems approach to the adoption of sustainable nitrogen management practices in California. *Agriculture and Human Values 38*. [https://doi.org/10.1007/s10460-021-10190-5](https://doi.org/10.1007/s10460-021-10190-5).  
 
-<!---
-#### IN PREPARATION     
+#### CONFERENCE PAPERS
 
-**Wood, L.** Mapping the spatial structure of the organic seed system: A network approach to the Global Innovation System framework. _Revise & resubmit._  
+**Wood, L.** How public and private innovations shape environmental sustainability: Evidence from a century of plant patents. Research Policy 8th Online Conference for Early Career Researchers (2024).  
 
-**Wood, L.**, Hubbard, K., Zystro, J. Compliance in regulatory gray areas: The case of the organic seed standard. _Under review._
+**Wood, L.**, Pascucci, S. Entanglements of ecological systems and organizational transformation in the organic seed niche. European Group for Organizational Studies (2024).  
 
+**Wood, L.**, Pascucci, S. Mapping the research landscape of collaborative processes in sustainable business model innovation. King's College London Centre for Sustainable Business Short Paper Workshop: Unlocking pathways for a sustainable future (2024)   
 
-
-
-**Wood, L.**, Colombo, L., Pascucci, S. Entanglements of ecological systems and organizational transformation in the organic seed niche. EGOS24. 
-
-**Wood, L.** How public and private innovations shape environmental sustainability: Evidence from a century of plant patents. EPG24/ResPol 
-
-**Wood, L.**, Struthers, C., Scott, T.A., Kim, S. Science politics: How political context shapes public agencies’ use of science in environmental policymaking. EPG23  
-
-**Wood,L. and Pascucci, S. Mapping the research landscape of collaborative
-processes in sustainable business model innovation. KCL24
-
-**Wood, L.**. usdaoRganic. 
-
----> 
+**Wood, L.**, Struthers, C., Scott, T.A., Kim, S. Science politics: How political context shapes public agencies’ use of science in environmental policymaking. Environmental Politics and Governance Conference (2023).  
 
 #### REPORTS         
 
@@ -96,37 +83,46 @@ Hubbard, K., Zystro, J., & **Wood, L**. (2022). [State of Organic Seed](https://
 
 ### PRESENTATIONS  
 
-**Wood, L.** (2024, September) How public and private innovations shape environmental sustainability: Evidence from a century of plant patents. Research Policy 8th Early Career Conference, remote presentation. 
+#### CONFERENCE PRESENTATIONS  
 
-**Wood, L.** & Pascucci, S. (2024, July) Entanglements of ecological systems and organizational transformation in the organic seed niche. European Group for Organizational Studies. Milan, IT. 
+Rural Sociological Society Annual Meeting |  Utah USA <span style="float:right;">2025</span>  
+European Forum for Studies of Policies for Research and Innovation |  Germany <span style="float:right;">2025</span>   
+Research Policy 8th Online Conference for Early Career Researchers | virtual <span style="float:right;">2024</span>  
+European Group for Organizational Studies | Italy <span style="float:right;">2024</span>  
+Environmental Politics and Governance Conference | United Kingdom, Canada  <span style="float:right;">2023, 2024</span>    
+King's College London Centre for Sustainable Business Short Paper Workshop | United Kingdom <span style="float:right;">2024</span>  
+International Sustainability Transitions Conference | virtual, Netherlands  <span style="float:right;">2022, 2023</span>    
+Conference of Policy Process Research | Colorado USA <span style="float:right;">2023</span>    
+Duck Family Workshop on Environmental Politics and Governance | Washington USA <span style="float:right;">2022</span>     
+Atlanta Academy on Science and Innovation Policy | Georgia USA  <span style="float:right;">2022</span>     
+American Association of Geographers Annual Meeting | virtual <span style="float:right;">2020</span>     
+International Association for the Study of the Commons | Peru <span style="float:right;">2019</span>    
 
-**Wood, L.** (2024, June) How public and private innovations shape environmental sustainability: Evidence from a century of plant patents. Environmental Politics and Governance Conference. Quebec City, CA. 
+#### TALKS, WORKSHOPS, AND DISCUSSANT ROLES 
 
-**Wood, L.**, Pascucci, S. (2024, March) Mapping the research landscape of collaborative processes in sustainable business model innovation. King's College London Centre for Sustainable Business Short Paper Workshop: Unlocking pathways for a sustainable future. London, UK.  
 
-**Wood, L** (2023, August) Sustained coexistence pathways for non-proprietary innovation. International Sustainability Transitions Conference. Utrecht, NL.   
-
-**Wood, L**, Scott, T.A, Struthers, C., Kim, S. (2023, July) Science politics: How political context shapes public agencies’ use of science in environmental policymaking. Environmental Politics and Governance Conference. Glasgow, UK.   
-
-**Wood, L** & Scott, T.A. (2023, January) govscienceuseR: Tools for quantifying science in policy. Conference of Policy Process Research. Denver, CO.  
-
-**Wood, L** & Lubell, M. (2022, November). Analyzing sustainability transitions with innovation system networks: The case of the organic seed system in the United States. International Sustainability Transitions Conference, remote presentation.  
-
-**Wood, L**. (2022, June). “Supporting innovation for sustainable agriculture: The case of the organic seed system in the United States.” Newcastle University School of Natural and Environmental Sciences Seminar Series, invited talk, remote presentation.  
-
-**Wood, L**. (2022, May). “Governing agrobiodiversity: A comparison of regional seed innovation systems as social-ecological networks.” 8th Annual Duck Family Workshop on Environmental Politics and Governance, University of Washington. Seattle, WA.     
-
-**Wood, L**. (2022, March). “Seed innovation systems in the US: The politics of science for  agro-ecological transitions.” Atlanta Academy on Science and Innovation Policy. Atlanta, GA.    
-
-**Wood, L**. (2021, December). “Mapping the seed innovation system.” Mars-Wrigley Cacao Research &  Development Seminar Series. Davis, CA.  
-
-**Wood, L**. & Rudnick, J. (2020, April). “The effect of information-based policy tools on farmers’ nitrogen management.” American Association of Geographers Annual Meeting, remote presentation.    
-
-**Wood, L**. (2019, July). “Assessing Seed System Resilience: A Case Study from Northeastern Thailand.” International Association for the Study of the Commons, Lima, Peru.  
+Politecnico di Bari, Management Group  <span style="float:right;">April 2025</span>    
+&nbsp;&nbsp;Invited talk | _Who innovates for climate adaptation? Evidence from plant variety development_   
+London Environment and Public Policy Workshop <span style="float:right;">September 2024</span>   
+&nbsp;&nbsp;Invited discussant | Panel: Palace politics in climate and environmental governance   
+King's College London, Environment and Public Policy   Research Group Seminar <span style="float:right;">January 2024</span>  
+&nbsp;&nbsp;Seminar talk | _Tracing the path of knowledge on ‘environmental governance processes’ for theory-building_   
+University of California Davis, Data Visualization ECL 290 <span style="float:right;">October 2023</span>  
+&nbsp;&nbsp;Invited lecture | [_Interactive data with Shiny flexdashboard_](https://liza-wood.github.io/intro-shiny/)  
+University of California Davis, Mexican Graduate Student Association <span style="float:right;">May 2023</span>  
+&nbsp;&nbsp;Invited workshop | [_Introduction to the Tidyverse_](https://liza-wood.github.io/tidyverse_intro/) & [_Making websites with Rmd & GitHub_](https://liza-wood.github.io/make_github_webpage/)  
+University of California Davis, DataLab Micro-credential Program <span style="float:right;">May 2023</span>  
+&nbsp;&nbsp;Invited workshop | [_Network visualization_](https://ucdavisdatalab.github.io/workshop_network_viz/)  
+Newcastle University, School of Natural and Environmental Sciences Seminar Series  <span style="float:right;">June 2022</span>  
+&nbsp;&nbsp;Invited talk | _Supporting innovation for sustainable agriculture_   
+Mars-Wrigley Cacao Research and Development Seminar Series <span style="float:right;">December 2021</span>   
+&nbsp;&nbsp;Invited talk | _Mapping the seed innovation system_  
+  
 
 ***
 
-### TEACHING EXPERIENCE   
+
+### TEACHING EXPERIENCE    
 
 #### DATA SCIENCE   
 
@@ -184,14 +180,15 @@ College of Charleston Alexandria Dengate Scholarship <span style="float:right;">
 ### SERVICE  
 
 Program Committee Member | Atlanta Conference on Science and Innovation Policy <span style="float:right;"> 2025</span>  
-Reviewer | _Policy Studies Journal, Society & Natural Resources, Environmental Innovations and Societal Transitions, Frontiers in Agronomy_ <span style="float:right;">  2023 – 2025</span>  
 [Davis R Users Group](https://d-rug.github.io/) Coordinator | UC Davis <span style="float:right;"> 2021 – 2023</span>  
 Ecology Graduate Group Graduate Student Mentor | UC Davis <span style="float:right;">  2019 – 2022</span>   
 Data Carpentries Instructor | The Carpentries <span style="float:right;">  2021 – 2022</span>    
 Admissions Committee Application Reviewer | UC Davis <span style="float:right;"> 2019 – 2021</span>       
 Sustainability Literacy Writing Committee Member | College of Charleston <span style="float:right;"> 2017 – 2018</span>      
 Faculty for Sustainable Living Workshop Coordinator | College of Charleston <span style="float:right;"> 2016 – 2018</span>   
-Internal Fellowship Interview Panelist | College of Charleston <span style="float:right;"> 2016 – 2017</span> 
+Internal Fellowship Interview Panelist | College of Charleston <span style="float:right;"> 2016 – 2017</span>  
+
+Reviewer | _Policy Studies Journal, Society & Natural Resources, Environmental Innovations and Societal Transitions, Frontiers in Agronomy, European Management Review_ 
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-HJX1JG1FCV"></script>

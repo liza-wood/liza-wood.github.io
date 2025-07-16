@@ -115,3 +115,128 @@ industry %>%
 
 HM Land Registry: properties that have sold each of these years (since 2011)
 
+## Job vanacies
+https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/datasets/vacanciesbyindustryvacs02
+```{r}
+df <- openxlsx::read.xlsx('posts/data/vacs02jun2025.xlsx', sheet = 2, startRow = 4)
+df <- df[-(1:3),-2]
+colnames(df)[2:ncol(df)] <- c("All vacancies",
+                              "Mining & quarrying", "Manufacturing", 
+                              "Electricity & gas", "Water & waste", 
+                              "Construction", "Wholesale retail", 
+                              "Transport & storage", "Accommodation & Food service",
+                              "Information & communication", "Finance & insurance",
+                              "Real estate", "Professional & scientific",
+                              "Administrative & support", "Public admin. & defense",
+                              "Education", "Human health & social work", 
+                              "Arts & entertainment", "Other service", 
+                              "Total services", "Motor trades",
+                              "Wholesale", "Retail"
+                              )
+df$year <- str_extract(df$SIC.2007.sections, "\\d{4}")
+df$month[str_detect(df$SIC.2007.sections, "Jan-Mar")] <- 3
+df$month[str_detect(df$SIC.2007.sections, "Feb-Apr")] <- 4
+df$month[str_detect(df$SIC.2007.sections, "Mar-May")] <- 5
+df$month[str_detect(df$SIC.2007.sections, "Apr-Jun")] <- 6
+df$month[str_detect(df$SIC.2007.sections, "May-Jul")] <- 7
+df$month[str_detect(df$SIC.2007.sections, "Jun-Aug")] <- 8
+df$month[str_detect(df$SIC.2007.sections, "Jul-Sep")] <- 9
+df$month[str_detect(df$SIC.2007.sections, "Aug-Oct")] <- 10
+df$month[str_detect(df$SIC.2007.sections, "Sep-Nov")] <- 11
+df$month[str_detect(df$SIC.2007.sections, "Oct-Dec")] <- 12
+df$month[str_detect(df$SIC.2007.sections, "Nov-Jan")] <- 1
+df$month[str_detect(df$SIC.2007.sections, "Dec-Feb")] <- 2
+
+
+df$date <- as.Date(paste(df$year, sprintf("%02d", df$month), "01",  sep = "-"))
+df <- df[!is.na(df$month), ]
+```
+
+```{r}
+avg <- mean(as.numeric(df$`All vacancies`))
+ggplot(df,
+       aes(x = date, y = as.numeric(`All vacancies`))) +
+  geom_line(alpha = 0.6) +
+  theme_minimal() +
+  labs(y = "Ratio: Vacancies per 100 employee jobs", color = "",
+       title = "Office of National Statistics: UK Job vacancies") +
+  geom_hline(yintercept = avg, linetype="dashed", color = "red")
+```
+
+```{r}
+avg <- mean(as.numeric(df$`Professional & scientific`))
+
+df %>% 
+  #select(-`All vacancies`) %>% 
+  pivot_longer(cols = 2:(ncol(.)-3), names_to = "Industry",
+               values_to = "Ratio") %>% 
+  filter(Industry %in% c("All vacancies", "Education", 
+                         "Professional & scientific", "Public admin. & defense")) %>% 
+  ggplot(aes(x = date, y = as.numeric(Ratio), color = Industry)) +
+  geom_line(alpha = 0.6) +
+  theme_minimal() +
+  labs(y = "", color = "") +
+  geom_hline(yintercept = avg, linetype="dashed", color = "black")
+```
+
+
+```{r}
+df <- openxlsx::read.xlsx('posts/data/vacs02jun2025.xlsx', sheet = 1, startRow = 4)
+df <- df[-(1:3),-2]
+colnames(df)[2:ncol(df)] <- c("All vacancies",
+                              "Mining & quarrying", "Manufacturing", 
+                              "Electricity & gas", "Water & waste", 
+                              "Construction", "Wholesale retail", 
+                              "Transport & storage", "Accommodation & Food service",
+                              "Information & communication", "Finance & insurance",
+                              "Real estate", "Professional & scientific",
+                              "Administrative & support", "Public admin. & defense",
+                              "Education", "Human health & social work", 
+                              "Arts & entertainment", "Other service", 
+                              "Total services", "Motor trades",
+                              "Wholesale", "Retail"
+                              )
+df$year <- str_extract(df$SIC.2007.sections, "\\d{4}")
+df$month[str_detect(df$SIC.2007.sections, "Jan-Mar")] <- 3
+df$month[str_detect(df$SIC.2007.sections, "Feb-Apr")] <- 4
+df$month[str_detect(df$SIC.2007.sections, "Mar-May")] <- 5
+df$month[str_detect(df$SIC.2007.sections, "Apr-Jun")] <- 6
+df$month[str_detect(df$SIC.2007.sections, "May-Jul")] <- 7
+df$month[str_detect(df$SIC.2007.sections, "Jun-Aug")] <- 8
+df$month[str_detect(df$SIC.2007.sections, "Jul-Sep")] <- 9
+df$month[str_detect(df$SIC.2007.sections, "Aug-Oct")] <- 10
+df$month[str_detect(df$SIC.2007.sections, "Sep-Nov")] <- 11
+df$month[str_detect(df$SIC.2007.sections, "Oct-Dec")] <- 12
+df$month[str_detect(df$SIC.2007.sections, "Nov-Jan")] <- 1
+df$month[str_detect(df$SIC.2007.sections, "Dec-Feb")] <- 2
+
+
+df$date <- as.Date(paste(df$year, sprintf("%02d", df$month), "01",  sep = "-"))
+df <- df[!is.na(df$month), ]
+```
+
+```{r}
+avg <- mean(as.numeric(df$`All vacancies`))
+ggplot(df,
+       aes(x = date, y = as.numeric(`All vacancies`))) +
+  geom_line(alpha = 0.6) +
+  theme_minimal() +
+  labs(y = "", color = "") +
+  geom_hline(yintercept = avg, linetype="dashed", color = "red")
+```
+
+```{r}
+avg <- mean(as.numeric(df$`Professional & scientific`))
+
+df %>% 
+  #select(-`All vacancies`) %>% 
+  pivot_longer(cols = 2:(ncol(.)-3), names_to = "Industry",
+               values_to = "Levels") %>% 
+  filter(Industry %in% c("Education", 
+                         "Professional & scientific", "Public admin. & defense")) %>% 
+  ggplot(aes(x = date, y = as.numeric(Levels), color = Industry)) +
+  geom_line(alpha = 0.6) +
+  theme_minimal() +
+  labs(y = "", color = "")  +
+  geom_hline(yintercept = avg, linetype="dashed", color = "black")
+```

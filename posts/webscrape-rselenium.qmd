@@ -217,3 +217,11 @@ https://stackoverflow.com/questions/31901072/scrolling-page-in-rselenium
  <!--- organix_for_cvpo.R in osisn_spatial, appendix, validating with co-development, get_data this is the better version ---->
 
 ## Login?
+
+
+```{r}
+remDr$close()
+system('docker stop organix')
+system('docker remove organix')
+```
+
