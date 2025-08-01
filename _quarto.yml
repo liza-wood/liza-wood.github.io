@@ -20,8 +20,6 @@ website:
       - icon: github
         href: https://github.com/liza-wood/
         aria-label: GitHub
-      - icon: twitter
-        href: https://twitter.com/wood__liza
 
 format:
   html:
