@@ -18,6 +18,7 @@ This research agenda is rooted in the premise that science – how it is conduct
 
 Relevant publications and projects:  
 
+* Scott, T., Kim, S., **Wood, L.** (2025) Open access, professional popularity, and agency involvement drive science referenced in U.S. EPA regulatory impact analyses from 2000 to 2022. *Regulation & Governance.* [http://doi.org/10.1111/rego.70026](http://doi.org/10.1111/rego.70026)  
 * **Wood, L.**, Struthers, C., Scott, T.A., Kim, S. Science politics: How political context shapes public agencies’ use of science in environmental policymaking. Working paper for the Environmental Politics and Governance, 2023.  
 * **Wood, L** & Scott, T.A. (2023) [govscienceuseR](https://github.com/govscienceuseR): Tools for quantifying science in policy. Conference paper for Conference of Policy Process Research. Denver, CO.   
 * **Wood, L.**, Scott, T. (2022) Transportation agencies as consumers and producers of science: The case of state, regional, and county transportation agencies in California. Revise & resubmit in *Transport Policy 128*. [https://doi.org/10.1016/j.tranpol.2022.08.016](https://doi.org/10.1016/j.tranpol.2022.08.016).   
@@ -33,7 +34,7 @@ This research agenda explores the conditions under which ‘niche’ innovations
 
 Relevant publications and reports:  
 
-* Wood, L., Lubell, M. (2025) Resource constellations and institutional logics shape network-building processes in the organic seed niche. Accepted. *Environmental Innovation and Societal Transitions*.  
+* **Wood, L.**, Lubell, M. (2025) Resource constellations and institutional logics shape network-building processes in the organic seed niche. *Environmental Innovation and Societal Transitions*. [https://doi.org/10.1016/j.eist.2025.100965](https://doi.org/10.1016/j.eist.2025.100965)   
 * Wood, L. (2023). Final Report for [Network analysis of organic seed systems: a systems-level analysis for resilience](https://projects.sare.org/project-reports/gw20-216/). | Interactive data for [organic seed actors](https://liza-wood.shinyapps.io/actors-organic-seed-innovation/) and [organic seed networks](https://liza-wood.shinyapps.io/network-organic-seed-innovation/)  
 * Hubbard, K., Zystro, J., & **Wood, L**. (2022). [State of Organic Seed](https://stateoforganicseed.org/state-of-organic-seed-2022/). Port Townsend, Washington. | [Interactive data site](https://organicseed.shinyapps.io/SOSData/). 
 * **Wood, L**. (2022). Assessing the Resilience of the Organic Seed System: A Network Perspective. [Proceedings of the 11th Organic Seed Growers Conference](https://seedalliance.org/wp-content/uploads/2022/03/2022-OSGC-Proceedings-Final.pdf).   
@@ -61,16 +62,19 @@ Improving environmental outcomes will depend, in part, on technological innovati
 
 Relevant publications and projects:  
 
+* Jenney, P., **Wood, L.**, Dawson, J., Hubbard, K. When the Patent Bargain Fails: An examination of patents on plant varieties and the consequences for follow-on innovation. Working paper at the Rural Sociological Society Annual Meeting 2025.  
 * **Wood, L.** How public and private innovations shape environmental sustainability: Evidence from a century of plant patents. Working paper at the Environmental Politics and Governance, 2024 & RP 8th 8th Online Conference for ECRs, 2024. 
 
 *** 
 
+
+<!---
 ### Graduate student strike action  
 
 During Fall term of 2022, University of California graduate and post-doctoral unions went on strike to demand higher wagers, stronger protections, and more comprehensive benefits. As a fifth-year graduate student at the time of the strike action, I felt that the claims coming from both the Union and the UC were opaque. In response, I dedicated much of my strike time to digging into the data behind the union's and university's claims throughout the striking and bargaining process.  
 
 My first initiative was [an opinion on the UC strike action vote](posts/uc_strikevote_opinion.html), which evaluated the current wages for graduate students across the US and put them in the context of cost of living the UC union's demands. I also looked into the relationship between [student and faculty salaries at the UC](posts/uc_strikepay_opinion.html), largely in response to faculty resistance at graduate student demands. Following the UC's first official communication since the start of the strike, I drafted a [response to the Provost](https://liza-wood.github.io/posts/response_to_provost_brown.html) to point out the UC's false claims regarding the wages it was offering. Finally, as the Union and the UC began making more compromising proposals, I developed an [interactive pay estimator](https://liza-wood.shinyapps.io/uc_pay_estimator/) to help graduate students understand what these proposals meant for the salaries for the following academic year.  
-
+--->
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-HJX1JG1FCV"></script>
