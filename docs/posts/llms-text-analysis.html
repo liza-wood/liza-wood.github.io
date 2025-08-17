@@ -253,37 +253,51 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p>But you can also interface with OpenAI’s models (e.g.&nbsp;GPT-4) through their Application Programming Interface (API). We can think of APIs as ‘back-end’ interfaces that help developers (i.e.&nbsp;people who code) intergated the models into other products. In our case, I am writing for researchers who are developing research software – any workflow that wants to integrate these tools.</p>
 <p>I lay out some of the main differences in this presentation I shared with my research group, <a href="https://github.com/liza-wood/liza-wood.github.io/blob/main/posts/img/research_culture_gpt.pdf">‘Reflections of text classification and OpenAI’s (Chat)GPT’</a> and will do so again here, briefly. In short, while the chat interface is the much more user-friendly of the two options, it is very difficult to automate any interaction, and therefore scaling up is difficult. Getting data in and out of the chat, for instance, would rely on a user copying and pasting inputs and outputs. In this way, chats reach memory limits, and the model may behave differently over time as memory is stored. So in general, while it is nice for exploration or quick tasks, it is not a very robust approach for research.</p>
 <p>The API, on the other hand, can be automated so that data can be input and output using computer programming. Further, each input can be stand-alone (without building memory) so that the evaluation is more consistent. And for additional consistency, model parameters can be specified through the API to help increase reproducibility for research.</p>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 34%">
-<col style="width: 15%">
-<col style="width: 50%">
-</colgroup>
-<thead>
-<tr class="header">
-<th></th>
-<th>API</th>
-<th>Chat Interface</th>
+<table style="width:100%">
+<tbody><tr>
+<th style="width:20%">
+</th>
+<th style="width:40%">
+API
+</th>
+<th style="width:40%">
+Chat Interface
+</th>
 </tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><strong>Pros</strong></td>
-<td>Scalability (via automation), more control over model parameters</td>
-<td>User-friendly</td>
+<tr>
+<td>
+<strong>Pros</strong>
+</td>
+<td>
+Scalability (via automation), more control over model parameters
+</td>
+<td>
+User-friendly
+</td>
 </tr>
-<tr class="even">
-<td><strong>Cons</strong></td>
-<td>Requires coding knowledge, setup overhead</td>
-<td>Limited automation, manual interaction</td>
+<tr>
+<td>
+<strong>Cons</strong>
+</td>
+<td>
+Requires coding knowledge, setup overhead
+</td>
+<td>
+Limited automation, manual interaction
+</td>
 </tr>
-<tr class="odd">
-<td><strong>Best For</strong></td>
-<td>Research at large scale</td>
-<td>General users, exploration, quick tasks</td>
+<tr>
+<td>
+<strong>Best For</strong>
+</td>
+<td>
+Research at large scale
+</td>
+<td>
+General users, exploration, quick tasks
+</td>
 </tr>
-</tbody>
-</table>
+</tbody></table>
 <p>So we want to be working with API to create scalable, robust text classification. The remainder of this post is about how to do that.</p>
 </section>
 <section id="working-with-the-api" class="level1">
@@ -340,21 +354,34 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <h2 class="anchored" data-anchor-id="interfacing-with-the-api">Interfacing with the API</h2>
 <p>Now that we have defined each of these elements, we can compile them as parameters in a list, which will make up the body of our API request. This API request will eventually be what we ‘send’ to the model, essentially chatting with it as if in the chat interface.</p>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>instructions <span class="ot">&lt;-</span> <span class="st">"This is a description of a plant variety patent. If this text has information about the parents of this plant variety, report the parent names using pedigree notation (e.g. G00124 = (NS6265 × 06DSB13939) × NS6163). If one or more of the parents are reported to be proprietary or confidential (e.g. experimental lines), include the word proprietary at the start of the name (e.g. PAS1305707 = proprietary R2358D × proprietary M6948D). If the patent number is referenced, include that alongside the  parent name in curly brackets (e.g. proprietary × 25R40 {US patent number 8492625}. If there is no parent information, say 'none'."</span></span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>content <span class="ot">&lt;-</span> <span class="st">"Hybrid tomato plant HM 5369 has superior characteristics of high yield and fruit quality and uniform, pear shaped fruit. The female (TOM3503PL) and male (TOM3783PL) parents were crossed to produce hybrid (F1) seeds of HM 5369. The seeds of HM 5369 can be grown to produce hybrid plants and parts thereof. The hybrid HM 5369 can be propagated by seeds produced from crossing tomato inbred line TOM3503PL with tomato inbred line TOM3783PL or vegetatively."</span></span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>body <span class="ot">&lt;-</span> <span class="fu">list</span>(</span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>  <span class="at">model =</span> <span class="st">"gpt-4.1"</span>,</span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>  <span class="at">max_tokens =</span> <span class="dv">50</span>,</span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>  <span class="at">temperature =</span> <span class="fl">0.1</span>,</span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>  <span class="at">top_p =</span> <span class="fl">0.5</span>,</span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>  <span class="at">messages =</span> <span class="fu">list</span>(</span>
-<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>    <span class="fu">list</span>(<span class="at">role =</span> <span class="st">"system"</span>,</span>
-<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>         <span class="at">content =</span> instructions),</span>
-<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>    <span class="fu">list</span>(<span class="at">role =</span> <span class="st">"user"</span>, </span>
-<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>         <span class="at">content =</span> content)</span>
-<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>  ))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>instructions <span class="ot">&lt;-</span> <span class="st">"This is a description of a plant variety patent. If this text </span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="st">has information about the parents of this plant variety, report the parent names </span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="st">using pedigree notation (e.g. G00124 = (NS6265 × 06DSB13939) × NS6163). If one </span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="st">or more of the parents are reported to be proprietary or confidential (e.g. </span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="st">experimental lines), include the word proprietary at the start of the name (e.g.</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="st">PAS1305707 = proprietary R2358D × proprietary M6948D). If the patent number is </span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="st">referenced, include that alongside the  parent name in curly brackets (e.g. </span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="st">proprietary × 25R40 {US patent number 8492625}. If there is no parent </span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="st">information, say 'none'."</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>content <span class="ot">&lt;-</span> <span class="st">"Hybrid tomato plant HM 5369 has superior characteristics of high </span></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="st">yield and fruit quality and uniform, pear shaped fruit. The female (TOM3503PL) </span></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="st">and male (TOM3783PL) parents were crossed to produce hybrid (F1) seeds of HM </span></span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="st">5369. The seeds of HM 5369 can be grown to produce hybrid plants and parts </span></span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a><span class="st">thereof. The hybrid HM 5369 can be propagated by seeds produced from crossing </span></span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a><span class="st">tomato inbred line TOM3503PL with tomato inbred line TOM3783PL or vegetatively."</span></span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a>body <span class="ot">&lt;-</span> <span class="fu">list</span>(</span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a>  <span class="at">model =</span> <span class="st">"gpt-4.1"</span>,</span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a>  <span class="at">max_tokens =</span> <span class="dv">50</span>,</span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a>  <span class="at">temperature =</span> <span class="fl">0.1</span>,</span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a>  <span class="at">top_p =</span> <span class="fl">0.5</span>,</span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a>  <span class="at">messages =</span> <span class="fu">list</span>(</span>
+<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a>    <span class="fu">list</span>(<span class="at">role =</span> <span class="st">"system"</span>,</span>
+<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a>         <span class="at">content =</span> instructions),</span>
+<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a>    <span class="fu">list</span>(<span class="at">role =</span> <span class="st">"user"</span>, </span>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a>         <span class="at">content =</span> content)</span>
+<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a>  ))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <p>Now that we have we will post a request to the API. The API URL we will be using for chat completions is “https://api.openai.com/v1/chat/completions”. We will also have to authorize our use of the API with our API key, which for the sake of this tutorial is not revealed. We specify that we want to encode the request in the json format, and then we send the body of our request. The result of this request is the response.</p>
 <div class="cell">

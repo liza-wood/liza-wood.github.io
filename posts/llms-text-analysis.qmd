@@ -43,11 +43,30 @@ I lay out some of the main differences in this presentation I shared with my res
 
 The API, on the other hand, can be automated so that data can be input and output using computer programming. Further, each input can be stand-alone (without building memory) so that the evaluation is more consistent. And for additional consistency, model parameters can be specified through the API to help increase reproducibility for research. 
 
-|           | API | Chat Interface |
-|-----------|-----|----------------|
-| **Pros**  | Scalability (via automation), more control over model parameters | User-friendly |
-| **Cons**  | Requires coding knowledge, setup overhead | Limited automation, manual interaction |
-| **Best For** | Research at large scale | General users, exploration, quick tasks |
+<table style="width:100%">
+<tr>
+ <th style="width:20%"></th>
+ <th style="width:40%">API</th>
+ <th style="width:40%">Chat Interface</th>
+</tr>
+<tr>
+ <td><strong>Pros</strong></td>
+ <td>Scalability (via automation), more control over model parameters</td>
+ <td>User-friendly</td>
+</tr>
+<tr>
+ <td><strong>Cons</strong></td>
+ <td>Requires coding knowledge, setup overhead</td>
+ <td>Limited automation, manual interaction</td>
+</tr>
+<tr>
+ <td><strong>Best For</strong></td>
+ <td>Research at large scale</td>
+ <td>General users, exploration, quick tasks</td>
+</tr>
+</table> 
+
+
 
 So we want to be working with API to create scalable, robust text classification. The remainder of this post is about how to do that. 
 
@@ -99,9 +118,22 @@ To explain what each of these elements are
 Now that we have defined each of these elements, we can compile them as parameters in a list, which will make up the body of our API request. This API request will eventually be what we 'send' to the model, essentially chatting with it as if in the chat interface. 
 
 ```{r, eval = F}
-instructions <- "This is a description of a plant variety patent. If this text has information about the parents of this plant variety, report the parent names using pedigree notation (e.g. G00124 = (NS6265 × 06DSB13939) × NS6163). If one or more of the parents are reported to be proprietary or confidential (e.g. experimental lines), include the word proprietary at the start of the name (e.g. PAS1305707 = proprietary R2358D × proprietary M6948D). If the patent number is referenced, include that alongside the  parent name in curly brackets (e.g. proprietary × 25R40 {US patent number 8492625}. If there is no parent information, say 'none'."
+instructions <- "This is a description of a plant variety patent. If this text 
+has information about the parents of this plant variety, report the parent names 
+using pedigree notation (e.g. G00124 = (NS6265 × 06DSB13939) × NS6163). If one 
+or more of the parents are reported to be proprietary or confidential (e.g. 
+experimental lines), include the word proprietary at the start of the name (e.g.
+PAS1305707 = proprietary R2358D × proprietary M6948D). If the patent number is 
+referenced, include that alongside the  parent name in curly brackets (e.g. 
+proprietary × 25R40 {US patent number 8492625}. If there is no parent 
+information, say 'none'."
 
-content <- "Hybrid tomato plant HM 5369 has superior characteristics of high yield and fruit quality and uniform, pear shaped fruit. The female (TOM3503PL) and male (TOM3783PL) parents were crossed to produce hybrid (F1) seeds of HM 5369. The seeds of HM 5369 can be grown to produce hybrid plants and parts thereof. The hybrid HM 5369 can be propagated by seeds produced from crossing tomato inbred line TOM3503PL with tomato inbred line TOM3783PL or vegetatively."
+content <- "Hybrid tomato plant HM 5369 has superior characteristics of high 
+yield and fruit quality and uniform, pear shaped fruit. The female (TOM3503PL) 
+and male (TOM3783PL) parents were crossed to produce hybrid (F1) seeds of HM 
+5369. The seeds of HM 5369 can be grown to produce hybrid plants and parts 
+thereof. The hybrid HM 5369 can be propagated by seeds produced from crossing 
+tomato inbred line TOM3503PL with tomato inbred line TOM3783PL or vegetatively."
 
 body <- list(
   model = "gpt-4.1",
