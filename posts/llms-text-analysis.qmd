@@ -31,57 +31,72 @@ The 'transformer' architecture behind models like ChatGPT and Claude has evolved
 
 Now that LLMs have already been trained on huge amounts of data, researchers are able to leverage the learning that has already been done to help assist with research tasks. Researchers are using LLMs in a variety of ways, ranging from synthesizing social data to generating research ideas.
 
-This post is specifically about text classification (and sometimes interpretation) -- reading a text and grouping the text according to a decision criteria, or extracting some feature of the text. 
+This post is specifically about text classification (and sometimes interpretation) -- reading a text and grouping the text according to a decision criteria, or extracting some feature of the text. Specifically, I will be running through how to use OpenAI models for text classification tasks. 
 
 # APIs versus chat interfaces 
 
+As a starting point, we need to first understand that there are different ways of interacting with LLMs, in this case, OpenAI models. We are likely all familiar with OpenAI's ChatGPT -- the chat interface of its Generate Pre-Trained Transformer. This is where you can interact with the LLM through a chat box, and in these chat sessions the model uses its memory to build on the conversation. We should think of this as the 'front-end' interface. 
 
-This presentation I shared with my research group, 'Reflections of text classification and OpenAI's (Chat)GPT'
+But you can also interface with OpenAI's models (e.g. GPT-4) through their Application Programming Interface (API). We can think of APIs as 'back-end' interfaces that help developers (i.e. people who code) intergated the models into other products. In our case, I am writing for researchers who are developing research software -- any workflow that wants to integrate these tools. 
 
-## API 
+I lay out some of the main differences in this presentation I shared with my research group, ['Reflections of text classification and OpenAI's (Chat)GPT'](https://liza-wood.github.io/posts/img/research_culture_gpt.pdf) and will do so again here, briefly. In short, while the chat interface is the much more user-friendly of the two options, it is very difficult to automate any interaction, and therefore scaling up is difficult. Getting data in and out of the chat, for instance, would rely on a user copying and pasting inputs and outputs. In this way, chats reach memory limits, and the model may behave differently over time as memory is stored. So in general, while it is nice for exploration or quick tasks, it is not a very robust approach for research. 
 
-This is outlined in this paper. When researchers are using these models, they are, by and large, using the API
+The API, on the other hand, can be automated so that data can be input and output using computer programming. Further, each input can be stand-alone (without building memory) so that the evaluation is more consistent. And for additional consistency, model parameters can be specified through the API to help increase reproducibility for research. 
 
-## ChatGPT 
+|           | API | Chat Interface |
+|-----------|-----|----------------|
+| **Pros**  | Scalability (via automation), more control over model parameters | User-friendly |
+| **Cons**  | Requires coding knowledge, setup overhead | Limited automation, manual interaction |
+| **Best For** | Research at large scale | General users, exploration, quick tasks |
 
-I have not heard of any researchers
-
-Why not?
-
-* It doesn't scale well -- copy and paste, conversation limits, less control of parameter settings, harder to reproduce
+So we want to be working with API to create scalable, robust text classification. The remainder of this post is about how to do that. 
 
 # Working with the API
 
 ## Getting set up 
 
-1. Visit https://platform.openai.com/
-2. Sign up to create an account (or log in if you already have an account via ChatGPT) 
-3. Navigate to your profile 
-4. Members > Invite (will need to name your 'Organization')
-5. Navigate to Projects > Create 
-6. Add members to project
-7. Within the project, navigate to API keys > Create new secret key 
-8. Set up billing
+This post is starting from the very basics, so we are going to walk through the following, step-by-step, to get a user set up. Specifically, I am going to walk through a set-up for a scenario where you may be working with a team with a shared API key. 
+
+1. Visit https://platform.openai.com/  
+2. Sign up to create an account (or log in if you already have an account via ChatGPT)  
+3. Navigate to your profile  
+4. Organization > Members > Invite (will need to name your 'Organization')  
+5. Navigate to Projects > Create  
+6. Add members to project  
+7. Within the project, navigate to API keys > Create new secret key  
+8. Set up billing  
+
+Steps 1-2 are fairly self explanatory, so we will start with **Step 3**. On the upper right-hand corner of the page, once you are logged in, you can select your name/photo icon and select 'Your profile' to take you to the Settings of your profile. 
+
+![Navigate to your profile](posts/img/navigate-profile.png)
+Once you are in your profile, it can be useful to set up an Organization if you plan to work with collaborators. On the left-hand side of the window, under the Organizations subheading, navigate to Members. 
+
+You can begin by clicking on the black + Invite button on the main page to invite members to the organization. This will prompt you to name your Organization, if you have not already. After naming your organization you will be able to invite members to the organization by adding their email addresses (**Step 4**).  
+
+Once you have created your organization, **Step 5** is to create a Project for you and select members to work on. As OpenAI described, "Projects are shared environments where teams can collaborate and share API resources. You can set custom rate limits and manage access to resources." To create one, again on the left-hand side navigate to Projects (under the Organization subheading) and clicking on the black + Create button. Give your project a name. 
+
+Once your project is created you can add members from your organization to a specific project (**Step 6**). Again on the left-hand side, but now under the Project subheading, navigate to Members and click the black + Add member button. This should allow you to select members from your organization to add to the project. 
+
+Now that the organization, membership, and projects are set up, **Step 7** is about setting up your API key. This key is, as named, the passcode that permits a member of the organization to interact with the models you pay for. Under the Project subheading, navigate to API keys and click the black + Create new secret key. This will generate a key that you can only view once, so copy and store it in a protected space. Collaborators on the project should be given this key. 
+
+And the final **Step 8** is to add funds to the project by navigating to the Billing section under the Organization subheading. Here you can Add to credit balance the amount of money you want to spend. The balance will be run down as you use the API, according to OpenAI's [pricing model](https://openai.com/api/pricing/).  
+
+As an added element, if there are limits you would like to set on a project, such as budgets (a maximum amount that can be spent in a month) or model limits (which models are to be used in a project), you can do this under the Project's Limits section. 
 
 
+## Elements of the query  
 
-"Projects are shared environments where teams can collaborate and share API resources. You can set custom rate limits and manage access to resources"
+To explain what each of these elements are 
 
-## Elements of the query
-
-### Differen models 
-
+### Models 
 ### Temperature, top_p, and max_tokens 
-
-Also maybe verbosity
-
 ### System instructions 
-
 ### User prompt 
+### API key  
 
-### API key 
+## Interfacing with the API  
 
-## Interfacing with the API 
+Now that we have defined each of these elements, we can compile them as parameters in a list, which will make up the body of our API request. This API request will eventually be what we 'send' to the model, essentially chatting with it as if in the chat interface. 
 
 ```{r, eval = F}
 body <- list(
@@ -89,16 +104,15 @@ body <- list(
   max_tokens = max_tokens,
   temperature = temperature,
   top_p = top_p,
-  messages = list(list(
-    # Adding role and content
-    role = "system",
-    content = instructions),
-    # Then same as before
+  messages = list(
+    list(role = "system",
+         content = instructions),
     list(role = "user", 
          content = prompt)
   ))
 ```
 
+Now that we have we will post a request to the API. The API URL we will be using for chat completions is "https://api.openai.com/v1/chat/completions". We will also have to authorize our use of the API with our API key, which for the sake of this tutorial is not revealed. We specify that we want to encode the request in the json format, and then we send the body of our request. The result of this request is the response. 
 ```{r, eval = F}
 response <- POST(
   url = "https://api.openai.com/v1/chat/completions", 
@@ -107,7 +121,9 @@ response <- POST(
   encode = "json",
   body =  body
 )
-  
+```
+
+```{r, eval = F}
 if(status_code(response)>200) {
   stop(content(response))
 }
@@ -119,7 +135,9 @@ answer <- trimws(response$choices[[1]]$message$content)
 
 ## Scaling queries 
 
-### Put it in a function
+### Put it in a function 
+
+[FORTHCOMING] 
 
 ### Rate limits 
 
@@ -127,7 +145,6 @@ Tokens per minute, requests per minute
 
 # Disclaimers 
 * I am not an AI expert, and am only writing this post from the perspective of a computational social scientist who entered this space by way of analyzing text data. 
-
-* On a similar note as above, OpenAI is [not, in fact, open](https://www.turing.ac.uk/blog/what-defines-open-open-ai). Despite its initial ideas of responsible and open AI, it has switched it model towards a capped for-profit model with exclusive contracts with Microsoft. Open source large language models are available on [Hugging Face](https://huggingface.co/).  
+* OpenAI is [not, in fact, open](https://www.turing.ac.uk/blog/what-defines-open-open-ai). Despite its initial ideas of responsible and open AI, it has switched it model towards a capped for-profit model with exclusive contracts with Microsoft. Open source large language models are available on [Hugging Face](https://huggingface.co/).  
 * I believe the integration of AI into online search engines is one more step towards the 'extractive and fragile monoculture' that is the modern internet, and divesting from big tech and re-wilding the internet is important for maintaining the internet commons (see '[We need to rewild the internet](https://www.noemamag.com/we-need-to-rewild-the-internet/)' by Farrell and Berjon).  
 * The data servers that Generative AI depend on have large [environmental consequences](https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117). Though researchers have struggled to fully quantify this yet, it is clear that the costs of using AI often outweigh its benefits (i.e. something that could be searched in a classic search engine)

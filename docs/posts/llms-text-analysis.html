@@ -170,17 +170,13 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <ul class="collapse">
   <li><a href="#llms-in-research" id="toc-llms-in-research" class="nav-link" data-scroll-target="#llms-in-research">LLMs in research</a></li>
   </ul></li>
-  <li><a href="#apis-versus-chat-interfaces" id="toc-apis-versus-chat-interfaces" class="nav-link" data-scroll-target="#apis-versus-chat-interfaces">APIs versus chat interfaces</a>
-  <ul class="collapse">
-  <li><a href="#api" id="toc-api" class="nav-link" data-scroll-target="#api">API</a></li>
-  <li><a href="#chatgpt" id="toc-chatgpt" class="nav-link" data-scroll-target="#chatgpt">ChatGPT</a></li>
-  </ul></li>
+  <li><a href="#apis-versus-chat-interfaces" id="toc-apis-versus-chat-interfaces" class="nav-link" data-scroll-target="#apis-versus-chat-interfaces">APIs versus chat interfaces</a></li>
   <li><a href="#working-with-the-api" id="toc-working-with-the-api" class="nav-link" data-scroll-target="#working-with-the-api">Working with the API</a>
   <ul class="collapse">
   <li><a href="#getting-set-up" id="toc-getting-set-up" class="nav-link" data-scroll-target="#getting-set-up">Getting set up</a></li>
   <li><a href="#elements-of-the-query" id="toc-elements-of-the-query" class="nav-link" data-scroll-target="#elements-of-the-query">Elements of the query</a>
   <ul class="collapse">
-  <li><a href="#differen-models" id="toc-differen-models" class="nav-link" data-scroll-target="#differen-models">Differen models</a></li>
+  <li><a href="#models" id="toc-models" class="nav-link" data-scroll-target="#models">Models</a></li>
   <li><a href="#temperature-top_p-and-max_tokens" id="toc-temperature-top_p-and-max_tokens" class="nav-link" data-scroll-target="#temperature-top_p-and-max_tokens">Temperature, top_p, and max_tokens</a></li>
   <li><a href="#system-instructions" id="toc-system-instructions" class="nav-link" data-scroll-target="#system-instructions">System instructions</a></li>
   <li><a href="#user-prompt" id="toc-user-prompt" class="nav-link" data-scroll-target="#user-prompt">User prompt</a></li>
@@ -248,49 +244,87 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <section id="llms-in-research" class="level2">
 <h2 class="anchored" data-anchor-id="llms-in-research">LLMs in research</h2>
 <p>Now that LLMs have already been trained on huge amounts of data, researchers are able to leverage the learning that has already been done to help assist with research tasks. Researchers are using LLMs in a variety of ways, ranging from synthesizing social data to generating research ideas.</p>
-<p>This post is specifically about text classification (and sometimes interpretation) – reading a text and grouping the text according to a decision criteria, or extracting some feature of the text.</p>
+<p>This post is specifically about text classification (and sometimes interpretation) – reading a text and grouping the text according to a decision criteria, or extracting some feature of the text. Specifically, I will be running through how to use OpenAI models for text classification tasks.</p>
 </section>
 </section>
 <section id="apis-versus-chat-interfaces" class="level1">
 <h1>APIs versus chat interfaces</h1>
-<p>This presentation I shared with my research group, ‘Reflections of text classification and OpenAI’s (Chat)GPT’</p>
-<section id="api" class="level2">
-<h2 class="anchored" data-anchor-id="api">API</h2>
-<p>This is outlined in this paper. When researchers are using these models, they are, by and large, using the API</p>
-</section>
-<section id="chatgpt" class="level2">
-<h2 class="anchored" data-anchor-id="chatgpt">ChatGPT</h2>
-<p>I have not heard of any researchers</p>
-<p>Why not?</p>
-<ul>
-<li>It doesn’t scale well – copy and paste, conversation limits, less control of parameter settings, harder to reproduce</li>
-</ul>
-</section>
+<p>As a starting point, we need to first understand that there are different ways of interacting with LLMs, in this case, OpenAI models. We are likely all familiar with OpenAI’s ChatGPT – the chat interface of its Generate Pre-Trained Transformer. This is where you can interact with the LLM through a chat box, and in these chat sessions the model uses its memory to build on the conversation. We should think of this as the ‘front-end’ interface.</p>
+<p>But you can also interface with OpenAI’s models (e.g.&nbsp;GPT-4) through their Application Programming Interface (API). We can think of APIs as ‘back-end’ interfaces that help developers (i.e.&nbsp;people who code) intergated the models into other products. In our case, I am writing for researchers who are developing research software – any workflow that wants to integrate these tools.</p>
+<p>I lay out some of the main differences in this presentation I shared with my research group, <a href="https://liza-wood.github.io/posts/img/research_culture_gpt.pdf">‘Reflections of text classification and OpenAI’s (Chat)GPT’</a> and will do so again here, briefly. In short, while the chat interface is the much more user-friendly of the two options, it is very difficult to automate any interaction, and therefore scaling up is difficult. Getting data in and out of the chat, for instance, would rely on a user copying and pasting inputs and outputs. In this way, chats reach memory limits, and the model may behave differently over time as memory is stored. So in general, while it is nice for exploration or quick tasks, it is not a very robust approach for research.</p>
+<p>The API, on the other hand, can be automated so that data can be input and output using computer programming. Further, each input can be stand-alone (without building memory) so that the evaluation is more consistent. And for additional consistency, model parameters can be specified through the API to help increase reproducibility for research.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 34%">
+<col style="width: 15%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>API</th>
+<th>Chat Interface</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Pros</strong></td>
+<td>Scalability (via automation), more control over model parameters</td>
+<td>User-friendly</td>
+</tr>
+<tr class="even">
+<td><strong>Cons</strong></td>
+<td>Requires coding knowledge, setup overhead</td>
+<td>Limited automation, manual interaction</td>
+</tr>
+<tr class="odd">
+<td><strong>Best For</strong></td>
+<td>Research at large scale</td>
+<td>General users, exploration, quick tasks</td>
+</tr>
+</tbody>
+</table>
+<p>So we want to be working with API to create scalable, robust text classification. The remainder of this post is about how to do that.</p>
 </section>
 <section id="working-with-the-api" class="level1">
 <h1>Working with the API</h1>
 <section id="getting-set-up" class="level2">
 <h2 class="anchored" data-anchor-id="getting-set-up">Getting set up</h2>
+<p>This post is starting from the very basics, so we are going to walk through the following, step-by-step, to get a user set up. Specifically, I am going to walk through a set-up for a scenario where you may be working with a team with a shared API key.</p>
 <ol type="1">
-<li>Visit https://platform.openai.com/</li>
-<li>Sign up to create an account (or log in if you already have an account via ChatGPT)</li>
-<li>Navigate to your profile</li>
-<li>Members &gt; Invite (will need to name your ‘Organization’)</li>
-<li>Navigate to Projects &gt; Create</li>
-<li>Add members to project</li>
-<li>Within the project, navigate to API keys &gt; Create new secret key</li>
+<li>Visit https://platform.openai.com/<br>
+</li>
+<li>Sign up to create an account (or log in if you already have an account via ChatGPT)<br>
+</li>
+<li>Navigate to your profile<br>
+</li>
+<li>Organization &gt; Members &gt; Invite (will need to name your ‘Organization’)<br>
+</li>
+<li>Navigate to Projects &gt; Create<br>
+</li>
+<li>Add members to project<br>
+</li>
+<li>Within the project, navigate to API keys &gt; Create new secret key<br>
+</li>
 <li>Set up billing</li>
 </ol>
-<p>“Projects are shared environments where teams can collaborate and share API resources. You can set custom rate limits and manage access to resources”</p>
+<p>Steps 1-2 are fairly self explanatory, so we will start with <strong>Step 3</strong>. On the upper right-hand corner of the page, once you are logged in, you can select your name/photo icon and select ‘Your profile’ to take you to the Settings of your profile.</p>
+<p><img src="posts/img/navigate-profile.png" class="img-fluid" alt="Navigate to your profile"> Once you are in your profile, it can be useful to set up an Organization if you plan to work with collaborators. On the left-hand side of the window, under the Organizations subheading, navigate to Members.</p>
+<p>You can begin by clicking on the black + Invite button on the main page to invite members to the organization. This will prompt you to name your Organization, if you have not already. After naming your organization you will be able to invite members to the organization by adding their email addresses (<strong>Step 4</strong>).</p>
+<p>Once you have created your organization, <strong>Step 5</strong> is to create a Project for you and select members to work on. As OpenAI described, “Projects are shared environments where teams can collaborate and share API resources. You can set custom rate limits and manage access to resources.” To create one, again on the left-hand side navigate to Projects (under the Organization subheading) and clicking on the black + Create button. Give your project a name.</p>
+<p>Once your project is created you can add members from your organization to a specific project (<strong>Step 6</strong>). Again on the left-hand side, but now under the Project subheading, navigate to Members and click the black + Add member button. This should allow you to select members from your organization to add to the project.</p>
+<p>Now that the organization, membership, and projects are set up, <strong>Step 7</strong> is about setting up your API key. This key is, as named, the passcode that permits a member of the organization to interact with the models you pay for. Under the Project subheading, navigate to API keys and click the black + Create new secret key. This will generate a key that you can only view once, so copy and store it in a protected space. Collaborators on the project should be given this key.</p>
+<p>And the final <strong>Step 8</strong> is to add funds to the project by navigating to the Billing section under the Organization subheading. Here you can Add to credit balance the amount of money you want to spend. The balance will be run down as you use the API, according to OpenAI’s <a href="https://openai.com/api/pricing/">pricing model</a>.</p>
+<p>As an added element, if there are limits you would like to set on a project, such as budgets (a maximum amount that can be spent in a month) or model limits (which models are to be used in a project), you can do this under the Project’s Limits section.</p>
 </section>
 <section id="elements-of-the-query" class="level2">
 <h2 class="anchored" data-anchor-id="elements-of-the-query">Elements of the query</h2>
-<section id="differen-models" class="level3">
-<h3 class="anchored" data-anchor-id="differen-models">Differen models</h3>
+<p>To explain what each of these elements are</p>
+<section id="models" class="level3">
+<h3 class="anchored" data-anchor-id="models">Models</h3>
 </section>
 <section id="temperature-top_p-and-max_tokens" class="level3">
 <h3 class="anchored" data-anchor-id="temperature-top_p-and-max_tokens">Temperature, top_p, and max_tokens</h3>
-<p>Also maybe verbosity</p>
 </section>
 <section id="system-instructions" class="level3">
 <h3 class="anchored" data-anchor-id="system-instructions">System instructions</h3>
@@ -304,21 +338,21 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </section>
 <section id="interfacing-with-the-api" class="level2">
 <h2 class="anchored" data-anchor-id="interfacing-with-the-api">Interfacing with the API</h2>
+<p>Now that we have defined each of these elements, we can compile them as parameters in a list, which will make up the body of our API request. This API request will eventually be what we ‘send’ to the model, essentially chatting with it as if in the chat interface.</p>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>body <span class="ot">&lt;-</span> <span class="fu">list</span>(</span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">model =</span> modelName,</span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">max_tokens =</span> max_tokens,</span>
 <span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">temperature =</span> temperature,</span>
 <span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>  <span class="at">top_p =</span> top_p,</span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>  <span class="at">messages =</span> <span class="fu">list</span>(<span class="fu">list</span>(</span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Adding role and content</span></span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>    <span class="at">role =</span> <span class="st">"system"</span>,</span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>    <span class="at">content =</span> instructions),</span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>    <span class="co"># Then same as before</span></span>
-<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>    <span class="fu">list</span>(<span class="at">role =</span> <span class="st">"user"</span>, </span>
-<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>         <span class="at">content =</span> prompt)</span>
-<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>  ))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>  <span class="at">messages =</span> <span class="fu">list</span>(</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>    <span class="fu">list</span>(<span class="at">role =</span> <span class="st">"system"</span>,</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>         <span class="at">content =</span> instructions),</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>    <span class="fu">list</span>(<span class="at">role =</span> <span class="st">"user"</span>, </span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>         <span class="at">content =</span> prompt)</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>  ))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
+<p>Now that we have we will post a request to the API. The API URL we will be using for chat completions is “https://api.openai.com/v1/chat/completions”. We will also have to authorize our use of the API with our API key, which for the sake of this tutorial is not revealed. We specify that we want to encode the request in the json format, and then we send the body of our request. The result of this request is the response.</p>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>response <span class="ot">&lt;-</span> <span class="fu">POST</span>(</span>
 <span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">url =</span> <span class="st">"https://api.openai.com/v1/chat/completions"</span>, </span>
@@ -326,20 +360,22 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">content_type_json</span>(),</span>
 <span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>  <span class="at">encode =</span> <span class="st">"json"</span>,</span>
 <span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>  <span class="at">body =</span>  body</span>
-<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>)</span>
-<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>  </span>
-<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span>(<span class="fu">status_code</span>(response)<span class="sc">&gt;</span><span class="dv">200</span>) {</span>
-<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a>  <span class="fu">stop</span>(<span class="fu">content</span>(response))</span>
-<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a>}</span>
-<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a>  </span>
-<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a>response <span class="ot">&lt;-</span> <span class="fu">content</span>(response)</span>
-<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a>answer <span class="ot">&lt;-</span> <span class="fu">trimws</span>(response<span class="sc">$</span>choices[[<span class="dv">1</span>]]<span class="sc">$</span>message<span class="sc">$</span>content)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span>(<span class="fu">status_code</span>(response)<span class="sc">&gt;</span><span class="dv">200</span>) {</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">stop</span>(<span class="fu">content</span>(response))</span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>  </span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>response <span class="ot">&lt;-</span> <span class="fu">content</span>(response)</span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>answer <span class="ot">&lt;-</span> <span class="fu">trimws</span>(response<span class="sc">$</span>choices[[<span class="dv">1</span>]]<span class="sc">$</span>message<span class="sc">$</span>content)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>
 <section id="scaling-queries" class="level2">
 <h2 class="anchored" data-anchor-id="scaling-queries">Scaling queries</h2>
 <section id="put-it-in-a-function" class="level3">
 <h3 class="anchored" data-anchor-id="put-it-in-a-function">Put it in a function</h3>
+<p>[FORTHCOMING]</p>
 </section>
 <section id="rate-limits" class="level3">
 <h3 class="anchored" data-anchor-id="rate-limits">Rate limits</h3>
@@ -350,12 +386,12 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <section id="disclaimers" class="level1">
 <h1>Disclaimers</h1>
 <ul>
-<li><p>I am not an AI expert, and am only writing this post from the perspective of a computational social scientist who entered this space by way of analyzing text data.</p></li>
-<li><p>On a similar note as above, OpenAI is <a href="https://www.turing.ac.uk/blog/what-defines-open-open-ai">not, in fact, open</a>. Despite its initial ideas of responsible and open AI, it has switched it model towards a capped for-profit model with exclusive contracts with Microsoft. Open source large language models are available on <a href="https://huggingface.co/">Hugging Face</a>.<br>
-</p></li>
-<li><p>I believe the integration of AI into online search engines is one more step towards the ‘extractive and fragile monoculture’ that is the modern internet, and divesting from big tech and re-wilding the internet is important for maintaining the internet commons (see ‘<a href="https://www.noemamag.com/we-need-to-rewild-the-internet/">We need to rewild the internet</a>’ by Farrell and Berjon).<br>
-</p></li>
-<li><p>The data servers that Generative AI depend on have large <a href="https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117">environmental consequences</a>. Though researchers have struggled to fully quantify this yet, it is clear that the costs of using AI often outweigh its benefits (i.e.&nbsp;something that could be searched in a classic search engine)</p></li>
+<li>I am not an AI expert, and am only writing this post from the perspective of a computational social scientist who entered this space by way of analyzing text data.</li>
+<li>OpenAI is <a href="https://www.turing.ac.uk/blog/what-defines-open-open-ai">not, in fact, open</a>. Despite its initial ideas of responsible and open AI, it has switched it model towards a capped for-profit model with exclusive contracts with Microsoft. Open source large language models are available on <a href="https://huggingface.co/">Hugging Face</a>.<br>
+</li>
+<li>I believe the integration of AI into online search engines is one more step towards the ‘extractive and fragile monoculture’ that is the modern internet, and divesting from big tech and re-wilding the internet is important for maintaining the internet commons (see ‘<a href="https://www.noemamag.com/we-need-to-rewild-the-internet/">We need to rewild the internet</a>’ by Farrell and Berjon).<br>
+</li>
+<li>The data servers that Generative AI depend on have large <a href="https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117">environmental consequences</a>. Though researchers have struggled to fully quantify this yet, it is clear that the costs of using AI often outweigh its benefits (i.e.&nbsp;something that could be searched in a classic search engine)</li>
 </ul>
 
 
