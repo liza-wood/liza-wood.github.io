@@ -65,11 +65,13 @@ Jenney, P., **Wood, L.**, Dawson, J., Hubbard, K. When the Patent Bargain Fails:
 
 **Wood, L.** How public and private innovations shape environmental sustainability: Evidence from a century of plant patents. Research Policy 8th Online Conference for Early Career Researchers (2024).  
 
+**Wood, L.**, Struthers, C., Scott, T.A., Kim, S. Science politics: How political context shapes public agencies’ use of science in environmental policymaking. Environmental Politics and Governance Conference (2023).  
+
+<!--- 
 **Wood, L.**, Pascucci, S. Entanglements of ecological systems and organizational transformation in the organic seed niche. European Group for Organizational Studies (2024).  
 
 **Wood, L.**, Pascucci, S. Mapping the research landscape of collaborative processes in sustainable business model innovation. King's College London Centre for Sustainable Business Short Paper Workshop: Unlocking pathways for a sustainable future (2024)   
-
-**Wood, L.**, Struthers, C., Scott, T.A., Kim, S. Science politics: How political context shapes public agencies’ use of science in environmental policymaking. Environmental Politics and Governance Conference (2023).  
+--->
 
 #### REPORTS         
 
@@ -102,7 +104,10 @@ International Association for the Study of the Commons | Peru <span style="float
 
 #### TALKS, WORKSHOPS, AND DISCUSSANT ROLES 
 
-
+University of Exeter, Centre for Rural Policy Research  <span style="float:right;">October 2025</span>  
+&nbsp;&nbsp;Invited talk | _Public innovation, public mission? Sustainability-oriented breeding in plant patents_   
+Horizon Europe Soil Mission, Soil Community <span style="float:right;">October 2025</span>  
+&nbsp;&nbsp;Invited talk (webinar panelist) | _Business models for soil health: Types and tools_    
 Politecnico di Bari, Management Group  <span style="float:right;">April 2025</span>    
 &nbsp;&nbsp;Invited talk | _Who innovates for climate adaptation? Evidence from plant variety development_   
 London Environment and Public Policy Workshop <span style="float:right;">September 2024</span>   

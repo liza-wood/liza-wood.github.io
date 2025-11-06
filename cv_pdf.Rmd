@@ -7,6 +7,7 @@ urlcolor: blue
 header-includes:
   - \usepackage{markdown}
   - \usepackage{lipsum}
+  - \usepackage{multicol}
 ---
 
 ***
@@ -74,17 +75,17 @@ Rudnick, J., Lubell, M., Khalsa, S.D.S., Tatge, S., **Wood, L.**, Sears, M., Bro
 
 **Wood, L.** Mapping the spatial structure of the organic seed system: A network approach to the Global Innovation System framework. Revise and resubmit in _Research Policy_. 
 
-**Wood, L.**, Zystro, J., Hubbard, K. Compliance in regulatory gray areas: The case of the organic seed standard. Revise and resubmit in _Policy Studies Journal_. 
+**Wood, L.**, Zystro, J., Hubbard, K., Vantaggiato, F. Compliance in regulatory gray areas: The case of the organic seed standard. Revise and resubmit in _Policy Studies Journal_. 
 
-### CONFERENCE PAPERS
+### CONFERENCE PAPERS / IN PREPARATION
 
-**Wood, L.** How public and private innovations shape environmental sustainability: Evidence from a century of plant patents. Research Policy 8th Online Conference for Early Career Researchers (2024).  
+Jenney, P., **Wood, L.**, Dawson, J. When the patent bargain fails. Rural Sociological Society Annual Meeting (2025). In prep for _PLOS One_.  
 
-**Wood, L.**, Pascucci, S. Entanglements of ecological systems and organizational transformation in the organic seed niche. European Group for Organizational Studies (2024).  
+**Wood, L.** How public and private innovations shape environmental sustainability: Evidence from a century of plant patents. Research Policy 8th Online Conference for Early Career Researchers (2024). In prep for _Research Policy_.  
 
-**Wood, L.**, Pascucci, S. Mapping the research landscape of collaborative processes in sustainable business model innovation. King's College London Centre for Sustainable Business Short Paper Workshop: Unlocking pathways for a sustainable future (2024)   
+<!--- **Wood, L.**, Pascucci, S. Mapping the research landscape of collaborative processes in sustainable business model innovation. King's College London Centre for Sustainable Business Short Paper Workshop: Unlocking pathways for a sustainable future (2024). In prep for _Business Strategy and the Environment_.  --->
 
-**Wood, L.**, Struthers, C., Scott, T.A., Kim, S. Science politics: How political context shapes public agencies’ use of science in environmental policymaking. Environmental Politics and Governance Conference (2023).  
+**Wood, L.**, Struthers, C., Scott, T.A., Kim, S. Science politics: How political context shapes public agencies’ use of science in environmental policymaking. Environmental Politics and Governance Conference (2023). In prep for _Journal of Public Administration Research & Theory_.  
 
 
 ### REPORTS FOR PRACTITIONERS        
@@ -104,6 +105,7 @@ Hubbard, K., Zystro, J., **Wood, L**. (2022). [State of Organic Seed](https://st
 
 ### CONFERENCE PRESENTATIONS  
 
+Rural Sociological Society Annual Meeting |  Utah USA  \hfill 2025  
 European Forum for Studies of Policies for Research and Innovation |  Germany \hfill 2025  
 Research Policy 8th Online Conference for Early Career Researchers | virtual \hfill 2024  
 European Group for Organizational Studies | Italy \hfill 2024  
@@ -118,10 +120,16 @@ International Association for the Study of the Commons | Peru \hfill 2019
 
 ### TALKS, WORKSHOPS, AND DISCUSSANT ROLES 
 
+University of Exeter, Centre for Rural Policy Research  \hfill October 2025  
+&nbsp;&nbsp;Invited talk | _Public innovation, public mission? Sustainability-oriented breeding in plant patents_   
+Horizon Europe Soil Mission, Soil Community \hfill October 2025  
+&nbsp;&nbsp;Invited talk (webinar panelist) | _Business models for soil health: Types and tools_    
 Politecnico di Bari, Management Group  \hfill April 2025  
 &nbsp;&nbsp;Invited talk | _Who innovates for climate adaptation? Evidence from plant variety development_   
 London Environment and Public Policy Workshop \hfill September 2024  
 &nbsp;&nbsp;Invited discussant | Panel: Palace politics in climate and environmental governance  
+King's College London, Environment and Public Policy   Research Group Seminar   \hfill January 2024    
+&nbsp;&nbsp;Seminar talk | _Tracing the path of knowledge on ‘environmental governance processes’ for theory-building_  
 University of California Davis, Data Visualization ECL 290 \hfill October 2023  
 &nbsp;&nbsp;Invited lecture | [_Interactive data with Shiny flexdashboard_](https://liza-wood.github.io/intro-shiny/)  
 University of California Davis, Mexican Graduate Student Association \hfill May 2023  
@@ -194,7 +202,6 @@ College of Charleston Alexandria Dengate Scholarship \hfill 2011-2012
 ## SERVICE
 
 Program Committee Member | Atlanta Conference on Science and Innovation Policy \hfill  2025  
-Reviewer | _Policy Studies Journal, Society & Natural Resources, Environmental Innovations and Societal Transitions_ \hfill  2023 – 2025  
 [Davis R Users Group](https://d-rug.github.io/) Coordinator | UC Davis \hfill  2021 – 2023  
 Ecology Graduate Group Graduate Student Mentor | UC Davis  \hfill  2019 – 2022   
 Data Carpentries Instructor | The Carpentries \hfill  2021 – 2022    
@@ -202,6 +209,39 @@ Admissions Committee Application Reviewer | UC Davis \hfill  2019 – 2021
 Sustainability Literacy Writing Committee Member | College of Charleston \hfill  2017 – 2018      
 Faculty for Sustainable Living Workshop Coordinator | College of Charleston \hfill  2016 – 2018   
 Internal Fellowship Interview Panelist | College of Charleston \hfill  2016 – 2017 
+
+Reviewer | _Policy Studies Journal, Society & Natural Resources, Environmental Innovations and Societal Transitions, Frontiers in Agronomy, European Management Review_ 
+
+***   
+ 
+## REFERENCES  
+
+\begin{multicols*}{2}
+
+Tyler Scott (tascott@ucdavis.edu)  \\ 
+Associate Professor  \\
+Department of Environmental Science and Policy   \\
+University of California, Davis  
+
+
+Mark Lubell (mnlubell@ucdavis.edu)  \\
+Professor  \\
+Department of Environmental Science and Policy  \\
+University of California, Davis  
+
+
+Pamela Reynolds (plreynolds@ucdavis.edu) \\
+Co-Director  \\
+DataLab  \\
+University of California, Davis  
+
+
+Stefano Pascucci (s.pascucci@exeter.ac.uk)  \\
+Professor  \\
+Management Department  \\
+University of Exeter  
+
+\end{multicols*}
 
 <!---
 ***  
