@@ -5,7 +5,7 @@ about:
   image: img/profile2.jpeg
 ---
 
-I am a Data Scientist for at the UK Department of Environment, Food and Rural Affairs, working with the Data Analytics & Science Hub. I am also a fractional Postdoctoral Research Fellow at the University of Exeter, working with the [EU Horizon/UKRI InBestSoil project](https://gtr.ukri.org/projects?ref=10056474). 
+I am a Data Scientist at the UK Department of Environment, Food and Rural Affairs, working with the Data Analytics & Science Hub. I am also a fractional Postdoctoral Research Fellow at the University of Exeter, working with the [EU Horizon/UKRI InBestSoil project](https://gtr.ukri.org/projects?ref=10056474). 
 
 I earned my PhD at University of California Davis in the [Environmental Policy specialization of the Ecology Graduate Group](https://ecology.ucdavis.edu/environmental-policy-and-human-ecology), with a designated emphasis in [Computational Social Science](https://css.ucdavis.edu/). My research spans four areas: science in policymaking, innovation systems and networks, agri-environmental regulation, and innovation for the public good. I specialize in cases related to agri-food systems, ranging from agrobiodiversity management and organic certification to nitrogen policy. I also hold degrees in Sustainability Science and Policy (MSc), Organic Farming (MSc), and Biology and Political Science (BA).  
 
