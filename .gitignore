@@ -9,3 +9,5 @@ posts/data/
 
 drafts/
 cv_docs/
+
+**/*.quarto_ipynb
