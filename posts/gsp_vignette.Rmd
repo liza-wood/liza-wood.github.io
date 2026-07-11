@@ -626,104 +626,11 @@ colnames(recordsdf)[c(1,2,3,5,7,8,10,12)] <- c("source", "title", "doi",
                                                "publisher", "authors")
 ```
 
-```{r loads records df covert, echo = F}
+```{r loads records df covert, echo = F, eval = F}
+# should be EVAL TRUE
 #saveRDS(recordsdf, "~/Box/govscienceuseR/records.rds")
 recordsdf <- readRDS("~/Box/govscienceuseR/records.rds")
 ```
 
-We've generated quite a wide database, including [draft number based on only a fraction of the concepts of interest: `r nrow(recordsdf)`] records in our index. However, this likely leaves out edge cases, and we are developing ways to develop broader indices.  
+Forthcoming: 4. `referenceSearch()`
 
-### 4. `referenceSearch`  
-
-Now we have our probable citations and their groupings, and we have an index in which to look them up. The final step, supported by the `referenceSearch` package, is to probabilistically match the reference outputs from our GSP documents to the index of journal citations that we just built.  
-
-#### `index_records()`  
-
-First we want to convert our records of works from openAlex into a database that is searchable using the Solr software. To do this, we will input our records data frame into the `index_records()` function.  
-
-This is the stage of the process where we also use the Solr software. To start a Solr instance, in the command line/terminal, navigate to your solr download, then start a cloud instance with the `start -c` command. 
-
-```{bash start solr, eval = F}
-solr start -c
-```
-
-```{bash, echo = F}
-~/Applications/solr-9.1.0/bin/solr start -c
-```
-
-
-```{r index records, eval = F}
-index_records(recordsdf, collection_name = "gsp_index", overwrite = T)
-```
-
-Now we have a 'collection' called gsp_index that is local within our R session, operable in Solr.  
-
-<!---**CHALLENGES: For index_records, I get this error:   
-Error in collapse(tmp, inner = FALSE, indent = indent) : 
-  R character strings are limited to 2^31-1 bytes
-
-Also the overwrite = T argument does not seem to activate anything, so I have now written gsp_index, gsp_index2, gsp_index3, ugh** --->
-
-#### `create_queries()` 
-
-Next, the `create_queries()` takes our probable references extracted and processed in Steps 1 and 2, and converts them into a syntax that allows us to query our index. Since we are querying an index of journals, below I isolate the probable references that would likely map onto our index of academic references, and make sure that it has the appropriate column names. I then feed that data frame of probable references directly into the `create_queries()` functions.  
-
-```{r}
-dt_solr <- dt %>% 
-  filter(class == "journal") %>% 
-  select(title, author, year, publisher, container,  
-         doi) %>% 
-  rename("journal_title" = container,
-         "authors" = author) %>% 
-  mutate(year = as.numeric(year))
-
-queries <- create_queries(dt_solr)
-```
-
-We can see that the data have been reformatting to query a data base.  
-
-```{r}
-queries[103]
-```
-
-#### `search_collection()`  
-
-Now we are ready to input our queries into the indexed collection to look for reference matches. We input the query into the `search_collection()` function, specify the collection_name, and the number of top-matches that we'd like to view.  
-
-<!---For search_collection, I get this error:  
-" Error: 400 - undefined field year " --->  
-
-An example of one query is below.  
-```{r query index one, eval = F}
-results <- search_collection(q = queries[102], 
-			                       collection_name = "gsp_index", 
-			                       topn = 3)
-```
-
-We can then iterate this querying process across all `r length(queries)` of our queries.  
-
-```{r query index large, eval = F}
-results = list()
-count = 1
-for (q in queries) {
-  res = search_collection(q, collection_name = "gsp_index")
-  res$id = count
-  res$q = q
-  results[[count]] = res
-  count = count + 1
-}
-results_df = do.call(dplyr::bind_rows, results)
-```
-
-Final results are forthcoming as we finalize this index.  
-
-Make sure to stop your Solr instance:
-
-```{bash end solr false, eval = F}
-solr stop
-```
-
-
-```{bash end solr 2, eval = T, warning = F, message = F, echo = F}
-~/Applications/solr-9.1.0/bin/solr stop
-```
