@@ -1,0 +1,4085 @@
+[
+  {
+    "author": [
+      {
+        "family": "Waterboards",
+        "given": "California"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "note": [
+      "Irrigated Lands Regulatory Program (ILRP)."
+    ],
+    "url": [
+      "https://www.waterboards.ca.gov/centralvalley/water_issues/irrigated_lands/"
+    ],
+    "type": null
+  },
+  {
+    "publisher": [
+      "Consensus Building Institute"
+    ],
+    "date": [
+      "2020",
+      "2020"
+    ],
+    "title": [
+      "Tehama County Flood Control and Water Conservation District Groundwater Sustainability Agency"
+    ],
+    "container-title": [
+      "Stakeholder Communications and Engagement Plan CV-SALTS"
+    ],
+    "url": [
+      "https://www.cvsalinity.org/"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Sacramento Valley GPS Survey of the Sacramento Valley Subsidence Network"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Groundwater Basin Boundary Assessment Tool"
+    ],
+    "url": [
+      "https://gis.water.ca.gov/app/bbat/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Well Completion Report Map Application"
+    ],
+    "url": [
+      "https://dwr.maps.arcgis.com/apps/webappviewer/index.html",
+      "https://www.casgem.water.ca.gov/OSS/"
+    ],
+    "container-title": [
+      "DWR, 2020. CASGEM Online System"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Association",
+        "given": "Northern California Water"
+      }
+    ],
+    "date": [
+      "2006",
+      "2009-03",
+      "2029"
+    ],
+    "title": [
+      "Sacramento Valley Integrated Regional Water Management Plan"
+    ],
+    "url": [
+      "https://norcalwater.org/efficient-water-management/efficient-water-managementregional-sustainability/regional-planning/irwmp/",
+      "https://www.co.tehama.ca.us/images/stories/planning/2009-"
+    ],
+    "publisher": [
+      "PMC"
+    ],
+    "note": [
+      "Tehama County General Plan Update 2009-2029."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Bailey",
+        "given": "E.H."
+      },
+      {
+        "family": "Blake",
+        "given": "M.C."
+      },
+      {
+        "family": "Jones",
+        "given": "D.L."
+      },
+      {
+        "family": "Bennett",
+        "given": "G.L.",
+        "particle": "JHPzC8A#v=onepage&q=Onland%20Mesozoic%20oceanic%20crust%20in%20California%20coast%20ra nges&f=false"
+      },
+      {
+        "family": "V",
+        "given": "Fram"
+      },
+      {
+        "family": "M.S."
+      },
+      {
+        "family": "Belitz",
+        "given": "Kenneth"
+      }
+    ],
+    "date": [
+      "1970",
+      "2011"
+    ],
+    "title": [
+      "On-land Mesozoic oceanic crust in California coast ranges",
+      "Status of groundwater quality in the Southern"
+    ],
+    "container-title": [
+      "U.S. Geological Survey Professional Paper 700-C:C70-C81",
+      "Middle, and Northern Sacramento Valley study units, 2005–08—California GAMA Priority Basin Project"
+    ],
+    "url": [
+      "https://books.google.com/books?hl=en&lr=&id=mwQlAQAAIAAJ&oi=fnd&pg=SL3-PA70&dq=On"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Scientific",
+        "given": "U.S.Geological Survey"
+      }
+    ],
+    "genre": [
+      "Investigations Report 2011–5002,"
+    ],
+    "pages": [
+      "120"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Bertucci",
+        "given": "P.F."
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "Petrology and provenance of the Stony Creek Formation"
+    ],
+    "location": [
+      "northwestern Sacramento Valley, California. Concord, CA"
+    ],
+    "publisher": [
+      "Chevron U.S.A"
+    ],
+    "note": [
+      "Exploration Department. 1-22"
+    ],
+    "url": [
+      "http://archives.datapages.com/data/pac_sepm/048/048001/pdfs/1.htm"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Blake",
+        "given": "M.C."
+      },
+      {
+        "family": "Harwood",
+        "given": "D.S."
+      },
+      {
+        "family": "Helley",
+        "given": "E.J."
+      },
+      {
+        "family": "Irwin",
+        "given": "W.P."
+      },
+      {
+        "family": "Jayko",
+        "given": "A.S."
+      },
+      {
+        "family": "Jones.1999",
+        "given": "D.L."
+      }
+    ],
+    "title": [
+      "Geologic Map of the Red Bluff 30' X 60' Quadrangle, California"
+    ],
+    "container-title": [
+      "U.S. Geological Survey Miscellaneous Investigations Series Map I-2542"
+    ],
+    "note": [
+      "scale 1:100000.https://pubs.usgs.gov/imap/2542/"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Brown"
+      },
+      {
+        "given": "Caldwell"
+      }
+    ],
+    "date": [
+      "2013",
+      "2004"
+    ],
+    "title": [
+      "Lower Tuscan Aquifer Monitoring, Recharge, and Data Management Project https://www.buttecounty.net/Portals/26/Tuscan/LTAFinalReport.pdf California Department of Fish and Wildlife, 2015, Biographic Information and Observation System https://wildlife.ca.gov/Data/BIOS California Department of Water Resources, 2003, Tehama County Groundwater Inventory, PrePublication Draft California Department of Water Resources"
+    ],
+    "location": [
+      "Sacramento Valley"
+    ],
+    "note": [
+      "Groundwater Basin, Los Molinos Subbasin, California’s Groundwater, Bulletin 118."
+    ],
+    "url": [
+      "https://water.ca.gov/-/media/DWR-Website/WebPages/Programs/Groundwater-Management/Bulletin-118/Files/2003-BasinDescriptions/5_021_56_LosMolinosSubbasin.pdf"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "WR",
+        "given": "Dickinson"
+      },
+      {
+        "family": "Rich",
+        "given": "E.I."
+      }
+    ],
+    "date": [
+      "1972"
+    ],
+    "title": [
+      "Petrologic intervals and petrofabrics in the Great Valley sequence, Sacramento Valley, California"
+    ],
+    "volume": [
+      "83"
+    ],
+    "url": [
+      "https://pubs.geoscienceworld.org/gsa/gsabulletin/article-abstract/83/10/3007/7369/PetrologicIntervals-and-Petrofacies-in-the-Great?redirectedFrom=fulltext",
+      "https://maps.conservation.ca.gov/doggr/wellfinder/#openModal/118.94276/37.11133/6"
+    ],
+    "note": [
+      "DOGGR Well Finder."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Society of America bulletin"
+    ],
+    "issue": [
+      "10"
+    ],
+    "pages": [
+      "3007–3024"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ely",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "An Evaluation of Aquifer Characteristics Within the Tuscan Formation"
+    ],
+    "location": [
+      "Northeastern Sacramento Valley, Tehama County, California [Master’s Thesis"
+    ],
+    "publisher": [
+      "CSU, Chico"
+    ],
+    "pages": [
+      "292"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Garrison",
+        "given": "Lowell E."
+      }
+    ],
+    "title": [
+      "The Marysville (Sutter) Buttes"
+    ],
+    "container-title": [
+      "Sutter County",
+      "Division of Mines and Geology Bulletin"
+    ],
+    "location": [
+      "California"
+    ],
+    "publisher": [
+      "California"
+    ],
+    "volume": [
+      "181"
+    ],
+    "date": [
+      "1962"
+    ],
+    "pages": [
+      "69–72"
+    ],
+    "url": [
+      "http://pubs.geothermal-library.org/lib/grc/1021051.pdf"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Gonzalez",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "Stratal Geometries of Tuscan Deposits In Big Chico Creek Canyon Outcrops And In The Subsurface Underlying Chico"
+    ],
+    "location": [
+      "California [Master’s Thesis"
+    ],
+    "publisher": [
+      "CSU, Chico"
+    ],
+    "pages": [
+      "125"
+    ],
+    "url": [
+      "https://www.csuchico.edu/bccer/_assets/documents/research-docs/tuscan-geology-11-30-2014marisol-gonzalez.pdf"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Harwood",
+        "given": "D.S."
+      },
+      {
+        "family": "Helley",
+        "given": "E.J."
+      },
+      {
+        "family": "Doukas",
+        "given": "M.P."
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "title": [
+      "Geologic Map of the Chico Monocline and Northeastern Part of the Sacramento Valley, California"
+    ],
+    "container-title": [
+      "U.S. Geological Survey Miscellaneous Investigations Series Map I-1238, scale"
+    ],
+    "volume": [
+      "1"
+    ],
+    "url": [
+      "https://pubs.er.usgs.gov/publication/i1238"
+    ],
+    "issue": [
+      "62"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Helley",
+        "given": "E."
+      },
+      {
+        "family": "Harwood",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "title": [
+      "Geologic map of the late Cenozoic deposits of the Sacramento Valley and northern Sierran foothills, California: U.S"
+    ],
+    "container-title": [
+      "Geological Survey Miscellaneous Field Studies Map MF1790"
+    ],
+    "pages": [
+      "24 , 5"
+    ],
+    "note": [
+      "sheets, scale 1:62,500."
+    ],
+    "url": [
+      "https://pubs.er.usgs.gov/publication/mf1790"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "EJ",
+        "given": "Helley"
+      },
+      {
+        "family": "Jaworowski",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "title": [
+      "The Red Bluff pediment, a datum plane for locating Quaternary structures in the"
+    ],
+    "location": [
+      "Sacramento Valley, California. Washington, DC"
+    ],
+    "publisher": [
+      "U.S. Government Printing Office. U.S"
+    ],
+    "type": "book"
+  },
+  {
+    "volume": [
+      "1628"
+    ],
+    "pages": [
+      "13"
+    ],
+    "url": [
+      "https://pubs.usgs.gov/bul/1628/report.pdf"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Survey Bulletin"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "RV",
+        "given": "Ingersoll"
+      },
+      {
+        "family": "Dickinson",
+        "given": "W.R."
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "title": [
+      "Great Valley Group (Sequence), Sacramento Valley, California",
+      "Upper Mesozoic Franciscan rocks and Great Valley Sequence, Central Coast ranges, California"
+    ],
+    "editor": [
+      {
+        "family": "Frizzell",
+        "given": "V."
+      }
+    ],
+    "publisher": [
+      "Society of Economic Paleontologists and Minerologists"
+    ],
+    "location": [
+      "Pacific Section, Los Angeles, CA"
+    ],
+    "pages": [
+      "133"
+    ],
+    "url": [
+      "http://archives.datapages.com/data/pac_sepm/033/033001/pdfs/1.htm"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Klausmeyer",
+        "given": "K."
+      },
+      {
+        "family": "J.",
+        "given": "Howard"
+      },
+      {
+        "family": "T.",
+        "given": "Keeler-Wolf"
+      },
+      {
+        "family": "K.",
+        "given": "Davis-Fadtke"
+      },
+      {
+        "family": "R.",
+        "given": "Hull"
+      },
+      {
+        "family": "A",
+        "given": "Lyons"
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Mapping"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Mansfield",
+        "given": "C.F."
+      }
+    ],
+    "date": [
+      "1979",
+      "1025-11"
+    ],
+    "title": [
+      "Upper Mesozoic subsea fan deposits in the southern Diablo Range, California: Record of the Sierra Nevada magmatic arc"
+    ],
+    "volume": [
+      "90"
+    ],
+    "url": [
+      "https://pubs.geoscienceworld.org/gsa/gsabulletin/article-abstract/90/11/1025/189567/UpperMesozoic-subsea-fan-deposits-in-the-southern?redirectedFrom=fulltext"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geologic Society of America Bulletin"
+    ],
+    "issue": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DE",
+        "given": "Marchand"
+      },
+      {
+        "family": "Allwardt",
+        "given": "A."
+      },
+      {
+        "family": "Office",
+        "given": "Government Printing"
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "title": [
+      "Late Cenozoic stratigraphic units, northeastern San Joaquin Valley, California",
+      "U.S"
+    ],
+    "location": [
+      "Washington"
+    ],
+    "publisher": [
+      "U.S"
+    ],
+    "volume": [
+      "1470"
+    ],
+    "pages": [
+      "70"
+    ],
+    "url": [
+      "https://pubs.er.usgs.gov/publication/b1470"
+    ],
+    "editor": [
+      {
+        "family": "O'Geen",
+        "given": "A."
+      },
+      {
+        "family": "Saal",
+        "given": "M."
+      },
+      {
+        "family": "Dahlke",
+        "given": "H."
+      },
+      {
+        "family": "Doll",
+        "given": "D."
+      },
+      {
+        "family": "Elkins",
+        "given": "R."
+      },
+      {
+        "family": "Fulton",
+        "given": "A."
+      },
+      {
+        "family": "Fogg",
+        "given": "G."
+      },
+      {
+        "family": "Harter",
+        "given": "T."
+      },
+      {
+        "family": "Hopmans",
+        "given": "J."
+      },
+      {
+        "family": "Ingels",
+        "given": "C."
+      }
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Survey Bulletin"
+    ],
+    "issue": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Niederholzer",
+        "given": "F."
+      },
+      {
+        "family": "Sandoval",
+        "given": "S."
+      },
+      {
+        "family": "Verdegaal",
+        "given": "P."
+      },
+      {
+        "family": "Walkinshaw",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "Soil suitability index identifies potential areas for groundwater banking on agricultural lands"
+    ],
+    "volume": [
+      "69"
+    ],
+    "url": [
+      "http://calag.ucanr.edu/Archive/?article=ca.v069n02p75"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "California Agriculture"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "75–84"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ojakangas",
+        "given": "R.W."
+      }
+    ],
+    "date": [
+      "1968"
+    ],
+    "title": [
+      "Cretaceous sedimentation, Sacramento Valley, California"
+    ],
+    "volume": [
+      "79"
+    ],
+    "url": [
+      "https://pubs.geoscienceworld.org/gsa/gsabulletin/articleabstract/79/8/973/6386/Cretaceous-Sedimentation-Sacramento-Valley?redirectedFrom=fulltext"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Society of America Bulletin"
+    ],
+    "issue": [
+      "8"
+    ],
+    "pages": [
+      "973–1008"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Olmstead",
+        "given": "F.H."
+      },
+      {
+        "family": "Davis",
+        "given": "G.H."
+      }
+    ],
+    "date": [
+      "1961",
+      "1497"
+    ],
+    "title": [
+      "Geologic features and ground-water storage capacity of the"
+    ],
+    "location": [
+      "Sacramento Valley, California"
+    ],
+    "publisher": [
+      "U.S. Geological Survey Water Supply Paper"
+    ],
+    "pages": [
+      "241"
+    ],
+    "url": [
+      "https://pubs.usgs.gov/wsp/1497/report.pdf"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Page",
+        "given": "R.W."
+      },
+      {
+        "family": "Redwine",
+        "given": "L.E."
+      }
+    ],
+    "title": [
+      "United States Geological Survey, 1974, Base and Thickness of the Post-Eocene Continental Deposits in the",
+      "The Tertiary Princeton submarine valley system beneath the Sacramento Valley, California"
+    ],
+    "location": [
+      "Sacramento Valley, California",
+      "Los Angeles"
+    ],
+    "url": [
+      "https://pubs.usgs.gov/wri/1973/0045/report.pdf",
+      "http://archives.datapages.com/data/pacific/data/069/069001/53_ps0690053.htm"
+    ],
+    "date": [
+      "1972"
+    ],
+    "publisher": [
+      "University of California"
+    ],
+    "genre": [
+      "unpublished Ph.D. thesis."
+    ],
+    "pages": [
+      "480"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Staff",
+        "given": "Soil Science Division"
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "Soil survey manual",
+      "USDA Handbook 18"
+    ],
+    "editor": [
+      {
+        "family": "Ditzler",
+        "given": "C."
+      },
+      {
+        "family": "Scheffe",
+        "given": "K."
+      },
+      {
+        "family": "Monger",
+        "given": "H.C."
+      }
+    ],
+    "publisher": [
+      "Government Printing Office"
+    ],
+    "location": [
+      "Washington, D.C"
+    ],
+    "url": [
+      "https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/scientists/?cid=nrcs142p2_054262"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "Tehama County Flood Control and Water Conservation District"
+    ],
+    "date": [
+      "2012"
+    ],
+    "note": [
+      "Coordinated AB 3030 Groundwater Management Plan 2012."
+    ],
+    "type": null
+  },
+  {
+    "url": [
+      "https://tehamacountywater.org/wp-content/uploads/2020/09/ab3030-groundwater-managementplan.pdf",
+      "https://icons.codefornature.org/",
+      "https://websoilsurvey.sc.egov.usda.gov/DSD/Download/Cache/SSA/wss_SSA_CA645_soildb_US2003_",
+      "https://waterdata.usgs.gov/nwis"
+    ],
+    "title": [
+      "The Nature Conservancy (TNC",
+      "Interconnected Surface Water in California's Central Valley, Version 1.0.1",
+      "USDA SSURGO Database"
+    ],
+    "date": [
+      "2021"
+    ],
+    "container-title": [
+      "The U.S. Geological Survey's National Water Information System (USGS NWIS) stream flow data"
+    ],
+    "note": [
+      "USGS DEM. Datasets (nationalmap.gov"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Bailey",
+        "given": "E.H."
+      },
+      {
+        "family": "Blake",
+        "given": "M.C."
+      },
+      {
+        "family": "Jones",
+        "given": "D.L."
+      },
+      {
+        "family": "Bennett",
+        "given": "G.L.",
+        "particle": "ornia%20coast%20ranges&f=false"
+      },
+      {
+        "family": "V",
+        "given": "Fram"
+      },
+      {
+        "family": "M.S."
+      },
+      {
+        "family": "Belitz",
+        "given": "Kenneth"
+      }
+    ],
+    "date": [
+      "1970",
+      "2011",
+      "2005"
+    ],
+    "title": [
+      "On-land Mesozoic oceanic crust in California coast ranges",
+      "Status of groundwater quality in the Southern, Middle",
+      "California GAMA Priority Basin Project"
+    ],
+    "container-title": [
+      "U.S. Geological Survey Professional Paper 700-C:C70-C81"
+    ],
+    "url": [
+      "https://books.google.com/books?hl=en&lr=&id=mwQlAQAAIAAJ&oi=fnd&pg=SL3PA70&dq=Onland+Mesozoic+oceanic+crust+in+California+coast+ranges&ots=KFmxOU0dfe&si=6g6JwC7hGvNlZKexz7JHPzC8A#v=onepage&q=Onland%20Mesozoic%20oceanic%20crust%20in%20Calif"
+    ],
+    "location": [
+      "and Northern Sacramento Valley study units"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Scientific",
+        "given": "U.S.Geological Survey"
+      }
+    ],
+    "genre": [
+      "Investigations Report 2011-5002"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Bertucci",
+        "given": "P.F."
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "Petrology and provenance of the Stony Creek Formation"
+    ],
+    "location": [
+      "northwestern Sacramento Valley, California. Concord, CA"
+    ],
+    "publisher": [
+      "Chevron U.S.A"
+    ],
+    "note": [
+      "Exploration Department. 1-22"
+    ],
+    "url": [
+      "http://archives.datapages.com/data/pac_sepm/048/048001/pdfs/1.htm"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Blake",
+        "given": "M.C."
+      },
+      {
+        "family": "Harwood",
+        "given": "D.S."
+      },
+      {
+        "family": "Helley",
+        "given": "E.J."
+      },
+      {
+        "family": "Irwin",
+        "given": "W.P."
+      },
+      {
+        "family": "Jayko",
+        "given": "A.S."
+      },
+      {
+        "family": "Jones.1999",
+        "given": "D.L."
+      }
+    ],
+    "title": [
+      "Geologic Map of the Red Bluff 30' X 60' Quadrangle, California"
+    ],
+    "container-title": [
+      "U.S. Geological Survey Miscellaneous Investigations Series Map I2542"
+    ],
+    "pages": [
+      "100000 2542"
+    ],
+    "volume": [
+      1
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Brown"
+      },
+      {
+        "given": "Caldwell"
+      }
+    ],
+    "date": [
+      "2013",
+      "2021"
+    ],
+    "title": [
+      "Lower Tuscan Aquifer Monitoring, Recharge, and Data Management Project https://www.buttecounty.net/Portals/26/Tuscan/LTAFinalReport.pdf California Department of Conservation"
+    ],
+    "note": [
+      "DOGGR Well Finder."
+    ],
+    "url": [
+      "https://maps.conservation.ca.gov/doggr/wellfinder/#openModal/-118.94276/37.09381/6"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fish",
+        "given": "California Department",
+        "particle": "of"
+      },
+      {
+        "given": "Wildlife"
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "Biographic Information and Observation System https://wildlife.ca.gov/Data/BIOS California Department of Water Resources (DWR"
+    ],
+    "container-title": [
+      "2003, Tehama County Groundwater Inventory, PrePublication Draft California Department of Water Resources (DWR), 2003. California’s Groundwater"
+    ],
+    "pages": [
+      "118 –"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Update"
+      }
+    ],
+    "date": [
+      "2003",
+      "2004"
+    ],
+    "note": [
+      "Available online:"
+    ],
+    "url": [
+      "https://data.cnra.ca.gov/dataset/california-s-groundwater-bulletin-118archive",
+      "https://water.ca.gov/-/media/DWRWebsite/Web-Pages/Programs/Groundwater-Management/Bulletin-118/Files/2003-BasinDescriptions/5_021_56_LosMolinosSubbasin.pdf"
+    ],
+    "title": [
+      "California Department of Water Resources (DWR",
+      "Sacramento Valley Groundwater Basin, Los Molinos Subbasin"
+    ],
+    "volume": [
+      "118"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "California’s Groundwater, Bulletin"
+    ]
+  },
+  {
+    "title": [
+      "California Department of Water Resources (DWR"
+    ],
+    "date": [
+      "2008"
+    ],
+    "publisher": [
+      "Lower Mill Creek Watershed Project"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Study",
+        "given": "Conjunctive Use"
+      }
+    ],
+    "url": [
+      "https://cawaterlibrary.net/wpcontent/uploads/2017/11/lower_mill_creek_watershed_conjunctive_use_project__2008_.pdf",
+      "https://www.waterboards.ca.gov/gama/docs/tehama/tehama_summary_report.pdf",
+      "https://cawaterlibrary.net/wp-content/uploads/2017/05/Geology-of-the-Northern-SacramentoValley.pdf",
+      "https://cdec.water.ca.gov/"
+    ],
+    "title": [
+      "California Department of Water Resources (DWR",
+      "GAMA DOMESTIC WELL PROJECT GROUNDWATER QUALITY DATA REPORT TEHAMA COUNTY FOCUS AREA"
+    ],
+    "date": [
+      "2009"
+    ],
+    "container-title": [
+      "California Department of Water Resources (DWR), 2014, Geology of the"
+    ],
+    "location": [
+      "Northern Sacramento Valley"
+    ],
+    "note": [
+      "California Department of Water Resources (DWR), 2021. California Data Exchange Center (CDEC)."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "California Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "California Statewide Groundwater Elevation Monitoring (CASGEM) Program"
+    ],
+    "url": [
+      "https://water.ca.gov/Programs/GroundwaterManagement/Groundwater-Elevation-Monitoring--CASGEM",
+      "https://gamagroundwater.waterboards.ca.gov/gama/gamamap/public/"
+    ],
+    "container-title": [
+      "California Department of Water Resources (DWR), 2021. Groundwater Ambient Monitoring and Assessment Program (GAMA), Groundwater Information System"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "California Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "The Water Data Library"
+    ],
+    "url": [
+      "https://wdl.water.ca.gov/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Survey",
+        "given": "California Geological"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "California Geomorphic Provinces"
+    ],
+    "volume": [
+      "36"
+    ],
+    "pages": [
+      "4"
+    ],
+    "url": [
+      "https://www.contracosta.ca.gov/DocumentCenter/View/34134/CGS-2002-California-GeomorphicProvincesNote-36-PDF"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Note"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Agency",
+        "given": "California Natural Resources"
+      }
+    ],
+    "date": [
+      "2021",
+      "2021"
+    ],
+    "title": [
+      "Natural Communities Commonly Associated with Groundwater (NCCAG"
+    ],
+    "url": [
+      "https://data.cnra.ca.gov/dataset/natural-communities-commonly-associatedwith-groundwater",
+      "https://geotracker.waterboards.ca.gov/"
+    ],
+    "publisher": [
+      "California State Water Resources Control Board"
+    ],
+    "note": [
+      "GeoTracker."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Waterboards",
+        "given": "California"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "note": [
+      "Irrigated Lands Regulatory Program (ILRP)."
+    ],
+    "url": [
+      "https://www.waterboards.ca.gov/centralvalley/water_issues/irrigated_lands/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Clemmens",
+        "given": "A.J."
+      },
+      {
+        "family": "Burt",
+        "given": "C.M."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Accuracy of irrigation efficiency estimates"
+    ],
+    "volume": [
+      "123"
+    ],
+    "pages": [
+      "443–453"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "J. Irrig. and Drain. Engng"
+    ],
+    "issue": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Clynne",
+        "given": "M.A."
+      },
+      {
+        "family": "Muffler",
+        "given": "L.J.P."
+      }
+    ],
+    "title": [
+      "Geologic map of Lassen Volcanic National Park and vicinity",
+      "Geological Survey Scientific Investigations Map 2899, scale 1:50,000",
+      "Tehama County Flood Control and Water Conservation District"
+    ],
+    "location": [
+      "California"
+    ],
+    "publisher": [
+      "U.S",
+      "Consensus Building Institute"
+    ],
+    "url": [
+      "https://pubs.usgs.gov/sim/2899/"
+    ],
+    "date": [
+      "2020"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Sacramento Valley GPS Survey of the Sacramento Valley Subsidence Network"
+    ],
+    "url": [
+      "http://www.yolowra.org/documents/2017_GPS_Survey_of_the_Sacramento_Valley_Subsidence_Netw",
+      "https://gis.water.ca.gov/app/bbat/"
+    ],
+    "note": [
+      "ork.pdf DWR, 2018 (b). Groundwater Basin Boundary Assessment Tool."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Well Completion Report Map Application"
+    ],
+    "url": [
+      "https://data.cnra.ca.gov/showcase/wellcompletion-report-map-app",
+      "https://www.casgem.water.ca.gov/OSS/"
+    ],
+    "container-title": [
+      "DWR, 2020. CASGEM Online System"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Ely",
+        "given": "K.E."
+      },
+      {
+        "family": "Garrison",
+        "given": "Lowell E."
+      }
+    ],
+    "date": [
+      "1994",
+      "1962"
+    ],
+    "title": [
+      "An Evaluation of Aquifer Characteristics Within The Tuscan Formation, Northeastern Sacramento Valley, Tehama County",
+      "The Marysville (Sutter) Buttes"
+    ],
+    "location": [
+      "California [Master’s Thesis"
+    ],
+    "publisher": [
+      "CSU, Chico"
+    ],
+    "pages": [
+      "292",
+      "69–72"
+    ],
+    "volume": [
+      "181"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Sutter County, California: California Division of Mines and Geology Bulletin"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gonzalez",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "Stratal Geometries of Tuscan Deposits In Big Chico Creek Canyon Outcrops And In The Subsurface Underlying Chico"
+    ],
+    "location": [
+      "California [Master’s Thesis"
+    ],
+    "publisher": [
+      "CSU, Chico"
+    ],
+    "pages": [
+      "125"
+    ],
+    "url": [
+      "https://www.csuchico.edu/bccer/_assets/documents/research-docs/tuscan-geology-11-30-2014marisol-gonzalez.pdf"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Harwood",
+        "given": "D.S."
+      },
+      {
+        "family": "Helley",
+        "given": "E.J."
+      },
+      {
+        "family": "Doukas",
+        "given": "M.P."
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "title": [
+      "Geologic Map of the Chico Monocline and Northeastern Part of the Sacramento Valley, California"
+    ],
+    "container-title": [
+      "U.S. Geological Survey Miscellaneous Investigations Series Map I-1238, scale"
+    ],
+    "volume": [
+      "1"
+    ],
+    "url": [
+      "https://pubs.er.usgs.gov/publication/i1238"
+    ],
+    "issue": [
+      "62"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "EJ",
+        "given": "Helley"
+      },
+      {
+        "family": "Jaworowski",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "title": [
+      "The Red Bluff pediment, a datum plane for locating Quaternary structures in the"
+    ],
+    "location": [
+      "Sacramento Valley, California. Washington, DC"
+    ],
+    "publisher": [
+      "U.S. Government Printing Office. U.S"
+    ],
+    "type": "book"
+  },
+  {
+    "volume": [
+      "1628"
+    ],
+    "pages": [
+      "13"
+    ],
+    "url": [
+      "https://pubs.usgs.gov/bul/1628/report.pdf"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Survey Bulletin"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Helley",
+        "given": "E."
+      },
+      {
+        "family": "Harwood",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "title": [
+      "Geologic map of the late Cenozoic deposits of the Sacramento Valley and northern Sierran foothills, California: U.S"
+    ],
+    "container-title": [
+      "Geological Survey Miscellaneous Field Studies Map MF1790"
+    ],
+    "pages": [
+      "24 , 5"
+    ],
+    "note": [
+      "sheets, scale 1:62,500."
+    ],
+    "url": [
+      "https://pubs.er.usgs.gov/publication/mf1790"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "RV",
+        "given": "Ingersoll"
+      },
+      {
+        "family": "Dickinson",
+        "given": "W.R."
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "title": [
+      "Great Valley Group (Sequence), Sacramento Valley, California",
+      "Upper Mesozoic Franciscan rocks and Great Valley Sequence, Central Coast ranges, California"
+    ],
+    "editor": [
+      {
+        "family": "Frizzell",
+        "given": "V."
+      }
+    ],
+    "publisher": [
+      "Society of Economic Paleontologists and Minerologists"
+    ],
+    "location": [
+      "Pacific Section, Los Angeles, CA"
+    ],
+    "pages": [
+      "133"
+    ],
+    "url": [
+      "http://archives.datapages.com/data/pac_sepm/033/033001/pdfs/1.htm"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Klausmeyer",
+        "given": "K."
+      },
+      {
+        "family": "J.",
+        "given": "Howard"
+      },
+      {
+        "family": "T.",
+        "given": "Keeler-Wolf"
+      },
+      {
+        "family": "K.",
+        "given": "Davis-Fadtke"
+      },
+      {
+        "family": "R.",
+        "given": "Hull"
+      },
+      {
+        "family": "A",
+        "given": "Lyons"
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Mapping Indicators of Groundwater dependent ecosystems in California"
+    ],
+    "url": [
+      "https://groundwaterresourcehub.org/public/uploads/pdfs/iGDE_data_paper_20180423.pdf"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Klausmeyer",
+        "given": "Kirk R."
+      },
+      {
+        "family": "Biswas",
+        "given": "Tanushree"
+      },
+      {
+        "family": "Rohde",
+        "given": "Melissa M."
+      },
+      {
+        "family": "Schuetzenmeister",
+        "given": "Falk"
+      },
+      {
+        "family": "Rindlaub",
+        "given": "Nathaniel"
+      },
+      {
+        "family": "Housman",
+        "given": "Ian"
+      },
+      {
+        "family": "Howard",
+        "given": "Jeanette K."
+      },
+      {
+        "family": "Lydon",
+        "given": "Philip A."
+      }
+    ],
+    "date": [
+      "2019",
+      "1968"
+    ],
+    "title": [
+      "GDE Pulse: Taking the Pulse of Groundwater Dependent Ecosystems with Satellite Data",
+      "Geology and lahars of the Tuscan Formation, northern California"
+    ],
+    "location": [
+      "San Francisco, California"
+    ],
+    "note": [
+      "Available at"
+    ],
+    "url": [
+      "https://gde.codefornature.org.",
+      "https://pubs.geoscienceworld.org/books/book/128/chapter/3789088/Geology-and-Lahars-of-theTuscan-Formation"
+    ],
+    "volume": [
+      "116"
+    ],
+    "pages": [
+      "441–475"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Society of America Memoir"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mansfield",
+        "given": "C.F."
+      }
+    ],
+    "date": [
+      "1979",
+      "1025-11"
+    ],
+    "title": [
+      "Upper Mesozoic subsea fan deposits in the southern Diablo Range, California: Record of the Sierra Nevada magmatic arc"
+    ],
+    "volume": [
+      "90"
+    ],
+    "url": [
+      "https://pubs.geoscienceworld.org/gsa/gsabulletin/articleabstract/90/11/1025/189567/Upper-Mesozoic-subsea-fan-deposits-in-thesouthern?redirectedFrom=fulltext"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geologic Society of America Bulletin"
+    ],
+    "issue": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DE",
+        "given": "Marchand"
+      },
+      {
+        "family": "Allwardt",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "title": [
+      "Late Cenozoic stratigraphic units, northeastern San Joaquin Valley, California",
+      "Government Printing Office"
+    ],
+    "location": [
+      "Washington"
+    ],
+    "publisher": [
+      "U.S"
+    ],
+    "volume": [
+      "1470"
+    ],
+    "pages": [
+      "70"
+    ],
+    "url": [
+      "https://pubs.er.usgs.gov/publication/b1470"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "U.S. Geological Survey Bulletin"
+    ],
+    "issue": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Association",
+        "given": "Northern California Water"
+      },
+      {
+        "family": "O'Geen",
+        "given": "A."
+      },
+      {
+        "family": "Saal",
+        "given": "M."
+      },
+      {
+        "family": "Dahlke",
+        "given": "H."
+      },
+      {
+        "family": "Doll",
+        "given": "D."
+      },
+      {
+        "family": "Elkins",
+        "given": "R."
+      },
+      {
+        "family": "Fulton",
+        "given": "A."
+      },
+      {
+        "family": "Fogg",
+        "given": "G."
+      },
+      {
+        "given": "Harter"
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "Sacramento Valley Integrated Regional Water Management Plan"
+    ],
+    "url": [
+      "https://norcalwater.org/efficient-water-management/efficient-water-managementregional-sustainability/regional-planning/irwmp/"
+    ],
+    "producer": [
+      {
+        "family": "T.",
+        "given": "Hopmans"
+      },
+      {
+        "family": "J.",
+        "given": "Ingels"
+      },
+      {
+        "given": "C."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Niederholzer",
+        "given": "F."
+      },
+      {
+        "family": "Sandoval",
+        "given": "S."
+      },
+      {
+        "family": "Verdegaal",
+        "given": "P."
+      },
+      {
+        "family": "Walkinshaw",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "Soil suitability index identifies potential areas for groundwater banking on agricultural lands"
+    ],
+    "volume": [
+      "69"
+    ],
+    "url": [
+      "http://calag.ucanr.edu/Archive/?article=ca.v069n02p75"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "California Agriculture"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "75–84"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ojakangas",
+        "given": "R.W."
+      }
+    ],
+    "date": [
+      "1968"
+    ],
+    "title": [
+      "Cretaceous Sedimentation, Sacramento Valley, California"
+    ],
+    "volume": [
+      "79"
+    ],
+    "url": [
+      "https://pubs.geoscienceworld.org/gsa/gsabulletin/articleabstract/79/8/973/6386/Cretaceous-Sedimentation-Sacramento-Valley?redirectedFrom=fulltext"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Society of America Bulletin"
+    ],
+    "issue": [
+      "8"
+    ],
+    "pages": [
+      "973–1008"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Olmstead",
+        "given": "F.H."
+      },
+      {
+        "family": "Davis",
+        "given": "G.H."
+      }
+    ],
+    "date": [
+      "1961",
+      "1497"
+    ],
+    "title": [
+      "Geologic features and ground-water storage capacity of the"
+    ],
+    "location": [
+      "Sacramento Valley, California"
+    ],
+    "publisher": [
+      "U.S. Geological Survey Water Supply Paper"
+    ],
+    "pages": [
+      "241"
+    ],
+    "url": [
+      "https://pubs.usgs.gov/wsp/1497/report.pdf"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Page",
+        "given": "R.W."
+      }
+    ],
+    "title": [
+      "United States Geological Survey, 1974, Base and Thickness of the Post-Eocene Continental Deposits in the"
+    ],
+    "location": [
+      "Sacramento Valley, California"
+    ],
+    "url": [
+      "https://pubs.usgs.gov/wri/1973/0045/report.pdf",
+      "https://tehamartpa.org/wpcontent/uploads/2020/06/2009-2029-Tehama-County-General-Plan-r1.pdf"
+    ],
+    "container-title": [
+      "PMC"
+    ],
+    "date": [
+      "2009-03"
+    ],
+    "note": [
+      "Tehama County General Plan Update 2009-2029."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Redwine",
+        "given": "L.E."
+      }
+    ],
+    "date": [
+      "1972"
+    ],
+    "title": [
+      "The Tertiary Princeton submarine valley system beneath the Sacramento Valley, California"
+    ],
+    "publisher": [
+      "University of California",
+      "thesis"
+    ],
+    "location": [
+      "Los Angeles"
+    ],
+    "note": [
+      "unpublished Ph.D."
+    ],
+    "pages": [
+      "480"
+    ],
+    "url": [
+      "http://archives.datapages.com/data/pacific/data/069/069001/53_ps0690053.htm"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "given": "Sanden"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Sanden",
+        "given": "B.L."
+      },
+      {
+        "family": "Prichard",
+        "given": "T.L."
+      },
+      {
+        "family": "Fulton",
+        "given": "A.E."
+      }
+    ],
+    "date": [
+      "2016",
+      "2016",
+      "2017",
+      "2021"
+    ],
+    "title": [
+      "Assessing And Improving Water Penetration",
+      "Pistachio Production Manual, Publication 3545. University of California Agriculture and Natural Resources (UCANR) Publications Soil Science Division Staff",
+      "Soil survey manual",
+      "USDA SSURGO Database"
+    ],
+    "editor": [
+      {
+        "family": "Ferguson",
+        "given": "L."
+      },
+      {
+        "family": "Haviland",
+        "given": "D.R."
+      },
+      {
+        "family": "Ditzler",
+        "given": "C."
+      },
+      {
+        "family": "Scheffe",
+        "given": "K."
+      },
+      {
+        "family": "Monger",
+        "given": "H.C."
+      }
+    ],
+    "container-title": [
+      "USDA Handbook 18"
+    ],
+    "publisher": [
+      "Government Printing Office",
+      "Soil Survey Staff"
+    ],
+    "location": [
+      "Washington, D.C"
+    ],
+    "url": [
+      "https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/scientists/?cid=nrcs142p2_054262"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "California Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Well Completion Reports Dataset"
+    ],
+    "note": [
+      "retrieved from data.cnra.ca.gov (https://data.cnra.ca.gov/dataset/well-completion-reports) on 08/01/2020."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Data"
+    ]
+  },
+  {
+    "title": [
+      "California Department of Water Resources",
+      "DAC Mapping Tool"
+    ],
+    "date": [
+      "2021"
+    ],
+    "note": [
+      "retrieved from https://gis.water.ca.gov/app/dacs/ on 6/15/2021."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Data"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Office",
+        "given": "Tehama County Assessor’s"
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "GIS of Parcels with Land Use Attributes"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Tehama County Department of Environmental Health",
+      "Well Permits Tabular Dataset"
+    ],
+    "date": [
+      "2021"
+    ],
+    "note": [
+      "Provided to LSCE in May 2021."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "S.W.R.C.B."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "Water System Boundaries"
+    ],
+    "note": [
+      "Retrieved from https://www.waterboards.ca.gov/resources/data_databases/ on 01/15/2021."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "S.W.R.C.B."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "Public Water System Wells"
+    ],
+    "note": [
+      "Retrieved from https://www.waterboards.ca.gov/gama/ on 1/15/2021."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "title": [
+      "For more details on the mapping methods, refer to",
+      "Mapping Indicators of Groundwater Dependent Ecosystems in California: Methods Report",
+      "4 “Groundwater Dependent Ecosystems under the Sustainable Groundwater Management Act: Guidance for Preparing Groundwater Sustainability Plans"
+    ],
+    "author": [
+      {
+        "family": "Klausmeyer",
+        "given": "K."
+      },
+      {
+        "family": "Howard",
+        "given": "J."
+      },
+      {
+        "family": "Keeler-Wolf",
+        "given": "T."
+      },
+      {
+        "family": "Davis-Fadtke",
+        "given": "K."
+      },
+      {
+        "family": "Hull",
+        "given": "R."
+      },
+      {
+        "family": "Lyons",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "location": [
+      "San Francisco, California"
+    ],
+    "note": [
+      "Available at:",
+      "is available at:"
+    ],
+    "url": [
+      "https://groundwaterresourcehub.org/public/uploads/pdfs/iGDE_data_paper_20180423.pdf",
+      "https://groundwaterresourcehub.org/gde-tools/gsp-guidance-document/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Huntington",
+        "given": "Justin"
+      },
+      {
+        "family": "McGwire",
+        "given": "Kenneth"
+      },
+      {
+        "family": "Morton",
+        "given": "Charles"
+      },
+      {
+        "family": "Snyder",
+        "given": "Keirith"
+      },
+      {
+        "family": "Peterson",
+        "given": "Sarah"
+      },
+      {
+        "family": "Erickson",
+        "given": "Tyler"
+      },
+      {
+        "family": "Niswonger",
+        "given": "Richard"
+      },
+      {
+        "family": "Carroll",
+        "given": "Rosemary"
+      },
+      {
+        "family": "Smith",
+        "given": "Guy"
+      },
+      {
+        "family": "Allen",
+        "given": "Richard"
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "Assessing the Role of Climate and Resource Management on Groundwater Dependent Ecosystem Changes in Arid Environments with the Landsat Archive"
+    ],
+    "url": [
+      "https://doi.org/"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Remote Sensing of Environment"
+    ],
+    "doi": [
+      "10.1016/j.rse.2016.07.004."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Klausmeyer",
+        "given": "K."
+      },
+      {
+        "family": "J.",
+        "given": "Howard"
+      },
+      {
+        "family": "T.",
+        "given": "Keeler-Wolf"
+      },
+      {
+        "family": "K.",
+        "given": "Davis-Fadtke"
+      },
+      {
+        "family": "R.",
+        "given": "Hull"
+      },
+      {
+        "family": "A",
+        "given": "Lyons"
+      },
+      {
+        "family": "Rohde",
+        "given": "M.M."
+      },
+      {
+        "family": "Matsumoto",
+        "given": "S."
+      },
+      {
+        "family": "Howard",
+        "given": "J."
+      },
+      {
+        "family": "Liu",
+        "given": "S."
+      },
+      {
+        "family": "Riege",
+        "given": "L."
+      },
+      {
+        "family": "Remson",
+        "given": "E.J."
+      }
+    ],
+    "date": [
+      "2018",
+      "2018"
+    ],
+    "title": [
+      "Mapping Indicators of Groundwater dependent ecosystems in California"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Groundwater Dependent Ecosystems under the Sustainable Groundwater Management Act: Guidance for Preparing Groundwater Sustainability Plans"
+    ],
+    "publisher": [
+      "The Nature Conservancy"
+    ],
+    "location": [
+      "San Francisco, California"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "Projected (Current Land Use) Projected (Future Land Use) Projected (Current Land Use) with 2030 Climate Change Projected (Future Land Use) with 2030 Climate Change Projected (Current Land Use) with 2070 Climate Change Projected (Future Land Use) with 2070 Climate Change Projected (Future Land Use) with Projects and 2070 Climate Change"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Allen",
+        "given": "R.G."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "Assessing integrity of weather data for use in reference evapotranspiration estimation"
+    ],
+    "volume": [
+      "122"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "J. Irrig. And Drain. Engrg., ASCE"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "97–106"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Allen",
+        "given": "R.G."
+      },
+      {
+        "family": "Pereira",
+        "given": "L.S."
+      },
+      {
+        "family": "Howell",
+        "given": "T.A."
+      },
+      {
+        "family": "Jensen",
+        "given": "M.E."
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "Evapotranspiration Information Reporting: I"
+    ],
+    "volume": [
+      "98"
+    ],
+    "pages": [
+      "899920"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Factors Governing Measurement Accuracy. Agricultural Water Management"
+    ],
+    "issue": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Allen",
+        "given": "R.G."
+      },
+      {
+        "family": "Pereira",
+        "given": "L.S."
+      },
+      {
+        "family": "Raes",
+        "given": "D."
+      },
+      {
+        "family": "Smith",
+        "given": "M."
+      },
+      {
+        "family": "Allen",
+        "given": "R.G."
+      },
+      {
+        "family": "Tasumi",
+        "given": "M."
+      },
+      {
+        "family": "Trezza",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1998",
+      "2007"
+    ],
+    "title": [
+      "Crop Evapotranspiration: Guidelines for computing crop water requirements",
+      "Satellite-based energy balance for mapping evapotranspiration with internalized calibration (METRIC)—Model"
+    ],
+    "container-title": [
+      "Irrig. And Drain. Paper 56, Food and Agriculture Organization of the United Nations",
+      "J. Irrig. and Drain. Engng"
+    ],
+    "volume": [
+      "Rome",
+      "133"
+    ],
+    "pages": [
+      "300"
+    ],
+    "type": "article-journal",
+    "issue": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Allen",
+        "given": "R.G."
+      },
+      {
+        "family": "Tasumi",
+        "given": "M."
+      },
+      {
+        "family": "Morse",
+        "given": "A."
+      },
+      {
+        "family": "Trezza",
+        "given": "R."
+      },
+      {
+        "family": "Wright",
+        "given": "J.L."
+      },
+      {
+        "family": "Bastiaanssen",
+        "given": "W."
+      },
+      {
+        "family": "Kramber",
+        "given": "W."
+      },
+      {
+        "family": "Lorite",
+        "given": "I."
+      },
+      {
+        "family": "Robison",
+        "given": "C.W."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "Satellite-based energy balance for mapping evapotranspiration with internalized calibration (METRIC)—Applications"
+    ],
+    "volume": [
+      "133"
+    ],
+    "pages": [
+      "395–406"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "J. Irrig. and Drain. Engng"
+    ],
+    "issue": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Allen",
+        "given": "R.G."
+      },
+      {
+        "family": "A.",
+        "given": "Walter I."
+      },
+      {
+        "family": "Elliot",
+        "given": "R."
+      },
+      {
+        "family": "Howell",
+        "given": "T."
+      },
+      {
+        "family": "Itenfisu",
+        "given": "D."
+      },
+      {
+        "family": "Jensen",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "The ASCE Standardized Reference Evapotranspiration Equation"
+    ],
+    "publisher": [
+      "Publication, American Society of Civil Engineers"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Civil Engineers",
+        "given": "American Society",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2016",
+      "2005"
+    ],
+    "title": [
+      "Evaporation, Evapotranspiration, and Irrigation Water Requirements"
+    ],
+    "edition": [
+      "70. Second"
+    ],
+    "editor": [
+      {
+        "family": "Jensen",
+        "given": "M.E."
+      },
+      {
+        "family": "Engrs",
+        "given": "R.G.Allen Am Soc Civ"
+      }
+    ],
+    "pages": [
+      "744"
+    ],
+    "publisher": [
+      "American Society of Civil Engineers Environmental and Water Resources Institute (ASCE-EWRI"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Manual"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "equation",
+        "given": "The A.S.C.E.",
+        "particle": "standardized reference evapotranspiration"
+      },
+      {
+        "family": "Allen",
+        "given": "R.G."
+      },
+      {
+        "family": "Walter",
+        "given": "I.A."
+      },
+      {
+        "family": "Elliott",
+        "given": "R.L."
+      },
+      {
+        "family": "Howell",
+        "given": "T.A."
+      },
+      {
+        "family": "Itenfisu",
+        "given": "D."
+      },
+      {
+        "family": "Jensen",
+        "given": "M.E."
+      },
+      {
+        "family": "L",
+        "given": "R."
+      },
+      {
+        "family": "Woessner",
+        "given": "W.W."
+      }
+    ],
+    "editor": [
+      {
+        "given": "Snyder"
+      }
+    ],
+    "container-title": [
+      "Task Committee on Standardization of Reference Evapotranspiration of EWRI"
+    ],
+    "location": [
+      "Reston, VA. Anderson, M.P",
+      "Applied Groundwater Modeling"
+    ],
+    "date": [
+      "2002"
+    ],
+    "publisher": [
+      "Simulation of Flow and Advective Transport, Academic Press"
+    ],
+    "pages": [
+      "381"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "M.P."
+      },
+      {
+        "family": "Woessner",
+        "given": "W.W."
+      },
+      {
+        "family": "Hunt",
+        "given": "R.J."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "Applied Groundwater Modeling: Simulation of Flow and Advective Transport"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "pages": [
+      "630"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "A.S.T.M."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "Standard guide for calibrating a groundwater flow model application D598196(2008"
+    ],
+    "volume": [
+      "6"
+    ],
+    "pages": [
+
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "American Society of Testing and Materials, ASTM International"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bastiaanssen",
+        "given": "W.G.M."
+      },
+      {
+        "family": "Noordman",
+        "given": "E.J.M."
+      },
+      {
+        "family": "Pelgrum",
+        "given": "H."
+      },
+      {
+        "family": "Davids",
+        "given": "G."
+      },
+      {
+        "family": "Thoreson",
+        "given": "B.P."
+      },
+      {
+        "family": "Allen",
+        "given": "R.G."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "SEBAL Model with Remotely Sensed Data to Improve Water Resources Management under Actual Field Conditions"
+    ],
+    "volume": [
+      "131"
+    ],
+    "pages": [
+      "85–93"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "J. Irrig. Drain. Eng"
+    ],
+    "issue": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Brush",
+        "given": "Charles F."
+      },
+      {
+        "family": "Dogrul",
+        "given": "Emin C."
+      },
+      {
+        "family": "Kadir",
+        "given": "Tariq N."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "DWR Technical Memorandum: Development and Calibration the California Central Valley Groundwater-Surface Water Simulation Model (C2VSim), Version 3.02-CG, Version 1.1"
+    ],
+    "publisher": [
+      "California Department of Water Resources"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "California Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "Best Management Practices for the Sustainable Management of Groundwater: Modeling"
+    ],
+    "genre": [
+      "BMP 5."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "California Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Resource Guide: DWR-Provided Climate Change Data and Guidance for Use During Groundwater Sustainability Plan Development.California Department of Water Resources"
+    ],
+    "note": [
+      "DWR), 2020, Sacramento Valley Groundwater-Surface Water Simulation Model (SVSim) Fact Sheet."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "California Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Sacramento Valley Groundwater-Surface Water Simulation Model (SVSim) Model Files"
+    ],
+    "note": [
+      "Available online:"
+    ],
+    "url": [
+      "https://data.cnra.ca.gov/dataset/svsim/resource/46293077-f21b-47ab-8ad3-e58574d2aa44"
+    ],
+    "type": "webpage"
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "California Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "Central Valley Groundwater-Surface Water Simulation Model – Fine Grid (C2VSimFG Version 1.0) Model Files"
+    ],
+    "note": [
+      "Available online:"
+    ],
+    "url": [
+      "https://data.cnra.ca.gov/dataset/c2vsimfg-version-1-0"
+    ],
+    "type": "webpage"
+  },
+  {
+    "author": [
+      {
+        "family": "Dogrul",
+        "given": "Emin C."
+      },
+      {
+        "family": "Kadir",
+        "given": "Tariq N."
+      },
+      {
+        "family": "Brush",
+        "given": "Charles F."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "DWR Technical Memorandum: Theoretical Documentation for the Integrated Water Flow Model (IWFM-2015"
+    ],
+    "volume": [
+      "630"
+    ],
+    "publisher": [
+      "California Department of Water Resources"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Revision"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hill",
+        "given": "M.C."
+      },
+      {
+        "family": "Tiedman",
+        "given": "C.R."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "Effective groundwater model calibration: with analysis of data, sensitivities, predictions, and uncertainty"
+    ],
+    "publisher": [
+      "Wiley Inter-science"
+    ],
+    "location": [
+      "Hoboken"
+    ],
+    "pages": [
+      "455"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Commission",
+        "given": "Murray-Darling Basin"
+      }
+    ],
+    "date": [
+      "2001-01"
+    ],
+    "title": [
+      "Groundwater Flow Modelling Guideline"
+    ],
+    "note": [
+      "Report prepared by Aquaterra."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Computational Science",
+        "given": "Northwest Alliance",
+        "particle": "for"
+      },
+      {
+        "given": "Engineering"
+      },
+      {
+        "family": "O'Geen",
+        "given": "A."
+      },
+      {
+        "family": "Saal",
+        "given": "M."
+      },
+      {
+        "family": "Dahlke",
+        "given": "H."
+      },
+      {
+        "family": "Doll",
+        "given": "D."
+      },
+      {
+        "family": "Elkins",
+        "given": "R."
+      },
+      {
+        "family": "Fulton",
+        "given": "A."
+      },
+      {
+        "family": "Fogg",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "PRISM Climate Data"
+    ],
+    "note": [
+      "Available online:",
+      "Harter T, Hopmans J, Ingels C,"
+    ],
+    "url": [
+      "https://prism.oregonstate.edu/."
+    ],
+    "type": "webpage"
+  },
+  {
+    "author": [
+      {
+        "family": "Niederholzer",
+        "given": "F."
+      },
+      {
+        "family": "Solis",
+        "given": "S."
+      },
+      {
+        "family": "Verdegaal",
+        "given": "P."
+      },
+      {
+        "family": "Walkinshaw",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "Soil suitability index identifies potential areas for groundwater banking on agricultural lands"
+    ],
+    "volume": [
+      "69"
+    ],
+    "doi": [
+      "10.3733/ca.v069n02p75."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Cal Ag"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "75–84"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Thoreson",
+        "given": "B."
+      },
+      {
+        "family": "Clark",
+        "given": "B."
+      },
+      {
+        "family": "Soppe",
+        "given": "R."
+      },
+      {
+        "family": "Keller",
+        "given": "A."
+      },
+      {
+        "family": "Bastiaanssen",
+        "given": "W."
+      },
+      {
+        "family": "Eckhardt",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "Comparison of Evapotranspiration Estimates from Remote Sensing (SEBAL"
+    ],
+    "container-title": [
+      "Water Balance, and Crop Coefficient Approaches. Proceedings of the 2009 World Environmental & Water Resources Congress"
+    ],
+    "publisher": [
+      "American Society of Civil Engineers Environmental and Water Resources Institute"
+    ],
+    "location": [
+      "Kansa City, MO"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "date": [
+      "2015"
+    ],
+    "note": [
+      "C) 2016 (BN) 2014 (C) 2013 (D) 2012 (BN) 2011 (W) 2010 (BN) 2009 (D"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2002"
+    ],
+    "note": [
+      "D) 2003 (AN) 2001 (D) 2000 (AN) 1999 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2054"
+    ],
+    "note": [
+      "D) 2052 (W) 2050 (W) 2048 (W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2030"
+    ],
+    "note": [
+      "C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2054"
+    ],
+    "note": [
+      "D) 2052 (W) 2050 (W) 2048 (W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2030"
+    ],
+    "note": [
+      "C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2070"
+    ],
+    "note": [
+      "W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2054"
+    ],
+    "note": [
+      "D) 2052 (W) 2050 (W) 2048 (W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2030"
+    ],
+    "note": [
+      "C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2054"
+    ],
+    "note": [
+      "D) 2052 (W) 2050 (W) 2048 (W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2030"
+    ],
+    "note": [
+      "C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2054"
+    ],
+    "note": [
+      "D) 2052 (W) 2050 (W) 2048 (W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2030"
+    ],
+    "note": [
+      "C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2054"
+    ],
+    "note": [
+      "D) 2052 (W) 2050 (W) 2048 (W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2030"
+    ],
+    "note": [
+      "C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2054"
+    ],
+    "note": [
+      "D) 2052 (W) 2050 (W) 2048 (W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2030"
+    ],
+    "note": [
+      "C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2054"
+    ],
+    "note": [
+      "D) 2052 (W) 2050 (W) 2048 (W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2030"
+    ],
+    "note": [
+      "C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2054"
+    ],
+    "note": [
+      "D) 2052 (W) 2050 (W) 2048 (W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2030"
+    ],
+    "note": [
+      "C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2054"
+    ],
+    "note": [
+      "D) 2052 (W) 2050 (W) 2048 (W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2030"
+    ],
+    "note": [
+      "C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2054"
+    ],
+    "note": [
+      "D) 2052 (W) 2050 (W) 2048 (W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2030"
+    ],
+    "note": [
+      "C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2054"
+    ],
+    "note": [
+      "D) 2052 (W) 2050 (W) 2048 (W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2030"
+    ],
+    "note": [
+      "C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2054"
+    ],
+    "note": [
+      "D) 2052 (W) 2050 (W) 2048 (W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2030"
+    ],
+    "note": [
+      "C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2054"
+    ],
+    "note": [
+      "D) 2052 (W) 2050 (W) 2048 (W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2030"
+    ],
+    "note": [
+      "C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2070"
+    ],
+    "note": [
+      "W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2054"
+    ],
+    "note": [
+      "D) 2052 (W) 2050 (W) 2048 (W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2030"
+    ],
+    "note": [
+      "C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2054"
+    ],
+    "note": [
+      "D) 2052 (W) 2050 (W) 2048 (W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2030"
+    ],
+    "note": [
+      "C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2054"
+    ],
+    "note": [
+      "D) 2052 (W) 2050 (W) 2048 (W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2030"
+    ],
+    "note": [
+      "C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2054"
+    ],
+    "note": [
+      "D) 2052 (W) 2050 (W) 2048 (W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2030"
+    ],
+    "note": [
+      "C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2054"
+    ],
+    "note": [
+      "D) 2052 (W) 2050 (W) 2048 (W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2030"
+    ],
+    "note": [
+      "C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2072"
+    ],
+    "note": [
+      "W) 2070 (W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2048"
+    ],
+    "note": [
+      "W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2070"
+    ],
+    "note": [
+      "W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W) 2048 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2046"
+    ],
+    "note": [
+      "AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W) 2026 (AN) 2024 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2022"
+    ],
+    "note": [
+      "W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2070"
+    ],
+    "note": [
+      "W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W) 2048 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2046"
+    ],
+    "note": [
+      "AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2072"
+    ],
+    "note": [
+      "W) 2070 (W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2048"
+    ],
+    "note": [
+      "W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W) 2026 (AN"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2024"
+    ],
+    "note": [
+      "W) 2022 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2070"
+    ],
+    "note": [
+      "W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W) 2048 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2046"
+    ],
+    "note": [
+      "AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W) 2026 (AN) 2024 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2022"
+    ],
+    "note": [
+      "W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2070"
+    ],
+    "note": [
+      "W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W) 2048 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2046"
+    ],
+    "note": [
+      "AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W) 2026 (AN) 2024 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2022"
+    ],
+    "note": [
+      "W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2072"
+    ],
+    "note": [
+      "W) 2070 (W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2048"
+    ],
+    "note": [
+      "W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2070"
+    ],
+    "note": [
+      "W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W) 2048 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2046"
+    ],
+    "note": [
+      "AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2070"
+    ],
+    "note": [
+      "W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W) 2048 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2046"
+    ],
+    "note": [
+      "AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2070"
+    ],
+    "note": [
+      "W) 2068 (C) 2066 (D) 2062 (D) 2064 (W) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W) 2048 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2046"
+    ],
+    "note": [
+      "AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1,600"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2072"
+    ],
+    "note": [
+      "W) 2070 (W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2048"
+    ],
+    "note": [
+      "W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2072"
+    ],
+    "note": [
+      "W) 2070 (W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2048"
+    ],
+    "note": [
+      "W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2072"
+    ],
+    "note": [
+      "W) 2070 (W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2048"
+    ],
+    "note": [
+      "W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W) 2026 (AN"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2024"
+    ],
+    "note": [
+      "W) 2022 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2070"
+    ],
+    "note": [
+      "W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W) 2048 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2046"
+    ],
+    "note": [
+      "AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W) 2024 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2072"
+    ],
+    "note": [
+      "W) 2070 (W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2048"
+    ],
+    "note": [
+      "W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2072"
+    ],
+    "note": [
+      "W) 2070 (W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2048"
+    ],
+    "note": [
+      "W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2072"
+    ],
+    "note": [
+      "W) 2070 (W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2048"
+    ],
+    "note": [
+      "W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2070"
+    ],
+    "note": [
+      "W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W) 2048 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2046"
+    ],
+    "note": [
+      "AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2070"
+    ],
+    "note": [
+      "W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W) 2048 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2046"
+    ],
+    "note": [
+      "AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1,400"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2072"
+    ],
+    "note": [
+      "W) 2070 (W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2048"
+    ],
+    "note": [
+      "W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2072"
+    ],
+    "note": [
+      "W) 2070 (W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2048"
+    ],
+    "note": [
+      "W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2072"
+    ],
+    "note": [
+      "W) 2070 (W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2048"
+    ],
+    "note": [
+      "W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2070"
+    ],
+    "note": [
+      "W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W) 2048 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2046"
+    ],
+    "note": [
+      "AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W) 2026 (AN) 2024 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2022"
+    ],
+    "note": [
+      "W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2070"
+    ],
+    "note": [
+      "W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W) 2048 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2046"
+    ],
+    "note": [
+      "AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2072"
+    ],
+    "note": [
+      "W) 2070 (W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2048"
+    ],
+    "note": [
+      "W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W) 2026 (AN"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2024"
+    ],
+    "note": [
+      "W) 2022 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2070"
+    ],
+    "note": [
+      "W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W) 2048 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2046"
+    ],
+    "note": [
+      "AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W) 2026 (AN) 2024 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2022"
+    ],
+    "note": [
+      "W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2072"
+    ],
+    "note": [
+      "W) 2070 (W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2048"
+    ],
+    "note": [
+      "W) 2046 (AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2070"
+    ],
+    "note": [
+      "W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W) 2048 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2046"
+    ],
+    "note": [
+      "AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2070"
+    ],
+    "note": [
+      "W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W) 2048 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2046"
+    ],
+    "note": [
+      "AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2070"
+    ],
+    "note": [
+      "W) 2068 (C) 2066 (D) 2064 (W) 2062 (D) 2060 (D) 2058 (AN) 2056 (AN) 2054 (D) 2052 (W) 2050 (W) 2048 (W"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2046"
+    ],
+    "note": [
+      "AN) 2044 (C) 2042 (D) 2040 (D) 2038 (D) 2036 (W) 2034 (D) 2032 (BN) 2030 (C) 2028 (W"
+    ],
+    "type": null
+  }
+]

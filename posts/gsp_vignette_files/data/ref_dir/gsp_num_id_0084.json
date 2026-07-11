@@ -1,0 +1,3098 @@
+[
+  {
+    "date": [
+      "2010-02-08 2010-02-08 2010-12-23 1991-01-01 2018-12-31 2018-12-31 2017-04-09 2018-12-31"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1991-01-01 1991-01-01 2009-08-06 1991-01-01 2018-12-31 2011-10-01 2018-12-31 2018-12-31"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1991-01-01 2012-09-27"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2010-12-23 2018-12-31"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1995-01-01 2018-12-31"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "A.T.S.D.R."
+      },
+      {
+        "family": "Cardwell",
+        "given": "G.T."
+      }
+    ],
+    "date": [
+      "2010",
+      "2017",
+      "2010",
+      "1965"
+    ],
+    "title": [
+      "Toxicological profile for Boron",
+      "for Toxic Substances; Disease Registry, Department of Health; Human Services",
+      "ToxProfiles/tp26.pdf California Geological Survey",
+      "Fault Activity Map of California",
+      "California Department of Conservation"
+    ],
+    "location": [
+      "Atlanta, GA"
+    ],
+    "publisher": [
+      "Agency"
+    ],
+    "note": [
+      "Retrieved from",
+      "Retrieved from",
+      "Geology and Ground Water in Russian River Valley Areas and in Round,"
+    ],
+    "url": [
+      "https://www.atsdr.cdc.gov/",
+      "https://www.conservation.ca.gov/cgs/publications/faultactivity-map-of-california"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Laytonville, and Little Lake Valleys – Sonoma and Mendocino Counties, California."
+      },
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "title": [
+      "Geological Survey Water-Supply Paper 1548. In cooperation with the California Department of Water Resources",
+      "Carollo Engineers",
+      "City of Ukiah 2010 Urban Water Management Plan"
+    ],
+    "note": [
+      "Retrieved from",
+      "Retrieved from"
+    ],
+    "url": [
+      "https://pubs.usgs.gov/wsp/1548/report.pdf",
+      "https://evogov.s3.amazonaws.com/media/185/media/164719.pdf"
+    ],
+    "date": [
+      "2011",
+      "2004"
+    ],
+    "pages": [
+      "224"
+    ],
+    "location": [
+      "Ukiah, CA"
+    ],
+    "volume": [
+      "118"
+    ],
+    "publisher": [
+      "– North Coast Hydrologic Region, Ukiah Valley Groundwater Basin. California Department of Water Resources"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "California’s Groundwater Bulletin"
+    ]
+  },
+  {
+    "note": [
+      "Retrieved from"
+    ],
+    "url": [
+      "https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/GroundwaterManagement/Bulletin-118/Files/2003-Basin-Descriptions/1_052_UkiahValley.pdf"
+    ],
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "California’s Groundwater Bulletin 118"
+    ],
+    "publisher": [
+      "California Department of Water Resources"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Retrieved from"
+    ],
+    "url": [
+      "https://cawaterlibrary.net/wp-content/uploads/2017/05/Bulletin_118_Interim_"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "Guidance Document for the Sustainable Management of Groundwater - Preparation Checklist for GSP Submittal. California Department of Water Resources"
+    ],
+    "note": [
+      "Retrieved from",
+      "Retrieved from"
+    ],
+    "url": [
+      "https://groundwaterexchange.org/wp-content/uploads/2020/08/Preparation-Checklist-forGSP-Submittal.pdf",
+      "https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/GroundwaterManagement/Sustainable-Groundwater-Management/Best-Management-Practices-andGuidance-Documents/Files/BMP-2-Monitoring-Networks-and-Identification-of-Data-Gaps_"
+    ],
+    "container-title": [
+      "DWR. (2016c). Monitoring Networks and Identification of Data Gaps Best Management Practice"
+    ],
+    "pages": [
+      "34"
+    ],
+    "location": [
+      "Sacramento, CA"
+    ],
+    "publisher": [
+      "California Department of Water Resources"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "Best Management Practices for the sustainable Management of Groundwater"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      },
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "title": [
+      "Sustainable Management Criteria BMP. California Department of Water Resources",
+      "DAC Mapping Tool"
+    ],
+    "note": [
+      "Retrieved from",
+      "Retrieved from"
+    ],
+    "url": [
+      "https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/GroundwaterManagement/Sustainable-Groundwater-Management/Best-Management-Practices-andGuidance-Documents/Files/BMP-6-Sustainable-Management-Criteria-DRAFT_ay_19.pdf",
+      "https://gis.water.ca.gov/app/dacs/"
+    ],
+    "date": [
+      "2019"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "DWR Land Use Viewer"
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "url": [
+      "https://gis.water.ca.gov/app/CADWRLandUseViewer/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      },
+      {
+        "family": "DWR",
+        "particle": "gis.water.ca.gov/app/wcr"
+      }
+    ],
+    "date": [
+      "2019",
+      "2019"
+    ],
+    "title": [
+      "DWR Online System for Well Completion Reports (OSWCR"
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "url": [
+      "https:"
+    ],
+    "container-title": [
+      "Sustainable Groundwater Management Act 2019 Basin Prioritization"
+    ],
+    "pages": [
+      "99"
+    ],
+    "type": "chapter"
+  },
+  {
+    "location": [
+      "Sacramento, CA"
+    ],
+    "publisher": [
+      "California Department of Water Resources",
+      "California Department of Water Resources, Bureau of Reclamation"
+    ],
+    "note": [
+      "Retrieved from",
+      "Retrieved from"
+    ],
+    "url": [
+      "https://data.cnra.",
+      "https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/State-WaterProject/Management/Water-Transfers/Files/Draft_WTWhitePaper_20191203.pdf"
+    ],
+    "author": [
+      {
+        "family": "DWR",
+        "particle": "ca.gov/dataset/sgma-basin-prioritization/resource/ffafd27b-5e7e-4db3-b846-e7b3cb5c614c"
+      },
+      {
+        "given": "Reclamation"
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Technical Information for Preparing Water Transfer Proposals (Water Transfer White Paper): Information for Parties Preparing Proposals for Water Transfers Requiring Department of Water Resources or Bureau of Reclamation Approval"
+    ],
+    "pages": [
+      "57"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Erickson",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "Evolution of an Intermontane Basin Along the Maacama Fault, Little Lake Valley, Northern California"
+    ],
+    "genre": [
+      "(PhD thesis)."
+    ],
+    "publisher": [
+      "Humboldt State University"
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "url": [
+      "http://hdl."
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Fan",
+        "given": "Y."
+      },
+      {
+        "family": "Miguez-Macho",
+        "given": "G."
+      },
+      {
+        "family": "Jobbágy",
+        "given": "E."
+      },
+      {
+        "family": "Jackson",
+        "given": "R."
+      },
+      {
+        "family": "Casal",
+        "given": "Otero"
+      },
+      {
+        "given": "Carlos"
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "Hydrologic regulation of plant rooting depth"
+    ],
+    "container-title": [
+      "Proceedings of the National Academy of Sciences"
+    ],
+    "pages": [
+      "114"
+    ],
+    "doi": [
+      "10.1073/pnas.1712381114"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Farrar",
+        "given": "C.D."
+      },
+      {
+        "family": "Fisher",
+        "given": "H."
+      },
+      {
+        "family": "Brown",
+        "given": "E.G."
+      },
+      {
+        "family": "Warne",
+        "given": "W.E."
+      }
+    ],
+    "date": [
+      "1986",
+      "1965"
+    ],
+    "title": [
+      "Groundwater Resources in Mendocino County, California. United States Geological Survey (USGS",
+      "North Coast Hydrographic Area"
+    ],
+    "note": [
+      "Retrieved from",
+      "Southern Portion, Bulletin No. 142-1.",
+      "Retrieved from"
+    ],
+    "url": [
+      "https://pubs.usgs.gov/wri/1985/4258/report.pdf",
+      "https:"
+    ],
+    "volume": [
+      "1"
+    ],
+    "publisher": [
+      "Department of Water Resources"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fuller",
+        "given": "M."
+      },
+      {
+        "family": "Brown",
+        "given": "S."
+      },
+      {
+        "family": "Wills",
+        "given": "C."
+      },
+      {
+        "family": "Short",
+        "given": "W."
+      },
+      {
+        "family": "GeoGems.pdf Heath",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2015",
+      "1983"
+    ],
+    "title": [
+      "Geological Gems of California State Parks, Special Report 230. California Geological Survey under Interagency Agreement C01718011 with California State Parks",
+      "Basic Ground-Water Hydrology, Water-Supply Paper 2220. United States Geological Survey"
+    ],
+    "note": [
+      "Retrieved from",
+      "Retrieved from",
+      "Retrieved from"
+    ],
+    "url": [
+      "https://www.parks.ca.gov/pages/734/files/CGS_SR230_",
+      "https://pubs.usgs.gov/wsp/2220/report.pdf",
+      "https://www."
+    ],
+    "container-title": [
+      "LACO Associates. (2017). Initial Groundwater Sustainability Plan Hydrogeologic Conceptual Model"
+    ],
+    "pages": [
+      "354"
+    ],
+    "location": [
+      "Ukiah, CA"
+    ],
+    "publisher": [
+      "Mendocino County Water Agency"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Larsen",
+        "given": "M.C."
+      },
+      {
+        "family": "Kelsey",
+        "given": "H.M."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Geologic Maps of late Neogene and Quaternary Deposits in the Ukiah Basin"
+    ],
+    "publisher": [
+      "Humboldt State University, California Department of Water Resources, United States Geologic Survey"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Marquez",
+        "given": "M.F."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "Characterization of the ukiah valley groundwater basin"
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "url": [
+      "http://watermanagement.ucdavis.edu/files/4214/9816/7822/Final_Report_to_the_City_"
+    ],
+    "editor": [
+      {
+        "family": "McLaughlin",
+        "given": "R.J."
+      },
+      {
+        "family": "Sarna-Wojcicki",
+        "given": "A.M."
+      },
+      {
+        "family": "Wagner",
+        "given": "D.L."
+      },
+      {
+        "family": "Fleck",
+        "given": "R.J."
+      },
+      {
+        "family": "Langenheim",
+        "given": "V.E."
+      },
+      {
+        "given": "Jachens"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "C.",
+        "given": "R."
+      },
+      {
+        "family": "Allen",
+        "given": "J.R."
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "title": [
+      "Evolution of the Rodgers Creek–Maacama right-lateral fault system and associated basins east of the northward-migrating Mendocino Triple Junction"
+    ],
+    "location": [
+      "northern"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "County",
+        "given": "Mendocino"
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "The Ukiah Valley Area Plan"
+    ],
+    "pages": [
+      "10"
+    ],
+    "location": [
+      "Ukiah, CA"
+    ],
+    "publisher": [
+      "Mendocino County"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "Retrieved from"
+    ],
+    "url": [
+      "https://www.mendocinocounty.org/home/showdocument?id=11867"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Niswonger",
+        "given": "R."
+      },
+      {
+        "family": "Fogg",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "Influence of perched groundwater on base flow"
+    ],
+    "volume": [
+      "44"
+    ],
+    "doi": [
+      "10.1029/2007WR006160"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Water Resources Research"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "P.M.C."
+      },
+      {
+        "family": "Puls",
+        "given": "R.W.",
+        "particle": "org/government/planning-building-services/plans/mendocino-county-general-plan"
+      },
+      {
+        "family": "Barcelona",
+        "given": "M.J."
+      }
+    ],
+    "date": [
+      "2009",
+      "1996"
+    ],
+    "title": [
+      "The County of Mendocino General Plan",
+      "LOW-FLOW (MINIMAL DRAWDOWN) GROUND-WATER SAMPLING PROCEDURES"
+    ],
+    "note": [
+      "Retrieved from",
+      "Retrieved from"
+    ],
+    "url": [
+      "https://www.mendocinocounty.",
+      "https://www.epa.gov/sites/default/files/"
+    ],
+    "publisher": [
+      "USEPA"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Rexford",
+        "given": "R."
+      },
+      {
+        "family": "Rice",
+        "given": "E.W."
+      },
+      {
+        "family": "Bridgewater",
+        "given": "L."
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "title": [
+      "Holocene Activity and Tectonic Setting of the Maacama Fault Zone, Mendocino County, California"
+    ],
+    "volume": [
+      "27"
+    ],
+    "pages": [
+      "375–412"
+    ],
+    "doi": [
+      "10.1016/00137952(89)90038-0"
+    ],
+    "publisher": [
+      "American Public Health Association, & Water Environment Federation"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Engineering Geology"
+    ],
+    "issue": [
+      "1-4"
+    ]
+  },
+  {
+    "date": [
+      "2012"
+    ],
+    "title": [
+      "Standard methods for the examination of water and wastewater"
+    ],
+    "location": [
+      "Washington, D.C"
+    ],
+    "publisher": [
+      "American Public Health Association"
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "url": [
+      "https://www.standardmethods.org/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Robinson",
+        "given": "Z."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Tributary Flow Patterns for the Ukiah Groundwater Basin"
+    ],
+    "note": [
+      "Unpublished report; raw data."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Schenk",
+        "given": "H."
+      },
+      {
+        "family": "Jackson",
+        "given": "Robert"
+      },
+      {
+        "given": "S.C.W.A."
+      }
+    ],
+    "date": [
+      "2002",
+      "2016"
+    ],
+    "title": [
+      "Rooting depths, lateral root spreads and belowground/above-ground allometries of plants in water-limited ecosystem",
+      "Fish and Habitat Flows and Water Rights Project, Draft Environmental Impact Report"
+    ],
+    "volume": [
+      "90"
+    ],
+    "pages": [
+      "480–494"
+    ],
+    "doi": [
+      "10.1046/j.1365-2745.2002.00682.x"
+    ],
+    "publisher": [
+      "Sonoma County Water Agency"
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "url": [
+      "https://evogov.s3.amazonaws.com/"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Ecology Journal of Ecology"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Staff",
+        "given": "Soil Survey"
+      },
+      {
+        "family": "Bureau",
+        "given": "U.S.Census"
+      },
+      {
+        "family": "Wackernagel",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "2014",
+      "2018",
+      "2000",
+      "1995"
+    ],
+    "title": [
+      "Keys to Soil Taxonomy",
+      "2013-2017 American Community Survey 5-Year Estimates",
+      "Survey/#ACS2017x5 USGS Fact Sheet 088-01",
+      "Use of Passive Diffusion Samplers for Monitoring Volatile Organic Compounds in Groundwater",
+      "Ordinary Kriging"
+    ],
+    "edition": [
+      "12th"
+    ],
+    "location": [
+      "Washington, DC",
+      "Berlin, Heidelberg"
+    ],
+    "publisher": [
+      "USDA-Natural Resources Conservation Service",
+      "Springer"
+    ],
+    "note": [
+      "Retrieved from",
+      "Retrieved from",
+      "Retrieved from",
+      "Retrieved from"
+    ],
+    "url": [
+      "https://www.nrcs.usda.gov/wps/PA_",
+      "https://www.dof.ca.gov/Reports/Demographic_Reports/American_Community_",
+      "https:",
+      "https://link.springer.com/book/10.1007/978-3-662-05294-5"
+    ],
+    "container-title": [
+      "Multivariate Geostatistics",
+      "United States Geological Survey"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "F.D."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "Chapter A6. Section 6.0. General Information and Guidelines for FieldMeasured Water-Quality Properties"
+    ],
+    "doi": [
+      "doi:https://doi.org/10."
+    ],
+    "pages": [
+      "3133 09 6 0"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "United States Geological Survey"
+    ]
+  },
+  {
+    "title": [
+      "The hydrology of the percolation ponds have been studied extensively and do not “flow to the river”. See Fate and Transport if Wastewater Treatment Plant Discharge Percolation Ponds"
+    ],
+    "publisher": [
+      "City of Ukiah",
+      "Inc"
+    ],
+    "location": [
+      "California, Balance Hydraulics"
+    ],
+    "date": [
+      "2010-05"
+    ],
+    "note": [
+      "Page 32, Lines 665-666"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "The cited 2010 UWMP is dated. Please referring to City of Ukiah Final 2020 UWMP for current information"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "title": [
+      "For more details on the mapping methods, refer to",
+      "Mapping Indicators of Groundwater Dependent Ecosystems in California: Methods Report",
+      "4 “Groundwater Dependent Ecosystems under the Sustainable Groundwater Management Act: Guidance for Preparing Groundwater Sustainability Plans"
+    ],
+    "author": [
+      {
+        "family": "Klausmeyer",
+        "given": "K."
+      },
+      {
+        "family": "Howard",
+        "given": "J."
+      },
+      {
+        "family": "Keeler-Wolf",
+        "given": "T."
+      },
+      {
+        "family": "Davis-Fadtke",
+        "given": "K."
+      },
+      {
+        "family": "Hull",
+        "given": "R."
+      },
+      {
+        "family": "Lyons",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "location": [
+      "San Francisco, California"
+    ],
+    "note": [
+      "Available at:",
+      "is available at:"
+    ],
+    "url": [
+      "https://groundwaterresourcehub.org/public/uploads/pdfs/iGDE_data_paper_20180423.pdf",
+      "https://groundwaterresourcehub.org/gde-tools/gsp-guidance-document/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Boonstra",
+        "given": "J."
+      },
+      {
+        "family": "Ridder",
+        "given": "N.A.",
+        "particle": "de"
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "title": [
+      "Numerical Modelling of Groundwater Basins. International Institute for Land Reclamation and Improvement"
+    ],
+    "location": [
+      "Wageningen, The Netherlands"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Cardwell",
+        "given": "G.T."
+      }
+    ],
+    "date": [
+      "1965"
+    ],
+    "title": [
+      "Geology and Ground Water in Russian River Valley Areas and in Round, Laytonville, and Little Lake Valleys – Sonoma and Mendocino Counties, California"
+    ],
+    "container-title": [
+      "Geological Survey Water-Supply Paper 1548. Prepared in cooperation with the California Department of Water Resources"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "California Department of Conservation, California Geological Survey, 2002"
+    ],
+    "volume": [
+      "36"
+    ],
+    "url": [
+      "http://www.conservation.ca.gov/cgs/information/publications/cgs_notes/note_36/Documents/note_36.pdf",
+      "http://maps.conservation.ca.gov/cgs/fam/"
+    ],
+    "container-title": [
+      "California Geological Survey, 2017, Fault Activity Map of California (2010), California Department of Conservation",
+      "California Geomorphic Provinces Note"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Driscoll",
+        "given": "F.G."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "title": [
+      "Groundwater and Wells"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "container-title": [
+      "Johnson Division, St"
+    ],
+    "publisher": [
+      "Paul"
+    ],
+    "location": [
+      "Minnesota"
+    ],
+    "pages": [
+      "1021"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      },
+      {
+        "literal": "-"
+      }
+    ],
+    "date": [
+      "1952"
+    ],
+    "title": [
+      "Water Quality Investigations",
+      "Ground Water Basins in California"
+    ],
+    "volume": [
+
+    ],
+    "container-title": [
+      "State of California - Department of Public Works - Division of Water Resources",
+      "Report"
+    ],
+    "type": "article-journal",
+    "issue": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "1958"
+    ],
+    "title": [
+      "Recommended Water Well Construction and Sealing Standards"
+    ],
+    "container-title": [
+      "State of California – The Resources Agency"
+    ],
+    "publisher": [
+      "Department of Water Resources"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "1975"
+    ],
+    "title": [
+      "California's Ground Water"
+    ],
+    "volume": [
+
+    ],
+    "publisher": [
+      "State of California - The Resources Agency Department of Water Resources"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Bulletin"
+    ],
+    "issue": [
+      "118"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "California's Groundwater - Bulletin 118 - Update 2003\" State of California - The Resources Agency"
+    ],
+    "publisher": [
+      "Department of Water Resources"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Ukiah Valley Groundwater Basin” North Coast Hydrologic Region – Ukiah Valley Groundwater Basin"
+    ],
+    "volume": [
+      "118"
+    ],
+    "url": [
+      "http://www.water.ca.gov/groundwater/bulletin118/basindescriptions/1-52.pdf"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "California’s Groundwater Bulletin"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "McLaughlin",
+        "given": "R.J."
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "McLaughlin",
+        "given": "R.J."
+      },
+      {
+        "family": "Nilsen",
+        "given": "T.H."
+      }
+    ],
+    "date": [
+      "2012",
+      "1982"
+    ],
+    "title": [
+      "Evolution of the Rodgers Creek-Maacama right-lateral fault system and associated basins east of the northward-migrating Mendocino Triple Junction, northern California",
+      "Neogene nonmarine sedimentation and tectonics in small pullapart basins of the San Andreas fault system"
+    ],
+    "container-title": [
+      "Geosphere. Geological Society of America"
+    ],
+    "url": [
+      "https://pubs.er.usgs.gov/publication/70118529"
+    ],
+    "location": [
+      "Sonoma County, California"
+    ],
+    "publisher": [
+      "Sedimentology"
+    ],
+    "volume": [
+      "29"
+    ],
+    "pages": [
+      "865–876"
+    ],
+    "issue": [
+      "6"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Agency",
+        "given": "Mendocino County Water"
+      },
+      {
+        "family": "University",
+        "given": "Montana State"
+      }
+    ],
+    "date": [
+      "2010",
+      "2005",
+      "2004"
+    ],
+    "title": [
+      "Water Supply Assessment for the Ukiah Valley Area Plan",
+      "Specific Capacity- A Driller’s Test",
+      "California’s Groundwater, Ukiah Valley Groundwater Basin"
+    ],
+    "url": [
+      "http://www.co.mendocino.ca.us/water/pdf/FINAL_UVAP_WATER_STUDY.pdf",
+      "http://www.montana.edu/uessc/esci440/l11a_specifcap.htm",
+      "http://www.water.ca.gov/groundwater/bulletin118/basindescriptions/1-52.pdf"
+    ],
+    "container-title": [
+      "North Coast Hydrologic Region (NCHR",
+      "Bulletin"
+    ],
+    "volume": [
+      "118"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Rexford",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "title": [
+      "Hologene Activity and Tectonic Setting of the Maacama Fault Zone"
+    ],
+    "location": [
+      "Mendocino County, California"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "California Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "1965"
+    ],
+    "title": [
+      "Water Resources and Future Water Requirements – North Coastal Hydrographic Area"
+    ],
+    "volume": [
+      "1"
+    ],
+    "note": [
+      "Southern Portion (Preliminary Edition) – Bulletin No. 142-1."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Cardwell",
+        "given": "G.T."
+      }
+    ],
+    "date": [
+      "1965"
+    ],
+    "title": [
+      "Geology and Ground Water in Russian River Valley Areas and in Round, Laytonville and Little Lake Valleys, Sonoma and Mendocino Counties, California"
+    ],
+    "container-title": [
+      "USGS Water Supply Paper 1548"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Farrar",
+        "given": "C.D."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "title": [
+      "Ground-Water Resources in Mendocino County, California"
+    ],
+    "genre": [
+      "USGS WaterResources Investigations Report 85-4258."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "page",
+        "given": "Basin Boundary Modifications",
+        "particle": "web"
+      }
+    ],
+    "title": [
+      "California Department of Water Resources",
+      "California Geological Survey web page. California Department of Conservation"
+    ],
+    "url": [
+      "http://www.water.ca.gov/groundwater/sgm/basin_boundaries.cfm",
+      "http://www.quake.ca.gov/",
+      "https://casoilresource.lawr.ucdavis.edu/"
+    ],
+    "note": [
+      "Accessed December",
+      "Accessed December 2016. California Soil Resource Lab web page. University of",
+      "Accessed December 2016."
+    ],
+    "date": [
+      "2016"
+    ],
+    "location": [
+      "California, Davis"
+    ],
+    "type": "webpage"
+  },
+  {
+    "author": [
+      {
+        "family": "Plan",
+        "given": "California Water"
+      }
+    ],
+    "date": [
+      "Bulletin 160"
+    ],
+    "title": [
+      "California Department of Water Resources"
+    ],
+    "url": [
+      "http://www.water.ca.gov/waterplan/cwpu2013/final/index.cfm",
+      "http://ca.water.usgs.gov/"
+    ],
+    "note": [
+      "Accessed December 2016.",
+      "Accessed December 2016."
+    ],
+    "publisher": [
+      "California Water Science Center. U.S. Geological Survey"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Groundwater",
+        "given": "California’s"
+      }
+    ],
+    "title": [
+      "Bulletin 118. California Department of Water Resources",
+      "Central Valley Salinity Alternatives for Long-term Sustainability web page. Central Valley Salinity Coalition"
+    ],
+    "url": [
+      "http://water.ca.gov/groundwater/bulletin118.cfm",
+      "http://www.cvsalinity.org/"
+    ],
+    "note": [
+      "Accessed December",
+      "Accessed December 2016."
+    ],
+    "date": [
+      "2016"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Commission",
+        "given": "European"
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "Common Implementation Strategy for the Water Framework Directive (2000/60/EC",
+      "Guidance on Risk Assessment and the Use of Conceptual Models for Groundwater"
+    ],
+    "volume": [
+
+    ],
+    "genre": [
+      "Technical Report"
+    ],
+    "pages": [
+      "– 2010–042"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Guidance Document"
+    ],
+    "issue": [
+      "26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fulton",
+        "given": "J.W."
+      },
+      {
+        "family": "al",
+        "particle": "et."
+      }
+    ],
+    "date": [
+      "2005",
+      "2005-06",
+      "2016"
+    ],
+    "title": [
+      "Hydrogeologic Setting and Conceptual Hydrologic Model of the Spring Creek Basin, Centre County",
+      "USGS Scientific Investigation Report 2005-5091",
+      "Geologic Map of California (GMC). California Department of Conservation",
+      "Groundwater Ambient Monitoring and Assessment Program (GAMA) web page. State Water Resources Control Board"
+    ],
+    "location": [
+      "Pennsylvania"
+    ],
+    "url": [
+      "http://pubs.usgs.gov/sir/2005/5091/sir2005-5091.pdf",
+      "http://maps.conservation.ca.gov/cgs/gmc/",
+      "http://www.waterboards.ca.gov/gama/geotracker_gama.shtml",
+      "http://earthquake.usgs.gov/hazards/qfaults/map/#qfaults",
+      "http://www.swrcb.ca.gov/water_issues/programs/agriculture/",
+      "https://ngmdb.usgs.gov/ngmdb/ngmdb_home.html",
+      "https://viewer.nationalmap.gov/viewer/nhd.html?p=nhd",
+      "http://www.waterboards.ca.gov/water_issues/programs/groundwater/sb4/index.shtml"
+    ],
+    "note": [
+      "Accessed December",
+      "Accessed December 2016. Interactive Fault Map. U.S. Geological Survey.",
+      "Accessed December 2016. Irrigated Lands Regulatory Program web page. State Water Resources Control Board.",
+      "Accessed December 2016.",
+      "Accessed December 2016. National Map Hydrography. U.S. Geological Survey.",
+      "Accessed December 2016. Oil and Gas Monitoring Program web page. State Water Resources Control Board.",
+      "Accessed December 2016."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "National Geologic Map Database. U.S. Geological Survey"
+    ]
+  },
+  {
+    "title": [
+      "Suggestions to Authors of the Reports of the United States Geological Survey",
+      "See Section named Cross Sections and Stratigraphic Sections and Preparing Maps and Other Illustrations, with a subsection titled Cross Sections"
+    ],
+    "edition": [
+      "Seventh"
+    ],
+    "date": [
+      "1991"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Field Geology",
+        "given": "Manual",
+        "particle": "of"
+      },
+      {
+        "family": "Compton",
+        "given": "Robert"
+      }
+    ],
+    "date": [
+      "1962"
+    ],
+    "title": [
+      "Chapter 11, Preparing Geologic Reports, Section 11-10 Detailed Geologic Maps and Cross Sections"
+    ],
+    "type": null
+  },
+  {
+    "editor": [
+      {
+        "family": "Walker",
+        "given": "Roger G."
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "title": [
+      "Facies Models"
+    ],
+    "publisher": [
+      "Geological Association of Canada Publications"
+    ],
+    "location": [
+      "Toronto, Canada"
+    ],
+    "pages": [
+      "211"
+    ],
+    "type": "book"
+  },
+  {
+    "editor": [
+      {
+        "family": "Reading",
+        "given": "H.G."
+      }
+    ],
+    "date": [
+      "1978"
+    ],
+    "title": [
+      "Sedimentary Environments and Facies"
+    ],
+    "publisher": [
+      "Elsevier Press New York"
+    ],
+    "pages": [
+      "569"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Krumbein",
+        "given": "K.C."
+      },
+      {
+        "family": "Sloss",
+        "given": "L.L."
+      }
+    ],
+    "date": [
+      "1963"
+    ],
+    "title": [
+      "Stratigraphy and Sedimentation, W.H"
+    ],
+    "publisher": [
+      "Freeman and Company, San Francisco"
+    ],
+    "pages": [
+      "660"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "UVIHM",
+        "particle": "as Implemented in"
+      }
+    ],
+    "date": [
+      "1991-01-01 2010-02-08 2001-10-04 1991-06-01 1965-01-01"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2011"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Engineers",
+        "given": "Carollo"
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "City of Ukiah 2010 Urban Water Management Plan"
+    ],
+    "pages": [
+      "224"
+    ],
+    "location": [
+      "Ukiah, CA"
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "url": [
+      "https://evogov.s3.amazonaws.com/media/185/media/164719.pdf"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Dogrul",
+        "given": "E.C."
+      },
+      {
+        "family": "Kadir",
+        "given": "T.N."
+      },
+      {
+        "family": "Chung",
+        "given": "F.I."
+      }
+    ],
+    "date": [
+      "2011",
+      "1943"
+    ],
+    "title": [
+      "Root zone moisture routing and water demand calculations in the context of integrated hydrology"
+    ],
+    "volume": [
+      "137"
+    ],
+    "pages": [
+      "359–366"
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "url": [
+      "https://ascelibrary.org/doi/pdf/10.1061/%28ASCE%29IR."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Irrigation and Drainage Engineering"
+    ],
+    "issue": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "DWR Land Use Viewer"
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "url": [
+      "https://gis.water.ca.gov/app/CADWRLandUseViewer/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "ISRP",
+        "given": "R.R."
+      },
+      {
+        "family": "Associates",
+        "given": "REPORTpdf L.A.C.O."
+      }
+    ],
+    "date": [
+      "2015",
+      "2017"
+    ],
+    "title": [
+      "Conceptual model of watershed hydrology, surface water and groundwater interactions and stream ecology for the russian river watershed",
+      "Initial Groundwater Sustainability Plan Hydrogeologic Conceptual Model"
+    ],
+    "note": [
+      "Retrieved from",
+      "Retrieved from"
+    ],
+    "url": [
+      "http://www.russianriverisrp.org/Downloads/ISRP_FINAL_",
+      "https://www."
+    ],
+    "pages": [
+      "354"
+    ],
+    "location": [
+      "Ukiah, CA"
+    ],
+    "publisher": [
+      "Mendocino County Water Agency"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Russian River Independent Science Review Panel"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Markstrom",
+        "given": "S.L."
+      },
+      {
+        "family": "Niswonger",
+        "given": "R.G."
+      },
+      {
+        "family": "Regan",
+        "given": "R.S."
+      },
+      {
+        "family": "Prudic",
+        "given": "D.E."
+      },
+      {
+        "family": "Barlow",
+        "given": "P.M."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "GSFLOW-coupled ground-water and surface-water FLOW model based on the integration of the precipitation-runoff modeling system (PRMS) and the modular ground-water flow model"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "US Geological Survey Techniques and Methods, 6, 240"
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "url": [
+      "https://pubs.usgs.gov/tm/tm6d1/pdf/tm6d1.pdf"
+    ],
+    "author": [
+      {
+        "family": "Markstrom",
+        "given": "S.L."
+      },
+      {
+        "family": "Regan",
+        "given": "R.S."
+      },
+      {
+        "family": "Hay",
+        "given": "L.E."
+      },
+      {
+        "family": "Viger",
+        "given": "R.J."
+      },
+      {
+        "family": "Webb",
+        "given": "R.M."
+      },
+      {
+        "family": "Payn",
+        "given": "R.A."
+      },
+      {
+        "family": "LaFontaine",
+        "given": "J."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "H."
+      },
+      {
+        "given": "M.C.W.A."
+      }
+    ],
+    "date": [
+      "2015",
+      "2010"
+    ],
+    "title": [
+      "PRMS-IV, the precipitation-runoff modeling system, version 4. US Geological Survey Techniques and Methods, 6, B7",
+      "Water Supply Assessment for the Ukiah Valley Area Plan"
+    ],
+    "note": [
+      "Retrieved from",
+      "Retrieved from"
+    ],
+    "url": [
+      "https://pubs.usgs.gov/tm/6b7/pdf/tm6-b7.pdf",
+      "https://www.mendocinocounty.org/home/"
+    ],
+    "pages": [
+      "96"
+    ],
+    "location": [
+      "Ukiah, CA"
+    ],
+    "publisher": [
+      "Mendocino County Water Agency"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Niswonger",
+        "given": "R.G."
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "An agricultural water use package for MODFLOW and GSFLOW"
+    ],
+    "volume": [
+      "125"
+    ],
+    "pages": [
+      "104617"
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "url": [
+      "https://www.sciencedirect.com/"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Environmental Modelling & Software"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Panday",
+        "given": "S."
+      },
+      {
+        "family": "Langevin",
+        "given": "C.D."
+      },
+      {
+        "family": "Niswonger",
+        "given": "R.G."
+      },
+      {
+        "family": "Ibaraki",
+        "given": "M."
+      },
+      {
+        "family": "Hughes",
+        "given": "J.D."
+      },
+      {
+        "family": "Regan",
+        "given": "R.S."
+      },
+      {
+        "family": "LaFontaine",
+        "given": "J.H."
+      }
+    ],
+    "date": [
+      "2013",
+      "2017"
+    ],
+    "title": [
+      "MODFLOW–USG version 1: An unstructured grid version of MODFLOW for simulating groundwater flow and tightly coupled processes using a control volume finite-difference formulation. US Geological Survey",
+      "Documentation of the dynamic parameter, wateruse, stream and lake flow routing, and two summary output modules and updates to surface154 depression storage simulation and initial conditions specification options with the precipitationrunoff modeling system (PRMS"
+    ],
+    "note": [
+      "Retrieved from",
+      "Retrieved from"
+    ],
+    "url": [
+      "https://pubs.usgs.gov/tm/06/a45/pdf/tm6-A45.pdf",
+      "https://pubs.usgs.gov/"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "US Geological Survey"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "S.C.W.A."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "Fish and Habitat Flows and Water Rights Project, Draft Environmental Impact Report"
+    ],
+    "publisher": [
+      "Sonoma County Water Agency"
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "url": [
+      "https://evogov.s3.amazonaws.com/"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1965-01-01 1991-01-01 1965-01-01 2013-05-24 2018-12-31 2012-09-27"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2010-12-23 2018-12-31 39.2031 -123.1853"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2010-12-23 2014-04-26"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2009-10-27 1965-01-01 2013-06-12 2012-09-27"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "UVIHM",
+        "given": "End Date",
+        "particle": "as Implemented in"
+      }
+    ],
+    "date": [
+      "2018-12-31 2018-12-31 2018-12-31 2017-04-09 2018-12-31"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "Monitoring Networks and Identification of Data Gaps Best Management Practice"
+    ],
+    "pages": [
+      "34"
+    ],
+    "location": [
+      "Sacramento, CA"
+    ],
+    "publisher": [
+      "California Department of Water Resources"
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "url": [
+      "https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/GroundwaterManagement/Sustainable-Groundwater-Management/Best-Management-Practices-andGuidance-Documents/Files/BMP-2-Monitoring-Networks-and-Identification-of-Data-Gaps_"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1"
+    ],
+    "author": [
+      {
+        "family": "Bostic",
+        "given": "D."
+      },
+      {
+        "family": "Dobbin",
+        "given": "K."
+      },
+      {
+        "family": "Pauloo",
+        "given": "R."
+      },
+      {
+        "family": "Mendoza",
+        "given": "J."
+      },
+      {
+        "family": "Kuo",
+        "given": "M."
+      },
+      {
+        "family": "London",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Sustainable for Whom? The Impact of Groundwater Sustainability Plans on Domestic Wells"
+    ],
+    "publisher": [
+      "UC Davis Center for Regional Change"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "2"
+    ],
+    "author": [
+      {
+        "given": "C.A.-D.W.R."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "California Online State Well Completion Report Database"
+    ],
+    "note": [
+      "Available at:",
+      "Accessed January 1, 2018"
+    ],
+    "url": [
+      "https://data.cnra.ca.gov/dataset/well-completion-reports."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "author": [
+      {
+        "given": "C.A.-D.W.R."
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Periodic Groundwater Level Measurement database"
+    ],
+    "note": [
+      "Available at:",
+      "Accessed March 1, 2020"
+    ],
+    "url": [
+      "https://data.cnra.ca.gov/dataset/periodic-groundwater-level-measurements."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4"
+    ],
+    "author": [
+      {
+        "given": "C.A.-O.P.R."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Observed domestic well failures during 2012-2016 drought dataset obtained via an agreement with the California Governor’s Office of Planning and Research"
+    ],
+    "location": [
+      "Sacramento, CA"
+    ],
+    "note": [
+      "Accessed May 6, 2018"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5"
+    ],
+    "author": [
+      {
+        "family": "Deutsch",
+        "given": "C.V."
+      },
+      {
+        "family": "Journel",
+        "given": "A.G."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Geostatistical software library and user’s guide"
+    ],
+    "volume": [
+      "119"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "New York"
+    ],
+    "issue": [
+      "147"
+    ]
+  },
+  {
+    "citation-number": [
+      "6"
+    ],
+    "author": [
+      {
+        "family": "Diffenbaugh",
+        "given": "N.S."
+      },
+      {
+        "family": "Swain",
+        "given": "D.L."
+      },
+      {
+        "family": "Touma",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "Anthropogenic warming has increased drought risk in California"
+    ],
+    "volume": [
+      "112"
+    ],
+    "pages": [
+      "3931–3936"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Proceedings of the National Academy of Sciences"
+    ],
+    "issue": [
+      "13"
+    ]
+  },
+  {
+    "citation-number": [
+      "7"
+    ],
+    "author": [
+      {
+        "family": "Environment",
+        "given": "E.K.I."
+      },
+      {
+        "family": "Inc",
+        "given": "Water"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Groundwater Management and Safe Drinking Water in the San Joaquin Valley: Analysis of Critically Over-drafted Basins’ Groundwater Sustainability Plans"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "8"
+    ],
+    "author": [
+      {
+        "family": "Feinstein",
+        "given": "L."
+      },
+      {
+        "family": "Phurisamban",
+        "given": "R."
+      },
+      {
+        "family": "A.",
+        "given": "Ford"
+      },
+      {
+        "family": "Tyler",
+        "given": "C."
+      },
+      {
+        "family": "Crawford",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "Drought and Equity in California Drought and Equity in California"
+    ],
+    "location": [
+      "Pacific Institute. Oakland, CA"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "9"
+    ],
+    "author": [
+      {
+        "literal": "Gailey, R.M., Lund, J., and Medell n-Azuara., J."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Domestic well reliability: evaluating supply interruptions from groundwater overdraft, estimating costs and managing economic externalities"
+    ],
+    "volume": [
+      "27"
+    ],
+    "pages": [
+      "1159–1182"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Hydrogeology Journal"
+    ],
+    "issue": [
+      "4"
+    ]
+  },
+  {
+    "citation-number": [
+      "10"
+    ],
+    "author": [
+      {
+        "family": "C.",
+        "given": "Greene"
+      },
+      {
+        "family": "vulnerability",
+        "given": "Climate"
+      },
+      {
+        "family": "Drought",
+        "given": "Farmworkers"
+      },
+      {
+        "given": "Maladaptation"
+      }
+    ],
+    "title": [
+      "Rural communities",
+      "Environmental Science and Policy 89283–291"
+    ],
+    "date": [
+      "2018"
+    ],
+    "isbn": [
+      "18736416"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "11"
+    ],
+    "author": [
+      {
+        "family": "Hanak",
+        "given": "E."
+      },
+      {
+        "family": "Lund",
+        "given": "J."
+      },
+      {
+        "family": "Dinar",
+        "given": "A."
+      },
+      {
+        "family": "Gray",
+        "given": "B."
+      },
+      {
+        "family": "Howitt",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "Managing California’s Water: From Conflict to Reconciliation"
+    ],
+    "publisher": [
+      "Public Policy Institute of California"
+    ],
+    "note": [
+      "ISBN9781582131412."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "12"
+    ],
+    "author": [
+      {
+        "family": "Islas",
+        "given": "A."
+      },
+      {
+        "family": "Monaco",
+        "given": "A."
+      },
+      {
+        "family": "Ores",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Framework for a Drinking Water Well Impact Mitigation Program"
+    ],
+    "publisher": [
+      "Self Help Enterprises"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "13"
+    ],
+    "author": [
+      {
+        "family": "Johnson",
+        "given": "T.D."
+      },
+      {
+        "family": "Belitz",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "Identifying the location and population served by domestic wells in California"
+    ],
+    "volume": [
+      "3"
+    ],
+    "pages": [
+      "31–86"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Hydrology: Regional Studies"
+    ]
+  },
+  {
+    "citation-number": [
+      "14"
+    ],
+    "author": [
+      {
+        "family": "Johnson",
+        "given": "T.D."
+      },
+      {
+        "family": "Belitz",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "Domestic well locations and populations served in the contiguous US: 1990"
+    ],
+    "volume": [
+      "607"
+    ],
+    "pages": [
+      "658–668"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Science of The Total Environment"
+    ]
+  },
+  {
+    "citation-number": [
+      "15"
+    ],
+    "author": [
+      {
+        "family": "Journel",
+        "given": "A.G."
+      },
+      {
+        "family": "Huijbregts",
+        "given": "C.J."
+      }
+    ],
+    "date": [
+      "1978"
+    ],
+    "volume": [
+      "600"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Academic press"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Mining geostatistics"
+    ]
+  },
+  {
+    "citation-number": [
+      "16"
+    ],
+    "author": [
+      {
+        "family": "Laurent",
+        "given": "A.G."
+      }
+    ],
+    "date": [
+      "1963"
+    ],
+    "title": [
+      "The lognormal distribution and the translation method: description and estimation problems"
+    ],
+    "volume": [
+      "58"
+    ],
+    "pages": [
+      "231–235"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of the American Statistical Association"
+    ],
+    "issue": [
+      "301"
+    ]
+  },
+  {
+    "citation-number": [
+      "17"
+    ],
+    "author": [
+      {
+        "family": "Lobell",
+        "given": "D.B."
+      },
+      {
+        "family": "Schlenker",
+        "given": "W."
+      },
+      {
+        "family": "Costa-Roberts",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "Climate trends and global crop production since 1980"
+    ],
+    "volume": [
+      "333"
+    ],
+    "pages": [
+      "616–620"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Science"
+    ],
+    "issue": [
+      "6042"
+    ]
+  },
+  {
+    "citation-number": [
+      "18"
+    ],
+    "author": [
+      {
+        "family": "Lopez",
+        "given": "A."
+      },
+      {
+        "family": "Tebaldi",
+        "given": "C."
+      },
+      {
+        "family": "New",
+        "given": "M."
+      },
+      {
+        "family": "Stainforth",
+        "given": "D."
+      },
+      {
+        "family": "Allen",
+        "given": "M."
+      },
+      {
+        "family": "Kettleborough",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "Two approaches to quantifying uncertainty in global temperature changes"
+    ],
+    "volume": [
+      "19"
+    ],
+    "pages": [
+      "4785–4796"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Climate"
+    ],
+    "issue": [
+      "19"
+    ]
+  },
+  {
+    "citation-number": [
+      "19"
+    ],
+    "author": [
+      {
+        "literal": "Medell n-Azuara, J., MacEwan, D., Howitt, R., Sumner, D.A., Lund, J., Scheer, J., Gailey, R., Hart, Q., Alexander, N.D., and Arnold B."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "Economic Analysis of the California Drought on Agriculture: A report for the California Department of Food and Agriculture"
+    ],
+    "publisher": [
+      "Center for Watershed Sciences, University of California Davis"
+    ],
+    "location": [
+      "Davis, CA"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "20"
+    ],
+    "author": [
+      {
+        "family": "Mitchell",
+        "given": "D."
+      },
+      {
+        "family": "Hanak",
+        "given": "E."
+      },
+      {
+        "family": "Baerenklau",
+        "given": "K."
+      },
+      {
+        "family": "Escriva-Bou",
+        "given": "A."
+      },
+      {
+        "family": "Mccann",
+        "given": "H."
+      },
+      {
+        "family": "rezUrdiales",
+        "given": "P."
+      },
+      {
+        "family": "M."
+      },
+      {
+        "family": "Schwabe",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "Building Drought Resilience in California’s Cities and Suburbs"
+    ],
+    "publisher": [
+      "Public Policy Institute of California"
+    ],
+    "location": [
+      "San Francisco, CA"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "21"
+    ],
+    "author": [
+      {
+        "family": "Pauloo",
+        "given": "R."
+      },
+      {
+        "family": "Fogg",
+        "given": "G."
+      },
+      {
+        "family": "Dahlke",
+        "given": "H."
+      },
+      {
+        "family": "Escriva-Bou",
+        "given": "A."
+      },
+      {
+        "family": "Fencl",
+        "given": "A."
+      },
+      {
+        "family": "Guillon",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Domestic well vulnerability to drought duration and unsustainable groundwater management in California’s Central Valley"
+    ],
+    "volume": [
+      "15"
+    ],
+    "pages": [
+      "044010"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Environmental Research Letters"
+    ],
+    "issue": [
+      "4"
+    ]
+  },
+  {
+    "citation-number": [
+      "22"
+    ],
+    "author": [
+      {
+        "family": "Perrone",
+        "given": "D."
+      },
+      {
+        "family": "Jasechko",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "Dry groundwater wells in the western United States"
+    ],
+    "volume": [
+      "12"
+    ],
+    "pages": [
+      "104002"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Environmental Research Letters"
+    ],
+    "issue": [
+      "10"
+    ]
+  },
+  {
+    "citation-number": [
+      "23"
+    ],
+    "author": [
+      {
+        "family": "Perrone",
+        "given": "D."
+      },
+      {
+        "family": "Jasechko",
+        "given": "S."
+      }
+    ],
+    "title": [
+      "Deeper well drilling an unsustainable stopgap to groundwater depletion"
+    ],
+    "date": [
+      "2019"
+    ],
+    "publisher": [
+      "Nature Sustainability"
+    ],
+    "pages": [
+      "2773–782"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "24"
+    ],
+    "author": [
+      {
+        "family": "Rhoades",
+        "given": "A.M."
+      },
+      {
+        "family": "Jones",
+        "given": "A.D."
+      },
+      {
+        "family": "Ullrich",
+        "given": "P.A."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "The changing character of the California Sierra Nevada as a natural reservoir"
+    ],
+    "volume": [
+      "45"
+    ],
+    "pages": [
+      "13–008"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geophysical Research Letters"
+    ],
+    "issue": [
+      "23"
+    ]
+  },
+  {
+    "citation-number": [
+      "25"
+    ],
+    "author": [
+      {
+        "family": "Sophocleous",
+        "given": "M."
+      }
+    ],
+    "title": [
+      "From safe yield to sustainable development of water resources—the Kansas experience"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "23527–43"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Hydrology"
+    ]
+  },
+  {
+    "citation-number": [
+      "26"
+    ],
+    "title": [
+      "Sustainable Groundwater Management Act",
+      "California Water Code sec"
+    ],
+    "date": [
+      "2014"
+    ],
+    "pages": [
+      "10720–10737 8"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "27"
+    ],
+    "author": [
+      {
+        "family": "Swain",
+        "given": "D.L."
+      },
+      {
+        "family": "Langenbrunner",
+        "given": "B."
+      },
+      {
+        "family": "Neelin",
+        "given": "J.D."
+      },
+      {
+        "family": "Hall",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Increasing precipitation volatility in twenty-first-century California"
+    ],
+    "volume": [
+      "8"
+    ],
+    "pages": [
+      "427–433"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Nature Climate Change"
+    ],
+    "issue": [
+      "5"
+    ]
+  },
+  {
+    "citation-number": [
+      "28"
+    ],
+    "author": [
+      {
+        "family": "Theis",
+        "given": "C.V."
+      }
+    ],
+    "date": [
+      "1935"
+    ],
+    "title": [
+      "The relation between the lowering of the piezometric surface and the rate and duration of discharge of a well using ground-water storage., Eos"
+    ],
+    "publisher": [
+      "Transactions American Geophysical Union"
+    ],
+    "pages": [
+      "16519–52"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "29"
+    ],
+    "author": [
+      {
+        "family": "Theis",
+        "given": "C.V."
+      }
+    ],
+    "date": [
+      "1940"
+    ],
+    "title": [
+      "The source of water derived from wells., Civil Engineering"
+    ],
+    "pages": [
+      "10277–280"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "30"
+    ],
+    "author": [
+      {
+        "family": "Tullis",
+        "given": "J.Paul"
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "title": [
+      "Hydraulics of pipelines: Pumps, valves, cavitation, transients"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "31"
+    ],
+    "author": [
+      {
+        "family": "Ullrich",
+        "given": "P.A."
+      },
+      {
+        "family": "Xu",
+        "given": "Z."
+      },
+      {
+        "family": "Rhoades",
+        "given": "A.M."
+      },
+      {
+        "family": "Dettinger",
+        "given": "M.D."
+      },
+      {
+        "family": "Mount",
+        "given": "J.F."
+      },
+      {
+        "family": "Jones",
+        "given": "A.D."
+      },
+      {
+        "family": "Vahmani",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "California's drought of the future: A midcentury recreation of the exceptional conditions of 2012–2017"
+    ],
+    "volume": [
+      "6"
+    ],
+    "pages": [
+      "1568– 1587"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Earth's Future"
+    ]
+  },
+  {
+    "citation-number": [
+      "32"
+    ],
+    "author": [
+      {
+        "family": "Williams",
+        "given": "A.P."
+      },
+      {
+        "family": "Seager",
+        "given": "R."
+      },
+      {
+        "family": "Abatzoglou",
+        "given": "J.T."
+      },
+      {
+        "family": "Cook",
+        "given": "B.I."
+      },
+      {
+        "family": "Smerdon",
+        "given": "J.E."
+      },
+      {
+        "family": "Cook",
+        "given": "E.R."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "Contribution of anthropogenic warming to California drought during 2012–2014"
+    ],
+    "volume": [
+      "42"
+    ],
+    "pages": [
+      "6819–6828"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geophysical Research Letters"
+    ],
+    "issue": [
+      "16"
+    ]
+  },
+  {
+    "citation-number": [
+      "33"
+    ],
+    "author": [
+      {
+        "family": "Varouchakis",
+        "given": "E.A."
+      },
+      {
+        "family": "Hristopulos",
+        "given": "D.T."
+      },
+      {
+        "family": "Karatzas",
+        "given": "G.P."
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "title": [
+      "Improving kriging of groundwater level data using nonlinear normalizing transformations—a field application"
+    ],
+    "volume": [
+      "57"
+    ],
+    "pages": [
+      "1404–1419"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Hydrological Sciences Journal"
+    ],
+    "issue": [
+      "7"
+    ]
+  }
+]

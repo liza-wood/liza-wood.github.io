@@ -1,0 +1,2634 @@
+[
+  {
+    "date": [
+      "1952-05-01 1960-12-31 1907-01-01 2020-04-01 113.2"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1952-05-01 1988-12-30 1957-08-31 2021-06-27 1993-06-01 2021-06-27"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Services",
+        "given": "Human"
+      }
+    ],
+    "title": [
+      "Public Health Service - Agency for Toxic Substances and Disease Registry (ATSDR"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Services",
+        "given": "Human"
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "Toxicological profile for Boron"
+    ],
+    "container-title": [
+      "U.S. Department of Health and Human Services, Public Health Service - Agency for Toxic Substances and Disease Registry (ATSDR"
+    ],
+    "type": "chapter"
+  },
+  {
+    "editor": [
+      {
+        "family": "Bates",
+        "given": "Robert L."
+      },
+      {
+        "family": "Jackson",
+        "given": "Julia A."
+      }
+    ],
+    "date": [
+      "1984"
+    ],
+    "title": [
+      "Dictionary of Geologic Terms - Prepared by the American Geological Institute"
+    ],
+    "edition": [
+      "Third"
+    ],
+    "note": [
+      "Anchor Books."
+    ],
+    "url": [
+      "https://www."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Bell",
+        "given": "A."
+      },
+      {
+        "family": "Harrington",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "Kegg Meadow Groundwater Study.” United States Forest Service - Klamath National Forest - Goosenest Ranger District"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Bray"
+      },
+      {
+        "given": "Associates"
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "Engineer’s Report for City of Dorris Water System"
+    ],
+    "volume": [
+      "4710001"
+    ],
+    "pages": [
+      "1–20"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "WS #"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bryant",
+        "given": "W.A."
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "title": [
+      "Fault Evaluation Report FER-210 Stephens Pass Fault and Faults in the Butte Valley Area, Siskiyou County, California"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "California Division of Mines and Geology"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bryant",
+        "given": "W.A."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Fault number 2b, Cedar Mountain fault system, Cedar Mountain section, in Quaternary fault and fold database of the United States"
+    ],
+    "volume": [
+
+    ],
+    "pages": [
+      "2 7"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "U.S. Geological Survey"
+    ],
+    "issue": [
+      "ttps://earthquake.usgs.gov/cfusion/qfault/show_report_AB_archive.cfm?fault_id="
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Carter",
+        "given": "Claire"
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "Pleistocene Fresh-water Ostracodes from a Sediment Core in Butte Valley, Siskiyou County, California"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "U.S. Geological Survey"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "C.D.F.W."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "Bird Species of Special Concern"
+    ],
+    "url": [
+      "https://wildlife.ca.gov/Conservation/SSC/Birds."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "C.D.F.W."
+      }
+    ],
+    "date": [
+      "2021",
+      "2021-07"
+    ],
+    "title": [
+      "Special Animals List"
+    ],
+    "url": [
+      "https://nrm.dfg.ca.gov/FileHandler.ashx?"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "C.D.F.W."
+      }
+    ],
+    "date": [
+      "2021",
+      "2021-07"
+    ],
+    "title": [
+      "STATE AND FEDERALLY LISTED ENDANGERED AND THREATENED ANIMALS OF CALIFORNIA"
+    ],
+    "url": [
+      "https://wildlife.ca.gov/Conservation/CESA."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "C.D.W.R."
+      }
+    ],
+    "date": [
+      "2021",
+      "2021-03"
+    ],
+    "title": [
+      "California’s Groundwater Update 2020"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Draft"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dorris",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "publisher": [
+      "“City of Dorris Zoning Code.”"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "C.N.R.A."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "DWR Periodic Groundwater Level Measurements Dataset"
+    ],
+    "container-title": [
+      "California Natural Resources Agency"
+    ],
+    "url": [
+      "https://data.cnra.ca.gov/dataset/periodic-groundwater-level-measurements."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Siskiyou",
+        "given": "County",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "1973"
+    ],
+    "title": [
+      "The Conservation Element of the General Plan"
+    ],
+    "publisher": [
+      "Siskiyou County"
+    ],
+    "location": [
+      "California"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Siskiyou",
+        "given": "County",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "Siskiyou County Comprehensive Land & Resource Management Plan"
+    ],
+    "publisher": [
+      "Siskiyou County"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Siskiyou",
+        "given": "County",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "Meiss Lake Sam’s Neck Project"
+    ],
+    "container-title": [
+      "Siskiyou County"
+    ],
+    "publisher": [
+      "Department of Public Works"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Siskiyou",
+        "given": "County",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Siskiyou County Code, Title 10: Planning and Zoning"
+    ],
+    "url": [
+      "https://library.municode."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Siskiyou",
+        "given": "County",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Siskiyou County General Plan Official Website"
+    ],
+    "url": [
+      "https://www.co.siskiyou.ca.us/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Siskiyou",
+        "given": "County",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Standards for Wells"
+    ],
+    "url": [
+      "https://library.municode.com/ca/siskiyou_county/codes/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "D.O.C."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "The California Land Conservation Act of 1965: 2016 Status Report"
+    ],
+    "publisher": [
+      "December"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "California Department of Conservation - Division of Land Resources Protection",
+      "Butte Valley Division Klamath Project - Feasibility Ground-water Geology & Resources Appendix"
+    ],
+    "date": [
+      "1980"
+    ],
+    "pages": [
+      "1–101"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "DOI"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "D.T.S.C."
+      },
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2020",
+      "1968"
+    ],
+    "title": [
+      "SISKIYOU BOMBING TARGET - (J09ca1072) - MMRP (80000709",
+      "Dorris-Butte Valley Water Quality Investigation"
+    ],
+    "container-title": [
+      "EnviroStor"
+    ],
+    "url": [
+      "https://www.envirostor.dtsc.ca.gov/public/profile_report.asp?global_id=80000709."
+    ],
+    "pages": [
+      "1–33"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Butte Valley Wildlife Area Well Interference Investigation"
+    ],
+    "publisher": [
+      "California Department of Water Resources"
+    ],
+    "pages": [
+      "1–96"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      },
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2000",
+      "2004"
+    ],
+    "title": [
+      "2000 Land Use Survey",
+      "Butte Valley Groundwater Basin"
+    ],
+    "url": [
+      "https://gis.water.ca.gov/app/CADWRLandUseViewer/."
+    ],
+    "pages": [
+      "1–6"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "SGMA Basin Prioritization Dashboard"
+    ],
+    "container-title": [
+      "Department of Water Resources (DWR"
+    ],
+    "url": [
+      "https://gis.water.ca.gov/app/bp-dashboard/final/."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "2010 Land Use Survey"
+    ],
+    "url": [
+      "https://gis.water.ca.gov/app/CADWRLandUseViewer/."
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "and Results"
+    ],
+    "pages": [
+      "1–64"
+    ],
+    "url": [
+      "Bhttps://water.ca.gov/Programs/Groundwater-Management/BasinPrioritization%20%7D."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "Natural Communities Commonly Associated with Groundwater (NCCAG"
+    ],
+    "note": [
+      "Department of Water Resources (DWR)."
+    ],
+    "url": [
+      "https://gis.water.ca.gov/app/NCDatasetViewer/."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fan",
+        "given": "Y."
+      },
+      {
+        "family": "Miguez-Macho",
+        "given": "G."
+      },
+      {
+        "family": "Jobbágy",
+        "given": "E.G."
+      },
+      {
+        "family": "Jackson",
+        "given": "R.B."
+      },
+      {
+        "family": "Otero-Casal",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "Hydrologic regulation of plant rooting depth"
+    ],
+    "container-title": [
+      "Proceedings of the National Academy of Sciences of the United States of America"
+    ],
+    "volume": [
+      "114"
+    ],
+    "pages": [
+      "1–6"
+    ],
+    "issue": [
+      "40"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "editor": [
+      {
+        "family": "Francis",
+        "given": "Peter"
+      },
+      {
+        "family": "Oppenheimer",
+        "given": "Clive"
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Volcanoes"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "url": [
+      "https://books.google.com/books/about/Volcanoes.html?id=EoG8QgAACAAJ."
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "French",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "1915"
+    ],
+    "title": [
+      "Siskiyou County California"
+    ],
+    "container-title": [
+      "Board of Supervisors and the Panama-Pacific International Exposition Commission of Siskiyou County"
+    ],
+    "location": [
+      "California"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Gannett",
+        "given": "M.W."
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "Ground-Water Hydrology of the Upper Klamath Basin, Oregon and California, Scientific Investigations Report"
+    ],
+    "url": [
+      "https://pubs.usgs.gov/sir/2007/5050/."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Gannett",
+        "given": "M.W."
+      },
+      {
+        "family": "Lite",
+        "given": "K.E.",
+        "suffix": "Jr."
+      },
+      {
+        "family": "Marche",
+        "given": "J.L.La"
+      },
+      {
+        "family": "Fisher",
+        "given": "B.J."
+      },
+      {
+        "family": "Polette",
+        "given": "D.J."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "Ground-Water Hydrology of the Upper Klamath Basin, Oregon and California"
+    ],
+    "genre": [
+      "Scientific Investigations Report 2007–5050.”"
+    ],
+    "url": [
+      "https://pubs.usgs.gov/sir/2007/5050/pdf/sir20075050.pdf."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Gannett",
+        "given": "M.W."
+      },
+      {
+        "family": "Wagner",
+        "given": "B.J."
+      },
+      {
+        "family": "Lite",
+        "given": "K.E.",
+        "suffix": "Jr"
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "title": [
+      "Groundwater Simulation and Management Models for the Upper Klamath Basin, Oregon and California"
+    ],
+    "volume": [
+
+    ],
+    "pages": [
+      "1–92"
+    ],
+    "issue": [
+      "2012–5062"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Gannett",
+        "given": "M.W."
+      },
+      {
+        "family": "Wagner",
+        "given": "B.J."
+      },
+      {
+        "family": "Lite",
+        "given": "K.E."
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "title": [
+      "Groundwater Simulation and Management Models for the Upper Klamath Basin, Oregon and California, Scientific Investigations Report"
+    ],
+    "url": [
+      "https://pubs.usgs.gov/sir/2012/5062/."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Gardenas",
+        "given": "A.I."
+      },
+      {
+        "family": "Hopmans",
+        "given": "J.W."
+      },
+      {
+        "family": "Hanson",
+        "given": "B.R."
+      },
+      {
+        "family": "J",
+        "given": "Simunek"
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Two-dimensional modeling of nitrate leaching for various fertigation scenarios under micro-irrigation"
+    ],
+    "volume": [
+      "74"
+    ],
+    "pages": [
+      "219–42"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Agricultural Water Management"
+    ],
+    "issue": [
+      "15, 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Griffith",
+        "given": "G.E."
+      },
+      {
+        "family": "Omernik",
+        "given": "J.M."
+      },
+      {
+        "family": "Smith",
+        "given": "D.W."
+      },
+      {
+        "family": "Cook",
+        "given": "T.D."
+      },
+      {
+        "family": "Tallyn",
+        "given": "E."
+      },
+      {
+        "family": "Moseley",
+        "given": "K."
+      },
+      {
+        "family": "Johnson",
+        "given": "C.B."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "Ecoregions of California (poster): U.S. Geological Survey Open-File Report 2016–1021, with map, scale 1:1,100,000"
+    ],
+    "container-title": [
+      "United States Geological Survey"
+    ],
+    "url": [
+      "https://pubs.er.usgs."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Harbaugh",
+        "given": "A.W."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "MODFLOW-2005, the US Geological Survey Modular Ground-Water Model: The Ground-Water Flow Process"
+    ],
+    "container-title": [
+      "US Department of the Interior, US Geological Survey Reston, VA"
+    ],
+    "url": [
+      "https://pubs.usgs.gov/tm/2005/tm6A16/."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Harter",
+        "given": "T."
+      },
+      {
+        "family": "Dzurella",
+        "given": "K."
+      },
+      {
+        "family": "Kourakos",
+        "given": "G."
+      },
+      {
+        "family": "Hollander",
+        "given": "A."
+      },
+      {
+        "family": "Bell",
+        "given": "A."
+      },
+      {
+        "family": "Santos",
+        "given": "N."
+      },
+      {
+        "family": "Hart",
+        "given": "Q."
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "Nitrogen Fertilizer Loading to Groundwater in the Central Valley"
+    ],
+    "volume": [
+      "110301 and 150454"
+    ],
+    "pages": [
+      "333"
+    ],
+    "url": [
+      "http://groundwaternitrate.ucdavis.edu."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Final Report to the Fertilizer Research Education Program, Projects"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jennings",
+        "given": "C.W."
+      },
+      {
+        "family": "Gutierrez",
+        "given": "C."
+      },
+      {
+        "family": "Bryant",
+        "given": "W."
+      },
+      {
+        "family": "Saucedo",
+        "given": "G."
+      },
+      {
+        "family": "Wills",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "title": [
+      "Geologic Map of California"
+    ],
+    "collection-title": [
+      "California geologic data map series"
+    ],
+    "url": [
+      "https://gis.conservation.ca.gov/portal/home/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Jurgens",
+        "given": "Bryant C."
+      },
+      {
+        "family": "Fram",
+        "given": "Miranda S."
+      },
+      {
+        "family": "Rutledge",
+        "given": "Jeffrey"
+      },
+      {
+        "family": "V",
+        "given": "George L.Bennett"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Identifying areas of degrading and improving groundwater-quality conditions in the State of California, USA, 1974–2014"
+    ],
+    "volume": [
+      "192"
+    ],
+    "url": [
+      "https://doi.org/10.1007/"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Environmental Monitoring and Assessment"
+    ],
+    "issue": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "King",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "California Quaternary Paleolakes of Butte Valley, Siskiyou County, California"
+    ],
+    "publisher": [
+      "California Geographical Society"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lutz",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2021",
+      "2021-01-04"
+    ],
+    "title": [
+      "Butte Valley Irrigation District Subsidence"
+    ],
+    "genre": [
+      "(personal communication) -"
+    ],
+    "type": "personal_communication"
+  },
+  {
+    "author": [
+      {
+        "family": "Markstrom",
+        "given": "S.L."
+      },
+      {
+        "family": "Niswonger",
+        "given": "R.G."
+      },
+      {
+        "family": "Regan",
+        "given": "R.S."
+      },
+      {
+        "family": "Prudic",
+        "given": "D.E."
+      },
+      {
+        "family": "Barlow",
+        "given": "P.M."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "GSFLOW - Coupled ground-water and surface-water flow model based on the integration of the Precipitation-Runoff Modeling System (PRMS) and the Modular Ground-Water Flow Model"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "MODFLOW-2005):"
+    ],
+    "author": [
+      {
+        "given": "U.S."
+      }
+    ],
+    "title": [
+      "Geological Survey Techniques and Methods 6-D1"
+    ],
+    "container-title": [
+      "U.S. Geological Survey"
+    ],
+    "url": [
+      "https://pubs.usgs.gov/tm/tm6d1/pdf/tm6d1.pdf."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Mathias",
+        "given": "Frank F."
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "A PLIO-PLEISTOCENE RECORD OF LACUSTRINE OSTRACODES FROM"
+    ],
+    "location": [
+      "BUTTE VALLEY, CALIFORNIA"
+    ],
+    "publisher": [
+      "FAUNAL RESPONSES TO TECTONIC AND CLIMATIC CHANGE.” Kent State University - Masters Thesis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mckay",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2019",
+      "2019-09-26"
+    ],
+    "title": [
+      "City of Dorris Subsidence"
+    ],
+    "genre": [
+      "(personal communication) -"
+    ],
+    "type": "personal_communication"
+  },
+  {
+    "author": [
+      {
+        "family": "McKay",
+        "given": "Carol"
+      }
+    ],
+    "date": [
+      "2019",
+      "2019-10-07"
+    ],
+    "title": [
+      "Personal Communication"
+    ],
+    "pages": [
+      "–"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Medellin-Azuara",
+        "given": "J."
+      },
+      {
+        "family": "U",
+        "given": "K.Tha Paw"
+      },
+      {
+        "family": "Jin",
+        "given": "Y."
+      },
+      {
+        "family": "Lund",
+        "given": "J.R."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "A Comparative Study for Estimating Crop Evapotranspiration in the Sacramento-San Joaquin Delta"
+    ],
+    "note": [
+      "Center for Watershed Sciences at the University of California Davis."
+    ],
+    "url": [
+      "https://watershed.ucdavis.edu/project/delta-et."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "N.C.R.W.Q.C.B."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "Water Quality Certification for the California Department of Fish and Game"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "- Butte Valley Wildlife Area Wetlands Management - WDID No."
+      }
+    ],
+    "title": [
+      "1A07182WNSI.” North Coast Regional Water Quality Control Board",
+      "KNF Kegg Meadow Wetlands Restoration Project Inspection"
+    ],
+    "date": [
+      "2013"
+    ],
+    "note": [
+      "Regional Water Quality Control Board, North Coast Region."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "NCRWQCB"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "- Butte Valley Wildlife Area Wetlands Management - WDID No."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Water Quality Control Plan for the North Coast Region"
+    ],
+    "container-title": [
+      "North Coast Regional Water Quality Control Board"
+    ],
+    "pages": [
+      "1–204"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "NCRWQCB"
+      },
+      {
+        "family": "Watt",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Staff Report for North Coast Hydrologic Region Salt and Nutrient Management Planning Groundwater Basin Evaluation and Prioritization"
+    ],
+    "container-title": [
+      "North Coast Regional Water Quality Control Board (NCRWQCB"
+    ],
+    "url": [
+      "https://www.waterboards.ca.gov/northcoast/board_"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Nelson",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "Estimates for strawberry production (personal communication"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Nelson",
+        "given": "R."
+      },
+      {
+        "family": "Lutz",
+        "given": "S."
+      },
+      {
+        "family": "Graham",
+        "given": "P."
+      },
+      {
+        "family": "Bennett",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Butte Valley Irrigation Practices (personal communication"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Niswonger1and",
+        "given": "R.G."
+      },
+      {
+        "family": "Fogg",
+        "given": "G.E."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "Influence of perched groundwater on base flow"
+    ],
+    "volume": [
+      "44"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Water Resources Research"
+    ],
+    "issue": [
+      "W03405"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Novick",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "Butte Valley Wildlife Area Management Plan Addendum"
+    ],
+    "publisher": [
+      "Butte Valley Wildlife Area"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Novick",
+        "given": "Kit"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "Butte Valley Wildlife Area Management Plan"
+    ],
+    "publisher": [
+      "California Department of Fish; Game"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rice",
+        "given": "E.W."
+      },
+      {
+        "family": "Bridgewater",
+        "given": "L."
+      },
+      {
+        "family": "Association",
+        "given": "American Public Health"
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "title": [
+      "Standard methods for the examination of water and wastewater"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Risley",
+        "given": "J.C."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Using the precipitation-runoff modeling system to predict seasonal water availability in the upper Klamath River basin, Oregon and California: U.S"
+    ],
+    "container-title": [
+      "Geological Survey Scientific Investigations Report 2019–5044.” U.S. Geological Survey"
+    ],
+    "url": [
+      "https://doi.org/https:"
+    ],
+    "doi": [
+      "10.3133/sir20195044."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Roberts",
+        "given": "A.P."
+      },
+      {
+        "family": "Reynolds",
+        "given": "R.L."
+      },
+      {
+        "family": "Verosub",
+        "given": "K.L."
+      },
+      {
+        "family": "Adam",
+        "given": "D.P."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "Environmental magnetic implications of Greigite (Fe 3 S 4 ) Formation in a 3 m.y. lake sediment record from Butte Valley, northern California"
+    ],
+    "volume": [
+      "23"
+    ],
+    "url": [
+      "https://doi.org/10.1029/96GL02831."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geophys. Res. Lett"
+    ],
+    "issue": [
+      "20"
+    ],
+    "doi": [
+      "10.1029/96GL02831."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schenk",
+        "given": "H.J."
+      },
+      {
+        "family": "Jackson",
+        "given": "R.B."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Rooting depths, lateral root spreads and belowground/above-ground allometries of plants in water-limited ecosystems"
+    ],
+    "volume": [
+      "90"
+    ],
+    "pages": [
+      "480–94"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Ecology"
+    ],
+    "issue": [
+      "2"
+    ]
+  },
+  {
+    "url": [
+      "https://besjournals.onlinelibrary.wiley.com/doi/full/10.1046/j.13652745.2002.00682.x."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "J.E."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "2016 Crop and Livestock Report"
+    ],
+    "publisher": [
+      "County Of Siskiyou Department of Agriculture"
+    ],
+    "type": "book"
+  },
+  {
+    "url": [
+      "https:",
+      "https://sdwis.waterboards.ca.gov/PDWW/."
+    ],
+    "author": [
+      {
+        "family": "Smith",
+        "given": "J.E."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Safe Drinking Water Information System"
+    ],
+    "publisher": [
+      "State Water Resources Control Board"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "J.E."
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "California Integrated Water Quality System Project (CIWQS) - Electronic Water Rights Information Managment System (eWRIMS"
+    ],
+    "publisher": [
+      "State Water Resources Control Board"
+    ],
+    "url": [
+      "https://ciwqs.waterboards.ca.gov/ciwqs/ewrims/EWMenuPublic.jsp."
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tilley",
+        "given": "Sloane K."
+      },
+      {
+        "family": "Fry",
+        "given": "Rebecca C."
+      },
+      {
+        "given": "T.N.C."
+      }
+    ],
+    "date": [
+      "2015",
+      "2021"
+    ],
+    "title": [
+      "Chapter 6 - Priority Environmental Contaminants: Understanding Their Sources of Exposure, Biological Mechanisms, and Impacts on Health",
+      "Groundwater Resource Hub"
+    ],
+    "container-title": [
+      "Systems Biology in Toxicology and Environmental Health"
+    ],
+    "editor": [
+      {
+        "family": "Fry",
+        "given": "Rebecca C."
+      }
+    ],
+    "pages": [
+      "117–69"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "url": [
+      "https://doi.org/https://doi.org/10.1016/B978-0-12-801564-3.000067.",
+      "https://groundwaterresourcehub.org/sgmatools/environmental-surface-water-beneficiaries/."
+    ],
+    "doi": [
+      "10.1016/B978-0-12-801564-3.000067."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Consulting",
+        "given": "Todd Sloat Biological"
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "title": [
+      "Kegg Meadow Restoration Design Report"
+    ],
+    "note": [
+      "Prepared for the United States Forest Service - Klamath National Forest, Goosenest Ranger District."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Consulting",
+        "given": "Todd Sloat Biological"
+      },
+      {
+        "family": "Wackernagel",
+        "given": "H."
+      }
+    ],
+    "title": [
+      "Water Resources Glossaries",
+      "Ordinary Kriging"
+    ],
+    "volume": [
+
+    ],
+    "date": [
+      "1995"
+    ],
+    "container-title": [
+      "Multivariate Geostatistics",
+      "United States Geological Survey"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "location": [
+      "Berlin, Heidelberg"
+    ],
+    "url": [
+      "https://doi.org/10.1007/978-3-662-03098-1_11."
+    ],
+    "type": "article-journal",
+    "issue": [
+      "ttps://water. usgs.gov/glossaries.html%7D"
+    ],
+    "doi": [
+      "10.1007/978-3-662-03098-1_11."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "F.D."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "General Information and Guidelines: U.S"
+    ],
+    "publisher": [
+      "Geological Survey Techniques of Water-Resources Investigations.”"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wood",
+        "given": "P.R."
+      }
+    ],
+    "date": [
+      "1960"
+    ],
+    "title": [
+      "Geology and Groundwater Features of the Butte Valley Region, Siskiyou County California"
+    ],
+    "volume": [
+
+    ],
+    "pages": [
+      "1–155"
+    ],
+    "issue": [
+      "1491"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Zaragosa",
+        "given": "I."
+      },
+      {
+        "family": "Melton",
+        "given": "F.S."
+      },
+      {
+        "family": "Dexter",
+        "given": "J."
+      },
+      {
+        "family": "Post",
+        "given": "K."
+      },
+      {
+        "family": "Haffa",
+        "given": "A."
+      },
+      {
+        "family": "Kortman",
+        "given": "S."
+      },
+      {
+        "family": "Spellenberg",
+        "given": "R."
+      },
+      {
+        "family": "Cahn",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "Utilizing on-farm best management practices: Managing Nitrate Leaching Using Evapotranspiration Based Irrigation Methods"
+    ],
+    "url": [
+      "https://ui.adsabs.harvard.edu/abs/"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "title": [
+      "For more details on the mapping methods, refer to",
+      "Mapping Indicators of Groundwater Dependent Ecosystems in California: Methods Report",
+      "4 “Groundwater Dependent Ecosystems under the Sustainable Groundwater Management Act: Guidance for Preparing Groundwater Sustainability Plans"
+    ],
+    "author": [
+      {
+        "family": "Klausmeyer",
+        "given": "K."
+      },
+      {
+        "family": "Howard",
+        "given": "J."
+      },
+      {
+        "family": "Keeler-Wolf",
+        "given": "T."
+      },
+      {
+        "family": "Davis-Fadtke",
+        "given": "K."
+      },
+      {
+        "family": "Hull",
+        "given": "R."
+      },
+      {
+        "family": "Lyons",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "location": [
+      "San Francisco, California"
+    ],
+    "note": [
+      "Available at:",
+      "is available at:"
+    ],
+    "url": [
+      "https://groundwaterresourcehub.org/public/uploads/pdfs/iGDE_data_paper_20180423.pdf",
+      "https://groundwaterresourcehub.org/gde-tools/gsp-guidance-document/"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Reproducible Computational Workflows"
+    ],
+    "editor": [
+      {
+        "family": "Loizides",
+        "given": "F."
+      },
+      {
+        "family": "Schmidt",
+        "given": "B."
+      }
+    ],
+    "publisher": [
+      "IOS Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuang",
+        "given": "Xingxing"
+      },
+      {
+        "family": "Jiao",
+        "given": "Jiu Jimmy"
+      },
+      {
+        "family": "Zheng",
+        "given": "Chunmiao"
+      },
+      {
+        "family": "Cherry",
+        "given": "John A."
+      },
+      {
+        "family": "Li",
+        "given": "Hailong"
+      }
+    ],
+    "date": [
+      "2020",
+      "2019-11"
+    ],
+    "title": [
+      "A review of specific storage in aquifers"
+    ],
+    "volume": [
+      "581"
+    ],
+    "url": [
+      "https:"
+    ],
+    "doi": [
+      "10.1016/j.jhydrol.2019.124383."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Hydrology"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Risley",
+        "given": "John C."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Using the Precipitation-Runoff Modeling System to Predict Seasonal Water Availability in the Upper Klamath River Basin, Oregon and California"
+    ],
+    "container-title": [
+      "US Geological Survey"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Rossum",
+        "given": "Van"
+      },
+      {
+        "family": "Guido"
+      },
+      {
+        "family": "Drake",
+        "given": "Fred L."
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "Python 3 Reference Manual"
+    ],
+    "location": [
+      "Scotts Valley, CA"
+    ],
+    "publisher": [
+      "CreateSpace"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Allen",
+        "given": "R.G."
+      },
+      {
+        "family": "Pereira",
+        "given": "L.S."
+      },
+      {
+        "family": "Raes",
+        "given": "D."
+      },
+      {
+        "family": "Smith",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Crop Evapotranspiration ‐ Guidelines for Computing Crop Water Requirements"
+    ],
+    "container-title": [
+      "FAO Irrigation and Drainage Paper 56. FAO"
+    ],
+    "location": [
+      "Rome, Italy"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Allen",
+        "given": "R.G."
+      },
+      {
+        "family": "Walter",
+        "given": "I.A."
+      },
+      {
+        "family": "Elliott",
+        "given": "R.L."
+      },
+      {
+        "family": "Howell",
+        "given": "T.A."
+      },
+      {
+        "family": "Itenfisu",
+        "given": "D."
+      },
+      {
+        "family": "Jensen",
+        "given": "M.E."
+      },
+      {
+        "family": "Snyder",
+        "given": "R.L."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "The ASCE Standardized Reference Evapotranspiration Equation"
+    ],
+    "container-title": [
+      "Technical Committee on Standardization of Reference Evapotranspiration"
+    ],
+    "publisher": [
+      "American Society of Civil Engineers"
+    ],
+    "location": [
+      "Reston, VA"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Campbell",
+        "given": "G.S."
+      }
+    ],
+    "date": [
+      "1974"
+    ],
+    "title": [
+      "A simple method for determining unsaturated conductivity from moisture retention data"
+    ],
+    "volume": [
+      "117"
+    ],
+    "pages": [
+      "311–314"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Soil Science"
+    ],
+    "issue": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Engineering",
+        "given": "Davids"
+      },
+      {
+        "given": "N.R.C.S."
+      }
+    ],
+    "date": [
+      "2013",
+      "1993"
+    ],
+    "title": [
+      "Time Series Evapotranspiration and Applied Water Estimates from Remote Sensing. Kaweah Delta Water Conservation District",
+      "Chapter 2 ‐ Watershed Project Evaluation Procedures"
+    ],
+    "url": [
+      "http://www.kdwcd.com/wp"
+    ],
+    "volume": [
+      "630"
+    ],
+    "location": [
+      "Hydrology"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "National Engineering Handbook Part"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Saxton",
+        "given": "K.E."
+      },
+      {
+        "family": "Rawls",
+        "given": "W.J."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "Soil Water Characteristic Estimates by Texture and Organic Matter for Hydrologic Solutions"
+    ],
+    "volume": [
+      "70"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Soil Sci. Soc. Am. J"
+    ],
+    "pages": [
+      "1569–1578"
+    ]
+  },
+  {
+    "citation-number": [
+      "1772"
+    ],
+    "author": [
+      {
+        "family": "Ave",
+        "given": "Picasso"
+      },
+      {
+        "family": "Davis",
+        "given": "Suite A."
+      }
+    ],
+    "pages": [
+      "95618–0550"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "American Society of Civil Engineers (ASCE",
+      "Evaporation, Evapotranspiration, and Irrigation Water Requirements"
+    ],
+    "date": [
+      "2016"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "url": [
+      "https://doi.org/10.1061/9780784414057."
+    ],
+    "pages": [
+      "744"
+    ],
+    "doi": [
+      "10.1061/9780784414057."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Allen",
+        "given": "R.G."
+      },
+      {
+        "family": "Pereira",
+        "given": "L.S."
+      },
+      {
+        "family": "Raes",
+        "given": "D."
+      },
+      {
+        "family": "Smith",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Crop evapotranspiration: Guidelines for computing crop water requirements"
+    ],
+    "volume": [
+
+    ],
+    "location": [
+      "Rome, Italy"
+    ],
+    "pages": [
+      "290"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "FAO Irrigation and Drainage Paper"
+    ],
+    "issue": [
+      "56"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Allen",
+        "given": "R.G."
+      },
+      {
+        "family": "Tasumi",
+        "given": "M."
+      },
+      {
+        "family": "Trezza",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "Satellite-based energy balance for mapping evapotranspiration with internalized calibration_METRIC—Model"
+    ],
+    "volume": [
+      "133"
+    ],
+    "pages": [
+      "380–394"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "J. Irrig. Drain. Eng"
+    ],
+    "issue": [
+      "4"
+    ]
+  },
+  {
+    "title": [
+      "California Department of Water Resources (DWR",
+      "CalSim Hydro Reference Manual"
+    ],
+    "date": [
+      "2017"
+    ],
+    "url": [
+      "http://calsimhydro.water.ca.gov/CalSimHydroDownload/CalSimHydroManual.pdf."
+    ],
+    "pages": [
+      "21"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Engineering",
+        "given": "Davids"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Migratory Bird Conservation Partnership Wetlands Water Budget Tool (WWBT"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Schroeder",
+        "given": "P.R."
+      },
+      {
+        "family": "Dozier",
+        "given": "T.S."
+      },
+      {
+        "family": "Zappi",
+        "given": "P.A."
+      },
+      {
+        "family": "McEnroe",
+        "given": "B.M."
+      },
+      {
+        "family": "Sjostrom",
+        "given": "J.W."
+      },
+      {
+        "family": "Peton",
+        "given": "R.L."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "The Hydrologic Evaluation of Landfill Performance (HELP) Model: Engineering Documentation for Version 3, EPA/600/R-94/168b"
+    ],
+    "publisher": [
+      "U.S. Environmental Protection Agency Office of Research and Development"
+    ],
+    "location": [
+      "Washington, DC"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "California Department",
+        "particle": "of"
+      },
+      {
+        "family": "Wood",
+        "given": "P.R.",
+        "particle": "ay_19.pdf"
+      }
+    ],
+    "date": [
+      "2016",
+      "2016-12",
+      "1960"
+    ],
+    "title": [
+      "BMP 2: Best Management Practices for the Sustainable Management of Groundwater Monitoring Networks and Identification of Data Gaps",
+      "Geology and Groundwater Features of the Butte Valley Region, Siskiyou County California"
+    ],
+    "url": [
+      "https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/"
+    ],
+    "volume": [
+
+    ],
+    "pages": [
+      "1–155"
+    ],
+    "issue": [
+      "1491"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Survey",
+        "given": "United States Geological"
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "National Field Manual for the Collection of Water Quality Data"
+    ],
+    "container-title": [
+      "U.S. Geological Survey Techniques of Water-Resources Investigations, Book 9"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "C.D.W.R."
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "TRE Altamira Subsidence Data"
+    ],
+    "url": [
+      "https://data.cnra.ca.gov/dataset/tre-altamirainsar-subsidence."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "M.G.A."
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Santa Cruz Mid-County Groundwater Basin Groundwater Sustainability Plan"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Puls",
+        "given": "R.W."
+      },
+      {
+        "family": "Barcelona",
+        "given": "M.J."
+      },
+      {
+        "family": "Agency",
+        "given": "Environmental Protection"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "Low-Flow (Minimal Drawdown) Groundwater Sampling Procedures"
+    ],
+    "publisher": [
+      "EPA Ground Water Issue"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rice",
+        "given": "E.W."
+      },
+      {
+        "family": "Bridgewater",
+        "given": "L."
+      },
+      {
+        "family": "Association",
+        "given": "American Public Health"
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "title": [
+      "Standard methods for the examination of water and wastewater"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "U.S.G.S."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Use of Passive Diffusion Samplers for Monitoring Volatile Organic Compounds in Groundwater"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "U.S.G.S."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "National Field Manual for the Collection of Water Quality Data"
+    ],
+    "container-title": [
+      "U.S. Geological Survey Techniques of Water-Resources Investigations, Book 9"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "F.D."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "General Information and Guidelines: U.S"
+    ],
+    "publisher": [
+      "Geological Survey Techniques of Water-Resources Investigations.”"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "Date 2000-10-10 2012-10-29 1999-10-26 1999-10-26 2013-10-21 2011-10-18 2014-10-20 2002-10-11 1999-10-26 2011-10-18 2013-10-21 2011-10-18 2009-10-27 1999-10-27 2005-10-10 2013-10-21 2014-10-20 2003-10-20 2007-10-25 2010-10-25 2008-10-30 2006-10-12 2000-10-10 2012-10-29 2005-10-10 2006-10-12 2002-10-11 2003-10-20 2004-11-02 2004-11-03 2001-10-23 2006-10-12"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Chronological reconstructed Sacramento and San Joaquin Valley water year hydrological classification indices"
+    ],
+    "note": [
+      "Available at"
+    ],
+    "url": [
+      "https://cdec.water.ca.gov/reportapp/javareports?name=WSIHIST."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "California Data Exchange Center"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "Statewide Crop Mapping"
+    ],
+    "note": [
+      "Available at"
+    ],
+    "url": [
+      "https://data.cnra.ca.gov/dataset/statewide-crop-mapping."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "California Natural Resources Agency"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kruse",
+        "given": "S.A."
+      },
+      {
+        "family": "Scholz",
+        "given": "A.J."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "Preliminary economic assessment of dam removal: The Klamath River"
+    ],
+    "location": [
+      "Ecotrust, Portland, Oregon"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Howitt",
+        "given": "R.E."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "title": [
+      "Positive mathematical programming"
+    ],
+    "volume": [
+      "77"
+    ],
+    "pages": [
+      "329–342"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "American journal of agricultural economics"
+    ],
+    "issue": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Howitt",
+        "given": "R.E."
+      },
+      {
+        "family": "Medellín-Azuara",
+        "given": "J."
+      },
+      {
+        "family": "MacEwan",
+        "given": "D."
+      },
+      {
+        "family": "Lund",
+        "given": "J.R."
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "title": [
+      "Calibrating disaggregate economic models of agricultural production and water management"
+    ],
+    "volume": [
+      "38"
+    ],
+    "pages": [
+      "244–258"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Environmental Modelling & Software"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Commissioner",
+        "given": "Siskiyou County Agricultural"
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Siskiyou County Crop and Livestock Report"
+    ],
+    "note": [
+      "Available at"
+    ],
+    "url": [
+      "https://www.co.siskiyou.ca.us/agriculture/page/crop-report"
+    ],
+    "type": null
+  }
+]

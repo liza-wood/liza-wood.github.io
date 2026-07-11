@@ -1,0 +1,861 @@
+[
+  {
+    "citation-number": [
+      "1"
+    ],
+    "title": [
+      "California Department of Water Resources",
+      "Sustainable Groundwater Management Act: GSP Emergency Regulations"
+    ],
+    "date": [
+      "2016-05"
+    ],
+    "url": [
+      "https://water.ca.gov/LegacyFiles/"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2"
+    ],
+    "title": [
+      "California Department of Water Resources",
+      "Best Management Practices for the Sustainable Management of Groundwater: Monitoring Protocols, Standards, and Sites"
+    ],
+    "date": [
+      "2016-12"
+    ],
+    "url": [
+      "https://water.ca.gov/LegacyFiles/groundwater/sgm/pdfs/BMP_Monitoring"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "title": [
+      "United States Geological Survey, 2013"
+    ],
+    "volume": [
+      "2175"
+    ],
+    "url": [
+      "https://pubs.usgs.gov/wsp/wsp2175"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Water Supply Paper"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Brush",
+        "given": "C.F."
+      },
+      {
+        "family": "Dogrul",
+        "given": "E.C."
+      },
+      {
+        "family": "Kadir",
+        "given": "T.N."
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "title": [
+      "C2VSim model"
+    ],
+    "publisher": [
+      "California Department of Water Resources Technical Memorandum"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "California Department",
+        "particle": "of"
+      }
+    ],
+    "title": [
+      "Monthly Operations Reports",
+      "California Department of Water Resources (DWR",
+      "California’s Groundwater, Bulletin 118 Interim Update 2016",
+      "Management Practices for the Sustainable Management of Groundwater, Modeling BMP",
+      "Guidance for Climate Change Data Use During Groundwater Sustainability Plan Development"
+    ],
+    "url": [
+      "https://water.ca.gov/programs/state-water-project/operations-and-maintenance/monthly-andannual-operations-reports."
+    ],
+    "date": [
+      "2016",
+      "2016",
+      "2018"
+    ],
+    "location": [
+      "Sacramento, CA",
+      "Sacramento, CA",
+      "Sacramento, CA",
+      "Sacramento, CA"
+    ],
+    "publisher": [
+      "Technical Memorandum. California Department of Water Resources (DWR",
+      "Technical Memorandum. California Department of Water Resources (DWR",
+      "Technical",
+      "Technical Memorandum. City of Bakersfield (COB) Water Resources Department. Kern River Hydrology Reports"
+    ],
+    "container-title": [
+      "Memorandum. California Department of Water Resources (DWR). 2018B. Resource Guide, DWR-Provided Climate Change Data and Guidance for Use During Groundwater Sustainability Plan Development"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Authority",
+        "given": "Friant Water Users"
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Estimate of Future Friant Division Supplies for use in Groundwater Sustainability Plans"
+    ],
+    "location": [
+      "Fresno, CA"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Consultants",
+        "given": "G.E.I."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Kern River Hydrology Under Climate Change"
+    ],
+    "location": [
+      "Bakersfield, CA"
+    ],
+    "publisher": [
+      "IPUMS. National Historical Geographic Information System Database"
+    ],
+    "url": [
+      "http://www.ipums.org."
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "Irrigation Training and Research Center (ITRC",
+      "1993-2015 ITRC-METRIC ETc for Kern County"
+    ],
+    "date": [
+      "2017"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "University",
+        "given": "California Polytechnic State"
+      },
+      {
+        "family": "San Luis Obispo",
+        "given": "C.A.Nady"
+      },
+      {
+        "family": "P"
+      },
+      {
+        "family": "Larragueta",
+        "given": "L.L."
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "Estimated average annual streamflow into the Central Valley of California"
+    ],
+    "container-title": [
+      "USGS Hydrologic Atlas HA-657. US Bureau of Reclamation (USBR). Central Valley Operations"
+    ],
+    "url": [
+      "http://www.usbr.gov/mp/cvo.",
+      "http://www.usbr.gov/mp/cvo."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Reclamation",
+        "given": "U.S.Bureau",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "publisher": [
+      "Kern National Wildlife Refuge Water Management Plan"
+    ],
+    "type": "book"
+  },
+  {
+    "url": [
+      "https://www.usbr.gov/mp/watershare/docs/2010/refuges/kern-national-wildlife-refuge.pdf",
+      "https://www.nrcs.usda.gov/wps/portal/nrcs/surveylist/soils/survey/state/?stateid-CA."
+    ],
+    "container-title": [
+      "US Department of Agricultura Natural Resources Conservation Service (NRCS"
+    ],
+    "date": [
+      "2018"
+    ],
+    "note": [
+      "Published Soil Surveys for California."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Commerce",
+        "given": "U.S.Department",
+        "particle": "of"
+      }
+    ],
+    "title": [
+      "Census data for 1990"
+    ],
+    "date": [
+      "2000"
+    ],
+    "url": [
+      "https://www.census.gov/data/developers/data-sets/decennial-census.html",
+      "https://ca.water.usgs.gov/projects/central-valley/cvhm-texture-model.html."
+    ],
+    "container-title": [
+      "US Geologic Survey (USGS). 2009. Central Valley Hydrologic Model: Texture Model"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Allen"
+      },
+      {
+        "family": "Bartow",
+        "given": "J.A."
+      },
+      {
+        "family": "McDougall",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "1998",
+      "1998",
+      "1984"
+    ],
+    "title": [
+      "FAO Irrigation and Drainage Paper 56: Crop Evapotranspiration –Guidelines for Computing Crop Water Requirements – Food and Agriculture Organization of the United Nations",
+      "Tertiary Stratigraphy of the Southeastern"
+    ],
+    "location": [
+      "Rome",
+      "San Joaquin Valley, California"
+    ],
+    "url": [
+      "http://www.fao.org/3/X0490E/X0490E00.htm"
+    ],
+    "note": [
+      "Geological Survey Bulletin 1529-J."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Bartow",
+        "given": "J.A."
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "title": [
+      "The Cenozoic Evolution of the San Joaquin Valley, California"
+    ],
+    "container-title": [
+      "USGS Professional Paper 1501"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "BVWSD",
+        "given": "A.W.M.P."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "Agricultural Water Management Plan"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Continuously Operating Reference Stations (CORS) network",
+      "Preliminary Water Supply Analysis, California Energy Commission Croft",
+      "Geological Survey Water Supply Paper 1999-H, Subsurface Geology of the Late Tertiary and Quaternary Water-Bearing Deposits of the Southern Part of the San Joaquin Valley, California"
+    ],
+    "url": [
+      "https://www.ngs.noaa.gov/CORS/data.shtml",
+      "https://www.waterboards.ca.gov/centralvalley/board_decisions/adopted_orders/gener",
+      "https://ca.water.usgs.gov/projects/central-valley/central-valley-hydrologicmodel.html"
+    ],
+    "author": [
+      {
+        "family": "Conway",
+        "given": "Fio"
+      },
+      {
+        "given": "Deverel"
+      }
+    ],
+    "date": [
+      "2013",
+      "1972"
+    ],
+    "container-title": [
+      "Prepared in coordination with the California Department of Water Resources CRWQCB, Central Valley Region General Order R5-2013-0120"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Dale",
+        "given": "R.H."
+      },
+      {
+        "family": "French",
+        "given": "James"
+      },
+      {
+        "family": "J."
+      },
+      {
+        "family": "Gordon",
+        "given": "G.B."
+      }
+    ],
+    "date": [
+      "1966"
+    ],
+    "title": [
+      "Ground-water Geology and Hydrology of the Kern River Alluvial-Fan Area"
+    ],
+    "location": [
+      "California"
+    ],
+    "genre": [
+      "U.S.G.S. Open-File Report 66-21"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Davis",
+        "given": "G.H."
+      },
+      {
+        "family": "Greene",
+        "given": "J.H."
+      },
+      {
+        "family": "Olmstead",
+        "given": "F.H."
+      },
+      {
+        "family": "Brown",
+        "given": "D.W."
+      }
+    ],
+    "date": [
+      "1959",
+      "1959"
+    ],
+    "title": [
+      "Ground-water Conditions and Storage Capacity in the San Joaquin Valley"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "California et. al"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "Summary of Recent, Historical, and Estimated Potential for Future Land Subsidence in California"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      },
+      {
+        "family": "DWR",
+        "particle": "pdf"
+      }
+    ],
+    "date": [
+      "2016",
+      "2017"
+    ],
+    "title": [
+      "Sustainable Groundwater Management Program, GSP Emergency Regulations Guide",
+      "Draft BMP for Sustainable Management Criteria"
+    ],
+    "url": [
+      "https://water.ca.gov/LegacyFiles/groundwater/sgm/pdfs/GSP_Final_Regs_Guidebook",
+      "https://water.ca.gov/LegacyFiles/groundwater/sgm/pdfs/BMP_Sustainable_Managem"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2018",
+      "2019",
+      "2018"
+    ],
+    "title": [
+      "Guidance Document for GSP Stakeholder Communication and Engagement. https://water.ca.gov/Programs/Groundwater-Management/SGMAGroundwater_Management DWR SGMA Data Viewer website"
+    ],
+    "url": [
+      "https://gis.water.ca.gov/app/NCDatasetViewer",
+      "https://sgma.water.ca.gov/webgis/?appid=SGMADataViewer#gwlevels"
+    ],
+    "container-title": [
+      "DWR SGMA Data Viewer website",
+      "Page | 2"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Faunt"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Interior Buena Vista Coalition",
+        "given": "U.S.Department",
+        "particle": "of the"
+      },
+      {
+        "family": "Harter",
+        "given": "T."
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Heath",
+        "given": "Legislature"
+      }
+    ],
+    "date": [
+      "2009",
+      "2018",
+      "2012",
+      "1983",
+      "1995"
+    ],
+    "title": [
+      "Groundwater Availability of the Central Valley Aquifer, California",
+      "Groundwater Quality Trend Monitoring Work Plan",
+      "Addressing Nitrate in California’s Drinking Water",
+      "Basic Groundwater Hydrology",
+      "Water Quality Data: Analysis and Interpretation"
+    ],
+    "container-title": [
+      "USGS Groundwater Resources Program Galloway, et al., 1999. Land Subsidence in the United States, Circular 1182. USGS",
+      "USGS Water-Supply Paper 2220. Prepared in cooperation with the North Carolina Department of Natural Resources and Community Development Hem, 1985. USGS Geological Study Water-Supply Paper 2254. Study and Interpretation of the Chemical Characteristics of Natural Water Hounslow"
+    ],
+    "genre": [
+      "UC Davis Report for the SWRCB SBX2 1 Report to the"
+    ],
+    "publisher": [
+      "CRC Press LLC, Lewis Publishers"
+    ],
+    "location": [
+      "Boca Raton"
+    ],
+    "note": [
+      "https://www.cypress.com/Water-Quality-Data-Analysis-and Interpretation/Hounslow/p/book/9780873716765"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Howes"
+      },
+      {
+        "family": "Poland",
+        "given": "J.F."
+      },
+      {
+        "family": "Riley",
+        "given": "F.S."
+      }
+    ],
+    "date": [
+      "2012",
+      "2017-07"
+    ],
+    "title": [
+      "Basin-wide Remote Sensing of Actual Evapotranspiration and Its Influence on Regional Water Resources Planning – Irrigation Training and Research Center, California Polytechnic State University",
+      "Land Subsidence in the San Joaquin Valley"
+    ],
+    "location": [
+      "San Luis Obispo, CA. Ireland, R.L"
+    ],
+    "container-title": [
+      "California, as of 1980, U.S.G.S. Professional Paper 437-1, 1984 Irrigated Lands Regulatory Program Irrigation and Training Research Center"
+    ],
+    "note": [
+      "1993-2015 ITRC-METRIC ETc for Kern County ITRC-METRIC. http://www.itrc.org/projects/metric.htm Kern River Watershed Coalition Authority (KRWCA), Groundwater Quality"
+    ],
+    "type": "chapter"
+  },
+  {
+    "genre": [
+      "Assessment Report,"
+    ],
+    "date": [
+      "2015-02"
+    ],
+    "note": [
+      "Change reference on p 31 of GSP from (KCWA, 2012) to (KRWCA, 2015"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "County",
+        "given": "Kern"
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "note": [
+      "Kern County General Plan (www.co.kern.ca.us/planning"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Kern County Water Agency (KCWA"
+    ],
+    "publisher": [
+      "Water Supply Report"
+    ],
+    "date": [
+      "2011"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Klausmeyer"
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Mapping Indicators of Groundwater Dependent Ecosystems in California"
+    ],
+    "genre": [
+      "Methods Report Page | 3"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Laboratory",
+        "given": "Lawrence Berkeley National"
+      },
+      {
+        "given": "L.S.C.E."
+      }
+    ],
+    "date": [
+      "2016",
+      "2014"
+    ],
+    "title": [
+      "United States Data Center Usage Report",
+      "Land Subsidence from Groundwater Use in California"
+    ],
+    "url": [
+      "https://eta.lbl.gov/sites/all/files/publications/lbnl-1005775_v2.pdf"
+    ],
+    "location": [
+      "Luhdorff"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Engineers",
+        "given": "Scalmanini Consulting"
+      },
+      {
+        "family": "Borchers",
+        "given": "Michael Carpenter Morris"
+      },
+      {
+        "given": "Johnson"
+      }
+    ],
+    "date": [
+      "2014",
+      "1967",
+      "1962"
+    ],
+    "title": [
+      "Authors: James W",
+      "Summary of Hydrologic and Physical Properties of Rock and Soil Materials, as Analyzed by the Hydrologic Laboratory of the U.S",
+      "Aquifer-Test Compilation for the"
+    ],
+    "container-title": [
+      "Geological Survey, 1948-60. USGS Water Supply Paper 1839-D McClelland"
+    ],
+    "location": [
+      "San Joaquin Valley, California"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Prepared in coordination with the California Department of Water Resources National Agricultural Statistics Service (NASS"
+    ],
+    "url": [
+      "https://www.nass.usda.gov/Research_and_Science/stratafront2b.php",
+      "https://water.ca.gov/LegacyFiles/wuegrants/AGAwards/24-BVWSD.pdf",
+      "https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/office/ssr12/tr/?cid=nrc"
+    ],
+    "container-title": [
+      "National Hydrography Dataset (NHD Plus). https://www.usgs.gov/core-sciencesystems/ngp/national-hydrography/access-national-hydrography-products Northern Area Pipeline – Southeast Extension",
+      "s144p2_027279 NRCS"
+    ],
+    "pages": [
+      "15"
+    ],
+    "author": [
+      {
+        "given": "N.R.C.S."
+      }
+    ],
+    "date": [
+      "2012",
+      "2014"
+    ],
+    "edition": [
+      "12th"
+    ],
+    "note": [
+      "Keys to Soil Taxonomy"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Page"
+      },
+      {
+        "given": "Balding"
+      },
+      {
+        "given": "R.W."
+      }
+    ],
+    "date": [
+      "1973",
+      "1986",
+      "1991"
+    ],
+    "title": [
+      "Geology and quality of water in the Modesto-Merced area, San Joaquin Valley, California, with a brief section on hydrology. Water-Resources Investigations Report 73-6. Prepared in cooperation with the California Department of Water Resources",
+      "Geology of the fresh ground-water basin of the Central Valley, California with texture maps and sections: U.S.G.S"
+    ],
+    "url": [
+      "https://pubs.er.usgs.gov/publication/wri736Page,"
+    ],
+    "container-title": [
+      "Professional Paper 1401-CPGA"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Planert"
+      },
+      {
+        "given": "Williams"
+      }
+    ],
+    "date": [
+      "1995",
+      "2010"
+    ],
+    "title": [
+      "shown in the Ground Water Atlas of the United States: Segment 1, California, Nevada. Hydrologic Atlas 73-B Plos 1",
+      "Mapping Groundwater Dependent Ecosystems in California"
+    ],
+    "url": [
+      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0011249"
+    ],
+    "note": [
+      "Reconstructed Sacramento and San Joaquin Valley Water Year Hydrologic Classification Indices. http://cdec.water.ca.gov/reportapp/javareports?name=WSIHIST Schwartz and Zhang, 2003. Fundamentals of Groundwater Page | 4"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Scientific",
+        "given": "Sierra"
+      },
+      {
+        "given": "al"
+      }
+    ],
+    "date": [
+      "2013",
+      "2018",
+      "1850"
+    ],
+    "title": [
+      "The Geology and Groundwater Hydrology of the Buena Vista Water Storage District, Buttonwillow, CA, including Descriptions of Relevant Facilities and Operations Smith et",
+      "Geophysical Research Letters, Understanding Rapid Adjustments to Diverse Forcing Agents",
+      "Specific and Rural Community Plan prepared by the Community of Buttonwillow and approved by the County Swamp and Overflow Act of 1850"
+    ],
+    "url": [
+      "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL079826"
+    ],
+    "container-title": [
+      "An Act to Enable the State of Arkansas and Other States to Reclaim the \"Swamp\" Lands within Their Limits, 9 Stat"
+    ],
+    "volume": [
+      "519"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "TNC",
+        "given": "January"
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Groundwater Dependent Ecosystems Under the Sustainable Groundwater Management Act TNC, 2018"
+    ],
+    "url": [
+      "http://maps.tnc.org/resilientland/"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Resilient Land Mapping Tool"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "E.S.A."
+      }
+    ],
+    "date": [
+      "2017",
+      "2017-08",
+      "2018"
+    ],
+    "title": [
+      "Kern River Water Allocation Plan, Draft Supplemental Environmental Impact Report, SCH# 2011041082, prepared for Kern Delta Water District"
+    ],
+    "publisher": [
+      "pdf Todd Engineers"
+    ],
+    "volume": [
+
+    ],
+    "container-title": [
+      "Site Conceptual Model \"With and Without Banking\" Evaluation, Kern Fan Area, September 18,2012. pdf UAVSAR and InSAR studies in the vicinity of the BVGSA USGS,1989). Ground-water Flow in the Central Valley, California. Regional Aquifer System Analysis. U.S. Geological Survey Professional Paper 1401-D.VegCAMP",
+      "Technical Memorandum"
+    ],
+    "note": [
+      "Vegetation Classification and Mapping Program www.wildlife.ca.gov/Data/VegCAMP Water Code Section 10721 (x)."
+    ],
+    "url": [
+      "http://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1072"
+    ],
+    "type": "article-journal",
+    "issue": [
+      "1"
+    ]
+  }
+]

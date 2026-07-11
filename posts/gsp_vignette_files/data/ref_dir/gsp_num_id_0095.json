@@ -1,0 +1,1770 @@
+[
+  {
+    "author": [
+      {
+        "family": "Albaugh",
+        "given": "Aaron"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Personal communication. Lassen County Supervisor District 4, local farmer, landowner, and BVAC member"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ayers",
+        "given": "R.S."
+      },
+      {
+        "family": "Westcot",
+        "given": "D.W."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "title": [
+      "Water Quality for Agriculture"
+    ],
+    "container-title": [
+      "Food and Agriculture Organization of the United Nations Irrigation and Drainage Paper 29"
+    ],
+    "url": [
+      "http://www.fao.org/3/t0234e/t0234e00.htm."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Bauder",
+        "given": "T.A."
+      },
+      {
+        "family": "Waskom",
+        "given": "R.M."
+      },
+      {
+        "family": "Sutherland",
+        "given": "P.L."
+      },
+      {
+        "family": "Davis",
+        "given": "J.G."
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "Irrigation Water Quality Criteria"
+    ],
+    "volume": [
+
+    ],
+    "publisher": [
+      "Colorado State University Extension"
+    ],
+    "url": [
+      "https://extension.colostate.edu/topicareas/agriculture/irrigation-water-quality-criteria-0-506/."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Fact Sheet"
+    ],
+    "issue": [
+      "0.506"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Indian Affairs",
+        "given": "Bureau",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "U.S. Domestic Sovereign Nations: Land Areas of Federally Recognized Tribes"
+    ],
+    "url": [
+      "https://biamaps.doi.gov/indianlands/."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Indian Affairs",
+        "given": "Bureau",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "1978"
+    ],
+    "title": [
+      "Evaluation of Ground Water Resources: Sacramento Valley"
+    ],
+    "volume": [
+      "118-6"
+    ],
+    "pages": [
+      "3720"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Bulletin"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Indian Affairs",
+        "given": "Bureau",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "Bulletin 118 Basin description for the Big Valley Groundwater Basin"
+    ],
+    "pages": [
+      "5–004"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Indian Affairs",
+        "given": "Bureau",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Bulletin 118: California’s Groundwater, Basin Description for the Big Valley Groundwater Basin (5-004"
+    ],
+    "url": [
+      "https://water.ca.gov/Programs/Groundwater-Management/Bulletin118."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Indian Affairs",
+        "given": "Bureau",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "Statewide Land Use Mapping. Prepared for DWR by LandIQ"
+    ],
+    "url": [
+      "https://gis.water.ca.gov/app/CADWRLandUseViewer/."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Indian Affairs",
+        "given": "Bureau",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2017",
+      "2017-11"
+    ],
+    "title": [
+      "Sustainable Management Criteria BMP (Best Management Practices"
+    ],
+    "genre": [
+      "Draft,"
+    ],
+    "url": [
+      "https://water.ca.gov/-/media/DWR-Website/WebPages/Programs/Groundwater-Management/Sustainable-Groundwater-Management/BestManagement-Practices-and-Guidance-Documents/Files/BMP-6-Sustainable-ManagementCriteria-DRAFT_ay_19.pdf"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Indian Affairs",
+        "given": "Bureau",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "California’s Groundwater, Bulletin 118. Basin Boundary dataset"
+    ],
+    "url": [
+      "https://sgma.water.ca.gov/webgis/?appid=SGMADataViewer."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Indian Affairs",
+        "given": "Bureau",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Basin Prioritization Website"
+    ],
+    "url": [
+      "https://water.ca.gov/Programs/GroundwaterManagement/Basin-Prioritization."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Indian Affairs",
+        "given": "Bureau",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "California Data Exchange Center"
+    ],
+    "url": [
+      "https://cdec.water.ca.gov/."
+    ],
+    "pages": [
+      "3777 3778"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Indian Affairs",
+        "given": "Bureau",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "California Well Standards"
+    ],
+    "url": [
+      "https://water.ca.gov/Programs/GroundwaterManagement/Wells/Well-Standards/Combined-Well-Standards."
+    ],
+    "pages": [
+      "3779 3780"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Indian Affairs",
+        "given": "Bureau",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "DWR Land Use Survey Website"
+    ],
+    "url": [
+      "https://water.ca.gov/programs/water-use-andefficiency/land-and-water-use/land-use-surveys."
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "California Geological Survey (CGS). 1958",
+      "A.) Geologic Map of California"
+    ],
+    "location": [
+      "Gay"
+    ],
+    "author": [
+      {
+        "family": "E.",
+        "given": "T."
+      },
+      {
+        "family": "Aune",
+        "given": "Q."
+      }
+    ],
+    "volume": [
+      "1"
+    ],
+    "note": [
+      "Olaf P. Jenkins Edition."
+    ],
+    "url": [
+      "https://earthworks.stanford.edu/catalog/mit001710856"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Alturas Sheet"
+    ],
+    "issue": [
+      "250"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "E.",
+        "given": "T."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "California Geomorphic Provinces"
+    ],
+    "volume": [
+      "36"
+    ],
+    "url": [
+      "https://www.conservation.ca.gov/cgs/Documents/Publications/CGS-Notes/CGS-Note-36.pdf."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Note"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "E.",
+        "given": "T."
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "Fault Activity Map of California"
+    ],
+    "url": [
+      "https://maps.conservation.ca.gov/cgs/fam/."
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "California Native Plant Society (CNPS",
+      "Calscape"
+    ],
+    "date": [
+      "2020"
+    ],
+    "url": [
+      "https://calscape.org/."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "Gardening and Horticulture"
+    ],
+    "url": [
+      "https://www.cnps.org/gardening."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Conner",
+        "given": "Duane"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Personal communication. Local well driller, farmer, landowner, and BVAC member who has drilled majority of wells in Big Valley"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Cowardin",
+        "given": "L.M."
+      },
+      {
+        "family": "Carter",
+        "given": "V."
+      },
+      {
+        "family": "Golet",
+        "given": "F.C."
+      },
+      {
+        "family": "LaRoe",
+        "given": "E.T."
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "title": [
+      "Classification of Wetlands and"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Deepwater Habitats of the United States"
+    ],
+    "container-title": [
+      "U.S. Fish and Wildlife Service document FWS/OBS79/31"
+    ],
+    "date": [
+      "1979-12"
+    ],
+    "url": [
+      "https://www.nrc.gov/docs/ML1801/ML18019A904.pdf."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Dahlke",
+        "given": "H.E."
+      },
+      {
+        "family": "Brown",
+        "given": "A.G."
+      },
+      {
+        "family": "Orloff",
+        "given": "S."
+      },
+      {
+        "family": "Putnam",
+        "given": "S."
+      },
+      {
+        "family": "O’Geen",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Managed winter flooding of alfalfa recharges groundwater with minimal crop damage"
+    ],
+    "volume": [
+      "72"
+    ],
+    "url": [
+      "https://calag.ucanr.edu/archive/?type=pdf&article=ca.2018a0001"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "California Agriculture"
+    ],
+    "issue": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "GeothermEx"
+      }
+    ],
+    "date": [
+      "1975",
+      "1975-10"
+    ],
+    "title": [
+      "Geology of the Big Valley Geothermal Prospect, Lassen, Modoc, Shasta and Siskiyou Counties, California"
+    ],
+    "pages": [
+      "3808 3809 3810 3811"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "M."
+      },
+      {
+        "family": "Babbitt",
+        "given": "C."
+      },
+      {
+        "family": "Saracino",
+        "given": "A."
+      },
+      {
+        "family": "Leake",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Addressing Regional Surface Water Depletions in California. A proposed approach for compliance with the Sustainable Groundwater Management Act"
+    ],
+    "container-title": [
+      "Published by the Environmental Defense Fund"
+    ],
+    "url": [
+      "https://www.edf.org/sites/default/files/documents/edf_california_sgma_surface_water.pdf."
+    ],
+    "pages": [
+      "3812 3813 3814"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Hanak",
+        "given": "E."
+      },
+      {
+        "family": "Gray",
+        "given": "B."
+      },
+      {
+        "family": "Lund",
+        "given": "J."
+      },
+      {
+        "family": "Mitchell",
+        "given": "D.Fahlund"
+      },
+      {
+        "family": "A.",
+        "given": "Jessoe"
+      },
+      {
+        "family": "K.",
+        "given": "MedellinAzuara"
+      },
+      {
+        "family": "J",
+        "given": "Misczynski"
+      },
+      {
+        "family": "Nachbaur",
+        "given": "D."
+      },
+      {
+        "given": "J."
+      },
+      {
+        "family": "Suddeth",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "note": [
+      "Paying for Water in California."
+    ],
+    "url": [
+      "https://www.cailg.org/sites/main/files/file-attachments/basics_of_municipal_revenue_2016.pdf."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hartin",
+        "given": "J."
+      },
+      {
+        "family": "Geisel",
+        "given": "P."
+      },
+      {
+        "family": "Harivandi",
+        "given": "A."
+      },
+      {
+        "family": "Elkins",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "Sustainable Landscaping in California"
+    ],
+    "volume": [
+      "8504"
+    ],
+    "url": [
+      "https://anrcatalog.ucanr.edu/pdf/8504.pdf."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "UC Agriculture and Natural Resources publication"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hunt",
+        "given": "L.J.H."
+      },
+      {
+        "family": "Fair",
+        "given": "J."
+      },
+      {
+        "family": "Odland",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Meadow Restoration Increases Baseflow and Groundwater Storage in the Sierra Nevada Mountains of California"
+    ],
+    "volume": [
+      "54"
+    ],
+    "pages": [
+      "1127– 1136"
+    ],
+    "url": [
+      "https://doi.org/10.1111/1752-1688.12675."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of the American Water Resources Association"
+    ],
+    "issue": [
+      " 5"
+    ],
+    "doi": [
+      "10.1111/1752-1688.12675."
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Kocis"
+      },
+      {
+        "given": "Dahlke"
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "Availability of high-magnitude streamflow for groundwater banking in the Central Valley, California"
+    ],
+    "volume": [
+      "12"
+    ],
+    "url": [
+      "https://iopscience.iop.org/article/10.1088/1748-9326/aa7b1b/meta."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Environmental Research Letters"
+    ],
+    "issue": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "E.M.",
+        "given": "LaMalfa"
+      },
+      {
+        "family": "Ryel",
+        "given": "R.J."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "Differential snowpack accumulation and water dynamics in aspen and conifer communities: implications for water yield and ecosystem function"
+    ],
+    "volume": [
+      "11"
+    ],
+    "url": [
+      "https://digitalcommons.usu.edu/wild_facpub/7/"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Ecosystems"
+    ],
+    "pages": [
+      "569–58"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mata-Gonzalez",
+        "given": "R."
+      },
+      {
+        "family": "Abdallah",
+        "given": "M.A.B."
+      },
+      {
+        "family": "Ochoa",
+        "given": "C.G."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "Water use by mature and sapling western juniper (Juniperus occidentalis) Trees"
+    ],
+    "volume": [
+      "74"
+    ],
+    "url": [
+      "https://www.researchgate.net/profile/Ricardo-MataGonzalez/publication/344603649_Water_use_by_mature_and_sapling_western_juniper_Juniper"
+    ],
+    "pages": [
+      "5 47 145851553 004 8 1 – – – – – – – – – 3853 3854"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Rangeland Ecology and Management"
+    ],
+    "issue": [
+      "110113"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "N.E.",
+        "given": "McClymonds"
+      },
+      {
+        "family": "Franke",
+        "given": "O.L."
+      }
+    ],
+    "date": [
+      "1972"
+    ],
+    "title": [
+      "Water-Transmitting Properties of Aquifers on Long Island, New York"
+    ],
+    "genre": [
+      "USGS Professional Paper 627-E."
+    ],
+    "url": [
+      "https://pubs.usgs.gov/pp/0627e/report.pdf"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "MacDonald"
+      }
+    ],
+    "date": [
+      "1966"
+    ],
+    "title": [
+      "Geology of the Cascade Range and Modoc Plateau. in Geology of Northern California"
+    ],
+    "volume": [
+      "190"
+    ],
+    "editor": [
+      {
+        "family": "Bailey",
+        "given": "Edgar H."
+      }
+    ],
+    "container-title": [
+      "US Geological Survey",
+      "California Division of Mines and Geology, Bulletin"
+    ],
+    "url": [
+      "https://publications.mygeoenergynow.org/grc/1021064.pdf"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "R.F."
+      },
+      {
+        "family": "Tausch",
+        "given": "R.J."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "The role of fire in pinyon and juniper woodlands: a descriptive analysis"
+    ],
+    "editor": [
+      {
+        "family": "Galley",
+        "given": "K.E.M."
+      },
+      {
+        "family": "Wilson",
+        "given": "T.P."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Invasive Species: The Role of Fire in the Control and Spread of Invasive Species. Misc. Publ"
+    ],
+    "volume": [
+
+    ],
+    "publisher": [
+      "Tall Timbers Res. Sta"
+    ],
+    "location": [
+      "Tallahassee, FL"
+    ],
+    "pages": [
+      "15–30"
+    ],
+    "url": [
+      "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.550.7026&rep=rep1&type=pdf"
+    ],
+    "issue": [
+      "11"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Norris",
+        "given": "R.M."
+      },
+      {
+        "family": "Webb",
+        "given": "R.W."
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "title": [
+      "Geology of California"
+    ],
+    "isbn": [
+      "978-0471509806"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ochoa",
+        "given": "C."
+      },
+      {
+        "family": "Caruso",
+        "given": "P."
+      },
+      {
+        "family": "Deboodt",
+        "given": "T."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "Upland-valley hydrologic connectivity: Camp Creek Paired Watershed Study"
+    ],
+    "container-title": [
+      "Ecology and Hydrology of Western Juniper Special Report Oregon State University and USDA Agriculture Research Service"
+    ],
+    "url": [
+      "https://ecohydrology.oregonstate.edu/project/juniper-paired-watershed-study-central-oregon."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Ohm",
+        "given": "John"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "genre": [
+      "Personal communication. Local farmer, landowner, and BVAC member."
+    ],
+    "type": "personal_communication"
+  },
+  {
+    "author": [
+      {
+        "family": "Orange",
+        "given": "M.N."
+      },
+      {
+        "family": "Matyac",
+        "given": "J.S."
+      },
+      {
+        "family": "Snyder",
+        "given": "R.L."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Consumptive Use Program (CUP) Model"
+    ],
+    "volume": [
+      "664"
+    ],
+    "pages": [
+      "461–468"
+    ],
+    "url": [
+      "https://www.ishs.org/ishs-article/664_58."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Acta Hortic"
+    ]
+  },
+  {
+    "title": [
+      "Organization for Economic Co-operation and Development (OECD",
+      "Stakeholder Engagement for Inclusive Water Governance, OECD Studies on Water"
+    ],
+    "date": [
+      "2015"
+    ],
+    "publisher": [
+      "OECD Publishing"
+    ],
+    "location": [
+      "Paris"
+    ],
+    "url": [
+      "http://dx.doi.org/10.1787/9789264231122-en."
+    ],
+    "doi": [
+      "10.1787/9789264231122-en."
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Orloff",
+        "given": "S."
+      },
+      {
+        "family": "Getts",
+        "given": "T."
+      },
+      {
+        "family": "Sumner",
+        "given": "D."
+      },
+      {
+        "given": "DStewart"
+      },
+      {
+        "family": "Gutierrez",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "Sample Costs to Establish and Produce Orchardgrass Hay"
+    ],
+    "publisher": [
+      "UC ANR"
+    ],
+    "url": [
+      "https://coststudyfiles.ucdavis.edu/uploads/cs_public/86/b2/86b28877-5976-4d3a-b0e7862314057bf1/16orchardgrass_intermountain_752016.pdf."
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Pezeshki",
+        "given": "S.R."
+      },
+      {
+        "family": "Shields",
+        "given": "F.D."
+      }
+    ],
+    "date": [
+      "2006",
+      "February"
+    ],
+    "title": [
+      "Black Willow Cutting Survival in Streambank Plantings, Southeastern United States"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of the American Water Resources Association"
+    ]
+  },
+  {
+    "date": [
+      "2006"
+    ],
+    "url": [
+      "https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs143_013404.pdf."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Pilliod",
+        "given": "D.S."
+      },
+      {
+        "family": "Rohde",
+        "given": "A.T."
+      },
+      {
+        "family": "Charnley",
+        "given": "S."
+      },
+      {
+        "family": "Davee",
+        "given": "R."
+      },
+      {
+        "family": "Dunham",
+        "given": "J."
+      },
+      {
+        "family": "Gosnell",
+        "given": "H."
+      },
+      {
+        "family": "Grant",
+        "given": "G."
+      },
+      {
+        "family": "Hausner",
+        "given": "M."
+      },
+      {
+        "family": "Huntington",
+        "given": "J."
+      },
+      {
+        "family": "Nash",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2018",
+      "2018"
+    ],
+    "title": [
+      "Survey of Beaver-related Restoration Practices in Rangeland Streams of the Western USA"
+    ],
+    "volume": [
+      "61"
+    ],
+    "pages": [
+      "58–68"
+    ],
+    "url": [
+      "https://doi.org/10.1007/s00267-017-0957-6."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Environmental Management"
+    ],
+    "doi": [
+      "10.1007/s00267-017-0957-6."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Putnam",
+        "given": "D.H."
+      },
+      {
+        "family": "Lin",
+        "given": "E."
+      }
+    ],
+    "date": [
+      "2016",
+      "2016-02-02"
+    ],
+    "title": [
+      "Nitrogen Dynamics in Cropping Systems - Why Alfalfa is Important"
+    ],
+    "container-title": [
+      "IN Proceedings, CA Plant and Soil Conference"
+    ],
+    "location": [
+      "Fresno, CA"
+    ],
+    "note": [
+      "CA-ASA."
+    ],
+    "url": [
+      "http://calasa.ucdavis.edu/files/250178.pdf."
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "title": [
+      "Regional Water Quality Control Board (RWQCB",
+      "Region 5 description of OWTS program"
+    ],
+    "date": [
+      "2021"
+    ],
+    "url": [
+      "https://www.waterboards.ca.gov/centralvalley/water_issues/owts/#lamps."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ryel",
+        "given": "R.J."
+      },
+      {
+        "family": "LaMalfa",
+        "given": "E."
+      },
+      {
+        "family": "Leffler",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "Water relations and water yield in aspen and conifer forests"
+    ],
+    "container-title": [
+      "Presentation at Forest and Watershed Health Symposium, UC Cooperative Extension, Susanville CA"
+    ],
+    "url": [
+      "http://celassen.ucanr.edu/files/84849.pdf."
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Saska",
+        "given": "P.C."
+      },
+      {
+        "family": "Bales",
+        "given": "R.C."
+      },
+      {
+        "family": "Tague",
+        "given": "C.L."
+      },
+      {
+        "family": "Battles",
+        "given": "J.J."
+      },
+      {
+        "family": "Tobin",
+        "given": "B.W."
+      },
+      {
+        "family": "Conklin",
+        "given": "M.H."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Fuels treatment and wildfire effects on runoff from Sierra Nevada mixed‐conifer forests"
+    ],
+    "genre": [
+      "Ecohydrology."
+    ],
+    "url": [
+      "https://onlinelibrary.wiley.com/doi/epdf/10.1002/eco.2151"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Springer",
+        "given": "A.E."
+      },
+      {
+        "family": "Wright",
+        "given": "J.M."
+      },
+      {
+        "family": "Shafroth",
+        "given": "P.B."
+      },
+      {
+        "family": "Stromberg",
+        "given": "J.C."
+      },
+      {
+        "family": "Patten",
+        "given": "D.T."
+      }
+    ],
+    "date": [
+      "1999",
+      "1999-12"
+    ],
+    "title": [
+      "Coupling groundwater and riparian vegetation models to assess effects of reservoir releases"
+    ],
+    "volume": [
+      "35"
+    ],
+    "pages": [
+      "3621–3630,"
+    ],
+    "url": [
+      "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/1999WR900233"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Water Resources Research"
+    ],
+    "issue": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stephens",
+        "given": "Scott L."
+      },
+      {
+        "family": "Collins",
+        "given": "Brandon M."
+      },
+      {
+        "family": "Biber",
+        "given": "Eric"
+      },
+      {
+        "family": "Fulé",
+        "given": "Peter Z."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "U.S. federal fire and forest policy: emphasizing resilience in dry forests"
+    ],
+    "volume": [
+      "7"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Ecosphere"
+    ],
+    "issue": [
+      "ue 11"
+    ]
+  },
+  {
+    "url": [
+      "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.1584"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "Division of Drinking Water’s Safe Drinking Water Information System"
+    ],
+    "url": [
+      "https://sdwis.waterboards.ca.gov/PDWW/."
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "The Nature Conservancy (TNC",
+      "Plant Rooting Depth Database"
+    ],
+    "date": [
+      "2020"
+    ],
+    "url": [
+      "https://groundwaterresourcehub.org/."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Towill",
+        "given": "Inc"
+      }
+    ],
+    "date": [
+      "2021",
+      "2021-04-07"
+    ],
+    "title": [
+      "InSAR Data Accuracy for California Groundwater Basins. CGPS Data Comparative Analysis"
+    ],
+    "genre": [
+      "Final Report"
+    ],
+    "note": [
+      "Prepared for the California Department of Water Resources."
+    ],
+    "url": [
+      "https://data.cnra.ca.gov/dataset/tre-altamira-insar-subsidence/resource/a1949b592435-4e5d-bb29-7a8d432454f5."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Towill",
+        "given": "Inc"
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "State and County Quickfacts"
+    ],
+    "url": [
+      "https://www.census.gov/programssurveys/sis/resources/data-tools/quickfacts.html."
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "United States Department of the Interior Water and Power Resources Service (DOI"
+    ],
+    "date": [
+      "1981",
+      "1981-05"
+    ],
+    "note": [
+      "Concluding Report. Allen Camp Unit: Pit River Division Central Valley Project California. 90 STAT. 1331."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "National Hydrography Dataset"
+    ],
+    "url": [
+      "https://www.usgs.gov/core-science-systems/ngp/nationalhydrography."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "National Water Information System"
+    ],
+    "url": [
+      "https://waterdata.usgs.gov/nwis."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Walley",
+        "given": "F.L."
+      },
+      {
+        "family": "Tomm",
+        "given": "G.O."
+      },
+      {
+        "family": "Matus",
+        "given": "A."
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "Allocation and cycling of nitrogen in an alfalfabromegrass sward"
+    ],
+    "volume": [
+      "88"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Agronomy Journal"
+    ],
+    "pages": [
+      "834–43"
+    ]
+  },
+  {
+    "url": [
+      "https://acsess.onlinelibrary.wiley.com/doi/abs/10.2134/agronj1996.00021962008800050025x"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Association",
+        "given": "WateReuse"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Water Reuse 101 Glossary"
+    ],
+    "url": [
+      "https://watereuse.org/educate/water-reuse101/glossary/."
+    ],
+    "pages": [
+      "3984 3985 3986"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "R.",
+        "given": "Wilson"
+      },
+      {
+        "family": "Galdi",
+        "given": "G."
+      },
+      {
+        "family": "Stewart",
+        "given": "D."
+      },
+      {
+        "family": "Sumner",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Sample Costs to Establish and Produce Alfalfa Hay"
+    ],
+    "publisher": [
+      "UC ANR"
+    ],
+    "url": [
+      "https://coststudyfiles.ucdavis.edu/uploads/cs_public/c4/36/c436fc40-8c6b-4ebb97f6-e407160608bc/2020alfalfascottvalley-mixed_irrigation-1.pdf."
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "2018"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Date Time Location 2/23/2016 2:00:00 PM Adin Community Building 609"
+    ],
+    "location": [
+      "Main Street Adin, CA 96006"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2/23/2016"
+    ],
+    "title": [
+      "2:00:00 PM Adin Community Building 609 Main Street Adin, CA 96006"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1/27/2017"
+    ],
+    "title": [
+      "9:00:00 AM Bieber Veterans Memorial Hall 657-575 Bridge Street Bieber, CA 96009"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2/28/2017"
+    ],
+    "title": [
+      "10:00:00 AM Board of Supervisors Room 204 South Court Street #203 Alturas, CA 96101"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3/14/2017"
+    ],
+    "title": [
+      "9:00:00 AM Board Chambers 707"
+    ],
+    "location": [
+      "Nevada Street Susanville, CA 96130"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6/3/2019"
+    ],
+    "title": [
+      "2:00:00 PM Bieber Veterans Memorial Hall 657-575 Bridge Street Bieber, CA 96009"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "9/4/2019"
+    ],
+    "title": [
+      "4:00:00 PM Adin Community Center 605 Highway 299 Adin, CA 96006"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2/3/2020"
+    ],
+    "title": [
+      "4:00:00 PM Bieber Veterans Memorial Hall 657-575 Bridge Street Bieber, CA 96009"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3/4/2020"
+    ],
+    "title": [
+      "4:00:00 PM Adin Community Center 605 Highway 299 Adin, CA 96006"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5/6/2020"
+    ],
+    "title": [
+      "4:00:00 PM Bieber Veterans Memorial Hall 657-575 Bridge Street Bieber, CA 96009"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7/1/2020"
+    ],
+    "title": [
+      "4:00:00 PM Adin Community Center 605 Highway 299 Adin, CA 96006"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "9/24/2020"
+    ],
+    "title": [
+      "4:00:00 PM Bieber Veterans Memorial Hall 657-575 Bridge Street Bieber, CA 96009"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "11/4/2020"
+    ],
+    "title": [
+      "4:00:00 PM Adin Community Center 605 Highway 299 Adin, CA 96006"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "12/2/2020"
+    ],
+    "title": [
+      "4:00:00 PM Adin Community Center 605 Highway 299 Adin, CA 96006"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2/3/2021"
+    ],
+    "title": [
+      "4:00:00 PM Adin Community Center 605 Highway 299 Adin, CA 96006"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3/3/2021"
+    ],
+    "title": [
+      "4:00:00 PM Adin Community Center 605 Highway 299 Adin, CA 96006"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3/24/2021"
+    ],
+    "title": [
+      "5:00:00 PM Adin Community Center 605 Highway 299 Adin, CA 96006"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4/7/2021"
+    ],
+    "title": [
+      "4:00:00 PM Adin Community Center 605 Highway 299 Adin, CA 96006"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5/5/2021"
+    ],
+    "title": [
+      "2:00:00 PM Bieber Veterans Memorial Hall 657-575 Bridge Street Bieber, CA 96009"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6/2/2021"
+    ],
+    "title": [
+      "2:00:00 PM Adin Community Center 605 Highway 299 Adin, CA 96006"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7/7/2021"
+    ],
+    "title": [
+      "2:00:00 PM Bieber Veterans Memorial Hall 657-575 Bridge Street Bieber, CA 96009 Assembled 6/18/2021"
+    ],
+    "type": null
+  }
+]

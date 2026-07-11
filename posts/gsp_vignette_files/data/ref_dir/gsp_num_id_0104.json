@@ -1,0 +1,1886 @@
+[
+  {
+    "title": [
+      "Partnership with City of Redlands, San Gorgonio Pass Water Agency, South Mesa Water Company, Western Heights Water Company, City of Yucaipa, and Yucaipa Valley Water District"
+    ],
+    "date": [
+      "2014-04-17"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "R.M.C."
+      }
+    ],
+    "date": [
+      "2015",
+      "2015-01"
+    ],
+    "title": [
+      "Upper Santa Ana River Watershed Integrated Regional Water Management Plan"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "RWQCB",
+        "given": "Santa Ana"
+      }
+    ],
+    "date": [
+      "2014",
+      "2014-04-25"
+    ],
+    "title": [
+      "Resolution No. R82014-0005 – Resolution Amending the Water Quality Control Plan for the Santa Ana River Basin to Incorporate Updates Related to the Salt Management Plan for the Santa Ana Region"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "S.B.V.M.W.D."
+      }
+    ],
+    "date": [
+      "2018",
+      "2018-03"
+    ],
+    "title": [
+      "Change in Groundwater Storage for the San Bernardino, Rialto-Colton and Yucaipa Basin Areas"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Prepared by SBVMWD"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "A.C.O.E."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Corpscon, Version 6.x, Technical Documentation and Operating Instructions"
+    ],
+    "container-title": [
+      "Prepared by the ACOE Engineer Research and Development Center, Topographic Engineering"
+    ],
+    "location": [
+      "Center, Alexandria, Virginia",
+      "August"
+    ],
+    "pages": [
+      "22315–3864"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "M.P."
+      },
+      {
+        "family": "Woessner",
+        "given": "W.W."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Applied Groundwater Modeling Simulation of Flow and Advective Transport"
+    ],
+    "location": [
+      "San Diego"
+    ],
+    "publisher": [
+      "Academic Press Inc"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Apex"
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Remedial Action Plan – Northern Area, Sorenson Engineering Incorporated, 32032 Dunlap Boulevard"
+    ],
+    "location": [
+      "Yucaipa, California, CAO"
+    ],
+    "pages": [
+      "87–90"
+    ],
+    "note": [
+      "Prepared for Loeb and Loeb, LLP, 10100 Santa Monica Boulevard, Los Angeles, California. Prepared by Apex, 299 West Hillcrest Drive Suite 302, Thousand Oaks, California. June 5."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Apex"
+      }
+    ],
+    "date": [
+      "2020",
+      "2020",
+      "July 15"
+    ],
+    "title": [
+      "Sorenson Engineering, Inc., Semi-Annual Monitoring and Status Report, First Half",
+      "Prepared by Apex Companies, LLC, 299 West Hillcrest Drive Suite 302, Thousand Oaks"
+    ],
+    "location": [
+      "California"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "CalGEM (California Geologic Energy Management Division"
+    ],
+    "date": [
+      "2020"
+    ],
+    "note": [
+      "Well finder. Accessed September 6, 2020."
+    ],
+    "url": [
+      "https://maps.conservation.ca.gov/doggr/wellfinder/#openModal/-118.94276/37.12009/6."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "CH2MHill"
+      }
+    ],
+    "date": [
+      "2003",
+      "2003"
+    ],
+    "title": [
+      "San Diego River System Conceptual Groundwater Management Plan. Prepared for the City of San Diego"
+    ],
+    "volume": [
+      "29"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "May"
+    ]
+  },
+  {
+    "title": [
+      "CNRA (California Natural Resources Agency",
+      "TRE ALTAMIRA InSAR Subsidence Data"
+    ],
+    "date": [
+      "2021"
+    ],
+    "genre": [
+      "[online dataset]."
+    ],
+    "url": [
+      "https://data.cnra.ca.gov/dataset/tre-altamira-insar-subsidence."
+    ],
+    "type": "webpage"
+  },
+  {
+    "editor": [
+      {
+        "family": "Cromwell",
+        "given": "G."
+      },
+      {
+        "family": "Alzraiee",
+        "given": "A.H."
+      }
+    ],
+    "date": [
+      "2022"
+    ],
+    "title": [
+      "Hydrology of the Yucaipa Groundwater Subbasin—Characterization and Integrated Numerical Model"
+    ],
+    "location": [
+      "San Bernardino and Riverside Counties, California"
+    ],
+    "note": [
+      "U.S. Geological Survey Scientific Investigations Report 2021–5118."
+    ],
+    "url": [
+      "https://doi.org/"
+    ],
+    "doi": [
+      "10.3133/sir20215118."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Cromwell",
+        "given": "G."
+      },
+      {
+        "family": "Engott",
+        "given": "J.A."
+      },
+      {
+        "family": "Alzraiee",
+        "given": "A.H."
+      },
+      {
+        "family": "Stamos",
+        "given": "C.L."
+      },
+      {
+        "family": "Mendez",
+        "given": "G.O."
+      },
+      {
+        "family": "Dick",
+        "given": "M.C."
+      },
+      {
+        "family": "Bond",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2022"
+    ],
+    "title": [
+      "Hydrogeologic Characterization of the Yucaipa Groundwater Subbasin"
+    ],
+    "container-title": [
+      "Chapter A in Hydrology of the Yucaipa Groundwater Subbasin—Characterization and Integrated Numerical Model"
+    ],
+    "location": [
+      "San Bernardino and Riverside Counties, California, USA"
+    ],
+    "publisher": [
+      "U.S. Geological Survey Scientific"
+    ],
+    "genre": [
+      "Investigations Report 2021–5118–A,"
+    ],
+    "pages": [
+      "157"
+    ],
+    "url": [
+      "https://doi.org/10.3133/sir20215118A."
+    ],
+    "doi": [
+      "10.3133/sir20215118A."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Cromwell",
+        "given": "G."
+      },
+      {
+        "family": "Matti",
+        "given": "J.C."
+      }
+    ],
+    "date": [
+      "2022"
+    ],
+    "title": [
+      "Geology and Hydrogeology of the Yucaipa Groundwater Subbasin, San Bernardino and Riverside Counties"
+    ],
+    "location": [
+      "California, USA"
+    ],
+    "note": [
+      "U.S. Geological Survey Scientific Investigations Report 2021-5129."
+    ],
+    "url": [
+      "https://doi.org/10.3133/sir20215129."
+    ],
+    "doi": [
+      "10.3133/sir20215129."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Cunningham",
+        "given": "W.L."
+      },
+      {
+        "family": "Schalk",
+        "given": "C.W."
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "Groundwater Technical Procedures of the U"
+    ],
+    "container-title": [
+      "S. Geological Survey. U.S. Geological Survey Techniques and Methods"
+    ],
+    "pages": [
+      "1– 1"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Deutsch",
+        "given": "C.V."
+      },
+      {
+        "family": "Journel",
+        "given": "A.G."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "GSLIB Geostatistical Software Library and User’s Guide"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "369"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "DTSC (California Department of Toxic Substances Control",
+      "EnviroStor website"
+    ],
+    "date": [
+      "2021"
+    ],
+    "url": [
+      "https://www.envirostor.dtsc.ca.gov/public/."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Dutcher",
+        "given": "L.C."
+      },
+      {
+        "family": "Fenzel",
+        "given": "F.W."
+      }
+    ],
+    "date": [
+      "1972",
+      "1972-02-09"
+    ],
+    "title": [
+      "Ground-Water Outflow, San Timoteo-Smiley Heights Area, Upper Santa Ana Valley, Southern California 1927 through 1968. Prepared in Cooperation with the San Bernardino County Flood Control District"
+    ],
+    "genre": [
+      "Open File Report 72-97."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Natural Communities Data Viewer, CaDWR Sustainable Groundwater Management"
+    ],
+    "note": [
+      "Accessed November 11, 2020."
+    ],
+    "url": [
+      "https://gis.water.ca.gov/app"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Personal communication re: Crafton Hills Reservoir"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "SGMA Data Viewer Land Subsidence"
+    ],
+    "url": [
+      "https://sgma.water.ca.gov/webgis/?appid=SGMADataViewer#landsub."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Frey"
+      }
+    ],
+    "date": [
+      "2019",
+      "2019-09-19"
+    ],
+    "title": [
+      "Post Remediation Soil Vapor Survey, Confirmation Soil Boring, and Request for No Further Action"
+    ],
+    "volume": [
+      "34253"
+    ],
+    "location": [
+      "Yucaipa Boulevard, Yucaipa, California"
+    ],
+    "container-title": [
+      "92399, RWQCB Case #083603375T, Global ID #T0607100543",
+      "Former J and J Texaco"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Fryer",
+        "given": "Janet L."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "Sambucus racemosa"
+    ],
+    "container-title": [
+      "Fire Effects Information System [Online]. U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station, Fire Sciences Laboratory (Producer"
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "Accessed July 20, 2020."
+    ],
+    "url": [
+      "https://www.fs.fed.us/database/feis/plants/shrub/samrac/all.html."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Geo-Logic"
+      }
+    ],
+    "date": [
+      "2018",
+      "2018-04-23"
+    ],
+    "title": [
+      "Remedial Action Plan for Enhanced Bioremediation for the Yucaipa Disposal Site, San Bernardino County. Prepared for the California Regional Water Quality Control Board Santa Ana Region Land Disposal Section & DoD Section"
+    ],
+    "publisher": [
+      "Prepared by San Bernardino County Department of Public Works"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Geo-Logic"
+      }
+    ],
+    "date": [
+      "2020",
+      "2020-06-15"
+    ],
+    "title": [
+      "Project Status Update In Situ Bioremediation of VOCs Yucaipa Disposal Site. Prepared for County of San Bernardino Solid Waste Management Division"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "G.S.S.I."
+      }
+    ],
+    "date": [
+      "2014",
+      "2014-04-17"
+    ],
+    "title": [
+      "Determination of the Usable Capacity and Safe Yield for Each Sub-basin within the Yucaipa Basin Area. Prepared for San Bernardino Valley Municipal Water District in Partnership with City of Redlands, San Gorgonio Pass Water Agency"
+    ],
+    "publisher": [
+      "South Mesa Water Company, Western Heights Water Company, City of Yucaipa, and Yucaipa Valley Water District"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "G.S.S.I."
+      }
+    ],
+    "date": [
+      "2021",
+      "2021-05-28"
+    ],
+    "title": [
+      "Calculation of the Volume of Groundwater Storage for Yucaipa Basin and Subbasins"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Prepared for San Bernardino Valley Municipal Water District"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Henson",
+        "given": "R.W."
+      },
+      {
+        "family": "Medina",
+        "given": "R.L."
+      },
+      {
+        "family": "Mayers",
+        "given": "C.L."
+      },
+      {
+        "family": "Niswonger",
+        "given": "R.G."
+      },
+      {
+        "family": "Regan",
+        "given": "R.S."
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "title": [
+      "CRT – Cascade Routing Tool to Define and Visualize Flow Paths for Grid-Based Watershed Models"
+    ],
+    "container-title": [
+      "U.S. Geological Survey Techniques and Methods"
+    ],
+    "pages": [
+      "6– 2"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Klausmeyer",
+        "given": "Kirk R."
+      },
+      {
+        "family": "Biswas",
+        "given": "Tanushree"
+      },
+      {
+        "family": "Rohde",
+        "given": "Melissa M."
+      },
+      {
+        "family": "Schuetzenmeister",
+        "given": "Falk"
+      },
+      {
+        "family": "Rindlaub",
+        "given": "Nathaniel"
+      },
+      {
+        "family": "Housman",
+        "given": "Ian"
+      },
+      {
+        "family": "Howard",
+        "given": "Jeanette K."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "GDE Pulse: Taking the Pulse of Groundwater Dependent Ecosystems with Satellite Data"
+    ],
+    "location": [
+      "San Francisco, California"
+    ],
+    "url": [
+      "https://gde.codefornature.org."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Lite",
+        "given": "S.J."
+      },
+      {
+        "family": "Stromberg",
+        "given": "J.C."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Surface Water and Ground-Water Thresholds for Maintaining Populus-Salix Forests, San Pedro River, Arizona"
+    ],
+    "volume": [
+      "125"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Biological Conservation"
+    ],
+    "pages": [
+      "153–167"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Markstrom",
+        "given": "S.L."
+      },
+      {
+        "family": "Regan",
+        "given": "R.S."
+      },
+      {
+        "family": "Hay",
+        "given": "L.E."
+      },
+      {
+        "family": "Viger",
+        "given": "R.J."
+      },
+      {
+        "family": "Webb",
+        "given": "R.M.T."
+      },
+      {
+        "family": "Payn",
+        "given": "R.A."
+      },
+      {
+        "family": "LaFontaine",
+        "given": "J.H."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "PRMS-IV, The Precipitation-Runoff Modeling System, Version 4"
+    ],
+    "note": [
+      "Book 6, Chapter B7."
+    ],
+    "url": [
+      "https://pubs.er.usgs.gov/publication/tm6B7."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "U. S. Geological Survey Techniques and Methods"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Matti",
+        "given": "J.C."
+      },
+      {
+        "family": "Morton",
+        "given": "D.M."
+      },
+      {
+        "family": "Cox",
+        "given": "B.F."
+      },
+      {
+        "family": "Carson",
+        "given": "S.E."
+      },
+      {
+        "family": "Yetter",
+        "given": "T.J."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "Geologic Map and Digital Database of the Yucaipa 7.5′ Quadrangle, San Bernardino and Riverside Counties, California, Version 1.0. U.S"
+    ],
+    "genre": [
+      "Geological Survey Open-File Report 03-301,"
+    ],
+    "publisher": [
+      "Summary Pamphlet"
+    ],
+    "url": [
+      "https://pubs.er.usgs.gov/publication/ofr03301."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Matti",
+        "given": "J.C."
+      },
+      {
+        "family": "Morton",
+        "given": "D.M."
+      },
+      {
+        "family": "Langenheim",
+        "given": "V.E."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "Geologic and Geophysical Maps of the El Casco 7.5′ Quadrangle, Riverside County, Southern California, with Accompanying Geologic-Map Database"
+    ],
+    "publisher": [
+      "U.S"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "Geological Survey Open-File Report 2010–1274, 3 sheets, scale 1:24,000"
+    ],
+    "url": [
+      "http://dx.doi.org/10.3133/ofr20101274."
+    ],
+    "doi": [
+      "10.3133/ofr20101274."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Mendez",
+        "given": "G.O."
+      },
+      {
+        "family": "Anders",
+        "given": "R."
+      },
+      {
+        "family": "McPherson",
+        "given": "K.R."
+      },
+      {
+        "family": "Danskin",
+        "given": "W.R."
+      }
+    ],
+    "date": [
+      "2018",
+      "1974-11-01"
+    ],
+    "title": [
+      "Geologic, hydrologic, and water-quality data from multiple-well monitoring sites in the Bunker Hill and Yucaipa Groundwater Subbasins"
+    ],
+    "location": [
+      "San Bernardino County, California"
+    ],
+    "note": [
+      "U.S. Geological Survey Data Series 1096."
+    ],
+    "url": [
+      "https://doi.org/10.3133/ds1096."
+    ],
+    "doi": [
+      "10.3133/ds1096."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Mendez",
+        "given": "G.O."
+      },
+      {
+        "family": "Danskin",
+        "given": "W.R."
+      },
+      {
+        "family": "Burton",
+        "given": "C.A."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "Surface-Water and Ground-Water Quality in the Yucaipa Area, San Bernardino and Riverside Counties, California 1996–98: U.S"
+    ],
+    "genre": [
+      "Geological Survey WaterResources Investigations Report 00-4269."
+    ],
+    "url": [
+      "https://pubs.usgs.gov/wri/wri004269/pdf/wrir004269.pdf."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Mendez",
+        "given": "G.O."
+      },
+      {
+        "family": "Langenheim",
+        "given": "V.E."
+      },
+      {
+        "family": "Morita",
+        "given": "Andrew"
+      },
+      {
+        "family": "Danskin",
+        "given": "W.R."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "Geologic Structure of the Yucaipa Area Inferred from Gravity Data, San Bernardino and Riverside Counties, California"
+    ],
+    "note": [
+      "Geological Survey Open-File Report 2016-1127."
+    ],
+    "url": [
+      "https://pubs.er.usgs.gov/publication/ofr20161127."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "U. S"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Moreland",
+        "given": "J.A."
+      }
+    ],
+    "date": [
+      "1970",
+      "1970-08-07"
+    ],
+    "title": [
+      "Artificial Recharge, Yucaipa, California. Prepared in Cooperation with the San Bernardino Valley Municipal Water District"
+    ],
+    "url": [
+      "https://pubs.usgs.gov/of/1970/0232/report.pdf."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "U. S. Geological Survey Open-File Report"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rewis",
+        "given": "D.L."
+      },
+      {
+        "family": "Christensen",
+        "given": "A.H."
+      },
+      {
+        "family": "Matti",
+        "given": "J."
+      },
+      {
+        "family": "Hevesi",
+        "given": "J.A."
+      },
+      {
+        "family": "Nishikawa",
+        "given": "T."
+      },
+      {
+        "family": "Martin",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "Geology, Ground-Water Hydrology, Geochemistry, and Ground-Water Simulation of the Beaumont and Banning Storage Units, San Gorgonio Pass Area"
+    ],
+    "location": [
+      "Riverside County, California"
+    ],
+    "note": [
+      "U.S. Geological Survey Scientific Investigations Report 2006-5026."
+    ],
+    "url": [
+      "https://pubs.usgs.gov/sir/2006/5026/."
+    ],
+    "type": "report"
+  },
+  {
+    "title": [
+      "RWQCB (California Regional Water Quality Control Board, Santa Ana Region",
+      "Resolution No"
+    ],
+    "date": [
+      "2004"
+    ],
+    "container-title": [
+      "R8-20040001: Resolution Amending the Water Quality Control Plan for the Santa Ana River Basin to Incorporate"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "S.B.C.F.C.D."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "Water Resources.” Online data for floodplain management, flood warning information, and hydrology expertise"
+    ],
+    "url": [
+      "http://cms.sbcounty.gov/dpw/FloodControl/WaterResources.aspx."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "S.B.V.M.W.D."
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Personal communication re: lack of recorded leakage from"
+    ],
+    "location": [
+      "Yucaipa Lakes"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Steinberg",
+        "given": "P.D."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Quercus agrifolia"
+    ],
+    "container-title": [
+      "Fire Effects Information System [Online]. U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station, Fire Sciences Laboratory (Producer"
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "Accessed May 18, 2020."
+    ],
+    "url": [
+      "https://www.fs.fed.us"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Stromberg",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "title": [
+      "Root Patterns and Hydrogeomorphic Niches of Riparian Plants in the American Southwest"
+    ],
+    "volume": [
+      "94"
+    ],
+    "pages": [
+      "1–9"
+    ],
+    "location": [
+      "Appendix B"
+    ],
+    "publisher": [
+      "Rooting Data for Shrubs and Trees"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Arid Environments"
+    ],
+    "issue": [
+      "2013"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "S.W.R.C.B."
+      }
+    ],
+    "date": [
+      "2018",
+      "2018-04-06"
+    ],
+    "title": [
+      "California Integrated Report (Clean Water Act Sections 303(d) List / 305(b"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Report"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "S.W.R.C.B."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "GeoTracker website"
+    ],
+    "url": [
+      "https://geotracker.waterboards.ca.gov/."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "J.L."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Populus fremontii"
+    ],
+    "container-title": [
+      "Fire Effects Information System [Online]. U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station, Fire Sciences Laboratory (Producer"
+    ],
+    "note": [
+      "Accessed July 20, 2020."
+    ],
+    "url": [
+      "https://www.fs.fed.us/database/feis/plants/tree/popfre/all.html."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "T.N.C."
+      }
+    ],
+    "date": [
+      "2019",
+      "2019-07"
+    ],
+    "title": [
+      "Identifying GDEs Under SGMA: Best Practices for Using the NC Dataset"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.N.C."
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "SGMA Tools: Plant Rooting Depth Database"
+    ],
+    "note": [
+      "Accessed July 23, 2020."
+    ],
+    "url": [
+      "https://groundwaterresourcehub.org/sgma-tools/gde-rooting-depths-database-for-gdes/."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Umari",
+        "given": "A.M."
+      },
+      {
+        "family": "Martin",
+        "given": "P."
+      },
+      {
+        "family": "Shroeder",
+        "given": "R.A."
+      },
+      {
+        "family": "Duell",
+        "given": "L.F.W."
+      },
+      {
+        "family": "Fay",
+        "given": "R.G."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "title": [
+      "Potential for Ground-Water Contamination from Movement of Wastewater through the Unsaturated Zone, Upper Mojave River Basin"
+    ],
+    "location": [
+      "California"
+    ],
+    "note": [
+      "U.S. Geological Survey Water Resources Investigations, Report 93-4137."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "given": "U.R.S."
+      }
+    ],
+    "date": [
+      "2007",
+      "2007-11"
+    ],
+    "title": [
+      "Supplemental Environmental Assessment to the Programmatic Environmental Assessment (PEA) for Typical Recurring Actions Resulting from Flood, Earthquake, Fire, Rain"
+    ],
+    "container-title": [
+      "and Wind Disasters in California as Proposed by the Federal Emergency Management Agency, City of Yucaipa, Wildwood Creek Flood Mitigation Detention Basin Project. PDMC-PJ-CA-2005-036"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "U.S.F.S."
+      }
+    ],
+    "title": [
+      "Department of Agriculture Forest Service",
+      "Fire Effects Information System"
+    ],
+    "date": [
+      "2020",
+      "2020"
+    ],
+    "note": [
+      "Accessed May 18,"
+    ],
+    "pages": [
+      "– – – –"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "U.S.G.A."
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "title": [
+      "How Much Water Does Golf Use and Where Does It Come From?” In Golf’s Use of Water: A Solution to a More Sustainable Game"
+    ],
+    "note": [
+      "a Water Summit presented by USGA on November 6 and 7, 2012."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "n.d",
+        "given": "U.S.G.S."
+      }
+    ],
+    "title": [
+      "Areas of Land Subsidence in California"
+    ],
+    "note": [
+      "Accessed August 21, 2020."
+    ],
+    "url": [
+      "https://ca.water.usgs.gov/land_subsidence/california-subsidence-areas.html."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "U.S.G.S."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "USGS Water Data for California"
+    ],
+    "container-title": [
+      "USGS National Water Information System (NWIS"
+    ],
+    "note": [
+      "web application]."
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "Accessed November 14, 2018."
+    ],
+    "url": [
+      "https://waterdata.usgs.gov/ca/nwis."
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "WSC (Water Systems Consulting Inc.). 2018.",
+      "Amended June 2017. Errata Incorporated April 2018."
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "San Bernardino Valley Regional Urban Water Management Plan. Prepared by Water Systems Consulting Inc. for San Bernardino Valley Municipal Water District et al"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Y.V.W.D."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "A Strategic Plan for a Sustainable Future – The Integration and Preservation of Resources"
+    ],
+    "note": [
+      "Adopted by the YVWD Board of Directors on August 20, 2008."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Y.V.W.D."
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Urban Water Management Plan. Prepared by Yucaipa Valley Water District"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3,539"
+    ],
+    "author": [
+      {
+        "given": "Y.V.W.D."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Y.V.W.D."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Y.V.W.D."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Y.V.W.D."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Y.V.W.D."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Y.V.W.D."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Y.V.W.D."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Y.V.W.D."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Luhdorff"
+      },
+      {
+        "family": "Scalmanini Consulting Engineers",
+        "given": "J.W.Borchers"
+      },
+      {
+        "family": "Carpenter",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2014",
+      "2014-04"
+    ],
+    "title": [
+      "Land Subsidence from Groundwater Use in California. Full Report of Findings prepared for California Water Foundation"
+    ],
+    "pages": [
+      "151"
+    ],
+    "url": [
+      "http://ca.water.usgs.gov/land_subsidence/california-subsidence-cause-effect.html"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Faunt",
+        "given": "C.C."
+      },
+      {
+        "family": "Sneed",
+        "given": "M."
+      },
+      {
+        "family": "Traum",
+        "given": "J."
+      },
+      {
+        "family": "Brandt",
+        "given": "J.T."
+      },
+      {
+        "family": "Hydrogeol",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2015",
+      "2016"
+    ],
+    "title": [
+      "Water availability and land subsidence in the Central Valley"
+    ],
+    "location": [
+      "California, USA"
+    ],
+    "volume": [
+      "24"
+    ],
+    "pages": [
+      "675"
+    ],
+    "doi": [
+      "10.1007/s10040-015-1339-x."
+    ],
+    "url": [
+      "https://pubs.er.usgs.gov/publication/701605"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Poland",
+        "given": "J.F."
+      },
+      {
+        "family": "Lofgren",
+        "given": "B.E."
+      },
+      {
+        "family": "Ireland",
+        "given": "R.L."
+      },
+      {
+        "family": "Pugh",
+        "given": "R.G."
+      }
+    ],
+    "date": [
+      "1975"
+    ],
+    "title": [
+      "Land subsidence in the San Joaquin Valley"
+    ],
+    "container-title": [
+      "California, as of 1972; US Geological Survey Professional Paper 437-H; prepared in cooperation with the California Department of Water Resources"
+    ],
+    "pages": [
+      "87"
+    ],
+    "url": [
+      "http://pubs.usgs.gov/pp/0437h/report.pdf"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Sneed",
+        "given": "M."
+      },
+      {
+        "family": "Brandt",
+        "given": "J.T."
+      },
+      {
+        "family": "Solt",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "title": [
+      "Land subsidence along the Delta-Mendota Canal in the northern part of the San Joaquin Valley"
+    ],
+    "container-title": [
+      "California, 2003-10; USGS Scientific Investigations Report 2013-5142, prepared in cooperation with U.S. Bureau of Reclamation and the San Luis and Delta-Mendota Water Authority"
+    ],
+    "url": [
+      "https://pubs.er.usgs.gov/publication/sir20135142"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Sneed",
+        "given": "M."
+      },
+      {
+        "family": "Brandt",
+        "given": "J.T."
+      },
+      {
+        "family": "Solt",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2014",
+      "1993"
+    ],
+    "title": [
+      "Land subsidence, groundwater levels, and geology in the Coachella Valley",
+      "U.S"
+    ],
+    "location": [
+      "California"
+    ],
+    "genre": [
+      "Geological Survey, Scientific Investigations Report 2014–5075,"
+    ],
+    "pages": [
+      "62"
+    ],
+    "url": [
+      "http://dx.doi.org/10.3133/sir20145075."
+    ],
+    "container-title": [
+      "STANDARDS California Department of Transportation, various dates. Caltrans Surveys Manual. http://www.dot.ca.gov/hq/row/landsurveys/SurveysManual/Manual_TOC.html U.S. Environmental Protection Agency, 2006. Guidance on Systematic Planning Using the Data"
+    ],
+    "doi": [
+      "10.3133/sir20145075."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Rice",
+        "given": "E.W."
+      },
+      {
+        "family": "Baire",
+        "given": "R.B."
+      },
+      {
+        "family": "Eaton",
+        "given": "A.D."
+      },
+      {
+        "given": "L.S."
+      },
+      {
+        "family": "Barcelona",
+        "given": "Water Environment Federation G.U.I.D.A.N.C.E."
+      },
+      {
+        "family": "M.J.",
+        "given": "J.P.Gibb"
+      },
+      {
+        "family": "Helfrich",
+        "given": "J.A."
+      },
+      {
+        "given": "EEGraske"
+      },
+      {
+        "family": "Buchanan",
+        "given": "T.J."
+      },
+      {
+        "family": "Somers",
+        "given": "W.P."
+      },
+      {
+        "family": "Cunningham",
+        "given": "W.L."
+      },
+      {
+        "family": "Schalk",
+        "given": "C.W."
+      },
+      {
+        "given": "comps"
+      }
+    ],
+    "edition": [
+      "Clesceri"
+    ],
+    "date": [
+      "2012",
+      "1985",
+      "1969",
+      "2011",
+      "2010",
+      "2001"
+    ],
+    "title": [
+      "Standard methods for the examination of water and wastewater",
+      "Practical Guide for GroundWater Sampling",
+      "Discharge measurements at gaging stations; techniques of water-resources investigations of the United States Geologic Survey chapter A8",
+      "Groundwater technical procedures of the U.S",
+      "Groundwater elevation monitoring guidelines",
+      "Introduction to field methods for hydrologic and environmental studies"
+    ],
+    "location": [
+      "Washington, DC",
+      "Champaign, Illinois",
+      "Washington D.C",
+      "Holmes, R.R. Jr., P.J. Terrio, M.A",
+      "Urbana, Illinois"
+    ],
+    "publisher": [
+      "American Public Health Association, American Water Works Association",
+      "Illinois State Water Survey",
+      "California Department of Water Resources",
+      "Harris, and P.C. Mills",
+      "USGS"
+    ],
+    "pages": [
+      "103",
+      "241"
+    ],
+    "url": [
+      "http://pubs.usgs.gov/twri/twri3a8/html/pdf.html",
+      "https://pubs.usgs.gov/tm/1a1/pdf/tm1-a1.pdf",
+      "http://www.water.ca.gov/groundwater/casgem/pdfs/CASGEM%20DWR%20GW%20Gu",
+      "https://pubs.er.usgs.gov/publication/ofr0150"
+    ],
+    "container-title": [
+      "Geological Survey: U.S. Geological Survey Techniques and Methods 1–A1"
+    ],
+    "genre": [
+      "open-file report 01-50,"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Puls",
+        "given": "R.W."
+      },
+      {
+        "family": "Barcelona",
+        "given": "M.J."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "Low-Flow (Minimal Drawdown) Ground-Water Sampling Procedures; US EPA"
+    ],
+    "note": [
+      "Ground Water Issue EPA/540/S-95/504."
+    ],
+    "url": [
+      "https://www.epa.gov/sites/production/files/2015-06/documents/lwflw2a.pdf"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Rantz",
+        "given": "S.E."
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "title": [
+      "Measurement and computation of streamflow; U.S. Geological Survey, Water Supply Paper 2175"
+    ],
+    "url": [
+      "http://pubs.usgs.gov/wsp/wsp2175/#table"
+    ],
+    "note": [
+      "Subcommittee on Ground Water of the Advisory Committee on Water Information,"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2013",
+      "2013"
+    ],
+    "title": [
+      "A national framework for ground-water monitoring in the United States",
+      "Operating Procedure: Groundwater Sampling SESDPROC-301-R3"
+    ],
+    "url": [
+      "http://acwi.gov/sogw/ngwmn_framework_report_july2013.pdf"
+    ],
+    "author": [
+      {
+        "family": "Vail",
+        "given": "J."
+      },
+      {
+        "family": "France",
+        "given": "D."
+      },
+      {
+        "family": "Lewis",
+        "given": "B."
+      }
+    ],
+    "publisher": [
+      "California Department of Water Resources"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "Groundwater Monitoring Protocols, Standards, and Sites BMP"
+    ],
+    "url": [
+      "https://www.epa.gov/sites/production/files/2015-06/documents/GroundwaterSampling.pdf"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "F.D."
+      }
+    ],
+    "date": [
+      "2005-01",
+      "ver. 2.0"
+    ],
+    "title": [
+      "Preparations for water sampling",
+      "U.S. Geological Survey Techniques of Water-Resources Investigations, book 9, chap"
+    ],
+    "url": [
+      "http://water.usgs.gov/owq/FieldManual/compiled/NFM_complete.pdf",
+      "http://water.usgs.gov/osw/gps/"
+    ],
+    "container-title": [
+      "ONLINE RESOURCES Online System for Well Completion Reports (OSWCR). California Department of Water Resources. http://water.ca.gov/oswcr/index.cfm Measuring Land Subsidence web page. U.S. Geological Survey. http://ca.water.usgs.gov/land_subsidence/california-subsidence-measuring.html USGS Global Positioning Application and Practice web",
+      "A1"
+    ],
+    "pages": [
+
+    ],
+    "note": [
+      "U.S. Geological Survey."
+    ],
+    "type": "article-journal"
+  },
+  {
+    "title": [
+      "California Departement of Water Resources"
+    ],
+    "date": [
+      "2003"
+    ],
+    "volume": [
+      "Bulletin 118-03"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "California's Groundwater"
+    ]
+  },
+  {
+    "title": [
+      "California Department of Water Resources",
+      "California Water Plan Update"
+    ],
+    "date": [
+      "2009",
+      "2009"
+    ],
+    "pages": [
+      "160–09"
+    ],
+    "type": null
+  }
+]

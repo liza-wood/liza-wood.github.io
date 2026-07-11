@@ -1,0 +1,128 @@
+[
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2016-12"
+    ],
+    "title": [
+      "Best Management Practices for the Sustainable Management of Groundwater: Monitoring Protocols, Standards, and Sites"
+    ],
+    "type": "article-journal",
+    "container-title": [
+
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "District",
+        "given": "Gravelly Ford Water"
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "publisher": [
+      "Water Management Plan"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Program",
+        "given": "San Joaquin River Restoration"
+      }
+    ],
+    "date": [
+      "XXXX"
+    ],
+    "title": [
+      "Background and History"
+    ],
+    "note": [
+      "Retrieved from San Joaquin River Restoration Program:"
+    ],
+    "url": [
+      "http://www.restoresjr.net/about/backgroundand-history/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ulrich",
+        "given": "R."
+      },
+      {
+        "family": "Stromberg",
+        "given": "L.K."
+      }
+    ],
+    "date": [
+      "1962"
+    ],
+    "title": [
+      "Soil Survey, Madera area, California"
+    ],
+    "container-title": [
+      "US Soil Conservation Service"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Average"
+      }
+    ],
+    "date": [
+      "1989",
+      "1989"
+    ],
+    "title": [
+      "Average (1989-2014) W Average"
+    ],
+    "note": [
+      "AN Average (1989-2014) BN Average (1989-2014) D Average (1989-2014) C"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "559–233–7161"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "NKGSA",
+        "given": "About"
+      }
+    ],
+    "title": [
+      "The North Kings Groundwater Sustainability Agency is a Joint Powers Authority formed in",
+      "Composed of local public agencies and others engaged through binding agreements, the NKGSA is the governing body of a portion of the Kings Subbasin (DWR Bulleting 118, 5-22.08) in compliance with the Sustainable Groundwater Management Act of",
+      "NKGSA members are Bakman Water Company, Biola Community Services District"
+    ],
+    "date": [
+      "2016-12",
+      "2014"
+    ],
+    "publisher": [
+      "City of Clovis, City of Fresno, City of Kerman, County of Fresno"
+    ],
+    "location": [
+      "Fresno"
+    ],
+    "note": [
+      "Irrigation District, Fresno Metropolitan Flood Control District, Garfield Water District, and International Water District."
+    ],
+    "type": null
+  }
+]

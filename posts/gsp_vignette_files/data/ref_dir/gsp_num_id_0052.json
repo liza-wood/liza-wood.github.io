@@ -1,0 +1,584 @@
+[
+  {
+    "author": [
+      {
+        "given": "A.C.C."
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "title": [
+      "Installation Sustainability Assessment Report. Beale Air Force Base: Air Combat Comand"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "A.C.W.I."
+      },
+      {
+        "family": "Ayers",
+        "given": "R.S."
+      },
+      {
+        "family": "Westcot",
+        "given": "D.W."
+      },
+      {
+        "family": "Berkstresser",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2013",
+      "1985",
+      "1973"
+    ],
+    "title": [
+      "A National Framework for Ground-Water Monitoring in the United States",
+      "Water Quality for Agriculture. Food and Agriculture Organization of the United Nations"
+    ],
+    "container-title": [
+      "The Advisory Committee on Water Information"
+    ],
+    "note": [
+      "Retrieved October 16, 2019, from",
+      "Retrieved January 23, 2019, from",
+      "Base of fresh ground water, in the Sacramento Valley and Sacramento-San Joaquin Delta, California. Department of the Interior, U.S. Geological Survey."
+    ],
+    "url": [
+      "https://acwi.gov/sogw/ngwmn_framework_report_july2013.pdf",
+      "http://www.fao.org/docrep/003/T0234E/T0234E00.htm#TOC"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Bezerra",
+        "given": "R.S."
+      },
+      {
+        "family": "West",
+        "given": "Y.M."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Submerged in the Yuba River: The State Water Resources Control Board’s Prioritization of the Governor’s Commission’s Proposals"
+    ],
+    "volume": [
+      "331"
+    ],
+    "pages": [
+      "332"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "36 McGeorge Law Review"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "District",
+        "given": "Browns Valley Irrigation"
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "Agricultural Water Management Plan 2015"
+    ],
+    "note": [
+      "Retrieved June 23, 2016, from"
+    ],
+    "url": [
+      "https://water.ca.gov/LegacyFiles/wateruseefficiency/sb7/docs/2016/Browns%20Valley%20ID%202016%20A"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Sustainable Management Act 2019 Basin Prioritization"
+    ],
+    "note": [
+      "Retrieved December 19, 2019, from"
+    ],
+    "url": [
+      "https://data.cnra.ca.gov/dataset/13ebd2d3-4e62-4fee-9342-d7c3ef3e0079/resource/ffafd27b-5e7e-4db3b846-e7b3cb5c614c/download/sgma_bp_process_document.pdf"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      },
+      {
+        "given": "Reclamation"
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "DWR/USBR Sacramento Valley Subsidence Project"
+    ],
+    "genre": [
+      "Project Report."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      },
+      {
+        "family": "DWR",
+        "given": "Central District"
+      }
+    ],
+    "date": [
+      "XXXX",
+      "2007"
+    ],
+    "title": [
+      "California Data Exchange Brochure",
+      "Monitoring Well Construction Technical Assistance"
+    ],
+    "note": [
+      "Retrieved November 27, 2018, from"
+    ],
+    "url": [
+      "https://cdec.water.ca.gov/misc/CDEC_Brochure.pdf"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "N.O.A.A."
+      }
+    ],
+    "title": [
+      "Retrieved October 16, 2019, from https://www.ngs.noaa.gov/PUBS_LIB/NGS-58.html Olivehurst Public Utility District"
+    ],
+    "date": [
+      "2017"
+    ],
+    "publisher": [
+      "Urban Water Management Plan"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Page",
+        "given": "R.W."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "title": [
+      "Geology of the Fresh Ground-Water Basin of the Central Valley"
+    ],
+    "container-title": [
+      "California, with Texture Maps and Sections. USGS Professional Paper 1401-C"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Rantz",
+        "given": "S."
+      },
+      {
+        "given": "S.A.C.O.G."
+      }
+    ],
+    "date": [
+      "1982",
+      "2016"
+    ],
+    "title": [
+      "Measurement and Computation of Streamflow: Volume 1. Measurement of Stage and Discharge"
+    ],
+    "note": [
+      "Retrieved from",
+      "Retrieved December 10, 2018, from"
+    ],
+    "url": [
+      "https://pubs.usgs.gov/wsp/wsp2175/pdf/WSP2175_vol1a.pdf",
+      "https://www.sacog.org/post/sacog-2016-mtpscs-modeling-projections-2012-2020and-2036"
+    ],
+    "container-title": [
+      "SACOG 2016 MTP/SCS MODELING PROJECTIONS FOR 2012, 2020 AND 2036"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Program",
+        "given": "Sacramento River Watershed"
+      }
+    ],
+    "date": [
+      "XXXX",
+      "2018"
+    ],
+    "title": [
+      "A Roadmap to Watershed Management",
+      "Sacramento Valley Water Quality Coalition",
+      "Monitoring and Reporting Program: Annual Monitoring Report"
+    ],
+    "note": [
+      "Retrieved 2018, from"
+    ],
+    "url": [
+      "http://www.sacriver.org/aboutwatershed/roadmap"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2017",
+      "2005"
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "url": [
+      "http://www.svwqc.org/wp-content/uploads/2018/05/SVWQC_2017_AMR_2017.pdf"
+    ],
+    "title": [
+      "San Joaquin County",
+      "San Joaquin County Well Standards"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Staff",
+        "given": "Soil Survey"
+      }
+    ],
+    "title": [
+      "Natural Resources Conservation Service, United States Department of Agriculture",
+      "Soil Survey Geographic (SSURGO) Database for Yuba County, California"
+    ],
+    "date": [
+      "2018"
+    ],
+    "note": [
+      "Retrieved December 10, 2018, from"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fish",
+        "given": "California Department",
+        "particle": "of"
+      },
+      {
+        "given": "Wildlife"
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "Statewide Drought Response: Stressor Monitoring"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Summary Report"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fish",
+        "given": "California Department",
+        "particle": "of"
+      },
+      {
+        "given": "Wildlife"
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Fish Species Information and Conservations Efforts.or"
+    ],
+    "url": [
+      "https://www.wildlife.ca.aov/Conservation/Fishes."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Naumburg",
+        "given": "E."
+      },
+      {
+        "family": "Mata-Gonzalez",
+        "given": "R."
+      },
+      {
+        "family": "R.G.",
+        "given": "Hunter"
+      },
+      {
+        "family": "McLendon",
+        "given": "T."
+      },
+      {
+        "family": "D.W",
+        "given": "Martin"
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Phreatophytic vegetation and groundwater fluctuations: a review of current research and application of ecosystem response modeling with an emphasis on great basin vegetation\""
+    ],
+    "volume": [
+      "35"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Environmental Management"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "726–40"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Oceanic",
+        "given": "National"
+      },
+      {
+        "family": "Administration",
+        "given": "Atmospheric"
+      }
+    ],
+    "title": [
+      "Endangered Species Act Critical Habitat, \"or https://archive.fisheries.noaa.qov/wcr/maps data/endangered species act critical habi tat.html"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Rohde",
+        "given": "M.M."
+      },
+      {
+        "family": "Matsumoto",
+        "given": "S."
+      },
+      {
+        "family": "Howard",
+        "given": "J."
+      },
+      {
+        "family": "Liu",
+        "given": "S."
+      },
+      {
+        "family": "Riege",
+        "given": "L."
+      },
+      {
+        "family": "Remson",
+        "given": "E.J."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Groundwater Dependent Ecosystems under the Sustainable Groundwater Management Act: Guidance for Preparing Groundwater Sustainability Plans.\"The Nature Conservancy"
+    ],
+    "location": [
+      "San Francisco, CA"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Cohen",
+        "given": "K.M."
+      },
+      {
+        "family": "Finney",
+        "given": "S."
+      },
+      {
+        "family": "Gibbard",
+        "given": "P.L."
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "title": [
+      "International Chronostratigraphic Chart: International Commission on Stratigraphy"
+    ],
+    "url": [
+
+    ],
+    "note": [
+      "accessed May 2012). (Chart reproduced for the 34th International Geological Congress, Brisbane, Australia, 5–10 August 2012."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Cohen",
+        "given": "K.M."
+      },
+      {
+        "family": "Finney",
+        "given": "S.C."
+      },
+      {
+        "family": "Gibbard",
+        "given": "P.L."
+      },
+      {
+        "family": "Fan",
+        "given": "J.-X."
+      }
+    ],
+    "date": [
+      "2013",
+      "2017"
+    ],
+    "title": [
+      "The ICS International Chronostratigraphic Chart"
+    ],
+    "volume": [
+      "36",
+      "v. 2"
+    ],
+    "pages": [
+      "199–204"
+    ],
+    "url": [
+      "http://www.stratigraphy.org/index.php/ics-chart-timescale;"
+    ],
+    "note": [
+      "accessed May 2018)."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Episodes"
+    ],
+    "issue": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gradstein",
+        "given": "F.M."
+      },
+      {
+        "family": "Ogg",
+        "given": "J.G."
+      },
+      {
+        "family": "Schmitz",
+        "given": "M.D."
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "2012",
+      "https://doi.org/10.1016/B978-0-444-59425-9.00004-4"
+    ],
+    "title": [
+      "The Geologic Time Scale 2012",
+      "Previous versions of the time scale and previously published papers about the time scale and its evolution are posted to"
+    ],
+    "location": [
+      "Boston, USA"
+    ],
+    "publisher": [
+      "Elsevier"
+    ],
+    "url": [
+      "http://www.geosociety.org/timescale."
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "U.S."
+      }
+    ],
+    "title": [
+      "Environmental Protection Agency Region 1, 2017, Calibration of Field Instruments"
+    ],
+    "note": [
+      "temperature, pH, dissolved oxygen, conductivity/specific conductance, oxidation/reduction (ORP), and turbidity), dated June 3, 1998, revised March 23."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Agency",
+        "given": "U.S.Environmental Protection"
+      }
+    ],
+    "date": [
+      "2017",
+      "1996-07-30"
+    ],
+    "title": [
+      "Low Stress (low flow) Purging and Sampling Procedure for the Collection of Ground Water Samples from Monitoring Wells"
+    ],
+    "note": [
+      "revised September 19."
+    ],
+    "type": null
+  }
+]

@@ -1,0 +1,3217 @@
+[
+  {
+    "author": [
+      {
+        "family": "Lemoore",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2015",
+      "2019-07-17"
+    ],
+    "title": [
+      "Urban Water Management Plan"
+    ],
+    "note": [
+      "Accessed on:"
+    ],
+    "type": null
+  },
+  {
+    "url": [
+      "https://lemoore.com/wp-content/uploads/2018/02/lemoore_2015_uwmp_final.pdf"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Croft",
+        "given": "M.G."
+      }
+    ],
+    "date": [
+      "1972"
+    ],
+    "title": [
+      "Subsurface Geology of the Later Tertiary and Quaternary Water-Bearing Deposits of the Southern Part of the"
+    ],
+    "location": [
+      "San Joaquin Valley, California"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Croft",
+        "given": "M.G."
+      },
+      {
+        "family": "Gordon",
+        "given": "G.V."
+      }
+    ],
+    "date": [
+      "1968"
+    ],
+    "title": [
+      "Geology, Hydrology, and Quality of Water in the HanfordVisalia Area"
+    ],
+    "location": [
+      "San Joaquin Valley, California"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Databasin"
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "W.H. Wilbur Reclamation District #825"
+    ],
+    "note": [
+      "Accessed on: 12 December 2019."
+    ],
+    "url": [
+      "https://databasin.org/maps/new#datasets=8aee127380164046b32c2c85dee44d55."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Davis",
+        "given": "G.H."
+      },
+      {
+        "family": "Green",
+        "given": "J.H."
+      },
+      {
+        "family": "Olmsted",
+        "given": "F.H."
+      },
+      {
+        "family": "Brown",
+        "given": "D.W."
+      }
+    ],
+    "date": [
+      "1959"
+    ],
+    "note": [
+      "Ground-Water Conditions and"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Storage Capacity in the San Joaquin Valley. Prepared for: U.S"
+    ],
+    "container-title": [
+      "Geological Survey WaterSupply Paper 1469"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Davis",
+        "given": "G.H."
+      },
+      {
+        "family": "Lofgren",
+        "given": "B.E."
+      },
+      {
+        "family": "Mack",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1964"
+    ],
+    "title": [
+      "Use of Ground-Water Reservoirs for Storage of Surface Water in the San Joaquin Valley, California. Prepared for: U.S"
+    ],
+    "volume": [
+      "1618"
+    ],
+    "pages": [
+      "125"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Survey Water-Supply Paper"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Davis",
+        "given": "G.H."
+      },
+      {
+        "family": "Coplen",
+        "given": "T.B."
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "title": [
+      "Late Cenozoic Paleohydrogeology of the Western San Joaquin Valley, California, as Related to Structural Movements in the Central Coast Ranges"
+    ],
+    "volume": [
+      "234"
+    ],
+    "pages": [
+      "40"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Prepared for: Geological Society of America Special Paper"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "D.G.S."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "SPI GIS Map Viewer"
+    ],
+    "note": [
+      "Accessed on: 24 July 1019."
+    ],
+    "url": [
+      "https://spigis.apps.dgs.ca.gov/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "D.O.F."
+      }
+    ],
+    "date": [
+      "2019",
+      "2019-07-17"
+    ],
+    "title": [
+      "Projections Organization Title"
+    ],
+    "url": [
+      "http://www.dof.ca.gov/Forecasting/Demographics/Projections/."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Accessed"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "D.P.R."
+      }
+    ],
+    "date": [
+      "2019",
+      "2019-07-17",
+      "2019"
+    ],
+    "title": [
+      "Surface Water Database (SURF) Access to the Data"
+    ],
+    "note": [
+      "Accessed on:",
+      "Dudley Ridge WD (Dudley Ridge Water District). 2012. 2012 Agricultural Water Management Plan. Accessed on: 17 July 2019.",
+      "EnviroStor. Accessed July 17, 2019."
+    ],
+    "url": [
+      "https://www.cdpr.ca.gov/docs/emon/surfwtr/surfcont.htm",
+      "https://water.ca.gov/LegacyFiles/wateruseefficiency/sb7/docs/2014/plans/Dudley%20R",
+      "https://www.envirostor.dtsc.ca.gov/public/"
+    ],
+    "container-title": [
+      "idge%20WD%202012%20AWMP.pdf DTSC (Department of Toxic Substances Control"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "title": [
+      "Water Well Standards: State of California Bulletin 74-81",
+      "4-81_/ca_well_standards_bulletin74-81_1981.pdf Page 8–2"
+    ],
+    "note": [
+      "Accessed on: 17 July 2019."
+    ],
+    "url": [
+      "https://water.ca.gov/LegacyFiles/pubs/groundwater/water_well_standards__bulletin_7"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "E.P.A."
+      },
+      {
+        "family": "Farr",
+        "given": "T.G."
+      },
+      {
+        "family": "Jones",
+        "given": "C.E."
+      },
+      {
+        "family": "Liu",
+        "given": "Z."
+      }
+    ],
+    "date": [
+      "2019",
+      "2015"
+    ],
+    "title": [
+      "Wellhead Protection Program",
+      "Progress Report: Subsidence in the Central Valley, California"
+    ],
+    "note": [
+      "Accessed on 12 December 2019."
+    ],
+    "url": [
+      "https://www3.epa.gov/region1/eco/drinkwater/pc_wellhead_protection.html"
+    ],
+    "location": [
+      "Prepared for"
+    ],
+    "publisher": [
+      "Jet Propulsion Laboratory, California Institute of Technology"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Farr",
+        "given": "T.G."
+      },
+      {
+        "family": "Jones",
+        "given": "C.E."
+      },
+      {
+        "family": "Liu",
+        "given": "Z."
+      }
+    ],
+    "date": [
+      "2017",
+      "2015-03"
+    ],
+    "title": [
+      "Progress Report: Subsidence in California"
+    ],
+    "type": null
+  },
+  {
+    "editor": [
+      {
+        "family": "Faunt",
+        "given": "C.C."
+      }
+    ],
+    "date": [
+      "2009",
+      "1766"
+    ],
+    "title": [
+      "Groundwater Availability of the Central Valley Aquifer"
+    ],
+    "location": [
+      "California"
+    ],
+    "publisher": [
+      "U.S. Geological Survey Professional Paper"
+    ],
+    "pages": [
+      "225"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "County",
+        "given": "Fresno"
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "Fresno County General Plan"
+    ],
+    "note": [
+      "Accessed on: 17 July 2019."
+    ],
+    "url": [
+      "https://www.co.fresno.ca.us/home/showdocument?id=1811"
+    ],
+    "location": [
+      "Page"
+    ],
+    "pages": [
+      "8–4"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Gray",
+        "given": "Brian"
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "The Public Trust and SGMA. Posted October 7, 2018, to the California Water Blog by US Davis Center for Watershed Sciences"
+    ],
+    "note": [
+      "Accessed August 20, 2019."
+    ],
+    "type": null
+  },
+  {
+    "url": [
+      "https://californiawaterblog.com/2018/10/07/the-public-trust-and-sgma/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hansen",
+        "given": "J.A."
+      },
+      {
+        "family": "Jurgens",
+        "given": "B.C."
+      },
+      {
+        "family": "Fram",
+        "given": "M.S."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Quantifying Anthropogenic Contributions to Century-Scale Groundwater Salinity Changes"
+    ],
+    "location": [
+      "San Joaquin Valley, California, USA"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Harder",
+        "given": "T."
+      },
+      {
+        "family": "Water",
+        "given": "J.Van",
+        "particle": "de"
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "Hydrogeological Conceptual Model and Water Budget of the Tule Subbasin"
+    ],
+    "publisher": [
+      "Tule Subbasin MOU Group"
+    ],
+    "pages": [
+      "49"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hilton",
+        "given": "G.S."
+      },
+      {
+        "family": "Klausing",
+        "given": "R.L."
+      },
+      {
+        "family": "Kunkel",
+        "given": "F."
+      }
+    ],
+    "date": [
+      "1963"
+    ],
+    "title": [
+      "Geology of the Terra Bella-Lost Hills Area"
+    ],
+    "location": [
+      "San Joaquin Valley, California, Prepared for"
+    ],
+    "publisher": [
+      "U.S"
+    ],
+    "genre": [
+      "Geological Survey Open-File Report 63-47,"
+    ],
+    "pages": [
+      "158"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Authority",
+        "given": "High-Speed Rail"
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "California High-Speed Rail Authority"
+    ],
+    "note": [
+      "Accessed on: 18 July"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2019"
+    ],
+    "url": [
+      "https://www.hsr.ca.gov/communication/info_center/maps.aspx."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "CSD",
+        "given": "Home Garden"
+      }
+    ],
+    "date": [
+      "2015",
+      "2019-07-19"
+    ],
+    "title": [
+      "Home Garden Community Plan"
+    ],
+    "note": [
+      "Accessed on:"
+    ],
+    "url": [
+      "https://www.countyofkings.com/home/showdocument?id=13507"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hopkins",
+        "given": "J.A."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "A Field Manual for Groundwater-level Monitoring at the Texas Water Development Board"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "I.W.P."
+      },
+      {
+        "given": "D.C."
+      },
+      {
+        "family": "R.L.",
+        "given": "Ireland"
+      },
+      {
+        "family": "Poland",
+        "given": "J.F."
+      },
+      {
+        "family": "Riley",
+        "given": "F.S."
+      }
+    ],
+    "date": [
+      "2004",
+      "1984"
+    ],
+    "title": [
+      "They might be giants –Terminus dam’s new Fusegates. Prepared for: International Water Power & Dam Construction"
+    ],
+    "note": [
+      "Accessed on: 23 June 2019.",
+      "Land subsidence in the San Joaquin Valley,"
+    ],
+    "url": [
+      "http://www.waterpowermagazine.com/features/featurethey-might-be-giants-terminusdam-s-new-fusegates"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "California",
+        "given": "as of"
+      }
+    ],
+    "date": [
+      "1980"
+    ],
+    "title": [
+      "Prepared for: United States Geological Survey Professional Paper 437-I"
+    ],
+    "pages": [
+      "93"
+    ],
+    "note": [
+      "Accessed on: 2 July 2019."
+    ],
+    "url": [
+      "http://pubs.er.usgs.gov/usgspubs/pp/pp437I."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "I.T.R.C."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "California Crop and Soil Evapotranspiration for Water Balances and Irrigation Scheduling/Design"
+    ],
+    "location": [
+      "Prepared for"
+    ],
+    "publisher": [
+      "California Polytechnic State University"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "Irrigation Training and Research Center (Cal Poly Irrigation Training & Research Center"
+    ],
+    "date": [
+      "2008"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Irrigation District Energy Survey"
+    ],
+    "note": [
+      "Accessed on:",
+      "KCWD (Kings County Water District). 2011. Groundwater Management Plan."
+    ],
+    "date": [
+      "2019-07-10"
+    ],
+    "url": [
+      "http://www.itrc.org/reports/pdf/districtenergy.pdf"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "K.D.W.C.D."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "District Projects"
+    ],
+    "note": [
+      "Accessed on: 2 August 2018."
+    ],
+    "url": [
+      "http://www.kdwcd.com/kdwcdweb_002.html"
+    ],
+    "pages": [
+      "8–5"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "8–6"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Department",
+        "given": "Kings County Public Health"
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "Requirements for New Wells: Community and Nontransient Noncommunity Water Systems"
+    ],
+    "container-title": [
+      "Division of Environmental Health Services"
+    ],
+    "note": [
+      "Accessed on: 13 June 2019."
+    ],
+    "url": [
+      "https://www.countyofkings.com/home/showdocument?id=17230"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "County",
+        "given": "Kings"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Revised Dairy Element of Kings General Plan"
+    ],
+    "note": [
+      "Accessed on: 12 December"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2019",
+      "2011",
+      "2019-07-17",
+      "2009"
+    ],
+    "url": [
+      "https://www.countyofkings.com/departments/community-developmentagency/information/dairy-element",
+      "https://water.ca.gov/LegacyFiles/groundwater/docs/GWMP/TL13_KingsCountyWD_GWMP_2011.pdf"
+    ],
+    "title": [
+      "Kings County WD (Kings County Water District",
+      "Groundwater Management Plan",
+      "KRCD and KRWA (Kings River Conservation District and Kings River Water Association"
+    ],
+    "note": [
+      "Accessed on:",
+      "The Kings River Handbook, Fifth Printing, 48 p."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "K.R.C.D."
+      }
+    ],
+    "date": [
+      "2009",
+      "2019-07-17",
+      "1999"
+    ],
+    "title": [
+      "Kings River Handbook",
+      "Kings River Fisheries Management Program",
+      "Kings River Fisheries Management Program Framework Agreement"
+    ],
+    "note": [
+      "Accessed on:",
+      "Accessed on: 17 July 2019.",
+      "Kings River Water Association. 2004. 2003-2004 Water Master Report."
+    ],
+    "url": [
+      "http://krcd.org/_pdf/Kings_River_Handbook_2009.pdf",
+      "http://krfmp.org/_pdf_fmp/FMP_FrameworkAgreement1999.pdf"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Association",
+        "given": "Kings River Water"
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "note": [
+      "Accessed on: 12 December 2019."
+    ],
+    "url": [
+      "http://www.kingsriverwater.org/."
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "KRWQC (Kings River Water Quality Coalition"
+    ],
+    "date": [
+      "2016"
+    ],
+    "publisher": [
+      "Kings River Water Quality Coalition"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "Accessed on:"
+    ],
+    "date": [
+      "2019-07-20"
+    ],
+    "url": [
+      "http://www.kingsriverwqc.org/"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Kings River Water Quality Coalition (KRWQC). 2016b"
+    ],
+    "publisher": [
+      "Comprehensive Groundwater Quality Management Plan"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "Lafco (Local Agency Formation Commission",
+      "Deer Creek Stormwater District"
+    ],
+    "date": [
+      "2019"
+    ],
+    "note": [
+      "Accessed on: 12 December 2019."
+    ],
+    "url": [
+      "https://lafco.co.tulare.ca.us/lafco/index.cfm/maps/districts/districts-storm-water/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Leake",
+        "given": "S.A."
+      }
+    ],
+    "date": [
+      "2016",
+      "2019-07-29"
+    ],
+    "title": [
+      "Land Subsidence from Ground-Water Pumping"
+    ],
+    "note": [
+      "Accessed on:"
+    ],
+    "url": [
+      "https://geochange.er.usgs.gov/sw/changes/anthropogenic/subside/?"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Lettis",
+        "given": "W.R."
+      },
+      {
+        "family": "Unruh",
+        "given": "J.R."
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "title": [
+      "Quaternary Geology of the Great Valley, California"
+    ],
+    "container-title": [
+      "Quaternary Nonglacial Geology: Conterminous U.S., Decade of North American Geology. Prepared for: Geological Society of America"
+    ],
+    "pages": [
+      "164 – 176",
+      "8–7"
+    ],
+    "location": [
+      "Page"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Lohman",
+        "given": "S.W."
+      }
+    ],
+    "date": [
+      "1972",
+      "1979"
+    ],
+    "title": [
+      "Ground-Water Hydraulics, U.S"
+    ],
+    "container-title": [
+      "Geological Survey Professional Paper 708"
+    ],
+    "pages": [
+      "70"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Loomis",
+        "given": "K.B."
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "title": [
+      "Late Neogene Depositional History and Paleoenvironments of the WestCentral San Joaquin Basin, California"
+    ],
+    "location": [
+      "Prepared for"
+    ],
+    "publisher": [
+      "Stanford University"
+    ],
+    "genre": [
+      "PhD Dissertation."
+    ],
+    "pages": [
+      "343"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "given": "L.S.C.E."
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "Land Subsidence from Groundwater Use in California. Prepared for: California Water Foundation 193p Meade"
+    ],
+    "container-title": [
+      "R.H. 1967. Petrology of Sediments Underlying Areas of Land Subsidence in Central California. Prepared for: U.S. Geological Survey Professional Paper 497-C"
+    ],
+    "pages": [
+      "83"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Mendenhall",
+        "given": "W.C."
+      },
+      {
+        "family": "Dole",
+        "given": "R.B."
+      },
+      {
+        "family": "Stabler",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "1916"
+    ],
+    "title": [
+      "Ground Water in San Joaquin Valley, California, U.S"
+    ],
+    "volume": [
+      "398"
+    ],
+    "pages": [
+      "310 ,"
+    ],
+    "note": [
+      "Mendenhall et al., 1916)."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Survey Water-Supply Paper"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "R.E."
+      },
+      {
+        "family": "Green",
+        "given": "J.H."
+      },
+      {
+        "family": "Davis",
+        "given": "G.H."
+      }
+    ],
+    "date": [
+      "1971"
+    ],
+    "title": [
+      "Geology of Compacting Deposits in the Los BanosKettleman City Subsidence Area, California. Prepared for: U.S"
+    ],
+    "volume": [
+      "497-E"
+    ],
+    "pages": [
+      "46"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Survey Professional Paper"
+    ]
+  },
+  {
+    "title": [
+      "NASA (National Aeronautics and Space Administration). n.d"
+    ],
+    "publisher": [
+      "NASA JPL InSAR Subsidence Data"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "Retrieved August 22, 2019,",
+      "Accessed on:",
+      "Drought shadow stretches across Kings unemployment rate. Prepared for: Hanford Sentinel."
+    ],
+    "url": [
+      "https://data.ca.gov/dataset/nasa-jpl-insar-subsidence-data",
+      "https://www.nasa.gov/feature/jpl/nasa-data-show-californias-san-joaquin-valley-stillsinking"
+    ],
+    "title": [
+      "NASA (National Aeronautics and Space Administration",
+      "NASA Data Show California's San Joaquin Valley Still Sinking"
+    ],
+    "date": [
+      "2017",
+      "2019-07-17",
+      "2014"
+    ],
+    "author": [
+      {
+        "family": "Nidever",
+        "given": "Seth"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "N.O.A.A."
+      }
+    ],
+    "date": [
+      "2019",
+      "2018"
+    ],
+    "title": [
+      "National Weather Service Forecast Office, Hanford California: Historic Average Annual Precipitation",
+      "Web Soil Survey"
+    ],
+    "note": [
+      "Accessed on: 15 March 2019.",
+      "Accessed on: 2 July"
+    ],
+    "url": [
+      "https://w2.weather.gov/climate/xmacis.php?wfo=hnx"
+    ],
+    "container-title": [
+      "NRCS (National Resource Conservation Service"
+    ],
+    "type": "chapter"
+  },
+  {
+    "date": [
+      "2019"
+    ],
+    "url": [
+      "https://websoilsurvey.sc.egov.usda.gov/App/WebSoilSurvey.aspx?aoissa=CA031"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Page",
+        "given": "R.W."
+      }
+    ],
+    "date": [
+      "1973"
+    ],
+    "title": [
+      "Base of Fresh Ground Water (Approximately 3,000 Micromhos) in the San Joaquin Valley, California. Prepared for: U.S"
+    ],
+    "volume": [
+      "1"
+    ],
+    "pages": [
+      "8–8"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Survey Hydrologic Investigations Atlas HA-489"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Page",
+        "given": "R.W."
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "title": [
+      "Data on Depths to the Upper Mya Zone of the San Joaquin Formation in the Kettleman City Area"
+    ],
+    "location": [
+      "San Joaquin Valley, California. Prepared for"
+    ],
+    "publisher": [
+      "U.S"
+    ],
+    "genre": [
+      "Geological Survey Open-File Report 81-699,"
+    ],
+    "pages": [
+      "12"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Page",
+        "given": "R.W."
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "Geology of the Tulare Formation and Other Continental Deposits, Kettleman City Area, San Joaquin Valley, California, with a Section on Ground-Water Management Considerations and Use of Texture Maps. Prepared for: U.S"
+    ],
+    "volume": [
+      "83-4000"
+    ],
+    "pages": [
+      "24"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Survey WaterResources Investigations Report"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "P.R.I.S.M.Climate"
+      }
+    ],
+    "date": [
+      "2018",
+      "2019-07-23"
+    ],
+    "title": [
+      "Prepared for: Oregon State University"
+    ],
+    "note": [
+      "Accessed on:",
+      "Kings County Water District. Prepared for Kings County Water District."
+    ],
+    "url": [
+      "http://prism.oregonstate.edu"
+    ],
+    "container-title": [
+      "Provost & Pritchard Consulting Group. 2009, Apex Ranch Conjunctive Use Project Groundwater Monitoring Program October 2008 through September 2009"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Provost"
+      },
+      {
+        "family": "Group",
+        "given": "Pritchard Consulting"
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "Groundwater Management Plan, Kings County Water District"
+    ],
+    "publisher": [
+      "Prepared for Kings County Water District"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Water",
+        "given": "R.M.C."
+      },
+      {
+        "given": "Environment"
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "Transitioning to Sustainability: Modeling Groundwater Sustainability in the Kings- Tulare Lake Region"
+    ],
+    "note": [
+      "Accessed on: 3 August 2019.",
+      "RWQCB (Regional Water Quality Control Board). 2015. Central Valley Region, 2015, Water Quality Control Plan for the Tulare Lake Basin, Second Edition, Revised January 2015"
+    ],
+    "url": [
+      "http://californiawaterfoundation.org/wp-content/uploads/CWF-Transitioning-toSustainability-Final-Report_11_09_2015.pdf"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "with Approved Amendments). Accessed 16 July 2019.",
+      "Accessed on: 12"
+    ],
+    "url": [
+      "https://www.waterboards.ca.gov/rwqcb5/water_issues/basin_plans/tlbp.pdf"
+    ],
+    "title": [
+      "RWQCB (Regional Water Quality Control Board",
+      "Central Valley Region, Amendment to the Water Quality Control Plan for the Tulare Lake Basin to Remove the Municipal and Domestic Supply (MUN) and Agricultural Supply (AGR) Beneficial Uses within a Designated Horizontal and Vertical Portion of the Tulare Lake Bed, Final Staff Report",
+      "RWQCB (Regional Water Quality Control Board"
+    ],
+    "date": [
+      "2017",
+      "2019-07"
+    ],
+    "container-title": [
+      "2017b. Resolution R5-2017-0032. Amendment to the Water Quality Control Plan for the Tulare Lake Basin to Remove the Municipal and Domestic Supply (MUN) and Agricultural Supply (AGR) Beneficial Uses Within a Designated Horizontal and Vertical Portion of the Tulare Lake Bed"
+    ],
+    "type": "chapter"
+  },
+  {
+    "editor": [
+      {
+        "family": "Scheirer",
+        "given": "A.H."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "Petroleum Systems and Geologic Assessment of Oil and Gas in the San Joaquin Basin Province, California, 31 Chapters"
+    ],
+    "container-title": [
+      "Prepared for: U.S. Geological Survey Professional Paper 1713"
+    ],
+    "note": [
+      "Accessed on: 9 August 2018."
+    ],
+    "url": [
+      "https://pubs.usgs.gov/pp/pp1713/"
+    ],
+    "location": [
+      "Page"
+    ],
+    "pages": [
+      "8–9"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Staff",
+        "given": "Soil Survey"
+      },
+      {
+        "family": "Stewart",
+        "given": "Ralph"
+      }
+    ],
+    "date": [
+      "2018",
+      "2018-07-25",
+      "2016",
+      "1946"
+    ],
+    "title": [
+      "Natural Resources Conservation Service, United States Department of Agriculture. Prepared for: Soil Survey Geographic (SSURGO) Database",
+      "Kaweah Project Relicensing, SCE Pre-Application Document, Section 3.2 River Basin",
+      "Geology of Reef Ridge-Coalinga District, California. Prepared for: U.S"
+    ],
+    "note": [
+      "Accessed on:",
+      "Accessed on: 12 July 2018."
+    ],
+    "url": [
+      "https://sdmdataaccess.sc.egov.usda.gov",
+      "https://www.sce.com/ko/regulatory/hydro-licensing/kaweah-project-relicensing/scepre-application-document"
+    ],
+    "container-title": [
+      "SCE",
+      "Geological Survey Professional Paper"
+    ],
+    "location": [
+      "Southern California Edison"
+    ],
+    "volume": [
+      "205-C"
+    ],
+    "pages": [
+      "34"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Engineering",
+        "given": "Summers"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "note": [
+      "Tulare Lake Bed Coordinated Groundwater Management Plan (SB 1938 Compliant)."
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "SWRCB (State Water Resources Control Board"
+    ],
+    "date": [
+      "2006"
+    ],
+    "note": [
+      "Resolution No. 88-63 (as revised by Resolution no. 2006-0008"
+    ],
+    "publisher": [
+      "Adoption of Policy Entitled “Sources of Drinking Water"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "SWRCB (State Water Resources Control Board). 2019a"
+    ],
+    "note": [
+      "Accessed on: 17 July 2019."
+    ],
+    "url": [
+      "http://geotracker.waterboards.ca.gov."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "GeoTracker"
+    ]
+  },
+  {
+    "title": [
+      "SWRCB (State Water Resources Control Board). 2019b"
+    ],
+    "publisher": [
+      "GAMA Groundwater Information"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "U.N.A.V.C.O."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "PBO GPS Stations Network Monitoring"
+    ],
+    "note": [
+      "Accessed August 20, 2019 at: https://www.unavco.org/instrumentation/networks/status/pbo/gps USACE (U.S. Army Corps of Engineers). 2017. Success Lake, Water Control Manual Deviation,"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Final Environmental Assessment"
+    ],
+    "note": [
+      "Accessed on: 12 June 2018."
+    ],
+    "url": [
+      "http://www.spk.usace.army.mil/Portals/12/documents/civil_works/Success/FINAL%20S"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "U.S.B.R."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "Raise Pine Flat Dam, Upper San Joaquin River Basin Storage Investigation, Surface Water Storage Option Technical Memorandum, Joint Study"
+    ],
+    "location": [
+      "Prepared for"
+    ],
+    "publisher": [
+      "U.S. Bureau of Reclamation and California Department of Water Resources"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "U.S.B.R."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "Summary of Available Water Supplies"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "U.S.B.R."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Central Valley Project Interim Renewal Contracts for Cross Valley Contractors 20162018"
+    ],
+    "note": [
+      "Accessed on: 17 July 2019."
+    ],
+    "url": [
+      "https://www.usbr.gov/mp/nepa/includes/documentShow.php?Doc_ID=31723"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "U.S.B.R."
+      },
+      {
+        "family": "Bureau",
+        "given": "U.S.Census"
+      }
+    ],
+    "date": [
+      "2019",
+      "2018",
+      "2019-07-17"
+    ],
+    "title": [
+      "About the Central Valley Project",
+      "U.S. Census Bureau QuickFacts: United States",
+      "USDA (U.S. Department of Agriculture). National Agricultural Statistics Service Cropland Data Layer: 2006-2016"
+    ],
+    "note": [
+      "Accessed on: 12 December 2019.",
+      "Accessed on:",
+      "Accessed on: 2 July 2019.",
+      "Retrieved from California Water Science Center: https://ca.water.usgs.gov/land_subsidence/californiasubsidence-resources.php USGS (United States Geological Survey). 2019. Areas of Land Subsidence in California. Accessed on: 17 July 2019."
+    ],
+    "url": [
+      "https://www.usbr.gov/mp/cvp/about-cvp.html",
+      "https://www.census.gov/quickfacts/fact/table/US/PST045218.",
+      "http://nassgeodata.gmu.edu/CropScape/USDA-NASS",
+      "https://ca.water.usgs.gov/land_subsidence/california-subsidenceareas.html"
+    ],
+    "container-title": [
+      "USGS (United States Geological Survey). 2017. USGS Land Subsidence Resources"
+    ],
+    "genre": [
+      "Page 8–11"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Woodring",
+        "given": "W.P."
+      },
+      {
+        "family": "Stewart",
+        "given": "R."
+      },
+      {
+        "family": "Richards",
+        "given": "R.W."
+      }
+    ],
+    "date": [
+      "1940"
+    ],
+    "title": [
+      "Geology of the Kettleman Hills Oil Field, California, Stratigraphy, Paleontology, and Structure. Prepared for: U.S"
+    ],
+    "volume": [
+      "195"
+    ],
+    "pages": [
+      "170"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Survey Professional Paper"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "W.W.Q.C."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Westside Water Quality Coalition"
+    ],
+    "note": [
+      "Accessed on: 24 July 2019."
+    ],
+    "url": [
+      "https://www.wwqc.org/"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Date: 11/7/2019"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Date: 11/7/2019 Printed by: elizabeth.chapman Path: N:\\_FR_projects\\FR18s\\FR18161220\\gis\\maps\\2019\\Basin_Setting\\8.5x11\\_fig3-35b_Subsidence2015-2017_8x11.mxd NASA's Jet Propulsion Labratory (JPL) dataset accessed from Department of Water Resources"
+    ],
+    "url": [
+      "https://sgma.water.ca.gov/"
+    ],
+    "date": [
+      "2019-07-15"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1"
+    ],
+    "author": [
+      {
+        "given": "pm"
+      }
+    ],
+    "date": [
+      "2018-01-03"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "El Rico GSA Board Meeting 1 p.m., February 7, 2018 El Rico GSA Board Meeting 1 p.m"
+    ],
+    "date": [
+      "2018-03-07"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Meeting",
+        "given": "El Rico G.S.A.Board"
+      }
+    ],
+    "date": [
+      "2018-04-01",
+      "2018-05-02"
+    ],
+    "container-title": [
+      "El Rico GSA Board Meeting 1 p.m"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Meeting",
+        "given": "El Rico G.S.A.Board"
+      }
+    ],
+    "date": [
+      "2018-06-01",
+      "2018-08-01"
+    ],
+    "container-title": [
+      "El Rico GSA Board Meeting 1 p.m"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "container-title": [
+      "El Rico GSA Board Meeting 1 p.m., September 5, 2018 El Rico GSA Board Meeting 1 p.m"
+    ],
+    "date": [
+      "2018-10-03"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Meeting",
+        "given": "El Rico G.S.A.Board"
+      }
+    ],
+    "date": [
+      "2018-11-01",
+      "2018-12-05"
+    ],
+    "container-title": [
+      "El Rico GSA Board Meeting 1 p.m"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Meeting",
+        "given": "El Rico G.S.A.Board"
+      }
+    ],
+    "date": [
+      "2019-01-01",
+      "2019-02-06"
+    ],
+    "container-title": [
+      "El Rico GSA Board Meeting 1 p.m"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Meeting",
+        "given": "El Rico G.S.A.Board"
+      }
+    ],
+    "date": [
+      "2019-03-01",
+      "2019-04-03"
+    ],
+    "container-title": [
+      "El Rico GSA Board Meeting 1 p.m"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "title": [
+      "El Rico GSA Board Meeting 1 p.m., May 1, 2019 El Rico GSA Board Meeting 1 p.m"
+    ],
+    "date": [
+      "2019-06-05"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Meeting",
+        "given": "El Rico G.S.A.Board"
+      }
+    ],
+    "date": [
+      "2019-07-01",
+      "2019-08-07"
+    ],
+    "container-title": [
+      "El Rico GSA Board Meeting 1 p.m"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "title": [
+      "El Rico GSA Board Meeting 1 p.m"
+    ],
+    "date": [
+      "2019-09-04"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Meeting",
+        "given": "M.K.R.G.S.A.Board"
+      }
+    ],
+    "title": [
+      "SGMA and GSP Development Updates 1 p.m"
+    ],
+    "date": [
+      "2019-01-15"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Meeting",
+        "given": "M.K.R.G.S.A.Board"
+      }
+    ],
+    "title": [
+      "SGMA and GSP Development Updates 1 p.m"
+    ],
+    "date": [
+      "2019-03-12"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "GSA & GSP Development Updates – Kings County Water District Board Meeting 1:30 p.m"
+    ],
+    "date": [
+      "2019-04-04"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "title": [
+      "MKRGSA Special Board Meeting – SGMA and GSP Development Updates 1 p.m"
+    ],
+    "date": [
+      "2019-04-18"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "GSA & GSP Development Updates – Kings County Water District"
+    ],
+    "volume": [
+      "1"
+    ],
+    "pages": [
+      ","
+    ],
+    "date": [
+      "2019-05-09"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Board Meeting"
+    ],
+    "issue": [
+      "30"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Meeting",
+        "given": "M.K.R.G.S.A.Board"
+      }
+    ],
+    "title": [
+      "SGMA and GSP Development Updates 1 p.m"
+    ],
+    "date": [
+      "2019-05-14"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "GSA & GSP Development Updates – Kings County Water District"
+    ],
+    "volume": [
+      "1"
+    ],
+    "pages": [
+      ","
+    ],
+    "date": [
+      "2019-06-06"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Board Meeting"
+    ],
+    "issue": [
+      "30"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Meeting",
+        "given": "M.K.R.G.S.A.Board"
+      }
+    ],
+    "title": [
+      "SGMA and GSP Development Updates 1 p.m"
+    ],
+    "date": [
+      "2019-06-19"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Meeting",
+        "given": "M.K.R.G.S.A.Board"
+      }
+    ],
+    "title": [
+      "SGMA and GSP Development Updates 1 p.m"
+    ],
+    "date": [
+      "2019-07-09"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "GSA & GSP Development Updates – Kings County Water District"
+    ],
+    "volume": [
+      "1"
+    ],
+    "pages": [
+      ","
+    ],
+    "date": [
+      "2019-07-11"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Board Meeting"
+    ],
+    "issue": [
+      "30"
+    ]
+  },
+  {
+    "container-title": [
+      "GSA & GSP Development Updates – Kings County Water District Board Meeting 1:30 p.m"
+    ],
+    "date": [
+      "2019-08-08"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Meeting",
+        "given": "M.K.R.G.S.A.Board"
+      }
+    ],
+    "title": [
+      "SGMA and GSP Development Updates 1 p.m"
+    ],
+    "date": [
+      "2019-08-12"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Presentation",
+        "given": "Armona C.S.D.Board Meeting"
+      }
+    ],
+    "title": [
+      "SGMA and GSP Development Updates 6 p.m"
+    ],
+    "date": [
+      "2019-08-13"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "GSA & GSP Development Updates – Kings County Water District"
+    ],
+    "volume": [
+      "1"
+    ],
+    "pages": [
+      ","
+    ],
+    "date": [
+      "2019-09-05"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Board Meeting"
+    ],
+    "issue": [
+      "30"
+    ]
+  },
+  {
+    "title": [
+      "Provost & Pritchard Consulting Group x"
+    ],
+    "date": [
+      "2020-01"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "GSP Public Review Presentation at Hanford City Council Workshop 5:30 p.m"
+    ],
+    "date": [
+      "2019-10-01"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "MKRGSA Board Meeting – SGMA and GSP Development Updates"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "title": [
+      "GSP Meeting with County of Kings representatives and other GSA managers"
+    ],
+    "volume": [
+      "1"
+    ],
+    "pages": [
+      ","
+    ],
+    "date": [
+      "2019-11-06"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Corcoran"
+    ],
+    "issue": [
+      "30"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Meeting",
+        "given": "M.K.R.G.S.A.Board"
+      }
+    ],
+    "title": [
+      "SGMA and GSP Development Updates 1 p.m"
+    ],
+    "date": [
+      "2019-11-13"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Tulare Lake Subbasin GSP Public Hearing – Hanford 10 a.m"
+    ],
+    "date": [
+      "2019-12-02"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Meeting",
+        "given": "M.K.R.G.S.A.Board"
+      }
+    ],
+    "title": [
+      "SGMA and GSP Development Updates 1 p.m"
+    ],
+    "date": [
+      "2019-12-10"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "GSA & GSP GSP Public Review Update"
+    ],
+    "container-title": [
+      "Kings County Water District Board Meeting"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "author": [
+      {
+        "given": "pm"
+      }
+    ],
+    "date": [
+      "2017-02-08"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Southwest Kings GSA Board Meeting – SGMA and GSA Formation 3 p.m"
+    ],
+    "date": [
+      "2017-03-08"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Southwest Kings GSA Board Meeting – SGMA and GSP Development 3 p.m"
+    ],
+    "date": [
+      "2017-04-12"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Southwest Kings GSA Board Meeting – SGMA and GSP Development Updates 3 p.m"
+    ],
+    "date": [
+      "2017-06-28"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Southwest Kings GSA Special Board Meeting – Proposition 218 Public Hearing & Election 10 a.m"
+    ],
+    "date": [
+      "2017-08-14"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Southwest Kings GSA Board Meeting – SGMA and GSP Development Updates 3 p.m"
+    ],
+    "volume": [
+      "14"
+    ],
+    "date": [
+      "2018"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "February"
+    ]
+  },
+  {
+    "title": [
+      "Southwest Kings GSA Board Meeting – SGMA and GSP Development Updates 3 p.m"
+    ],
+    "date": [
+      "2018-05-09"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Southwest Kings GSA Board Meeting with special presentation on Preliminary Water Budget 3 p.m"
+    ],
+    "date": [
+      "2018-07-11"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Southwest Kings GSA Board Meeting – SGMA and GSP Development Updates 3 p.m"
+    ],
+    "date": [
+      "2018-09-12"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Kettleman City Community Services District Board Meeting"
+    ],
+    "genre": [
+      "SGMA/GSA Presentation 6 p.m.,"
+    ],
+    "date": [
+      "2018-10-23"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Southwest Kings GSA Board Meeting – SGMA and GSP Development Updates 3 p.m"
+    ],
+    "date": [
+      "2018-12-12"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Southwest Kings GSA Board Meeting – SGMA and GSP Development Updates 3 p.m"
+    ],
+    "volume": [
+      "13"
+    ],
+    "date": [
+      "2019"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "February"
+    ]
+  },
+  {
+    "title": [
+      "Southwest Kings GSA Board Meeting – SGMA and GSP Development Updates 3 p.m"
+    ],
+    "date": [
+      "2019-05-08"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Southwest Kings GSA Board Meeting – SGMA and GSP Development Updates 3 p.m"
+    ],
+    "date": [
+      "2019-07-10"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Tulare Lake Subbasin-Wide Public Outreach Meeting: GSP for the Subbasin"
+    ],
+    "location": [
+      "Hanford"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Allen",
+        "given": "R.G."
+      },
+      {
+        "family": "Pereira",
+        "given": "L.S."
+      },
+      {
+        "family": "Raes",
+        "given": "D."
+      },
+      {
+        "family": "Smith",
+        "given": "M."
+      }
+    ],
+    "title": [
+      "Crop Evapotranspiration - Guidelines for Computing Crop Water Requirements - FAO Irrigation and Drainage Paper 56, Food and Agriculture Organization of the United Nations"
+    ],
+    "location": [
+      "Rome"
+    ],
+    "date": [
+      "1998"
+    ],
+    "note": [
+      "Allen et al., 1998)."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Environment",
+        "given": "Amec Foster Wheeler"
+      },
+      {
+        "family": "Infrastructure",
+        "given": "Inc"
+      }
+    ],
+    "date": [
+      "2018",
+      "2018-07"
+    ],
+    "title": [
+      "Tulare Lake Groundwater Subbasin Hydrologic Model for SGMA Compliance: Preliminary Model Development, Calibration, and Predictive Simulations, Tulare Lake Subbasin Hydrologic Model, Kings County"
+    ],
+    "location": [
+      "California"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "M."
+      },
+      {
+        "family": "Woessner",
+        "given": "W."
+      },
+      {
+        "family": "Hunt",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "Applied Groundwater Modeling Simulation of Flow and Advective Transport"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "pages": [
+      "564"
+    ],
+    "note": [
+      "p (Anderson et al., 2015)."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Bartow",
+        "given": "J.A."
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "title": [
+      "The Cenozoic Evolution of the San Joaquin Valley, California, U.S"
+    ],
+    "container-title": [
+      "Geological Survey Professional Paper 1501"
+    ],
+    "note": [
+      "40 p (Bartow, 1991)."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Bear",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1972",
+      "1972"
+    ],
+    "title": [
+      "Dynamics of Fluids in Porous Media"
+    ],
+    "volume": [
+      "1"
+    ],
+    "publisher": [
+      "American Elsevier Publishing Company"
+    ],
+    "pages": [
+      "764"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Boyce",
+        "given": "S.E."
+      },
+      {
+        "family": "Hanson",
+        "given": "R.T."
+      },
+      {
+        "family": "Ferguson",
+        "given": "I.M."
+      },
+      {
+        "family": "Reimann",
+        "given": "T."
+      },
+      {
+        "family": "Henson",
+        "given": "W."
+      },
+      {
+        "family": "Mehl",
+        "given": "S."
+      },
+      {
+        "family": "Leake",
+        "given": "S."
+      },
+      {
+        "family": "Maddock",
+        "given": "T."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "MODFLOW-OWHM v2: The next generation of fully integrated hydrologic simulation software"
+    ],
+    "publisher": [
+      "American Geophysical Union"
+    ],
+    "note": [
+      "Fall General Assembly 2016 (Boyce et al., 2016)."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Brush",
+        "given": "C.F."
+      },
+      {
+        "family": "Dogrul",
+        "given": "E.C."
+      },
+      {
+        "family": "Kadir",
+        "given": "T.N."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "Development and Calibration of the California Central Valley Groundwater Surface Water Simulation Model (C2VSim"
+    ],
+    "note": [
+      "Version 3.02- CG, Bay-Delta Office, California Department of Water Resources (Brush et al., 2016)."
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1994",
+      "2016"
+    ],
+    "container-title": [
+      "and 2006, Kings County 1991, 1996, and 2003, Tulare County 1993 and 1999 (DWR"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "California Department of Water Resources, California’s Bulletin 118 Interim Update"
+    ],
+    "url": [
+      "https://water.ca.gov/LegacyFiles/groundwater/bulletin118/docs/Bulletin_118"
+    ],
+    "note": [
+      "DWR, 2016b)."
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "California Department of Water Resources, Groundwater Elevation Contours 1960-2010"
+    ],
+    "url": [
+      "https://databasin.org/datasets/b05820cda86b4921a515065fa1deffcc"
+    ],
+    "note": [
+      "DWR, 2018)."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Croft",
+        "given": "M.G."
+      }
+    ],
+    "date": [
+      "1972"
+    ],
+    "title": [
+      "Subsurface Geology of the Tertiary and Quaternary Water-Bearing Deposits of the San Joaquin Valley, California, U.S"
+    ],
+    "container-title": [
+      "Geological Survey Water Supply Paper 1999"
+    ],
+    "note": [
+      "H, 29 p (Croft, 1972)."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Croft",
+        "given": "M.G."
+      },
+      {
+        "family": "Gordon",
+        "given": "G.V."
+      },
+      {
+        "family": "Survey",
+        "given": "U.S.Geological"
+      }
+    ],
+    "date": [
+      "1968"
+    ],
+    "title": [
+      "Geology, Hydrology, and Quality of Water in the Hanford- Visalia Area"
+    ],
+    "location": [
+      "San Joaquin Valley, California"
+    ],
+    "volume": [
+      "68"
+    ],
+    "note": [
+      "of Open-file report (Croft and Gordon, 1968)."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Water Resources Division"
+    ],
+    "issue": [
+      "ue 67"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Davis",
+        "given": "G.H."
+      },
+      {
+        "family": "Green",
+        "given": "J.H."
+      },
+      {
+        "family": "Olmsted",
+        "given": "F.H."
+      },
+      {
+        "family": "Brown",
+        "given": "D.W."
+      }
+    ],
+    "date": [
+      "1959"
+    ],
+    "title": [
+      "Ground-Water Conditions and Storage Capacity in the San Joaquin Valley, California, U.S"
+    ],
+    "volume": [
+      "1469"
+    ],
+    "pages": [
+      "287"
+    ],
+    "note": [
+      "p (Davis et al., 1959)."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Survey Water-Supply Paper"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Consulting",
+        "given": "E.C.O.R.P."
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "Tulare Lake Basin Hydrology and Hydrography: A Summary of the Movement of Water and Aquatic Species"
+    ],
+    "note": [
+      "prepared for: USEPA, Document 909R97002 (ECORP, 2007)."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Simulations",
+        "given": "Environmental"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "date": [
+      "2017",
+      "2017"
+    ],
+    "title": [
+      "Guide to Using Groundwater Vistas Version 7"
+    ],
+    "publisher": [
+      "ESI"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "C:\\Users\\cheryl.baldwin\\Desktop\\FR18161220-001.docx"
+    ],
+    "type": null
+  },
+  {
+    "editor": [
+      {
+        "family": "Faunt",
+        "given": "C.C."
+      }
+    ],
+    "date": [
+      "2009",
+      "1766"
+    ],
+    "title": [
+      "Groundwater Availability of the Central Valley Aquifer"
+    ],
+    "location": [
+      "California"
+    ],
+    "publisher": [
+      "U.S. Geological Survey Professional Paper"
+    ],
+    "pages": [
+      "225"
+    ],
+    "note": [
+      "p (Faunt el al., 2009)."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Freeze",
+        "given": "R.A."
+      },
+      {
+        "family": "Cherry",
+        "given": "J.A."
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "location": [
+      "Groundwater, Englewood Cliffs, New Jersey"
+    ],
+    "publisher": [
+      "Prentice- Hall Inc"
+    ],
+    "note": [
+      "Freeze and Cherry, 1979)."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "West",
+        "given": "Fugro"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "date": [
+      "2005",
+      "2005"
+    ],
+    "title": [
+      "Numerical Groundwater Flow Model for the Kaweah Delta Water Conservation District"
+    ],
+    "publisher": [
+      "Fugro"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "Hanford Weather Station from 1899 to 2017"
+    ],
+    "url": [
+      "https://w2.weather.gov/climate/xmacis.php?wfo=hnx,"
+    ],
+    "date": [
+      "2017"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hanson",
+        "given": "R.T."
+      },
+      {
+        "family": "Boyce",
+        "given": "S.E."
+      },
+      {
+        "family": "Schmid",
+        "given": "Wolfgang"
+      },
+      {
+        "family": "Hughes",
+        "given": "J.D."
+      },
+      {
+        "family": "Mehl",
+        "given": "S.M."
+      },
+      {
+        "family": "Leake",
+        "given": "S.A."
+      },
+      {
+        "family": "Maddock",
+        "given": "T.",
+        "suffix": "III"
+      },
+      {
+        "family": "Niswonger",
+        "given": "R.G."
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "One-Water Hydrologic Flow Model (MODFLOW-OWHM): U.S"
+    ],
+    "volume": [
+      "6–A51"
+    ],
+    "pages": [
+      "120 ,"
+    ],
+    "url": [
+      "https://dx.doi.org/10.3133/tm6A51."
+    ],
+    "note": [
+      "ISSN 2328-7055 (online) (Hanson et al., 2014)."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Survey Techniques and Methods"
+    ],
+    "doi": [
+      "10.3133/tm6A51."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Harbaugh",
+        "given": "A.W."
+      }
+    ],
+    "date": [
+      "2005",
+      "2005"
+    ],
+    "title": [
+      "MODFLOW-2005, the U.S. Geological Survey modular ground-water model -- the Ground-Water Flow Process: U.S"
+    ],
+    "volume": [
+      "6-A16"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Survey Techniques and Methods"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Training",
+        "given": "Irrigation"
+      },
+      {
+        "family": "Center",
+        "given": "Research"
+      }
+    ],
+    "date": [
+      "2003",
+      "2003"
+    ],
+    "title": [
+      "California Crop and Soil Evapotranspiration for Water Balances and Irrigation Scheduling/Design"
+    ],
+    "location": [
+      "Prepared for"
+    ],
+    "publisher": [
+      "California Polytechnic State University (ITRC"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Laboratory",
+        "given": "Jet Propulsion"
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "title": [
+      "InSAR Measurements of Subsidence in California's Central Valley (June"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2007-12",
+      "2012"
+    ],
+    "url": [
+      "https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA16293"
+    ],
+    "publisher": [
+      "JPL"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Laboratory",
+        "given": "Jet Propulsion"
+      }
+    ],
+    "date": [
+      "2017",
+      "2015-05"
+    ],
+    "title": [
+      "NASA Data Show California's San Joaquin Valley Still Sinking"
+    ],
+    "url": [
+      "https://www.jpl.nasa.gov/news/news.php?feature=6761"
+    ],
+    "note": [
+      "JPL, 2017)."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "McDonald",
+        "given": "M.G."
+      },
+      {
+        "family": "Harbaugh",
+        "given": "A.W."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "title": [
+      "A modular three-dimensional finite-difference ground-water flow model: Techniques of Water-Resources Investigations of the United States Geological Survey"
+    ],
+    "note": [
+      "Book 6, Chapter A1, 586 p (McDonald and Harbaugh, 1988)."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Niswonger",
+        "given": "R.G."
+      },
+      {
+        "family": "Panday",
+        "given": "Sorab"
+      },
+      {
+        "family": "Ibaraki",
+        "given": "Motomu"
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "MODFLOW-NWT, A Newton formulation for MODFLOW-2005: U.S"
+    ],
+    "volume": [
+      "6– A37"
+    ],
+    "pages": [
+      "44"
+    ],
+    "note": [
+      "p (Niswonger et al., 2011)."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Survey Techniques and Methods"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Page",
+        "given": "R.W."
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "Geology of the Tulare Formation and Other Continental Deposits, Kettleman City Area"
+    ],
+    "location": [
+      "San Joaquin Valley, California"
+    ],
+    "container-title": [
+      "with a Section on Ground-Water Management Considerations and Use of Texture Maps"
+    ],
+    "note": [
+      "Prepared for: U.S. Geological Survey Water-Resources Investigations Report 83-4000, 24 p (Page, 1983)."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Page",
+        "given": "R.W."
+      }
+    ],
+    "date": [
+      "1986",
+      "1986"
+    ],
+    "title": [
+      "Geology of the Fresh Ground-Water Basin of the Central Valley, California, With Texture Maps and Sections, Regional Aquifer-System Analysis, U.S"
+    ],
+    "container-title": [
+      "Geological Survey Professional Paper 1401-C"
+    ],
+    "location": [
+      "Page"
+    ],
+    "type": "chapter"
+  },
+  {
+    "publisher": [
+      "PRISM Climate Group",
+      "Oregon State University"
+    ],
+    "date": [
+      "2017"
+    ],
+    "url": [
+      "http://prism.oregonstate.edu"
+    ],
+    "note": [
+      "created January 17 (PRISM, 2017)."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Provost"
+      },
+      {
+        "family": "Group",
+        "given": "Pritchard Consulting"
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "Apex Ranch Conjunctive Use Project Groundwater Monitoring Program October 2008 through September 2009"
+    ],
+    "note": [
+      "Kings County Water District, prepared for Kings County Water District (P&P, 2009)."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "C:\\Users\\cheryl.baldwin\\Desktop\\FR18161220-001.docx"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Regional Water Quality Control Board, Central Valley Region, 2017, Amendment to the Water Quality Control Plan for the Tulare Lake Basin to Remove the Municipal and Domestic Supply (MUN) and Agricultural Supply (AGR) Beneficial Uses within a Designated Horizontal and Vertical Portion of the Tulare Lake Bed"
+    ],
+    "genre": [
+      "Final Staff Report,"
+    ],
+    "note": [
+      "December (RWQCB, 2017)."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Selker",
+        "given": "J.S."
+      },
+      {
+        "family": "Keller",
+        "given": "C.K."
+      },
+      {
+        "family": "McCord",
+        "given": "J.T."
+      }
+    ],
+    "date": [
+      "1999",
+      "1999"
+    ],
+    "title": [
+      "Vadose Zone Processes"
+    ],
+    "publisher": [
+      "CRC Press, June (CRC Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Spitz",
+        "given": "K."
+      },
+      {
+        "family": "Moreno",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "A Practical Guide to Groundwater and Solute Transport Modeling"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "pages": [
+      "461"
+    ],
+    "note": [
+      "p (Spitz and Moreno, 1996)."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Harder",
+        "given": "Thomas"
+      },
+      {
+        "given": "Co"
+      }
+    ],
+    "date": [
+      "2017",
+      "2017-08"
+    ],
+    "title": [
+      "Hydrogeological Conceptual Model and Water Budget of the Tule Subbasin"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "United States Department of Agriculture, National Agricultural Statistics Service Cropland Data Layer, 2006-2016, Published crop-specific data layer [Online"
+    ],
+    "note": [
+      "Available at"
+    ],
+    "url": [
+      "http://nassgeodata.gmu.edu/CropScape/USDA-NASS,"
+    ],
+    "location": [
+      "Washington, DC (USDA"
+    ],
+    "date": [
+      "2016"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Williamson",
+        "given": "A.K."
+      },
+      {
+        "family": "Prudic",
+        "given": "D.E."
+      },
+      {
+        "family": "Swain",
+        "given": "L.A."
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "title": [
+      "Ground-Water Flow in the Central Valley, California, Regional Aquifer-System Analysis, U.S"
+    ],
+    "note": [
+      "Geological Survey Professional Paper Issue 1401-D."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Woodring",
+        "given": "W.P."
+      },
+      {
+        "family": "Stewart",
+        "given": "R."
+      },
+      {
+        "family": "Richards",
+        "given": "R.W."
+      }
+    ],
+    "date": [
+      "1940"
+    ],
+    "title": [
+      "Geology of the Kettleman Hills Oil Field, California, Stratigraphy, Paleontology, and Structure. Prepared for: U.S"
+    ],
+    "volume": [
+      "195"
+    ],
+    "pages": [
+      "170"
+    ],
+    "note": [
+      "p (Woodring et al., 1940"
+    ],
+    "url": [
+      "C:"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Survey Professional Paper"
+    ]
+  },
+  {
+    "title": [
+      "g",
+      "e",
+      "d",
+      "c"
+    ],
+    "volume": [
+      "3",
+      "3",
+      "3",
+      "3"
+    ],
+    "pages": [
+      "3–38 3 2 8 3–37",
+      "3–35",
+      "3–33",
+      "3–32"
+    ],
+    "note": [
+      "b. Figures 3-29a,b,c"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Section",
+      "Section",
+      "Section",
+      "Section"
+    ],
+    "issue": [
+      "2.8.1",
+      "2.6",
+      "2.5",
+      "2.4"
+    ]
+  },
+  {
+    "citation-number": [
+      "d4."
+    ],
+    "pages": [
+      "3–22"
+    ],
+    "type": null
+  }
+]

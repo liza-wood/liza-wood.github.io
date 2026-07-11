@@ -1,0 +1,5313 @@
+[
+  {
+    "author": [
+      {
+        "family": "Farm Managers",
+        "given": "American Society",
+        "particle": "of"
+      },
+      {
+        "family": "Appraisers",
+        "given": "Rural"
+      },
+      {
+        "family": "Chapter",
+        "given": "California"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "container-title": [
+      "2020 Trends in Agricultural Land & Lease Values"
+    ],
+    "pages": [
+      "124"
+    ],
+    "url": [
+      "https://calasfmra.com/product/2020-trendsreport-2/."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Barlow",
+        "given": "Paul M."
+      },
+      {
+        "family": "Leake",
+        "given": "Stanley A."
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "title": [
+      "Streamflow Depletion by Wells – Understanding and Managing the Effects of Groundwater Pumping on Streamflow"
+    ],
+    "volume": [
+      "1376"
+    ],
+    "pages": [
+      "84"
+    ],
+    "url": [
+      "https://pubs.usgs.gov/circ/1376/."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "U.S. Geological Circular"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Corporation",
+        "given": "Boyle Engineering"
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "title": [
+      "Water Capital Facilities Plan Volume 1 Report"
+    ],
+    "publisher": [
+      "Prepared for MCWRA"
+    ],
+    "pages": [
+      "118"
+    ],
+    "url": [
+      "https://www.co.monterey.ca.us/home/showdocument?id=73378."
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Brown"
+      },
+      {
+        "given": "Caldwell"
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "State of the Salinas River Groundwater Basin"
+    ],
+    "publisher": [
+      "Hydrology Report"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "Monterey County Water Resources Agency Water Reports",
+      "BLM National Surface Management Agency Area Polygons - National Geospatial Data Asset (NGDA"
+    ],
+    "url": [
+      "http://digitalcommons.csumb.edu/hornbeck_cgb_6_a/21.",
+      "https://catalog.data.gov/dataset/blm-national-surface-management-agency-area-polygonsnational-geospatial-data-asset-ngda."
+    ],
+    "author": [
+      {
+        "family": "Land Management",
+        "given": "Bureau",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2020",
+      "2020"
+    ],
+    "volume": [
+      "16"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Updated April"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Burton",
+        "given": "Carmen A."
+      },
+      {
+        "family": "Wright",
+        "given": "Michael T."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Status and Understanding of Groundwater Quality in the Monterey-Salinas Shallow Aquifer Study Unit, 2012–13: California GAMA Priority Basin Project"
+    ],
+    "volume": [
+      "20185057"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "U.S. Geological Survey. Scientific Investigations Report"
+    ]
+  },
+  {
+    "title": [
+      "Prepared in cooperation with the California State Water Resources Control Board.132p"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "California Invasive Plant Council (Cal-IPC",
+      "Arundo donax: Distribution and Impact Report"
+    ],
+    "date": [
+      "2011"
+    ],
+    "note": [
+      "Agreement No. 06-374-559-0. Submitted to State Water Resources Control Board."
+    ],
+    "type": null
+  },
+  {
+    "url": [
+      "https://www.cal-ipc.org/wpcontent/uploads/2017/11/Arundo_Distribution_Impact_Report_Cal-IPC_March2011_small.pdf."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Service",
+        "given": "California Water"
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "Urban Water Management Plan, Salinas District"
+    ],
+    "url": [
+      "https://www.calwater.com/docs/uwmp2015/sln/2015_Urban_Water_Management_Plan_Fin"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Carpenter",
+        "given": "E.J."
+      },
+      {
+        "family": "Cosby",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1925"
+    ],
+    "title": [
+      "Soil Survey of the Salinas Area, California. U.S"
+    ],
+    "volume": [
+
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Department of Agriculture, Bureau of Chemistry and Soils"
+    ],
+    "issue": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Coalition",
+        "given": "Central Coast Groundwater"
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "Northern Counties Groundwater Characterization: Salinas Valley, Pajaro Valley and Gilroy-Hollister Valley. Submitted to the Central Coast Regional Water Quality Control Board on June 1, 2015"
+    ],
+    "location": [
+      "Salinas"
+    ],
+    "publisher": [
+      "CA Prepared by Luhdorff & Scalmanini Consulting Engineers"
+    ],
+    "pages": [
+      "454"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "Central Coast Regional Water Quality Control Board (CCRWQCB",
+      "Groundwater Quality Conditions and Agricultural Discharges in the Central Coast Region"
+    ],
+    "date": [
+      "2018",
+      "2018"
+    ],
+    "volume": [
+      "10-11"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Staff Report for Regular Meeting of May"
+    ]
+  },
+  {
+    "title": [
+      "Upper Valley Aquifer Subbasin GSP"
+    ],
+    "date": [
+      "2022-01"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Water Quality Control Plan for the Central Coast Basin"
+    ],
+    "pages": [
+      "595"
+    ],
+    "url": [
+      "https://www.waterboards.ca.gov/centralcoast/publications_forms/publications/basin_plan/do"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "Proposed General Waste Discharge Requirements for Discharges from Irrigated Lands"
+    ],
+    "note": [
+      "Order R3-2021-0040."
+    ],
+    "url": [
+      "https://www.waterboards.ca.gov/centralcoast/water_issues/programs/ag_waivers/docs/ag_or"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Department of Toxic Substances Control (DTSC",
+      "Envirostor Website"
+    ],
+    "date": [
+      "2020"
+    ],
+    "note": [
+      "Accessed June 27, 2020."
+    ],
+    "url": [
+      "https://www.envirostor.dtsc.ca.gov/public/."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "California’s Ground Water"
+    ],
+    "volume": [
+      "118"
+    ],
+    "note": [
+      "Update 2003."
+    ],
+    "url": [
+      "http://wdl.water.ca.gov/waterdatalibrary/docs/historic/Bulletins/Bulletin_118/Bulletin_118_"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Bulletin"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Bulletin 118 Interim Update 2004"
+    ],
+    "publisher": [
+      "Salinas Valley Groundwater Basin"
+    ],
+    "pages": [
+      "180 400"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "Foot Aquifer Subbasin"
+    ],
+    "url": [
+      "https://water.ca.gov/-/media/DWR-Website/WebPages/Programs/Groundwater-Management/Bulletin-118/Files/2003-BasinDescriptions/3_004_05_UpperValleyAquiferSubbasin.pdf."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+
+    ],
+    "date": [
+      "2016",
+      "2016"
+    ],
+    "title": [
+      "California’s Groundwater. Bulletin 118 Interim Update"
+    ],
+    "type": null
+  },
+  {
+    "url": [
+      "https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/GroundwaterManagement/Bulletin-118/Files/B118-Interim-Update-2016.pdf."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "Monitoring Networks and Identification of Data Gaps. Best Management Practices for the Sustainable Management of Groundwater"
+    ],
+    "url": [
+      "https://water.ca.gov//media/DWR-Website/Web-Pages/Programs/Groundwater-Management/SustainableGroundwater-Management/Best-Management-Practices-and-GuidanceDocuments/Files/BMP-2-Monitoring-Networks-and-Identification-of-Data-Gaps_ay_19.pdf."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "Sustainable Management Criteria. Best Management Practices for the Sustainable Management of Groundwater"
+    ],
+    "url": [
+      "https://water.ca.gov/-/media/DWR-Website/WebPages/Programs/Groundwater-Management/Sustainable-Groundwater-Management/BestManagement-Practices-and-Guidance-Documents/Files/BMP-6-Sustainable-ManagementCriteria-DRAFT_ay_19.pdf."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Guidance for Climate Change Data During Groundwater Sustainability Plan Development"
+    ],
+    "pages": [
+      "101"
+    ],
+    "url": [
+      "https://water.ca.gov/-/media/DWR-Website/WebPages/Programs/Groundwater-Management/Sustainable-Groundwater-Management/BestManagement-Practices-and-Guidance-Documents/Files/Resource-Guide-Climate-ChangeGuidance_v8_ay_19.pdf."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+
+    ],
+    "date": [
+      "2019",
+      "2019"
+    ],
+    "title": [
+      "Email sent by Benjamin Brezing (DWR) on May 30"
+    ],
+    "note": [
+      "Subject: Error bounds on subsidence raster."
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Upper Valley Aquifer Subbasin GSP R-2"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Well Completion Report Map Application"
+    ],
+    "note": [
+      "Accessed April 2020."
+    ],
+    "url": [
+      "https://www.arcgis.com/apps/webappviewer/index.html?id=181078580a214c0986e2da28f8"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+
+    ],
+    "title": [
+      "2020b"
+    ],
+    "container-title": [
+      "Natural Communities Commonly Associated with Groundwater (NCCAG) – GIS Data Set. Data queried and downloaded from California Department of Water Resources GIS Map Server on 4/29/2020"
+    ],
+    "url": [
+      "https://gis.water.ca.gov/app/ncdatasetviewer/sitedocs/."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "SGMA Data Viewer Map Application"
+    ],
+    "note": [
+      "Accessed July 2020."
+    ],
+    "url": [
+      "https://sgma.water.ca.gov/webgis/?appid=SGMADataViewer"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Handbook for Water Budget Development With or Without Models"
+    ],
+    "pages": [
+      "446"
+    ],
+    "url": [
+      "https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/GroundwaterManagement/Data-and-Tools/Files/Water-BudgetHandbook.pdf?la=en&hash=30AD0DFD02468603F21C1038E6CC6BFE32381233"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "Household Water Supply Shortage Reporting System web form"
+    ],
+    "note": [
+      "Accessed July 16, 2021."
+    ],
+    "url": [
+      "https://mydrywatersupply.water.ca.gov/report/."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Durbin",
+        "given": "Timothy J."
+      }
+    ],
+    "date": [
+      "1974"
+    ],
+    "title": [
+      "Digital simulation of the effects of urbanization on runoff in the upper Santa Ana Valley, California"
+    ],
+    "container-title": [
+      "U.S. Geological Survey Water Resources Investigations"
+    ],
+    "pages": [
+      "73–41"
+    ],
+    "url": [
+      "https://pubs.usgs.gov/wri/1973/0041/report.pdf."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Durbin",
+        "given": "Timothy J."
+      },
+      {
+        "family": "Kapple",
+        "given": "G.W."
+      },
+      {
+        "family": "Freckleton",
+        "given": "J.R."
+      }
+    ],
+    "date": [
+      "1978"
+    ],
+    "title": [
+      "Two-Dimensional and ThreeDimensional Digital Flow Models of the Salinas Valley Ground-Water Basin, California"
+    ],
+    "container-title": [
+      "U.S. Geological Survey. Water Resources Investigations Report 78-113. Prepared in cooperation with the U.S"
+    ],
+    "publisher": [
+      "Army Corps of Engineers"
+    ],
+    "pages": [
+      "134"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Durham",
+        "given": "D.L."
+      },
+      {
+        "family": "Addicott",
+        "given": "W.O."
+      }
+    ],
+    "date": [
+      "1965"
+    ],
+    "title": [
+      "Pancho Rico Formation"
+    ],
+    "location": [
+      "Salinas Valley, California"
+    ],
+    "publisher": [
+      "U.S"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "Geological Survey Professional Paper 524-A"
+    ],
+    "date": [
+      "1965"
+    ],
+    "pages": [
+      "38"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fund",
+        "given": "Environmental Defense"
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Addressing Regional Surface Water Depletions in California, A Proposed Approach for Compliance with the Sustainable Groundwater Management Act"
+    ],
+    "pages": [
+      "12"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Agreement",
+        "given": "Forebay Implementation"
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "Forebay Subbasin Groundwater Sustainability Plan Implementation Agreement between the SVBGSA and the Arroyo Seco Groundwater Sustainability Agency"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "April"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "West",
+        "given": "Fugro"
+      },
+      {
+        "family": "Inc.",
+        "given": "E.T.I.C.Engineering"
+      },
+      {
+        "family": "Inc.",
+        "given": "Cleath Associates"
+      }
+    ],
+    "date": [
+      "2005",
+      "2005-02"
+    ],
+    "title": [
+      "Final Report - Paso Robles Groundwater Basin Study Phase II, Numerical Model Development, Calibration, and Application"
+    ],
+    "publisher": [
+      "Prepared for County of San Luis Obispo Public Works Department"
+    ],
+    "pages": [
+      "162"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "Greater Monterey County Integrated Regional Water Management Group (RWMG"
+    ],
+    "date": [
+      "2018"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Greater Monterey County Integrated Regional Water Management Plan",
+      "Geology of the Monterey Bay Region, California"
+    ],
+    "url": [
+      "http://www.greatermontereyirwmp.org/documents/plan/."
+    ],
+    "editor": [
+      {
+        "family": "Greene",
+        "given": "H.G."
+      }
+    ],
+    "date": [
+      "1977",
+      "2022-01"
+    ],
+    "genre": [
+      "U.S. Geological Survey Open-File Report 77-718."
+    ],
+    "publisher": [
+      "Upper Valley Aquifer Subbasin GSP"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Consulting",
+        "given": "Hansford Economic"
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Regulatory Fee Study: Prepared for Salinas Valley Basin Groundwater Sustainability Agency"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Heath",
+        "given": "R.C."
+      }
+    ],
+    "date": [
+      "1976"
+    ],
+    "title": [
+      "Design of ground-water level observation-well programs"
+    ],
+    "volume": [
+      "14"
+    ],
+    "pages": [
+      "71–77"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Ground Water"
+    ],
+    "issue": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Economics",
+        "given": "Highland"
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "Rotational Cover Crop Plan Economic Analysis: Private Costs and Public Benefits of Cover Crop Fallowing in the Pajaro Valley and Potential Incentive Structures"
+    ],
+    "note": [
+      "Prepared for RCDSCC. 78"
+    ],
+    "pages": [
+
+    ],
+    "url": [
+      "http://www.communitywaterdialogue.org/images/coveredfallow/Pajaro_Valley_Covered_Fa"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hopkins",
+        "given": "J."
+      },
+      {
+        "family": "Anderson",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "A Field Manual for Groundwater-level Monitoring at the Texas Water Development Board"
+    ],
+    "volume": [
+      "52"
+    ],
+    "pages": [
+      "26"
+    ],
+    "url": [
+      "https://www.twdb.texas.gov/groundwater/docs/UMs/UM-52.pdf."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "User Manual"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "HydroFocus",
+        "given": "Inc"
+      }
+    ],
+    "date": [
+      "2014",
+      "30 April"
+    ],
+    "title": [
+      "Distribution of Groundwater Nitrate Concentrations"
+    ],
+    "location": [
+      "Salinas Valley, California"
+    ],
+    "pages": [
+      "42"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Jennings",
+        "given": "C.W."
+      },
+      {
+        "family": "C. Gutierrez",
+        "particle": "with modifications by"
+      },
+      {
+        "family": "Bryant",
+        "given": "W."
+      },
+      {
+        "family": "Saucedo",
+        "given": "G."
+      },
+      {
+        "family": "Wills",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Geologic map of California: California Geological Survey",
+      "Hydrostratigraphic Analysis of the Northern Salinas Valley"
+    ],
+    "volume": [
+
+    ],
+    "url": [
+      "https://www.conservation.ca.gov/cgs/Pages/ProgramRGMP/2010_geologicmap.aspx."
+    ],
+    "author": [
+      {
+        "given": "Kennedy-Jenks"
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "note": [
+      "Prepared for Monterey County Water Resources Agency. 14 May, 113p."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geologic Data Map"
+    ],
+    "issue": [
+      "2, scale 1:750,000"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "T.",
+        "given": "Kulongoski Justin"
+      },
+      {
+        "family": "Belitz",
+        "given": "Kenneth"
+      }
+    ],
+    "date": [
+      "2005",
+      "2005"
+    ],
+    "title": [
+      "Ground-Water Quality Data in the Monterey Bay and Salinas Valley Basins",
+      "- Results from the California GAMA Program"
+    ],
+    "location": [
+      "California"
+    ],
+    "container-title": [
+      "U.S. Geological Survey. Scientific Investigations Report 2011-5058. Prepared in in cooperation with the California State Water Resources Control Board"
+    ],
+    "pages": [
+      "98"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Melton",
+        "given": "F."
+      },
+      {
+        "family": "Hang",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2021",
+      "2021-03-31"
+    ],
+    "title": [
+      "Remote Sensing of Evapotranspiration from Arundo donax in the Salinas River Channel. Prepared for the Resources District of Monterey County by California State University Monterey Bay & NASA Ames Research Center, Cooperative for Research in Earth Science Technology"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Mittelbach",
+        "given": "H."
+      },
+      {
+        "family": "Casini",
+        "given": "F."
+      },
+      {
+        "family": "Lehner",
+        "given": "I."
+      },
+      {
+        "family": "Teuling",
+        "given": "A."
+      },
+      {
+        "family": "Seneviratne",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "Soil moisture monitoring for climate research: Evaluation of a low-cost sensor in the framework of the Swiss Soil Moisture Experiment (SwissSMEX) campaign"
+    ],
+    "volume": [
+      "116"
+    ],
+    "pages": [
+      "11"
+    ],
+    "note": [
+      "10.1029/2010JD014907."
+    ],
+    "url": [
+      "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2010JD014907."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Geophysical Research"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Commissioner",
+        "given": "Monterey County Agricultural"
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Monterey County Crop Report"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Accessed September 26, 2018."
+    ],
+    "type": null
+  },
+  {
+    "url": [
+      "https://www.co.monterey.ca.us/home/showdocument?id=78579."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "O’Geen",
+        "given": "A.T."
+      },
+      {
+        "family": "Saal",
+        "given": "M.B.B."
+      },
+      {
+        "family": "Dahlke",
+        "given": "H."
+      },
+      {
+        "family": "Doll",
+        "given": "D."
+      },
+      {
+        "family": "Elkins",
+        "given": "R."
+      },
+      {
+        "family": "Fulton",
+        "given": "A."
+      },
+      {
+        "family": "Fogg",
+        "given": "G."
+      },
+      {
+        "family": "Harter",
+        "given": "T."
+      },
+      {
+        "family": "Hopmans",
+        "given": "J.W."
+      },
+      {
+        "family": "Ingels",
+        "given": "C."
+      },
+      {
+        "family": "Niederholzer",
+        "given": "F."
+      },
+      {
+        "family": "Solis",
+        "given": "S.Sandovol"
+      },
+      {
+        "family": "Verdegaal",
+        "given": "P."
+      },
+      {
+        "family": "Walkinshaw",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "Soil suitability index identifies potential areas for groundwater banking on agricultural lands"
+    ],
+    "volume": [
+      "69"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "California Agriculture"
+    ],
+    "pages": [
+      "75–84"
+    ]
+  },
+  {
+    "title": [
+      "Resource Conservation District of Santa Cruz County (RCDSCC",
+      "Pajaro Valley Covered Fallow Plan"
+    ],
+    "date": [
+      "2018"
+    ],
+    "pages": [
+      "44"
+    ],
+    "url": [
+      "http://www.communitywaterdialogue.org/images/coveredfallow/Covered_Follow_Plan_FIN"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Rivas",
+        "given": "T."
+      }
+    ],
+    "date": [
+      "2006",
+      "2006-12"
+    ],
+    "title": [
+      "Erosion Control Treatment Selection Guide. U.S. Forest Service National Technology & Development Program: 7700 Transportation Management"
+    ],
+    "volume": [
+      "0677"
+    ],
+    "pages": [
+      "1203–"
+    ],
+    "url": [
+      "https://www.fs.fed.us/td/pubs/pdf/hi_res/06771203hi.pdf."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "United States Department of Agriculture"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rosenberg",
+        "given": "Lewis I."
+      }
+    ],
+    "date": [
+      "2001",
+      "1934"
+    ],
+    "title": [
+      "Digital Geologic Map of Monterey County"
+    ],
+    "location": [
+      "California"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Monterey County (Calif.) Planning Department",
+      "Groundwater observation network design for the Kansas groundwater management districts, USA"
+    ],
+    "url": [
+      "http://purl.stanford.edu/cm427jp1187."
+    ],
+    "author": [
+      {
+        "family": "Sophocleous",
+        "given": "Upper Valley Aquifer Subbasin G.S.P."
+      },
+      {
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "volume": [
+      "61"
+    ],
+    "pages": [
+      "371–389"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Hydrology"
+    ]
+  },
+  {
+    "title": [
+      "State Water Resources Control Board (SWRCB",
+      "GeoTracker Website"
+    ],
+    "date": [
+      "2020"
+    ],
+    "note": [
+      "Accessed June 27, 2020."
+    ],
+    "url": [
+      "https://geotracker.waterboards.ca.gov/."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Groundwater Ambient Monitoring and Assessment Program (GAMA"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Groundwater Information System Website"
+    ],
+    "note": [
+      "Accessed June 27, 2020."
+    ],
+    "url": [
+      "https://gamagroundwater.waterboards.ca.gov/gama/datadownload."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Thorne",
+        "given": "J."
+      },
+      {
+        "family": "Cameron",
+        "given": "D."
+      },
+      {
+        "family": "Jigour",
+        "given": "V."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "A guide to wildlands conservation in the central region of California"
+    ],
+    "location": [
+      "California Wilderness Coalition, Davis"
+    ],
+    "url": [
+      "https://escholarship.org/uc/item/41m0z72f."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Thorup",
+        "given": "R.R."
+      }
+    ],
+    "date": [
+      "1976"
+    ],
+    "title": [
+      "Report on Castroville Irrigation Project Deep Test Hole and Freshwater Bearing Strata Below the Pressure 400-Foot Aquifer"
+    ],
+    "location": [
+      "Salinas Valley, CA"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "California",
+        "given": "Tracking"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Water System Service Areas"
+    ],
+    "note": [
+      "Accessed April 2020."
+    ],
+    "url": [
+      "https://trackingcalifornia.org/water-systems/water-systems-landing."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Bureau",
+        "given": "U.S.Census"
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "TIGER/Line Geodatabases"
+    ],
+    "note": [
+      "Accessed December 2018."
+    ],
+    "url": [
+      "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-geodatabasefile.html."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Agriculture",
+        "given": "U.S.Department",
+        "particle": "of"
+      }
+    ],
+    "title": [
+      "Natural Resources Conservation Service",
+      "National Soil Survey Handbook"
+    ],
+    "date": [
+      "2018"
+    ],
+    "genre": [
+      "Title 430-VI."
+    ],
+    "note": [
+      "Accessed September 30, 2019."
+    ],
+    "url": [
+      "http://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/ref/?cid=nrcs142p2_054242."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fish",
+        "given": "U.S."
+      },
+      {
+        "family": "Service",
+        "given": "Wildlife"
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "Critical Habitat: What is it?"
+    ],
+    "url": [
+      "https://www.fws.gov/endangered/esa-library/pdf/critical_habitat.pdf."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Winter",
+        "given": "T.C."
+      },
+      {
+        "family": "Harvey",
+        "given": "J.W."
+      },
+      {
+        "family": "Franke",
+        "given": "O.L."
+      },
+      {
+        "family": "Alley",
+        "given": "W.M."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "Ground water and surface water- A Single Resource"
+    ],
+    "volume": [
+      "1139"
+    ],
+    "pages": [
+      "88"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "U.S. Geological Survey Circular"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "WRIME",
+        "given": "Inc"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "Deep Aquifer Investigation – Hydrogeologic Data Inventory"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Review, Interpretation and Implications. Technical Memorandum"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Yates",
+        "given": "Eugene B."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "title": [
+      "Simulated Effects of Ground-Water Management Alternatives for the Salinas Valley, California"
+    ],
+    "genre": [
+      "U.S. Geological Survey Water-Resources Investigations Report 87-4066."
+    ],
+    "type": "report"
+  },
+  {
+    "title": [
+      "The SVIHM is a provisional"
+    ],
+    "note": [
+      "unpublished model not currently available to the general public."
+    ],
+    "type": "manuscript"
+  },
+  {
+    "author": [
+      {
+        "family": "Bredehoeft",
+        "given": "J.D."
+      },
+      {
+        "family": "Papadopulos",
+        "given": "S.S."
+      },
+      {
+        "family": "Cooper",
+        "given": "H.H.",
+        "suffix": "Jr"
+      },
+      {
+        "family": "Bredehoeft",
+        "given": "J.D."
+      },
+      {
+        "family": "Bredehoeft",
+        "given": "J.D."
+      },
+      {
+        "family": "Bredehoeft",
+        "given": "J.D."
+      },
+      {
+        "family": "Durbin",
+        "given": "T."
+      }
+    ],
+    "date": [
+      "1982",
+      "1997",
+      "2002",
+      "2009",
+      "2011"
+    ],
+    "title": [
+      "The water budget myth",
+      "Safe yield and the water budget myth",
+      "The water budget myth revisited: why hydrogeologists model",
+      "Groundwater development: the time to full capture problem",
+      "Monitoring regional groundwater extraction: the problem"
+    ],
+    "container-title": [
+      "Scientific Basis of Water Resource Management, Studies in Geophysics",
+      "Ground Water",
+      "Ground Water",
+      "Ground Water",
+      "Ground Water"
+    ],
+    "pages": [
+      "51–57",
+      "929",
+      "340–345",
+      "506–514",
+      "808–814"
+    ],
+    "location": [
+      "Washington, D.C",
+      "Bredehoeft, J.D"
+    ],
+    "publisher": [
+      "National Academy Press"
+    ],
+    "volume": [
+      "35",
+      "40",
+      "47",
+      "49"
+    ],
+    "type": "article-journal",
+    "issue": [
+      "6",
+      "4",
+      "4",
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Todd",
+        "given": "D.K."
+      },
+      {
+        "family": "Domenico",
+        "given": "P."
+      },
+      {
+        "family": "Freeze",
+        "given": "R.A."
+      },
+      {
+        "family": "Cherry",
+        "given": "J.A."
+      },
+      {
+        "family": "Alley",
+        "given": "W.M."
+      },
+      {
+        "family": "Reilly",
+        "given": "T.E."
+      },
+      {
+        "family": "Franke",
+        "given": "O.L."
+      }
+    ],
+    "date": [
+      "1959",
+      "1972",
+      "1979",
+      "1999"
+    ],
+    "title": [
+      "Groundwater Hydrology",
+      "Concepts and Models in Groundwater Hydrology",
+      "Groundwater",
+      "Sustainability of ground-water resources"
+    ],
+    "publisher": [
+      "Wiley",
+      "McGraw-Hill",
+      "Prentice-Hall"
+    ],
+    "location": [
+      "New York",
+      "New York"
+    ],
+    "pages": [
+      "336",
+      "405",
+      "604",
+      "79"
+    ],
+    "volume": [
+      "1186"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "U.S. Geological Survey Circular"
+    ]
+  },
+  {
+    "title": [
+      "California Department of Fish and Wildlife",
+      "Fish & Wildlife Groundwater Planning Considerations"
+    ],
+    "date": [
+      "2019"
+    ],
+    "pages": [
+      "38"
+    ],
+    "note": [
+      "Available at:"
+    ],
+    "url": [
+      "https://nrm.dfg.ca.gov/FileHandler.ashx"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Franklin",
+        "given": "H."
+      },
+      {
+        "family": "Girard",
+        "given": "Leslie J."
+      },
+      {
+        "family": "Counsel",
+        "given": "General"
+      }
+    ],
+    "date": [
+      "2019",
+      "2019-03-04"
+    ],
+    "title": [
+      "Memorandum to Gary Petersen, General Manager, Salinas Valley Basin Groundwater Sustainability Agency and",
+      "Salinas Valley Basin Groundwater Sustainability Agency"
+    ],
+    "publisher": [
+      "Monterey County Water Resources Agency"
+    ],
+    "location": [
+      "Salinas, California"
+    ],
+    "pages": [
+      "2"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Barlow",
+        "given": "P.M."
+      },
+      {
+        "family": "Leake",
+        "given": "S.A."
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "title": [
+      "Streamflow depletion by wells—Understanding and managing the effects of groundwater pumping on streamflow: U.S"
+    ],
+    "volume": [
+      "1376"
+    ],
+    "pages": [
+      "84"
+    ],
+    "note": [
+      "Available at:"
+    ],
+    "url": [
+      "http://pubs.usgs.gov/circ/1376/)."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Survey Circular"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Brunner",
+        "given": "P."
+      },
+      {
+        "family": "Cook",
+        "given": "P."
+      },
+      {
+        "family": "Simmons",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "Disconnected surface water and groundwater: from theory to practice"
+    ],
+    "volume": [
+      "49"
+    ],
+    "pages": [
+      "460–467"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Ground Water"
+    ],
+    "issue": [
+      "4"
+    ]
+  },
+  {
+    "title": [
+      "California Department of Fish and Wildlife",
+      "Fish & Wildlife Groundwater Planning Considerations"
+    ],
+    "date": [
+      "2019"
+    ],
+    "pages": [
+      "38"
+    ],
+    "note": [
+      "Available at:"
+    ],
+    "url": [
+      "https://nrm.dfg.ca.gov/FileHandler.ashx?"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Cook",
+        "given": "P.G."
+      },
+      {
+        "family": "Brunner",
+        "given": "P."
+      },
+      {
+        "family": "Simmons",
+        "given": "C.T."
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "What is a disconnected stream?"
+    ],
+    "container-title": [
+      "Groundwater 2010. Groundwater 2010, The Challenges of sustainable management"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Durbin",
+        "given": "T.J."
+      },
+      {
+        "family": "Kapple",
+        "given": "G.W."
+      },
+      {
+        "family": "Freckleton",
+        "given": "J.R."
+      }
+    ],
+    "date": [
+      "1978"
+    ],
+    "title": [
+      "Two-dimensional and three-dimensional digital flow models of the Salinas Valley ground-water basin, California"
+    ],
+    "container-title": [
+      "USGS Numbered Series, Water-Resources Investigations Report 78-113. USGS Water Resources Division"
+    ],
+    "pages": [
+      "134"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Quinn",
+        "given": "T.P."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "The behavior and ecology of pacific salmon and trout"
+    ],
+    "publisher": [
+      "American Fisheries Society/University of Washington Press"
+    ],
+    "pages": [
+      "378"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Adadia-Cardoso",
+        "given": "A."
+      },
+      {
+        "family": "Pearse",
+        "given": "D.E."
+      },
+      {
+        "family": "Jacobson",
+        "given": "S."
+      },
+      {
+        "family": "Marshall",
+        "given": "J."
+      },
+      {
+        "family": "Dalrymple",
+        "given": "D."
+      },
+      {
+        "family": "Kawasaki",
+        "given": "F."
+      },
+      {
+        "family": "RuizCampos",
+        "given": "G."
+      },
+      {
+        "family": "Garza",
+        "given": "J.C."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "Population genetic structure and ancestry of steelhead/rainbow trout (Oncorhynchus mykiss"
+    ],
+    "container-title": [
+      "at the extreme southern edge of their range in North America. Conservation Genetics DOI 10.1007/s10592-016-0814-9"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Apgar",
+        "given": "T.M."
+      },
+      {
+        "family": "Pearse",
+        "given": "D.E."
+      },
+      {
+        "family": "Palkovacs",
+        "given": "E.P."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "Evolutionary restoration potential evaluated through the use of train-linked genetic marker"
+    ],
+    "volume": [
+      "10"
+    ],
+    "pages": [
+      "485–497"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Evolutionary Applications"
+    ],
+    "issue": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Arostegui",
+        "given": "M.C."
+      },
+      {
+        "family": "Quinn",
+        "given": "T.P."
+      },
+      {
+        "family": "Seeb",
+        "given": "L.W."
+      },
+      {
+        "family": "McKinney",
+        "given": "G.J."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Retention of a chromosomal inversion from an anadromous ancestor provides the genetic basis for alternative freshwater ecotypes in rainbow trout"
+    ],
+    "note": [
+      "Special Issue."
+    ],
+    "volume": [
+      "28"
+    ],
+    "pages": [
+      "1112–1247"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Molecular Ecology",
+      "The Role of Structural Variants in Adaptation and Diversification"
+    ],
+    "issue": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Boughton",
+        "given": "D.H."
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "A Forward-Looking Scientific Frame of Reference for Steelhead Recovery on the South-Central and Southern California Coast"
+    ],
+    "publisher": [
+      "NOAA Technical Memorandum NMFS-SWFSC-466"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Boughton",
+        "given": "D.H."
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "Some Research Questions on Recovery of Steelhead on the South-Central California Coast"
+    ],
+    "container-title": [
+      "NOAA Technical Memorandum NMFS-SWFSC-467"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Boughton",
+        "given": "D."
+      },
+      {
+        "family": "Fish",
+        "given": "H."
+      },
+      {
+        "family": "Pope",
+        "given": "J."
+      },
+      {
+        "family": "Holt",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "Spatial patterning of habitat for Oncorhynchus mykiss in a system of intermittent and perennial stream"
+    ],
+    "volume": [
+      "18"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Ecology of Freshwater Fish"
+    ],
+    "issue": [
+      "92105"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Boughton",
+        "given": "P.Adams"
+      },
+      {
+        "family": "Anderson",
+        "given": "E."
+      },
+      {
+        "family": "Fusaro",
+        "given": "C."
+      },
+      {
+        "family": "Keller",
+        "given": "E."
+      },
+      {
+        "family": "Kelley",
+        "given": "E."
+      },
+      {
+        "family": "Lentsch",
+        "given": "L."
+      },
+      {
+        "family": "Nielsen",
+        "given": "J."
+      },
+      {
+        "family": "Perry",
+        "given": "K."
+      },
+      {
+        "family": "Regan",
+        "given": "H."
+      },
+      {
+        "family": "Smith",
+        "given": "J."
+      },
+      {
+        "family": "Swift",
+        "given": "C."
+      },
+      {
+        "family": "Thompson",
+        "given": "L."
+      },
+      {
+        "family": "Watson",
+        "given": "F."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "Viability Criteria for Steelhead of the South-Central and"
+    ],
+    "location": [
+      "Southern California Coast"
+    ],
+    "note": [
+      "NOAA-Technical Memorandum NMFS-SWFSC-407."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Boughton",
+        "given": "D.A."
+      },
+      {
+        "family": "Adams",
+        "given": "P."
+      },
+      {
+        "family": "Anderson",
+        "given": "E."
+      },
+      {
+        "family": "Fusaro",
+        "given": "C."
+      },
+      {
+        "family": "Keller",
+        "given": "E.A."
+      },
+      {
+        "family": "Kelley",
+        "given": "E."
+      },
+      {
+        "family": "Lentsch",
+        "given": "L."
+      },
+      {
+        "family": "Nielsen",
+        "given": "J."
+      },
+      {
+        "family": "Perry",
+        "given": "K."
+      },
+      {
+        "family": "Regan",
+        "given": "H.M."
+      },
+      {
+        "family": "Smith",
+        "given": "J.J."
+      },
+      {
+        "family": "Swift",
+        "given": "C."
+      },
+      {
+        "family": "Thompson",
+        "given": "L."
+      },
+      {
+        "family": "Watson",
+        "given": "F."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "Steelhead of the South-Central/Southern"
+    ],
+    "location": [
+      "California Coast"
+    ],
+    "publisher": [
+      "Population Characterization for Recovery Planning. NOAA Technical Memorandum NMFS-SWFSC-394"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Boughton",
+        "given": "D.A."
+      },
+      {
+        "family": "Goslin",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "Potential steelhead over-summering habitat in the SouthCentral/Southern California coast recovery domain: Maps based on the envelope method"
+    ],
+    "volume": [
+      "391"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "NOAA Technical Memorandum NMFS-SWFSC"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Boughton",
+        "given": "D.A."
+      },
+      {
+        "family": "Fish",
+        "given": "H."
+      },
+      {
+        "family": "Pipal",
+        "given": "K."
+      },
+      {
+        "family": "Goin",
+        "given": "J."
+      },
+      {
+        "family": "Watson",
+        "given": "F."
+      },
+      {
+        "family": "Hager",
+        "given": "J."
+      },
+      {
+        "family": "Casagrande",
+        "given": "J."
+      },
+      {
+        "family": "Stoecker",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Contraction of the southern range limit for anadromous Oncorhynchus mykiss"
+    ],
+    "container-title": [
+      "NOAA Fisheries Technical Memorandum SWFSC 380"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Board",
+        "given": "California State Water Resources Control"
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "State of California State Water Resources Control Board Order WR 2019-0148 In the Matter of Permits 11308 and 11310 (Applications 11331 and 11332) held by the United States Bureau of Reclamation for the Cachuma Project on the Santa Ynez River"
+    ],
+    "note": [
+      "Order Amending Permits 11308 and 11310."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Casagrande",
+        "given": "J."
+      },
+      {
+        "family": "Hager",
+        "given": "J."
+      },
+      {
+        "family": "Watson",
+        "given": "F."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "Fish species distribution and habitat quality for selected streams of the Salinas watershed"
+    ],
+    "publisher": [
+      "The Watershed Institute, California State University Monterey Bay"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Clemento",
+        "given": "A.J."
+      },
+      {
+        "family": "Anderson",
+        "given": "E.C."
+      },
+      {
+        "family": "Boughton",
+        "given": "D."
+      },
+      {
+        "family": "Girman",
+        "given": "D."
+      },
+      {
+        "family": "Garza",
+        "given": "J.C."
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "Population genetic structure and ancestry of Oncorhynchus mykiss populations above and below dams in south-central California"
+    ],
+    "volume": [
+      "10"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Conservation Genetics"
+    ],
+    "pages": [
+      "1321–1336"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Donohoe",
+        "given": "C.J."
+      },
+      {
+        "family": "Rundio",
+        "given": "D.E."
+      },
+      {
+        "family": "Pearse",
+        "given": "D.E."
+      },
+      {
+        "family": "Williams",
+        "given": "T.H."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "Straying and life history of adult steelhead in a small California coastal stream revealed by otolith natural tags and genetic stock identification"
+    ],
+    "doi": [
+      "doi.1002/NAAFM.10577."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "North American Journal of Fisheries Management"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Franklin",
+        "given": "H.A."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "Steelhead and salmon migration in the Salinas River"
+    ],
+    "note": [
+      "Unpublished report, H. Franklin, 1040 South River Road, Paso Robles, CA 93446."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Garza",
+        "given": "J.C."
+      },
+      {
+        "family": "Gilbert-Horvath",
+        "given": "L."
+      },
+      {
+        "family": "Spence",
+        "given": "B."
+      },
+      {
+        "family": "Williams",
+        "given": "T.H."
+      },
+      {
+        "family": "Anderson",
+        "given": "J."
+      },
+      {
+        "family": "Fish",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "Population structure of steelhead in coastal California"
+    ],
+    "volume": [
+      "143"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Transactions of the American Fisheries Society"
+    ],
+    "pages": [
+      "134–152"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Garza",
+        "given": "J.C."
+      },
+      {
+        "family": "Gilbert-Horvath",
+        "given": "L."
+      },
+      {
+        "family": "Anderson",
+        "given": "J."
+      },
+      {
+        "family": "Williams",
+        "given": "T."
+      },
+      {
+        "family": "Spence",
+        "given": "B."
+      },
+      {
+        "family": "Fish",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Population structure and history of steelhead trout in California"
+    ],
+    "genre": [
+      "NPAFC Technical Report"
+    ],
+    "volume": [
+
+    ],
+    "issue": [
+      "5"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Girman",
+        "given": "D."
+      },
+      {
+        "family": "Garza",
+        "given": "J.C."
+      }
+    ],
+    "date": [
+      "2006",
+      "2006-09"
+    ],
+    "title": [
+      "Population structure and ancestry of O. mykiss populations in South-Central California based on genetic analysis of microsatellite data"
+    ],
+    "container-title": [
+      "Final Report for California Department of Fish and Game Project No. P0350021 and Pacific States Marine Fisheries Contract No. AWIP-S-1"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Good",
+        "given": "T.P."
+      },
+      {
+        "family": "Waples",
+        "given": "R.S."
+      },
+      {
+        "family": "Adams",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Updated Status of Federally Listed ESUs of West Coast Salmon and Steelhead"
+    ],
+    "container-title": [
+      "National Marine Fisheries Service. Northwest and Southwest Fisheries Science Centers. NOAA Technical Memorandum NMFS-NWFSC TM66"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Hager",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "An Evaluation of Steelhead Habitat and Population in the Gabilan Creek Watershed. Capstone Project, Earth Systems and Policy"
+    ],
+    "publisher": [
+      "Center for Science, Technology, and Information Resources. California State University"
+    ],
+    "location": [
+      "Monterey Bay"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Kelson, S. J., M. R. Miller, T. Q. Thompson, S. M. O’Rourke, and S. M. Carlson."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Do genomics and sex predict migration in a partially migratory salmonid fish, Oncorhynchus mykiss?"
+    ],
+    "volume": [
+      "76"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Canadian Journal of Fisheries and Aquatic Sciences"
+    ],
+    "pages": [
+      "2080–2088"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Leitwein",
+        "given": "M."
+      },
+      {
+        "family": "Garza",
+        "given": "J.C."
+      },
+      {
+        "family": "Pearse",
+        "given": "D.E."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "Ancestory and adaptive evolution of anadromous, resident, and adfluvial rainbow trout (Oncorhynchus mykiss) in the San Francisco bat area: application of adaptive genomic variation to conservation in highly impacted landscape"
+    ],
+    "volume": [
+      "10"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Evolutionary Applications"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "56–67"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Service",
+        "given": "National Marine Fisheries"
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "South-Central/Southern California Coast Steelhead Recovery Planning Domain. 5-Year Review: Summary and Evaluation. South-Central California Coast Steelhead Distinct Population Segment"
+    ],
+    "publisher": [
+      "National Marine Fisheries Service"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "West Coast Region"
+    ],
+    "publisher": [
+      "California Coastal Office"
+    ],
+    "location": [
+      "Santa Rosa, California"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Service",
+        "given": "National Marine Fisheries"
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "Endangered Species Act (ESA) Section 7(a)(2) Draft Biological Opinion"
+    ],
+    "container-title": [
+      "Operation and Maintenance of the Cachuma Project"
+    ],
+    "location": [
+      "Santa Ynez River"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Number",
+        "given": "N.M.F.S.Consultation"
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "location": [
+      "Action Agency"
+    ],
+    "publisher": [
+      "U.S. Bureau of Reclamation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Service",
+        "given": "National Marine Fisheries"
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "title": [
+      "South-Central California Coast Steelhead Recovery Plan. NOAA Fisheries"
+    ],
+    "publisher": [
+      "West Coast Region, California Coastal Office"
+    ],
+    "location": [
+      "Long Beach, California"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Service",
+        "given": "National Marine Fisheries"
+      },
+      {
+        "family": "Commission",
+        "given": "S.Federal Energy Regulatory"
+      },
+      {
+        "family": "Washington",
+        "given": "D.C."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "Final Biological Opinion. Operation of the Santa Felicia Hydroelectric Project (P-2153)-012). Action Agency: U"
+    ],
+    "note": [
+      "license issued to United Water Conservation District. May 5, 2008. Tracking #: SWR/2002/02704."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Nilsson",
+        "given": "C."
+      },
+      {
+        "family": "Berggren",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Alteration of riparian ecosystem caused by river regulation"
+    ],
+    "volume": [
+      "50"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "BioScience"
+    ],
+    "issue": [
+      "9"
+    ],
+    "pages": [
+      "783–792"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Olden",
+        "given": "J.D."
+      },
+      {
+        "family": "Naiman",
+        "given": "R.J."
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "Incorporating thermal regimes into environmental flow assessments: modifying dam operations to restore freshwater ecosystem integrity"
+    ],
+    "volume": [
+      "85"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Freshwater Biology"
+    ],
+    "issue": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pearse",
+        "given": "D.E."
+      },
+      {
+        "family": "Nome",
+        "given": "N.J.Barson T."
+      },
+      {
+        "family": "Gao",
+        "given": "G.T."
+      },
+      {
+        "family": "Campbell",
+        "given": "M.A."
+      },
+      {
+        "family": "Abadia-Cardoso",
+        "given": "A."
+      },
+      {
+        "family": "Anderson",
+        "given": "E.C."
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Sex-dependent dominance maintains migration supergene in rainbow trout"
+    ],
+    "volume": [
+      "3"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Nature Ecology & Evolution"
+    ],
+    "issue": [
+      "12"
+    ],
+    "pages": [
+      "173–1742"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pearse",
+        "given": "D.E."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "Saving the Spandrels? Adaptive genomic variation in conservation and fisheries management"
+    ],
+    "doi": [
+      "10.1111/jfb.13168"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Fish Biology"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pearse",
+        "given": "D.E."
+      },
+      {
+        "family": "Miller",
+        "given": "M.R."
+      },
+      {
+        "family": "Abadia-Cardoso",
+        "given": "A."
+      },
+      {
+        "family": "Garza",
+        "given": "J.C."
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "Rapid parallel evolution of standing variation in a single, complex, genomic region is associated with life-history in steelhead/rainbow trout"
+    ],
+    "container-title": [
+      "Proceedings of the Royal Society B-Biological Sciences"
+    ],
+    "note": [
+      "online serial] 281: article 2014.0012."
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Pearse",
+        "given": "D."
+      },
+      {
+        "family": "Garza",
+        "given": "J.C."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "Historical Baseline for Genetic Monitoring of Coastal California Steelhead, Oncorhynchus mykiss"
+    ],
+    "container-title": [
+      "Final Report for California Department of Fish and Wildlife Fisheries Restoration Grant Program P0510530"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Quinones",
+        "given": "R.M."
+      },
+      {
+        "family": "Grantham",
+        "given": "T.E."
+      },
+      {
+        "family": "Harvey",
+        "given": "B.N."
+      },
+      {
+        "family": "Kiernan",
+        "given": "J.D."
+      },
+      {
+        "family": "Klasson",
+        "given": "M."
+      },
+      {
+        "family": "Wintzer",
+        "given": "A.P."
+      },
+      {
+        "family": "Moyle",
+        "given": "P.B."
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "Dam removal and anadromous salmonids (Oncorhynchus spp"
+    ],
+    "note": [
+      "DOI 10.1007/s1160-014-9359-5."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Conservation in California. Review Fish Biology Fisheries"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Association",
+        "given": "California Rural Water"
+      }
+    ],
+    "date": [
+      "2018",
+      "2018-12"
+    ],
+    "title": [
+      "Moss Landing County Sanitation District Median Household Income (MHI) Survey Final Report"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "C.C.G.C."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "Northern Counties Groundwater Characterization: Salinas Valley, Pajaro Valley and Gilroy-Hollister Valley. Submitted to the Central Coast Regional Water Quality Control Board on June 1, 2015"
+    ],
+    "location": [
+      "Salinas"
+    ],
+    "publisher": [
+      "CA Prepared by Luhdorff & Scalmanini Consulting Engineers"
+    ],
+    "pages": [
+      "454"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "Greater Monterey County Regional Water Management Group",
+      "Integrated Regional Water Management Plan for the Greater Monterey County Region"
+    ],
+    "date": [
+      "2018"
+    ],
+    "note": [
+      "Accessed December 20, 2019."
+    ],
+    "url": [
+      "http://www.greatermontereyirwmp.org/documents/plan/."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Corporation",
+        "given": "Rural Community Assistance"
+      }
+    ],
+    "date": [
+      "2017",
+      "2017-03-30"
+    ],
+    "title": [
+      "Castroville Community Services District Median Household Income Survey Results Prop 1"
+    ],
+    "note": [
+      "Agreement No. D1612801/TA Work Plan No. 5077-A.”"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "S.W.R.C.B."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "Safe Drinking Water Plan for California"
+    ],
+    "container-title": [
+      "Report to the Legislature in Compliance with Health & Safety Code Section 116365"
+    ],
+    "note": [
+      "Dated June 2015. Available at:"
+    ],
+    "url": [
+      "https://www.waterboards.ca.gov/publications_forms/publications/legislative/docs/2015/sdwp"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "A.M.B.A.G."
+      }
+    ],
+    "date": [
+      "2018",
+      "2018"
+    ],
+    "title": [
+      "Regional Growth Forecast, Technical Documentation"
+    ],
+    "volume": [
+      "13"
+    ],
+    "pages": [
+      "61"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "June"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "City",
+        "given": "King"
+      }
+    ],
+    "date": [
+      "1998",
+      "2010"
+    ],
+    "title": [
+      "King City General Plan",
+      "Monterey County",
+      "2010 Monterey County General Plan"
+    ],
+    "url": [
+      "http://www.kingcity.com/wp-content/uploads/2016/01/City-ofKing-General-Plan-with-2007-2014-Housing-Element.pdf",
+      "https://www.co.monterey.ca.us/government/departments-i-z/resource-management-agency-rma/planning/resources-documents/2010-general-plan."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Allen",
+        "given": "R.G."
+      },
+      {
+        "family": "Pereira",
+        "given": "L.S."
+      },
+      {
+        "family": "Smith",
+        "given": "M."
+      },
+      {
+        "family": "Raes",
+        "given": "D."
+      },
+      {
+        "family": "Wright",
+        "given": "J.L."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "FAO-56 dual crop coefficient method for estimating evaporation from soil and application extensions"
+    ],
+    "volume": [
+      "131"
+    ],
+    "pages": [
+      "2–13"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of irrigation and drainage engineering"
+    ],
+    "issue": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Baillie",
+        "given": "M."
+      },
+      {
+        "family": "Chau",
+        "given": "L."
+      },
+      {
+        "family": "Turner",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "State of the Salinas River Groundwater Basin"
+    ],
+    "note": [
+      "Consultants report prepared for Monterey County Resources Management Agency, 240p."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Bakker",
+        "given": "M."
+      },
+      {
+        "family": "Schaars",
+        "given": "F."
+      },
+      {
+        "family": "Hughes",
+        "given": "J.D."
+      },
+      {
+        "family": "Langevin",
+        "given": "C.D."
+      },
+      {
+        "family": "Dausman",
+        "given": "A.M."
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "title": [
+      "The seawater intrusion (SWI2) package for modeling vertically-integrated variable-density groundwater flow in regional aquifers using the U.S"
+    ],
+    "container-title": [
+      "Geological Survey Modular Groundwater Flow Model (MODFLOW-2005): U.S. Geological Survey Techniques in Water Resources Investigations, Book 6"
+    ],
+    "volume": [
+
+    ],
+    "pages": [
+      "47"
+    ],
+    "issue": [
+      "apter A46"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Bicknell",
+        "given": "B.R."
+      },
+      {
+        "family": "Imhoff",
+        "given": "J.C."
+      },
+      {
+        "family": "Kittle",
+        "given": "J.L.",
+        "suffix": "Jr."
+      },
+      {
+        "family": "Donigian",
+        "given": "A.S.",
+        "suffix": "Jr."
+      },
+      {
+        "family": "Johanson",
+        "given": "R.C."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Hydrological Simulation Program-Fortran, User's manual for version 11: U.S"
+    ],
+    "volume": [
+      "600"
+    ],
+    "pages": [
+      "755"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Environmental Protection Agency, National Exposure Research Laboratory, Athens, Ga"
+    ],
+    "issue": [
+      "R-97/080"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Boyce",
+        "given": "S.E."
+      },
+      {
+        "family": "Hanson",
+        "given": "R.T."
+      },
+      {
+        "family": "Ferguson",
+        "given": "I."
+      },
+      {
+        "family": "Schmid",
+        "given": "W."
+      },
+      {
+        "family": "Henson",
+        "given": "W."
+      },
+      {
+        "family": "Mehl",
+        "given": "Reimann"
+      },
+      {
+        "family": "T.",
+        "given": "S.M."
+      },
+      {
+        "family": "Earll",
+        "given": "M.M."
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "OneWater Hydrologic Flow Model: A MODFLOW Based Conjunctive-Use Simulation Software: U.S"
+    ],
+    "volume": [
+      "6"
+    ],
+    "url": [
+      "https://doi.org/10.3133/tm6a60"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Survey Techniques and Methods"
+    ],
+    "doi": [
+      "10.3133/tm6a60"
+    ]
+  },
+  {
+    "title": [
+      "California Department of Water Resources (CADWR",
+      "California Sustainable Groundwater Management Act"
+    ],
+    "date": [
+      "2014"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "SGMA):",
+      "last accessed 12/7/2015)."
+    ],
+    "url": [
+      "http://www.water.ca.gov/groundwater/sgm/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "System",
+        "given": "California Irrigation Management Information"
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Meteorological data: California Department of Water Resources and University of California at Davis"
+    ],
+    "note": [
+      "Available at"
+    ],
+    "url": [
+      "http://www.cimis.water.ca.gov/.)"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Casagrande",
+        "given": "J."
+      },
+      {
+        "family": "Watson",
+        "given": "F."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "Carr Lake Watershed / Reclamation Ditch Subwatershed Assessment and Management Plan, Consultants report prepared by The Watershed Institute for Monterey County Water Resources Agency"
+    ],
+    "pages": [
+      "355"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Colgan",
+        "given": "J.P."
+      },
+      {
+        "family": "McPhee",
+        "given": "D.K."
+      },
+      {
+        "family": "McDougall",
+        "given": "K."
+      },
+      {
+        "family": "Hourigan",
+        "given": "J.K."
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "title": [
+      "Superimposed extension and shortening in the southern Salinas Basin and La Panza Range, California: A guide to Neogene deformation in the Salinian block of the central California Coast Ranges"
+    ],
+    "volume": [
+      "4"
+    ],
+    "pages": [
+      "411–429,"
+    ],
+    "doi": [
+      "10.1130/L208.1"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Lithosphere"
+    ],
+    "issue": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Daly",
+        "given": "C."
+      },
+      {
+        "family": "Gibson",
+        "given": "W.P."
+      },
+      {
+        "family": "Doggett",
+        "given": "M."
+      },
+      {
+        "family": "Smith",
+        "given": "J."
+      },
+      {
+        "family": "Taylor",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "2004",
+      "January 13–16, 2004"
+    ],
+    "title": [
+      "Up-to-date monthly climate maps for the conterminous United States"
+    ],
+    "container-title": [
+      "Procedures of the 14th American Meteorological Society Conference on Applied Climatology, 84th American Meteorological Society Annual Meeting Combined Preprints"
+    ],
+    "publisher": [
+      "American Meteorological Society"
+    ],
+    "location": [
+      "Seattle, Washington",
+      "Paper P5.1, CD-ROM"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Dausman",
+        "given": "A.M."
+      },
+      {
+        "family": "Doherty",
+        "given": "J."
+      },
+      {
+        "family": "Langevin",
+        "given": "C.D."
+      },
+      {
+        "family": "Sukop",
+        "given": "M.C."
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "Quantifying data worth toward reducing predictive uncertainty"
+    ],
+    "volume": [
+      "48"
+    ],
+    "pages": [
+      "729–740"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Groundwater"
+    ],
+    "issue": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Faunt",
+        "given": "C.C."
+      },
+      {
+        "family": "Belitz",
+        "given": "K."
+      },
+      {
+        "family": "Hanson",
+        "given": "R.T."
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "Development of a three-dimensional model of sedimentary texture in valley-fill deposits of Central Valley"
+    ],
+    "location": [
+      "California, USA"
+    ],
+    "volume": [
+      "18"
+    ],
+    "pages": [
+      "625–649"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Hydrogeology Journal"
+    ],
+    "issue": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Feeney",
+        "given": "M."
+      },
+      {
+        "family": "Rosenberg",
+        "given": "L."
+      },
+      {
+        "family": "Ferguson",
+        "given": "I.A."
+      },
+      {
+        "family": "Llewellyn",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2003",
+      "2015"
+    ],
+    "title": [
+      "Deep Aquifer Investigation – Hydrogeologic Data Inventory, Review, Interpretation and Implications",
+      "Simulation of Rio Grande Project Operations in the Rincon and Mesilla Basins: Summary of Model Configuration and Results, U.S"
+    ],
+    "volume": [
+
+    ],
+    "pages": [
+      "56"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Bureau of Reclamation Technical Memorandum"
+    ],
+    "issue": [
+      "86-68210–201505"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ferguson",
+        "given": "I.A."
+      },
+      {
+        "family": "Llewellyn",
+        "given": "D."
+      },
+      {
+        "family": "Hanson",
+        "given": "R.T."
+      },
+      {
+        "family": "Boyce",
+        "given": "S.E."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "User Guide to the Surface Water Operations Process: Simulation of Large-Scale Surface Water Management in MODFLOW-Based Hydrologic Models, U.S"
+    ],
+    "volume": [
+
+    ],
+    "pages": [
+      "79"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Bureauof Reclamation Technical Memorandum"
+    ],
+    "issue": [
+      "86-68210–2015-XX"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Faunt",
+        "given": "C.C."
+      },
+      {
+        "family": "Hanson",
+        "given": "R.T."
+      },
+      {
+        "family": "Belitz",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "Ground-Water Availability of California’s Central Valley: U.S"
+    ],
+    "container-title": [
+      "Geological Survey Professional Paper 1766, Ground-Water Availability of California’s Central Valley, Claudia Faunt ed"
+    ],
+    "pages": [
+      "212"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Faunt",
+        "given": "C.C."
+      },
+      {
+        "family": "Hanson",
+        "given": "R.T."
+      },
+      {
+        "family": "Belitz",
+        "given": "Kenneth"
+      },
+      {
+        "family": "Rogers",
+        "given": "Laurel"
+      }
+    ],
+    "title": [
+      "2009b, California’s Central Valley Groundwater Study: A Powerful New Tool to Assess Water Resources in California's Central Valley: U.S"
+    ],
+    "volume": [
+      "20093057"
+    ],
+    "pages": [
+      "4"
+    ],
+    "note": [
+      ""
+    ],
+    "url": [
+      "http://pubs.usgs.gov/fs/2009/3057/)"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Survey Fact Sheet"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Flint",
+        "given": "A.L."
+      },
+      {
+        "family": "Flint",
+        "given": "L.E."
+      },
+      {
+        "family": "Hevesi",
+        "given": "J.A."
+      },
+      {
+        "family": "Blainey",
+        "given": "J.M."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Fundamental concepts of recharge in the Desert Southwest: a regional modeling perspective"
+    ],
+    "editor": [
+      {
+        "family": "Hogan",
+        "given": "J.F."
+      },
+      {
+        "family": "Phillips",
+        "given": "F.M."
+      },
+      {
+        "family": "Scanlon",
+        "given": "B.R."
+      }
+    ],
+    "container-title": [
+      "Groundwater Recharge in a Desert Environment: The Southwestern United States"
+    ],
+    "location": [
+      "Washington D.C"
+    ],
+    "collection-title": [
+      "Water Science and Applications Series"
+    ],
+    "volume": [
+      "9"
+    ],
+    "publisher": [
+      "American Geophysical Union"
+    ],
+    "pages": [
+      "159 – 184"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Flint",
+        "given": "A.L."
+      },
+      {
+        "family": "Flint",
+        "given": "L.E."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "Application of the basin characterization model to estimate in-place recharge and runoff potential in the Basin and Range carbonate-rock aquifer system"
+    ],
+    "container-title": [
+      "White Pine County, Nevada, and adjacent areas in Nevada and Utah: U.S. Geological Survey Scientific Investigations Report 2007-5099"
+    ],
+    "pages": [
+      "20"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Flint",
+        "given": "L.E."
+      },
+      {
+        "family": "Flint",
+        "given": "A.L."
+      }
+    ],
+    "title": [
+      "2007b, Estimation of hourly stream temperatures in unmeasured tributaries to the lower Klamath River, California"
+    ],
+    "volume": [
+      "37"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "J. of Environmental Quality"
+    ],
+    "pages": [
+      "57–68"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Flint",
+        "given": "L.E."
+      },
+      {
+        "family": "Flint",
+        "given": "A.L."
+      }
+    ],
+    "title": [
+      "2007c, Regional analysis of ground-water recharge"
+    ],
+    "editor": [
+      {
+        "family": "Stonestrom",
+        "given": "D.A."
+      },
+      {
+        "family": "Constantz",
+        "given": "J."
+      },
+      {
+        "family": "Ferré",
+        "given": "T.P.A."
+      },
+      {
+        "family": "Leake",
+        "given": "S.A."
+      }
+    ],
+    "container-title": [
+      "Ground-water recharge in the arid and semiarid southwestern United States: U.S. Geological Survey Professional Paper 1703"
+    ],
+    "pages": [
+      "29–59"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Guo",
+        "given": "W."
+      },
+      {
+        "family": "Langevin",
+        "given": "C.D."
+      },
+      {
+        "family": "Survey",
+        "given": "U.S.Geological"
+      },
+      {
+        "family": "Tallahassee",
+        "given": "Florida"
+      },
+      {
+        "family": "Survey",
+        "given": "U.S.Geological"
+      },
+      {
+        "family": "Tallahassee",
+        "given": "Florida"
+      }
+    ],
+    "date": [
+      "2002",
+      "2001",
+      "1990"
+    ],
+    "title": [
+      "User’s guide to SEAWAT: A computer program for simulation of three-dimensional variable-density ground-water flow",
+      "Simulation of ground-water discharge to Biscayne Bay, southeastern Florida",
+      "Simulation of ground-water flow and potential land subsidence"
+    ],
+    "genre": [
+      "Open-File Report 01-434,",
+      "Water Resources Investigations Report 00-4251,",
+      "Geological Survey Water-Resources Investigation Report 90-4178,"
+    ],
+    "pages": [
+      "77",
+      "127",
+      "41"
+    ],
+    "location": [
+      "Langevin, C.D",
+      "Hanson, R.T., Anderson, S.R., and Pool, D.R",
+      "Avra Valley, Arizona"
+    ],
+    "publisher": [
+      "U.S"
+    ],
+    "note": [
+      "http://pubs.er.usgs.gov/usgspubs/wri/wri904178"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Hanson",
+        "given": "R.T."
+      },
+      {
+        "family": "J.F",
+        "given": "Benedict"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "Simulation of ground-water flow and potential land subsidence, upper Santa Cruz River Basin"
+    ],
+    "location": [
+      "Arizona"
+    ],
+    "publisher": [
+      "U.S. Geological Survey Water"
+    ],
+    "genre": [
+      "Resources Investigation Report 93-4196,"
+    ],
+    "pages": [
+      "47"
+    ],
+    "url": [
+      "http://pubs.er.usgs.gov/usgspubs/wri/wri934196)"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Hanson",
+        "given": "R.T."
+      },
+      {
+        "family": "Everett",
+        "given": "R.R."
+      },
+      {
+        "family": "Newhouse",
+        "given": "M.W."
+      },
+      {
+        "family": "Crawford",
+        "given": "S.M."
+      },
+      {
+        "family": "Pimentel",
+        "given": "M.I."
+      },
+      {
+        "family": "Smith",
+        "given": "G.A."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Geohydrology of a deep-aquifer system monitoring-well site at Marina"
+    ],
+    "location": [
+      "Monterey County, California"
+    ],
+    "publisher": [
+      "Geological Survey WaterResources"
+    ],
+    "genre": [
+      "Investigation Report 02-4003,"
+    ],
+    "pages": [
+      "73"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Hanson",
+        "given": "R.T."
+      },
+      {
+        "family": "Martin",
+        "given": "P."
+      },
+      {
+        "family": "Koczot",
+        "given": "K.M."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "Simulation of ground-water/surface-water flow in the Santa Clara - Calleguas basin"
+    ],
+    "location": [
+      "California"
+    ],
+    "publisher": [
+      "U.S"
+    ],
+    "genre": [
+      "Geological Survey Water-Resources Investigation Report 02-4136,",
+      "(ONLINE ONLY --"
+    ],
+    "pages": [
+      "214"
+    ],
+    "url": [
+      "http://water.usgs.gov/pubs/wri/wri024136/text.html"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Hanson",
+        "given": "R.T."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "Geohydrologic framework of recharge and seawater intrusion in the Pajaro Valley, Santa Cruz and Monterey Counties"
+    ],
+    "location": [
+      "California"
+    ],
+    "publisher": [
+      "U.S"
+    ],
+    "genre": [
+      "Geological Survey Water-Resources Investigation Report 2003–4096,"
+    ],
+    "pages": [
+      "88 ,"
+    ],
+    "url": [
+      "http://pubs.er.usgs.gov/publication/wri034096."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Hanson",
+        "given": "R.T."
+      }
+    ],
+    "title": [
+      "2003b, Geohydrology of recharge and seawater intrusion in the Pajaro Valley, Santa Cruz and Monterey Counties, California: U.S"
+    ],
+    "volume": [
+      "044–03"
+    ],
+    "pages": [
+      "4"
+    ],
+    "url": [
+      "http://pubs.er.usgs.gov/publication/fs04403."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Survey Fact Sheet"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hanson",
+        "given": "R.T."
+      },
+      {
+        "family": "Li",
+        "given": "Z."
+      },
+      {
+        "family": "C",
+        "given": "Faunt"
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Documentation of the Santa Clara Valley regional ground-water/surface-water flow model"
+    ],
+    "location": [
+      "Santa Clara County, California"
+    ],
+    "publisher": [
+      "Scientific"
+    ],
+    "genre": [
+      "Investigations Report SIR2004-5231",
+      "(ONLINE ONLY -"
+    ],
+    "volume": [
+
+    ],
+    "pages": [
+      "75"
+    ],
+    "url": [
+      "http://pubs.usgs.gov/sir/2004/5231/)"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Hanson",
+        "given": "R.T."
+      },
+      {
+        "family": "Schmid",
+        "given": "Wolfgang"
+      },
+      {
+        "family": "Faunt",
+        "given": "C.C."
+      },
+      {
+        "family": "Lear",
+        "given": "J."
+      },
+      {
+        "family": "Lockwood",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "Integrated Hydrologic Model of Pajaro Valley"
+    ],
+    "location": [
+      "Santa Cruz and Monterey Counties, California"
+    ],
+    "publisher": [
+      "U.S. Geological Survey Scientific"
+    ],
+    "genre": [
+      "Investigations Report SIR 2014-5111,"
+    ],
+    "pages": [
+      "166"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Hanson",
+        "given": "R.T."
+      },
+      {
+        "family": "Boyce",
+        "given": "S.E."
+      },
+      {
+        "family": "Schmid",
+        "given": "Wolfgang"
+      },
+      {
+        "family": "Hughes",
+        "given": "J.D."
+      },
+      {
+        "family": "Mehl",
+        "given": "S.M."
+      },
+      {
+        "family": "Leake",
+        "given": "S.A."
+      },
+      {
+        "family": "Maddock",
+        "given": "Thomas",
+        "suffix": "III"
+      },
+      {
+        "family": "Niswonger",
+        "given": "R.G."
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "MODFLOW-One-Water Hydrologic Flow Model (MF-OWHM): U.S"
+    ],
+    "volume": [
+      "6-A51"
+    ],
+    "pages": [
+      "122"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Survey Techniques and Methods"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hanson",
+        "given": "R.T."
+      },
+      {
+        "family": "Lockwood",
+        "given": "B."
+      },
+      {
+        "family": "Schmid",
+        "given": "Wolfgang"
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "Analysis of Projected Water Availability with Current Basin Management Plan, Pajaro Valley"
+    ],
+    "volume": [
+      "519, Part A"
+    ],
+    "pages": [
+      "131–147"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "California, Journal of Hydrology"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hanson",
+        "given": "R.T."
+      },
+      {
+        "family": "Flint",
+        "given": "L.E."
+      },
+      {
+        "family": "Faunt",
+        "given": "C.C."
+      },
+      {
+        "family": "Gibbs",
+        "given": "D.R."
+      },
+      {
+        "family": "Schmid",
+        "given": "W."
+      }
+    ],
+    "title": [
+      "2014b, Hydrologic models and analysis of water availability in Cuyama Valley"
+    ],
+    "location": [
+      "California"
+    ],
+    "publisher": [
+      "U.S Geological Survey Scientific"
+    ],
+    "genre": [
+      "Investigations Report 2014–5150,"
+    ],
+    "pages": [
+      "150 ,"
+    ],
+    "url": [
+      "http://dx.doi.org/10.3133/sir20145150."
+    ],
+    "doi": [
+      "10.3133/sir20145150."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Hanson",
+        "given": "R.T."
+      },
+      {
+        "family": "Sweetkind",
+        "given": "D.S."
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "Water Availability in Cuyama Valley"
+    ],
+    "location": [
+      "California"
+    ],
+    "publisher": [
+      "U.S. Geological Survey Fact Sheet"
+    ],
+    "pages": [
+      "2014–3075 4"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hanson",
+        "given": "R.T."
+      },
+      {
+        "family": "Ritchie",
+        "given": "A.B."
+      },
+      {
+        "family": "Boyce",
+        "given": "S.E."
+      },
+      {
+        "family": "Galanter",
+        "given": "A.E."
+      },
+      {
+        "family": "Ferguson",
+        "given": "I.A."
+      },
+      {
+        "family": "Flint",
+        "given": "L.E."
+      },
+      {
+        "family": "Flint",
+        "given": "A."
+      },
+      {
+        "family": "Henson",
+        "given": "W.R."
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Rio Grande transboundary integrated hydrologic model and water-availability analysis, New Mexico and Texas, United States"
+    ],
+    "location": [
+      "and northern Chihuahua, Mexico"
+    ],
+    "publisher": [
+      "U.S. Geological Survey Scientific"
+    ],
+    "genre": [
+      "Investigations Report 2019–5120,"
+    ],
+    "pages": [
+      "186 ,"
+    ],
+    "url": [
+      "https://doi.org/10.3133/sir20195120."
+    ],
+    "note": [
+      "see pages 7-9"
+    ],
+    "doi": [
+      "10.3133/sir20195120."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Harbaugh",
+        "given": "A.W."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "MODFLOW-2005, the U.S. Geological Survey modular ground-water model-the Ground-Water Flow Process: U.S"
+    ],
+    "container-title": [
+      "Geological Survey Techniques and Methods 6-A16"
+    ],
+    "note": [
+      "variously paginated."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Henson",
+        "given": "W.R."
+      }
+    ],
+    "title": [
+      "In Prep, Estimating Multi-Cropped Land Use Using a Pesticide Database"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Hydrology"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hevesi",
+        "given": "J.A."
+      },
+      {
+        "family": "Boyce",
+        "given": "S.E."
+      },
+      {
+        "family": "Henson",
+        "given": "W."
+      },
+      {
+        "family": "Hanson",
+        "given": "R.T."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Integrated hydrologic modeling of the Salinas River, California, for sustainable water management"
+    ],
+    "container-title": [
+      "SEDHYD 2019 Conference"
+    ],
+    "location": [
+      "Reno, NV"
+    ],
+    "note": [
+      "Jun. 24-28, 2019, Federal Interagency Subcommittee on Sedimentation (SOS)."
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Homer",
+        "given": "C."
+      },
+      {
+        "family": "Dewitz",
+        "given": "J."
+      },
+      {
+        "family": "Fry",
+        "given": "J."
+      },
+      {
+        "family": "Coan",
+        "given": "M."
+      },
+      {
+        "family": "Hossain",
+        "given": "N."
+      },
+      {
+        "family": "Larson",
+        "given": "C."
+      },
+      {
+        "family": "Wickham",
+        "given": "J."
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "Completion of the 2001 national land cover database for the conterminous United States"
+    ],
+    "volume": [
+      "73"
+    ],
+    "pages": [
+      "337"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Photogrammetric engineering and remote sensing"
+    ],
+    "issue": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Hydrometrics"
+      }
+    ],
+    "date": [
+      "2009",
+      "2009-11"
+    ],
+    "title": [
+      "Seaside Groundwater Basin Modeling and Protective Groundwater Elevations: Consultants Report prepared for the Seaside Basin Watermaster by Hydrometrics"
+    ],
+    "publisher": [
+      "LLC"
+    ],
+    "pages": [
+      "210"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Johnson",
+        "given": "S.Y."
+      },
+      {
+        "family": "Dartnell",
+        "given": "P."
+      },
+      {
+        "family": "Hartwell",
+        "given": "S.R."
+      },
+      {
+        "family": "Cochrane",
+        "given": "G.R."
+      },
+      {
+        "family": "Golden",
+        "given": "N.E."
+      },
+      {
+        "family": "Watt",
+        "given": "J.T."
+      },
+      {
+        "family": "Davenport",
+        "given": "C.W."
+      },
+      {
+        "family": "Kvitek",
+        "given": "R.G."
+      },
+      {
+        "family": "Erdey",
+        "given": "M.D."
+      },
+      {
+        "family": "Krigsman",
+        "given": "L.M."
+      },
+      {
+        "family": "Sliter",
+        "given": "R.W."
+      },
+      {
+        "family": "Maier",
+        "given": "K.L."
+      }
+    ],
+    "title": [
+      "Johnson and S.A",
+      "California State Waters Map Series—Offshore of Monterey"
+    ],
+    "editor": [
+      {
+        "given": "Cochran"
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "location": [
+      "California"
+    ],
+    "publisher": [
+      "U.S"
+    ],
+    "genre": [
+      "Geological Survey Open-File Report 2016–1110,"
+    ],
+    "pages": [
+      "44 , 10"
+    ],
+    "note": [
+      "sheets, scale 1:24,000,"
+    ],
+    "url": [
+      "http://dx.doi.org/10.3133/ofr20161110."
+    ],
+    "doi": [
+      "10.3133/ofr20161110."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "given": "Kennedy/Jenks"
+      }
+    ],
+    "date": [
+      "2004",
+      "2004-05-14"
+    ],
+    "title": [
+      "Hydrostratigraphic Analysis of the Northern Salinas Valley, Consultants report prepared for Monterey County Water Resources Agency"
+    ],
+    "pages": [
+      "98"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Langenheim",
+        "given": "V.E."
+      },
+      {
+        "family": "Jachens",
+        "given": "R.C."
+      },
+      {
+        "family": "Graymer",
+        "given": "R.W."
+      },
+      {
+        "family": "Colgan",
+        "given": "J.P.Wentworth"
+      },
+      {
+        "family": "C.M."
+      },
+      {
+        "family": "Stanley",
+        "given": "R.G."
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "title": [
+      "Fault geometry and cumulative offsets in the central Coast Ranges, California: Evidence for northward increasing slip along the San Gregorio–San Simeon–Hosgri fault"
+    ],
+    "volume": [
+      "5"
+    ],
+    "pages": [
+      "29–48"
+    ],
+    "doi": [
+      "10.1130/L233.1"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Lithosphere"
+    ],
+    "issue": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Motz",
+        "given": "L.H."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Representing the saltwater-freshwater interface in regional groundwater flow models"
+    ],
+    "volume": [
+      "15"
+    ],
+    "pages": [
+      "33"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Groundwater and saline intrusion"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "County",
+        "given": "Monterey"
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "Settlement Agreement in Salinas Valley Water Coalition and others v"
+    ],
+    "note": [
+      "County of Monterey:Monterey County Case No. M109451, Attachment H and Exhibit B, 16p."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Agency",
+        "given": "Monterey County Water Resources"
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "Recommendations to Address the Expansion of Seawater Intrusion in the Salinas Valley Groundwater Basin"
+    ],
+    "note": [
+      "Special Reports Series 17-01."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Phillips",
+        "given": "S.P."
+      },
+      {
+        "family": "Green",
+        "given": "C.T."
+      },
+      {
+        "family": "Burow",
+        "given": "K.R."
+      },
+      {
+        "family": "Shelton",
+        "given": "J.L."
+      },
+      {
+        "family": "Rewis",
+        "given": "D.L."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "Simulation of Multiscale Ground-Water Flow in Part of the Northeastern"
+    ],
+    "location": [
+      "San Joaquin Valley, California"
+    ],
+    "publisher": [
+      "US Geological Survey Scientific"
+    ],
+    "genre": [
+      "Investigations Report 20075009,"
+    ],
+    "pages": [
+      "43"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Schmid",
+        "given": "Wolfgang"
+      },
+      {
+        "family": "R.T",
+        "given": "Hanson"
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "The farm process version 2 (FMP2) for MODFLOW-2005—Modifications and upgrades to FMP1: U.S"
+    ],
+    "container-title": [
+      "Geological Survey Techniques in Water Resources Investigations, book 6, chap"
+    ],
+    "volume": [
+      "A32"
+    ],
+    "pages": [
+      "102"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "literal": "Schmid, W., Hanson, R.T., Maddock III, T.M., and Leake, S.A."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "User’s guide for the Farm Package (FMP1) for the U.S"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Geological Survey’s modular three-dimensional finite-difference ground-water flow model, MODFLOW-2000: U.S"
+    ],
+    "volume": [
+
+    ],
+    "pages": [
+      "127"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Survey Techniques and Scientific Methods Report Book"
+    ],
+    "issue": [
+      "apter A17"
+    ]
+  },
+  {
+    "citation-number": [
+      "http://pubs.usgs.gov/tm/2006/tm6A17/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Sweetkind",
+        "given": "D.S."
+      },
+      {
+        "family": "Faunt",
+        "given": "C.C."
+      },
+      {
+        "family": "Hanson",
+        "given": "R.T."
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "title": [
+      "Construction of 3-D geologic framework and textural models for Cuyama Valley groundwater basin"
+    ],
+    "location": [
+      "California"
+    ],
+    "publisher": [
+      "U.S. Geological Survey Scientific"
+    ],
+    "genre": [
+      "Investigations Report 2013–5127,"
+    ],
+    "pages": [
+      "46"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Sweetkind",
+        "given": "D.S."
+      },
+      {
+        "family": "Henson",
+        "given": "W.R."
+      },
+      {
+        "family": "Prep",
+        "given": "In"
+      },
+      {
+        "family": "Geological Survey Scientific Investigations Report Taylor",
+        "given": "E.M."
+      },
+      {
+        "family": "Sweetkind",
+        "given": "D.S."
+      }
+    ],
+    "title": [
+      "Construction of 3-D geologic framework and textural models for Salinas Valley groundwater basin",
+      "Quaternary geologic map of the north-central part of the Salinas River Valley and Arroyo Seco, Monterey County, California: U.S"
+    ],
+    "location": [
+      "California",
+      "Tinsley, J.C",
+      "Salinas Valley, Monterey County, California"
+    ],
+    "publisher": [
+      "U.S",
+      "Quaternary Geology of Northern",
+      "Stanford University Dissertation"
+    ],
+    "date": [
+      "2014",
+      "1975-08"
+    ],
+    "volume": [
+      "3260",
+      "1"
+    ],
+    "pages": [
+      "13 , 2",
+      "211"
+    ],
+    "url": [
+      "http://dx.doi.org/10.3133/sim3260."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Survey Scientific Investigations Map",
+      "sheets, scales"
+    ],
+    "issue": [
+      "24"
+    ],
+    "doi": [
+      "10.3133/sim3260."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Survey",
+        "given": "U.S.Geological"
+      }
+    ],
+    "date": [
+      "2014",
+      "2011"
+    ],
+    "title": [
+      "NLCD 2011 Land Cover"
+    ],
+    "note": [
+      "Edition, amended 2014) - National Geospatial Data Asset (NGDA) Land Use Land Cover."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "U.S.B.R."
+      }
+    ],
+    "date": [
+      "2015",
+      "2015"
+    ],
+    "title": [
+      "Salinas and Carmel River Basins Study proposal: U.S"
+    ],
+    "pages": [
+      "38"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Bureau of Reclamation (USBR), April"
+    ]
+  },
+  {
+    "date": [
+      "2017-03-08"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2017-03-08"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "U.S.E.P.A."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "USEPA requirements for Quality Assurance Project Plans (QA/R-5) Office of Environmental Information"
+    ],
+    "location": [
+      "Washington, D.C"
+    ],
+    "note": [
+      "USEPA QA/R-5"
+    ],
+    "url": [
+      "http://waterboards.ca.gov/water_issues/programs/swamp/tools.shtml#qa"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2017-03-08"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2017-03-08"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2017-03-08"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2017-03-08"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2017-03-08"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2017-03-08"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2017-03-08"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2017-03-08"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2017-03-08"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Code",
+        "given": "Water"
+      }
+    ],
+    "title": [
+      "Pursuant to section 13268 of the Water Code, a violation of a request made pursuant to section 13267 may subject you to civil liability of up to $1000 per day"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "The Water Board needs the required information to determine compliance with Order No"
+    ],
+    "container-title": [
+      "R3-2017-0002. The evidence supporting these requirements is included in the findings of Order No. R3-2017-0002"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Officer",
+        "given": "John M.Robertson Executive"
+      }
+    ],
+    "date": [
+      "2017-03-08"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "-6-Order"
+    ],
+    "container-title": [
+      "No. R3-2021-0040 April XX"
+    ],
+    "date": [
+      "2021"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "26."
+    ],
+    "date": [
+      "2021-01-26",
+      "2021"
+    ],
+    "title": [
+      "the Central Coast Water Board circulated a revised draft Order for a 30-day public comment period that closed on February 25"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Central Coast Water Board staff subsequently considered the public comments and developed a proposed Order for Board consideration during an April 14-16"
+    ],
+    "date": [
+      "2021"
+    ],
+    "note": [
+      "public hearing."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "27."
+    ],
+    "title": [
+      "The Central Coast Water Board, in a public hearing held on April 14-16, 2021"
+    ],
+    "note": [
+      "has heard and considered all comments pertaining to the discharge and proposed Order."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "No",
+        "given": "Order"
+      }
+    ],
+    "date": [
+      "2021-04"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Quantifiable Milestones and Time Schedules 13. Dischargers in an area with an established TMDL (Figure C.3-2 for Nutrient TMDL areas, Figure C.3-3 for Pesticide and Toxicity TMDL areas, and Figure C.3-4 for Sediment TMDL areas) for a pollutant must not cause or contribute to an exceedance of the pollutant’s surface receiving water limit in Table C.3-2 for nutrients, Table C.3-4 for pesticides and toxicity, and Table C.3-6 for sediment in accordance with the compliance dates specified in the applicable table"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "14."
+    ],
+    "title": [
+      "Dischargers in an area without an established TMDL for a pollutant must not cause or contribute to an exceedance of the pollutant’s surface receiving water limit in Table C.3-3 for nutrients, Table C-3.5 for pesticides and toxicity, and Table C.3-7 for turbidity in accordance with the compliance dates specified in the applicable table"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "No",
+        "given": "Order"
+      }
+    ],
+    "date": [
+      "2021-04"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "15."
+    ],
+    "title": [
+      "The surface receiving water limits in Table C.3-3 for nutrients, Table C-3.5 for pesticides and toxicity, and Table C.3-7 for turbidity, apply to all Dischargers unless a specific surface receiving water limit based on a TMDL in Table C.3-2 for nutrients, Table C.3-4 for pesticides and toxicity, and Table C.3-6 for sediment applies to a Discharger"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "16."
+    ],
+    "title": [
+      "Dischargers in areas where the water quality for a pollutant is better (i.e., of higher quality) than the applicable limit in Table C.3-2 (TMDL areas) and Table C.3-3 (non-TMDL areas) for nutrients, Table C.3-4 (TMDL areas) and Table C-3.5 (non-TMDL areas) for pesticides and toxicity, and Table C.3-6 (TMDL areas) for sediment and Table C.3-7 (non-TMDL areas) for turbidity must not cause or contribute to an increase of that pollutant in receiving waters, except as consistent with the antidegradation findings of this Order"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "17."
+    ],
+    "title": [
+      "The discharge of pollutants from a ranch that cause or contribute to an exceedance of the applicable limits after the compliance date in Table C.3-2 (TMDL areas) and Table C.3-3 (non-TMDL areas) for nutrients, Table C.3-4 (TMDL areas) and Table C-3.5 (non-TMDL areas) for pesticides and toxicity, and Table C.3-6 (TMDL areas) for sediment and Table C.3-7 (non-TMDL areas) for turbidity may result in additional requirements, including obtaining additional education, implementing additional or improved management practices, follow-up monitoring and reporting, ranch-level surface discharge monitoring and reporting"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "-39-Order"
+    ],
+    "container-title": [
+      "No. R3-2021-0040 April XX"
+    ],
+    "date": [
+      "2021"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "discharge of relevant pollutants and achieve the applicable surface water numeric limits by the compliance dates in Table C.3-2 (TMDL areas) and Table C.3-3 (non-TMDL areas) for nutrients, Table C.3-4 (TMDL areas) and Table C-3.5 (non-TMDL areas) for pesticides and toxicity, and Table C.3-6"
+    ],
+    "note": [
+      "TMDL areas) for sediment and Table C.3-7 (non-TMDL areas) for turbidity."
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "The work plan must be submitted for Executive Officer review prior to implementation. Once approved, the work plan must be implemented. d. Prior to the applicable compliance dates in Table C.3-2 (TMDL areas) and Table C.3-3 (non-TMDL areas) for nutrients, Table C.3-4 (TMDL areas) and Table C-3.5 (non-TMDL areas) for pesticides and toxicity, and Table C.3-6 (TMDL areas) for sediment and Table C.3-7 (non-TMDL areas) for turbidity, Dischargers who elect to participate in a third-party program to develop and implement their work plan will not be subject to ranch-level surface discharge monitoring and reporting. e"
+    ],
+    "note": [
+      "Work plans must take into consideration the level of water quality impairment identified through surface receiving water monitoring. Work plans for areas with persistent exceedances of the surface water limits in Table C.3-2"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "No",
+        "given": "Order"
+      }
+    ],
+    "date": [
+      "2021-04"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "TMDL areas) and Table C.3-3 (non-TMDL areas) for nutrients, Table C.3-4 (TMDL areas) and Table C-3.5 (non-TMDL areas) for pesticides and toxicity, and Table C.3-6 (TMDL areas) for sediment and Table C.3-7 (non-TMDL areas) for turbidity must identify follow-up actions to restore degraded areas and meet surface receiving water limits (e.g., numeric interim quantifiable milestones, outreach, education, management practice implementation and assessment) and additional surface receiving water monitoring locations for pollutant source identification and abatement. Work plans for areas that are already achieving the surface water limits in Table C.3-2 (TMDL areas) and Table C.3-3 (non-TMDL areas) for nutrients, Table C.3-4 (TMDL areas) and Table C-3.5 (non-TMDL areas) for pesticides and toxicity, and Table C.3-6 (TMDL areas) for sediment and Table C.3-7 (non-TMDL areas) for turbidity must identify actions to be taken to protect the high-quality areas (e.g., numeric interim quantifiable milestones, outreach and education). f. Dischargers who elect to develop their work plan individually and whose ranches are located in areas where surface receiving water monitoring shows an exceedance of an applicable surface water limit in Table C.3-2"
+    ],
+    "note": [
+      "TMDL areas) and Table C.3-3 (non-TMDL areas) for nutrients, Table C.3-4 (TMDL areas) and Table C-3.5 (non-TMDL areas) for pesticides and toxicity, and Table C.3-6 (TMDL areas) for sediment and Table C.3-7 (non-TMDL areas) for turbidity after the applicable compliance deadline may be subject to ranch-level surface discharge monitoring and reporting."
+    ],
+    "type": "report"
+  },
+  {
+    "citation-number": [
+      "20."
+    ],
+    "title": [
+      "When required by the Executive Officer, based on surface receiving water quality data or significant and repeated exceedance of the surface water quality limits in Table C.3-2 (TMDL areas) and Table C.3-3 (non-TMDL areas) for nutrients, Table C.3-4 (TMDL areas) and Table C-3.5 (non-TMDL areas) for pesticides and toxicity, and Table C.3-6"
+    ],
+    "note": [
+      "TMDL areas) for sediment and Table C.3-7 (nonTMDL areas) for turbidity, Dischargers must complete ranch-level surface"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Date",
+        "given": "Compliance"
+      }
+    ],
+    "date": [
+      "12/31/2032 12/31/2032 12/31/2032 12/31/2032 12/31/2032 12/31/2032 12/31/2032 12/31/2032 12/31/2032 12/31/2032 12/31/2032"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Date",
+        "given": "Compliance"
+      }
+    ],
+    "date": [
+      "12/31/2032 12/31/2032 12/31/2032 12/31/2032 12/31/2032 12/31/2032 12/31/2032 12/31/2032 12/31/2032 12/31/2032"
+    ],
+    "type": null
+  }
+]

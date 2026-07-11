@@ -1,0 +1,571 @@
+[
+  {
+    "author": [
+      {
+        "given": "K.D.S.A."
+      }
+    ],
+    "date": [
+      "2020-06-29"
+    ],
+    "publisher": [
+      "Pleasant Valley WD Aquifer Transmissivities"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "K.D.S.A."
+      }
+    ],
+    "date": [
+      "2020-06-29"
+    ],
+    "title": [
+      "Subsurface Geologic Conditions Near Pasajero and Polvadero Gaps"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "County",
+        "given": "Kings"
+      },
+      {
+        "family": "MacGillivray",
+        "given": "N.A."
+      },
+      {
+        "family": "Jones",
+        "given": "M.D."
+      }
+    ],
+    "date": [
+      "2002-07-30",
+      "1989-02-01"
+    ],
+    "title": [
+      "Revised Dairy Element of Kings County General Plan",
+      "Effective Precipitation-A Field Study to Assess Consumptive Use of Winter Rains by Spring and Summer Crops"
+    ],
+    "url": [
+      "https://www.countyofkings.com/departments/community-development-agency/information/dairy-element"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "McIntyre",
+        "given": "V.B."
+      },
+      {
+        "family": "Meffley",
+        "given": "R.W."
+      },
+      {
+        "family": "Stetson",
+        "given": "C.L."
+      }
+    ],
+    "date": [
+      "1964-05-22"
+    ],
+    "publisher": [
+      "Investigation Guijarral Hills Oil Field"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Service",
+        "given": "National Resources Conservation"
+      },
+      {
+        "family": "Oster",
+        "given": "J.D."
+      },
+      {
+        "family": "Rhoades",
+        "given": "J.D."
+      }
+    ],
+    "date": [
+      "XXXX",
+      "1975-01-01"
+    ],
+    "title": [
+      "Soil Textural Classes and Related Saturated Hydraulic Conductivity Classes",
+      "Calculated Drainage water Compositions and Salt Burdens Resulting from Irrigation with River Water in the Western United States"
+    ],
+    "genre": [
+      "USDA."
+    ],
+    "note": [
+      "Retrieved September 17, 2021,"
+    ],
+    "url": [
+      "https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/ref/?cid=nrcs142p2_054253#soil_texture",
+      "https://acsess.onlinelibrary.wiley.com/doi/abs/10.2134/jeq1975.00472425000400010017x"
+    ],
+    "volume": [
+      "4"
+    ],
+    "pages": [
+      "73–79"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Environmental Quality"
+    ],
+    "issue": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Provost"
+      },
+      {
+        "family": "Group",
+        "given": "Pritchard Consulting"
+      }
+    ],
+    "date": [
+      "2020-01-28"
+    ],
+    "title": [
+      "North Kings Groundwater Sustainability Agency Groundwater Sustainability Plan"
+    ],
+    "url": [
+      "https://northkingsgsa.org/groundwater-sustainability-plan/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "Provost&Pritchard Engineering"
+      }
+    ],
+    "date": [
+      "2005-09-01"
+    ],
+    "title": [
+      "Pleasant Valley Water District Groundwater Quality Monitoring Program Local Groundwater Assistance Fund Grant"
+    ],
+    "genre": [
+      "Final Report (AB303)."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "Provost&Pritchard Engineering"
+      },
+      {
+        "given": "K.D.S.A."
+      }
+    ],
+    "date": [
+      "2003-06-01"
+    ],
+    "publisher": [
+      "Groundwater Storage Pilot Project and Feasibility Study"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rhoades",
+        "given": "J.D."
+      },
+      {
+        "family": "Ingvalson",
+        "given": "R.D."
+      },
+      {
+        "family": "Tucker",
+        "given": "J.M."
+      },
+      {
+        "family": "Clark",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1973-09-01"
+    ],
+    "title": [
+      "Salts in Irrigation Drainage Waters: I. Effects of Irrigation Water Composition, Leaching Fraction, and Time of Year on the Salt Compositions of Irrigation Drainage Waters"
+    ],
+    "volume": [
+      "37"
+    ],
+    "pages": [
+      "770–774"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Soil Science Society of America Journal"
+    ],
+    "issue": [
+      "5"
+    ]
+  },
+  {
+    "url": [
+      "https://acsess.onlinelibrary.wiley.com/doi/abs/10.2136/sssaj1973.03615995003700050038x"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Rhoades",
+        "given": "J.D."
+      },
+      {
+        "family": "Oster",
+        "given": "J.D."
+      },
+      {
+        "family": "Ingvalson",
+        "given": "R.D."
+      },
+      {
+        "family": "Tucker",
+        "given": "J.M."
+      },
+      {
+        "family": "Clark",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1974-10-01"
+    ],
+    "title": [
+      "Minimizing the Salt Burdens of Irrigation Drainage Waters"
+    ],
+    "volume": [
+      "3"
+    ],
+    "pages": [
+      "311–316"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Environmental Quality"
+    ],
+    "issue": [
+      "4"
+    ]
+  },
+  {
+    "url": [
+      "https://acsess.onlinelibrary.wiley.com/doi/10.2134/jeq1974.00472425000300040002x"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Engineering",
+        "given": "Summers"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "title": [
+      "Pleasant Valley Water District"
+    ],
+    "location": [
+      "Coalinga, California"
+    ],
+    "publisher": [
+      "Groundwater Information"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Engineering",
+        "given": "Summers"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "date": [
+      "1986-04-01"
+    ],
+    "title": [
+      "Pleasant Valley Water District"
+    ],
+    "location": [
+      "Coalinga, California, Factual Report"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Harder",
+        "given": "Thomas"
+      },
+      {
+        "given": "Co"
+      }
+    ],
+    "date": [
+      "2017-08"
+    ],
+    "title": [
+      "Hydrogeologic Conceptual Model and Water Budget of the Tule Subbasin"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Engineers",
+        "given": "D.W.R.",
+        "particle": "United States Army Corps of"
+      },
+      {
+        "given": "U.S.B.R."
+      }
+    ],
+    "date": [
+      "1999-03-01"
+    ],
+    "title": [
+      "San Joaquin River Basin Arroyo Pasajero"
+    ],
+    "volume": [
+      "III"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Feasibility Investigation Tech Appendices"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Reclamation",
+        "given": "United States Bureau",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "February"
+    ],
+    "volume": [
+
+    ],
+    "container-title": [
+      "West-Wide Climate Risk Assessments: Irrigation Demand and Reservoir Evaporation Projections",
+      "Technical Memorandum"
+    ],
+    "url": [
+      "https://www.usbr.gov/watersmart/baseline/docs/irrigationdemand/irrigationdemands.pdf"
+    ],
+    "type": "article-journal",
+    "issue": [
+      "86-68210-201401"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Reclamation",
+        "given": "United States Bureau",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "XXXX"
+    ],
+    "title": [
+      "Agrimet Irrigation Guide"
+    ],
+    "note": [
+      "Retrieved October 18, 2021, from"
+    ],
+    "url": [
+      "https://www.usbr.gov/pn/agrimet/irrigation.html#Efficiency"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Agency",
+        "given": "United States Environmental Protection"
+      },
+      {
+        "family": "Williamson",
+        "given": "A.K."
+      },
+      {
+        "family": "Prudic",
+        "given": "D.E."
+      },
+      {
+        "family": "Swain",
+        "given": "L.A."
+      }
+    ],
+    "date": [
+      "2006-02",
+      "1989"
+    ],
+    "title": [
+      "Guidance on Systematic Planning Using the Data Quality Objectives Process",
+      "Ground-Water Flow in the"
+    ],
+    "location": [
+      "Washington DC",
+      "Central Valley, California"
+    ],
+    "publisher": [
+      "Office of Environmental Information"
+    ],
+    "url": [
+      "https://www.epa.gov/sites/production/files/documents/guidance_systematic_planning_dqo_process.pdf"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "U.S.G.S."
+      }
+    ],
+    "title": [
+      "Professional Paper 1401-D"
+    ],
+    "url": [
+      "https://pubs.er.usgs.gov/publication/pp1401D,",
+      "https://pubs.usgs.gov/pp/1401d/report.pdf"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "HISTORY 1. New article 3 (sections 352-352.6) and section filed 8-15-2016 as an emergency exempt from review by OAL pursuant to Water Code section 10733.2(d); operative 8-152016. Pursuant to Water Code section 10733.2(d"
+    ],
+    "note": [
+      "these regulations shall remain in effect until revised by the Department of Water Resources (Register 2016,"
+    ],
+    "volume": [
+
+    ],
+    "issue": [
+      "34)"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "REFERENCE: SECTIONS 10727.2, 10728.2, 10729 AND 10733.2, WATER CODE. HISTORY 1. New section filed 8-15-2016 as an emergency exempt from review by OAL pursuant to Water Code section 10733.2(d); operative 8-15-2016"
+    ],
+    "note": [
+      "Pursuant to Water Code section 10733.2(d), these regulations shall remain in effect until revised by the Department of Water Resources (Register 2016,"
+    ],
+    "volume": [
+
+    ],
+    "issue": [
+      "34)"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "title": [
+      "New section filed 8-15-2016 as an emergency exempt from review by OAL pursuant to Water Code section 10733.2(d); operative 8-15-2016"
+    ],
+    "note": [
+      "Pursuant to Water Code section 10733.2(d), these regulations shall remain in effect until revised by the Department of Water Resources (Register 2016,"
+    ],
+    "volume": [
+
+    ],
+    "issue": [
+      "34)"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "REFERENCE: SECTIONS 10727.2, 10728, 10728.2 AND 10733.2, WATER CODE. HISTORY 1. New section filed 8-15-2016 as an emergency exempt from review by OAL pursuant to Water Code section 10733.2(d); operative 8-15-2016"
+    ],
+    "note": [
+      "Pursuant to Water Code section 10733.2(d), these regulations shall remain in effect until revised by the Department of Water Resources (Register 2016,"
+    ],
+    "volume": [
+
+    ],
+    "issue": [
+      "34)"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "HISTORY 1. New article 4 (sections 353-353.10) and section filed 8-15-2016 as an emergency exempt from review by OAL pursuant to Water Code section 10733.2(d); operative 815-2016"
+    ],
+    "note": [
+      "Pursuant to Water Code section 10733.2(d), these regulations shall remain in effect until revised by the Department of Water Resources (Register 2016,"
+    ],
+    "volume": [
+
+    ],
+    "issue": [
+      "34)"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "REFERENCE: SECTIONS 10729 AND 10733.2, WATER CODE HISTORY 1. New section filed 8-15-2016 as an emergency exempt from review by OAL pursuant to Water Code section 10733.2(d); operative 8-15-2016. Pursuant to Water Code section 10733.2(d"
+    ],
+    "container-title": [
+      "these regulations shall remain in effect until revised by the Department of Water Resources"
+    ],
+    "date": [
+      "2016"
+    ],
+    "volume": [
+
+    ],
+    "publisher": [
+      "California State Water Resources Control Board"
+    ],
+    "issue": [
+      "34)"
+    ],
+    "type": "article-journal"
+  }
+]

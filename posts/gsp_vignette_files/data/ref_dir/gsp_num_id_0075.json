@@ -1,0 +1,4922 @@
+[
+  {
+    "author": [
+      {
+        "family": "Pesticide Regulations",
+        "given": "California Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Well Inventory Database"
+    ],
+    "note": [
+      "Available:",
+      "Accessed: February 17, 2021."
+    ],
+    "url": [
+      "https://www.cdpr.ca.gov/docs/emon/grndwtr/well_inventory_"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "California Department of Resources Recycling and Recovery (CalRecycle",
+      "Solid Waste Information System Facility/Site Search"
+    ],
+    "date": [
+      "2020"
+    ],
+    "note": [
+      "Available:"
+    ],
+    "url": [
+      "https://www2.calrecycle.ca.gov/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "SolidWaste/Site/Search"
+      }
+    ],
+    "title": [
+      "Accessed: February 17"
+    ],
+    "date": [
+      "2021"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "California Natural Resources Agency"
+    ],
+    "date": [
+      "2019"
+    ],
+    "genre": [
+      "Well Completion Report Datasets."
+    ],
+    "note": [
+      "Available:",
+      "Accessed: February 17, 2021."
+    ],
+    "url": [
+      "https://data.cnra.ca.gov/dataset/well-completion-reports."
+    ],
+    "type": "report"
+  },
+  {
+    "title": [
+      "California Department of Water Resources (DWR",
+      "CASGEM Online System"
+    ],
+    "date": [
+      "2019"
+    ],
+    "note": [
+      "Available:",
+      "Accessed: February 17, 2021."
+    ],
+    "url": [
+      "https://www.casgem.water.ca.gov."
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "California Department of Water Resources (DWR",
+      "Water Data Library"
+    ],
+    "date": [
+      "2019"
+    ],
+    "note": [
+      "Available:",
+      "Accessed: February 17, 2021."
+    ],
+    "url": [
+      "http://wdl.water.ca.gov/waterdatalibrary//"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "California Department of Water Resources (DWR",
+      "Water Data Library"
+    ],
+    "date": [
+      "2019"
+    ],
+    "note": [
+      "Available:",
+      "Accessed: February 17, 2021."
+    ],
+    "url": [
+      "http://wdl.water.ca.gov/waterdatalibrary//"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "Disadvantaged Communities (DAC) Mapping Tool"
+    ],
+    "note": [
+      "Available:",
+      "Accessed: August 2021."
+    ],
+    "url": [
+      "https://gis.water.ca.gov/app/dacs/."
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "California State Water Resources Control Board (SWRCB",
+      "GAMA Groundwater Information System"
+    ],
+    "date": [
+      "2019-10-16",
+      "2021-02-17"
+    ],
+    "note": [
+      "Available:"
+    ],
+    "url": [
+      "https://gamagroundwater.waterboards.ca.gov/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Boards",
+        "given": "California Water"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Drinking Water—Public Water System Information"
+    ],
+    "publisher": [
+      "Via California Open Data"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "Portal. Available:",
+      "Accessed: February 17, 2021."
+    ],
+    "url": [
+      "https://data.ca.gov/dataset/drinking-water-public-water-systeminformation."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "CalRecycle"
+      }
+    ],
+    "title": [
+      "See California Department of Resources Recycling and Recovery. CDPR. See California Department of Pesticide Regulations. City of San Diego (City",
+      "San Pasqual Valley Groundwater Basin Salt and Nutrient Management Plan. May"
+    ],
+    "date": [
+      "2014"
+    ],
+    "location": [
+      "San Diego, California"
+    ],
+    "note": [
+      "Prepared by CH2MHill. Available:",
+      "Accessed: February 17, 2021."
+    ],
+    "url": [
+      "https://www.sandiego.gov/sites/default/files/final_snmp_may_2014.pdf."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "San Diego",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "San Pasqual Groundwater Management State of the Basin Report Update"
+    ],
+    "note": [
+      "September. San Diego, Calfornia. Prepared by CH2MHill. Available:",
+      "Accessed: February 17, 2021."
+    ],
+    "url": [
+      "https://www.sandiego."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "San Diego Planning Department",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "title": [
+      "San Pasqual Valley Plan"
+    ],
+    "location": [
+      "San Diego, California"
+    ],
+    "note": [
+      "June. Available:",
+      "Accessed: February 17, 2021."
+    ],
+    "url": [
+      "https://www.sandiego.gov/sites/default/files/legacy//planning/community/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "San Diego Planning Department",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "San Pasqual Vision Plan. May"
+    ],
+    "location": [
+      "San Diego, California"
+    ],
+    "note": [
+      "Via Report to Planning Commission as Attachment 2. Presented by Councilmember Brian Maienschiein. Available:",
+      "Accessed: February 17, 2021."
+    ],
+    "url": [
+      "https://www.sandiego.gov/sites/default/files/legacy/planningcommission/pdf/pcreports/pc05157rptonly.pdf."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "San Diego Water Department",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "San Pasqual Basin Groundwater Management Plan"
+    ],
+    "location": [
+      "August. San Diego, California"
+    ],
+    "note": [
+      "Available:",
+      "Accessed: February 17, 2021."
+    ],
+    "url": [
+      "https://www.sandiego.gov/sites/default/files/legacy/"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "City of San Diego Public Utilities Department",
+      "City of San Diego 2015 Urban Water Management Plan. June"
+    ],
+    "date": [
+      "2016"
+    ],
+    "location": [
+      "San Diego, California"
+    ],
+    "note": [
+      "Available:"
+    ],
+    "url": [
+      "https://www.sandiego.gov/sites/default/files/"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2015_uwmp_report.pdf."
+    ],
+    "note": [
+      "Accessed: February 17, 2021."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "City"
+      }
+    ],
+    "title": [
+      "See City of San Diego"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "County of San Diego Land Use and Environment Group—Planning & Development Services",
+      "County of San Diego General Plan"
+    ],
+    "date": [
+      "2018"
+    ],
+    "note": [
+      "Available:",
+      "Accessed: February 17, 2021."
+    ],
+    "url": [
+      "https://www.sandiegocounty.gov/pds/generalplan.html."
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "County of San Diego Department of Environmental Health and Quality—Hazardous Materials Division",
+      "Hazardous Materials Division"
+    ],
+    "date": [
+      "2020"
+    ],
+    "note": [
+      "Available:",
+      "Accessed: February 17, 2021."
+    ],
+    "url": [
+      "https://www.sandiegocounty."
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "County of San Diego Department of Environmental Health and Quality—Small Drinking Water Systems Program"
+    ],
+    "date": [
+      "2020"
+    ],
+    "note": [
+      "Small Drinking Water Systems. Available:"
+    ],
+    "url": [
+      "https://www"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "sandiegocountygov/content/sdc/deh/lwqd/lu_swshtml"
+      }
+    ],
+    "title": [
+      "Accessed: February 17"
+    ],
+    "date": [
+      "2021"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "California Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "San Pasqual Valley Groundwater Basin Groundwater Monitoring Network Assessment and Recommendations"
+    ],
+    "container-title": [
+      "Technical Information Record SR-2011-01"
+    ],
+    "location": [
+      "August. Sacramento, California"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "California Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "Groundwater Basin Storage Capacity and Safe Yield, San Pasqual Valley Groundwater Basin"
+    ],
+    "publisher": [
+      "DWR Southern Region, Groundwater Section. July"
+    ],
+    "location": [
+      "Sacramento, California"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "California Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "Water Basics Glossary"
+    ],
+    "note": [
+      "Available:",
+      "Accessed: February 17, 2021."
+    ],
+    "url": [
+      "https://water.ca.gov/Water-Basics/Glossary."
+    ],
+    "publisher": [
+      "CDC. See California Department of Conservation"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "San Diego",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Well Construction Report—Orfila Well"
+    ],
+    "location": [
+      "Irvine, California"
+    ],
+    "note": [
+      "Prepared by Camp Dresser and McKee."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "San Diego",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "San Pasqual Valley Groundwater Basin Salt and Nutrient Management Plan. May"
+    ],
+    "location": [
+      "San Diego, California"
+    ],
+    "note": [
+      "Prepared by CH2MHill. Available:",
+      "Accessed: February 17, 2021."
+    ],
+    "url": [
+      "https://www.sandiego."
+    ],
+    "publisher": [
+      "City. See City of San Diego. DWR. See California Department of Water Resources"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Survey",
+        "given": "U.S.Geological"
+      },
+      {
+        "family": "Conservation",
+        "given": "California Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "Geologic Map of the Escondido 7.5’ Quadrangle, San Diego County, California: A Digital Database"
+    ],
+    "translator": [
+      {
+        "family": "Siang S. Tan",
+        "given": "Compiled",
+        "particle": "by"
+      },
+      {
+        "family": "Kennedy",
+        "given": "Michael P."
+      }
+    ],
+    "location": [
+      "CDC Los Angeles, California",
+      "Riverside, California"
+    ],
+    "publisher": [
+      "USGS"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Survey",
+        "given": "U.S.Geological"
+      },
+      {
+        "family": "Conservation",
+        "given": "California Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "Geologic Map of the San Pasqual 7.5’ Quadrangle, San Diego County, California: A Digital Database"
+    ],
+    "editor": [
+      {
+        "family": "Janis L. Hernandez",
+        "given": "Compiled",
+        "particle": "by"
+      },
+      {
+        "family": "Todd",
+        "given": "Victoria R."
+      },
+      {
+        "family": "Busch",
+        "given": "Lawrence L."
+      },
+      {
+        "family": "Tan",
+        "given": "Siang S."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Survey",
+        "given": "U.S.Geological"
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "Evaluation of the San Dieguito, San Elijo, and San Pasqual Hydrologic Subareas for Reclaimed Water Use, San Diego County, California. John A"
+    ],
+    "container-title": [
+      "Izbicki. Prepared in cooperation with the County of San Diego and California Department of Water Resources. August. USGS. See U.S. Geological Survey"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "California Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "San Pasqual Valley Groundwater Basin Groundwater Monitoring Network Assessment and Recommendations"
+    ],
+    "container-title": [
+      "Technical Information Record SR-2011-01"
+    ],
+    "location": [
+      "August. Sacramento, California"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "California Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "Groundwater Basin Storage Capacity and Safe Yield, San Pasqual Valley Groundwater Basin"
+    ],
+    "publisher": [
+      "DWR Southern Region, Groundwater Section. July"
+    ],
+    "location": [
+      "Sacramento, California"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "San Diego",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "San Pasqual Groundwater Conjunctive Use Study"
+    ],
+    "note": [
+      "Prepared by CDM Smith."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "May"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "San Diego",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "San Pasqual Valley Groundwater Basin Salt and Nutrient Management Plan. May"
+    ],
+    "location": [
+      "San Diego, California"
+    ],
+    "note": [
+      "Prepared by CH2MHill. Available:",
+      "Accessed: February 17, 2021."
+    ],
+    "url": [
+      "https://www.sandiego."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "San Diego Water Department",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2007",
+      "2021",
+      "2019",
+      "2019-07"
+    ],
+    "title": [
+      "San Pasqual Basin Groundwater Management Plan",
+      "City. See City of San Diego DWR. See California Department of Water Resources The Nature Conservancy",
+      "Identifying GDEs under SGMA: Best Practices for Using the NC Dataset"
+    ],
+    "location": [
+      "August. San Diego, California"
+    ],
+    "note": [
+      "Available:",
+      "Accessed: February 17,",
+      "Available:",
+      "Accessed: August 9, 2021."
+    ],
+    "url": [
+      "https://www.sandiego.gov/sites/default/files/legacy/",
+      "https://groundwaterresourcehub.org/public/uploads/pdfs/TNC_NCdataset_BestPracticesGuid"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Survey",
+        "given": "U.S.Geological"
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "Evaluation of the San Dieguito, San Elijo, and San Pasqual Hydrologic Subareas for Reclaimed Water Use, San Diego County, California. John A"
+    ],
+    "container-title": [
+      "Izbicki. Prepared in cooperation with the County of San Diego and California Department of Water Resources. August. USGS. See U.S. Geological Survey"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Management of Groundwater—Water Budget. December"
+    ],
+    "location": [
+      "Sacramento, California"
+    ],
+    "note": [
+      "Available:",
+      "Accessed: February 17,"
+    ],
+    "url": [
+      "https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/GroundwaterManagement/Sustainable-Groundwater-Management/Best-Management-Practices-andGuidance-Documents/Files/BMP-4-Water-Budget_ay_19.pdf."
+    ],
+    "date": [
+      "2021"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "C.C.T.A.G."
+      }
+    ],
+    "title": [
+      "See Climate"
+    ],
+    "publisher": [
+      "Change Technical Advisory Group"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "San Diego",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "San Pasqual Valley Groundwater Basin Salt and Nutrient Management Plan. May"
+    ],
+    "location": [
+      "San Diego, California"
+    ],
+    "note": [
+      "Prepared by CH2MHill. Available:",
+      "Accessed: February 17, 2021."
+    ],
+    "url": [
+      "https://www.sandiego.gov/sites/default/files/final_snmp_may_2014.pdf."
+    ],
+    "publisher": [
+      "City. See City of San Diego"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Climate Change Technical Advisory Group (CCTAG",
+      "Perspectives and guidance for climate change analysis"
+    ],
+    "date": [
+      "2015"
+    ],
+    "publisher": [
+      "California Department of Water Resources Technical Information Record",
+      "DWR. See California Department of Water Resources"
+    ],
+    "pages": [
+      "142"
+    ],
+    "note": [
+      "Available:"
+    ],
+    "url": [
+      "https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/AllPrograms/Climate-Change-Program/Climate-Program-Activities/Files/Reports/PerspectivesGuidance-Climate-Change-Analysis.pdf."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Flint",
+        "given": "L.E."
+      },
+      {
+        "family": "Flint",
+        "given": "A.L."
+      },
+      {
+        "family": "Thorne",
+        "given": "J.H."
+      },
+      {
+        "family": "Boynton",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "title": [
+      "Fine-scale hydrologic modeling for regional landscape applications: the California Basin Characterization Model development and performance"
+    ],
+    "volume": [
+      "2"
+    ],
+    "note": [
+      "Available:",
+      "Accessed: February 17, 2021."
+    ],
+    "url": [
+      "https://doi.org/10.1186/2192-1709-2-25."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Ecological Processes"
+    ],
+    "issue": [
+      "25"
+    ],
+    "doi": [
+      "10.1186/2192-1709-2-25."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Environmental",
+        "given": "Formation"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Technical Memorandum: CalETa Mapping Program—Development and Validation"
+    ],
+    "note": [
+      "Prepared for Jacobs. June. Formation. See Formation Environmental."
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Intergovernmental Panel on Climate Change (IPCC"
+    ],
+    "date": [
+      "2013"
+    ],
+    "title": [
+      "Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change"
+    ],
+    "edition": [
+      "T.F"
+    ],
+    "author": [
+      {
+        "family": "Stocker",
+        "given": "D.Qin"
+      },
+      {
+        "family": "Plattner",
+        "given": "G.-K."
+      },
+      {
+        "family": "Tignor",
+        "given": "M."
+      },
+      {
+        "family": "Allen",
+        "given": "S.K."
+      },
+      {
+        "family": "Boschung",
+        "given": "J."
+      },
+      {
+        "family": "Nauels",
+        "given": "A."
+      },
+      {
+        "family": "Xia",
+        "given": "Y."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Bex",
+        "given": "V."
+      },
+      {
+        "family": "Midgley",
+        "given": "P.M."
+      }
+    ],
+    "location": [
+      "Cambridge, United Kingdom and New York, New York"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "note": [
+      "IPCC. See Intergovernmental Panel on Climate Change."
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Parameter-Elevation Regressions on Independent Slopes Model (PRISM) Climate Group",
+      "PRISM Climate Data"
+    ],
+    "date": [
+      "2020"
+    ],
+    "publisher": [
+      "Via Oregon State University"
+    ],
+    "note": [
+      "Available:",
+      "Accessed: February 17, 2021."
+    ],
+    "url": [
+      "https://prism.oregonstate.edu/."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Pierce",
+        "given": "D.W."
+      },
+      {
+        "family": "Kalansky",
+        "given": "J.F."
+      },
+      {
+        "family": "Cayan",
+        "given": "D.R."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Climate, drought, and sea level rise scenarios for the fourth California climate assessment"
+    ],
+    "container-title": [
+      "Scripps Institution of Oceanography, California’s Fourth Climate Change Assessment, California Energy Commission. Publication CNRA-CEC-2018-006"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Schwalm",
+        "given": "C.R."
+      },
+      {
+        "family": "Glendon",
+        "given": "S."
+      },
+      {
+        "family": "Duffy",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "RCP8.5 Tracks Cumulative CO2 Emissions"
+    ],
+    "container-title": [
+      "Proceedings of the National Academy of Sciences"
+    ],
+    "volume": [
+      "117"
+    ],
+    "pages": [
+      "19656–19657"
+    ],
+    "issue": [
+      "33"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "title": [
+      "California Department of Water Resources (DWR",
+      "Draft Best Management Practices for the Sustainable Management of Groundwater—Sustainable Management Criteria"
+    ],
+    "date": [
+      "2017"
+    ],
+    "publisher": [
+      "November"
+    ],
+    "type": "book"
+  },
+  {
+    "location": [
+      "Sacramento, California"
+    ],
+    "note": [
+      "Available:",
+      "Accessed: February 17,"
+    ],
+    "url": [
+      "https://water.ca.gov/-/media/DWR-Website/WebPages/Programs/Groundwater-Management/Sustainable-Groundwater-Management/BestManagement-Practices-and-Guidance-Documents/Files/BMP-6-Sustainable-ManagementCriteria-DRAFT_ay_19.pdf."
+    ],
+    "date": [
+      "2021"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "California Department of Water Resources (DWR",
+      "Best Management Practices and Guidance Documents"
+    ],
+    "date": [
+      "2021"
+    ],
+    "note": [
+      "Available:",
+      "Accessed: February 17, 2021)."
+    ],
+    "url": [
+      "https://water.ca.gov/Programs/Groundwater-Management/SGMAGroundwater-Management/Best-Management-Practices-and-Guidance-Documents."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Agency",
+        "given": "California Natural Resources"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "TRE Altamira InSAR Dataset on SGMA Data Viewer"
+    ],
+    "note": [
+      "Available:",
+      "Accessed: February 17, 2021."
+    ],
+    "url": [
+      "https://data.cnra.ca.gov/dataset/tre-altamira-insar-subsidence."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "San Diego",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "San Pasqual Valley Groundwater Basin Salt and Nutrient Management Plan. May"
+    ],
+    "location": [
+      "San Diego, California"
+    ],
+    "note": [
+      "Prepared by CH2MHill. Available:",
+      "Accessed: February 17, 2021."
+    ],
+    "url": [
+      "https://www.sandiego.gov/sites/default/files/final_snmp_may_2014.pdf."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "San Diego Water Department",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "San Pasqual Basin Groundwater Management Plan"
+    ],
+    "location": [
+      "August. San Diego, California"
+    ],
+    "note": [
+      "Available:",
+      "Accessed: February 17, 2021."
+    ],
+    "url": [
+      "https://www.sandiego.gov/sites/default/files/legacy/"
+    ],
+    "publisher": [
+      "City. See City of San Diego. DWR. See California Department of Water Resources"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "San Diego",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "San Pasqual Groundwater Management State of the Basin Report Update"
+    ],
+    "note": [
+      "September. San Diego, Calfornia. Prepared by CH2MHill. Available:",
+      "Accessed: February 17, 2021."
+    ],
+    "url": [
+      "https://www.sandiego."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources. Heath",
+        "given": "D.W.R.See California Department",
+        "particle": "of"
+      },
+      {
+        "family": "C",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1976"
+    ],
+    "title": [
+      "Design of ground-water level observation-well programs"
+    ],
+    "volume": [
+      "14"
+    ],
+    "pages": [
+      "71–77"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Ground Water"
+    ],
+    "issue": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hopkins",
+        "given": "J."
+      },
+      {
+        "family": "Anderson",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "User Manual 52, A Field Manual for Groundwater-level Monitoring at the Texas Water Development Board"
+    ],
+    "note": [
+      "Available:",
+      "Accessed: February 17, 2021."
+    ],
+    "url": [
+      "http://www.twdb.texas.gov/groundwater/docs/UMs/UM-52.pdf."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "September"
+    ]
+  },
+  {
+    "title": [
+      "National Water Quality Monitoring Council (NWQMC",
+      "About Us"
+    ],
+    "date": [
+      "2021"
+    ],
+    "note": [
+      "September. Available:",
+      "Accessed: February 17, 2021."
+    ],
+    "url": [
+      "https://acwi.gov/monitoring/about_the_council.html."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "N.W.Q.M.C."
+      }
+    ],
+    "title": [
+      "See National Water Quality Monitoring Council"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Sophocleous",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "Groundwater observation network design for the Kansas groundwater management districts, USA"
+    ],
+    "volume": [
+      "61"
+    ],
+    "pages": [
+      "371–389"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Hydrology"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "S.W.R.C.B."
+      }
+    ],
+    "title": [
+      "See California State Water Resources Control Board"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Survey",
+        "given": "U.S.Geological"
+      }
+    ],
+    "date": [
+      "2019",
+      "2019"
+    ],
+    "title": [
+      "California Active Water Level Network"
+    ],
+    "volume": [
+
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "September"
+    ],
+    "issue": [
+      ""
+    ]
+  },
+  {
+    "note": [
+      "Available:",
+      "Accessed: February 17,"
+    ],
+    "url": [
+      "https://groundwaterwatch.usgs.gov/StateMap.asp?sa=CA&sc=06."
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "USGS"
+    ],
+    "publisher": [
+      "See U.S. Geological Survey"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "San Diego",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "San Pasqual Valley Groundwater Basin Salt and Nutrient Management Plan. May"
+    ],
+    "location": [
+      "San Diego, California"
+    ],
+    "note": [
+      "Prepared by CH2MHill. Available:",
+      "Accessed: February 17, 2021."
+    ],
+    "url": [
+      "https://www.sandiego."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "San Diego Water Department",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "San Pasqual Basin Groundwater Management Plan"
+    ],
+    "location": [
+      "August. San Diego, California"
+    ],
+    "note": [
+      "Available:",
+      "Accessed: February 17, 2021."
+    ],
+    "url": [
+      "https://www.sandiego.gov/sites/default/files/legacy/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Alley",
+        "given": "W.M."
+      },
+      {
+        "family": "Reilly",
+        "given": "T.E."
+      },
+      {
+        "family": "Franke",
+        "given": "O.L."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "Sustainability of Ground-water Resources"
+    ],
+    "location": [
+      "Denver, CO"
+    ],
+    "publisher": [
+      "U.S. Geological Survey"
+    ],
+    "pages": [
+      "79"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ayers",
+        "given": "R.S."
+      },
+      {
+        "family": "Westcot",
+        "given": "D.W."
+      }
+    ],
+    "title": [
+      "Food and Agriculture Organization of the United Nations",
+      "Water Quality for Agriculture"
+    ],
+    "date": [
+      "1985"
+    ],
+    "volume": [
+      "xii"
+    ],
+    "pages": [
+      "174"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Rome: Food and Agriculture Organization of the United Nations"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Bachman SB, ... et al."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "California Groundwater Management"
+    ],
+    "location": [
+      "Sacramento"
+    ],
+    "publisher": [
+      "Groundwater Resources Association of California. xiv"
+    ],
+    "pages": [
+      "145"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Program",
+        "given": "C.A.L.F.E.D.Bay-Delta"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Programmatic Record of Decision"
+    ],
+    "url": [
+      "http://calwater.ca.gov/Archives/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "D.H.S."
+      }
+    ],
+    "title": [
+      "California Department of Health Services",
+      "Drinking Water Source Assessment and Protection (DWSAP) Program"
+    ],
+    "date": [
+      "2000"
+    ],
+    "url": [
+      "http://www.dhs.ca.gov/ps/ddwem/dwsap/guidance/maindocument2.htm."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "D.W.R.] California Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "1957",
+      "Jul"
+    ],
+    "title": [
+      "Lake County Investigation. Sacramento: The Department, Division of Resources Planning"
+    ],
+    "volume": [
+      "14. xiii"
+    ],
+    "pages": [
+      "169"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Report on Bulletin"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "title": [
+      "California Department of Water Resources",
+      "Northeastern Counties Ground Water Investigation"
+    ],
+    "date": [
+      "1963"
+    ],
+    "volume": [
+      "98. 2 v"
+    ],
+    "location": [
+      "Feb"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Sacramento. Bulletin"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "D.W.R.] California Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "1967"
+    ],
+    "title": [
+      "Evaluation of Ground Water Resources, South Bay. Sacramento: The Department, Alameda County Water District, and Santa Clara Valley Water District"
+    ],
+    "volume": [
+      "118-1. 5 v"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Bulletin"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "title": [
+      "California Department of Water Resources",
+      "Evaluation of Ground Water Resources: Livermore and Sunol Valleys"
+    ],
+    "date": [
+      "1974"
+    ],
+    "volume": [
+      "118-2. xv"
+    ],
+    "pages": [
+      "153"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Sacramento. Bulletin"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "title": [
+      "California Department of Water Resources",
+      "Evaluation of Ground Water Resources: Sacramento County"
+    ],
+    "date": [
+      "1974"
+    ],
+    "volume": [
+      "118-3. xiii"
+    ],
+    "pages": [
+      "141"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Sacramento. Bulletin"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "title": [
+      "California Department of Water Resources",
+      "California’s Ground Water"
+    ],
+    "date": [
+      "1975"
+    ],
+    "volume": [
+      "118. x"
+    ],
+    "pages": [
+      "135"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Sacramento. Bulletin"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "D.W.R.] California Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "1975"
+    ],
+    "title": [
+      "Evaluation of Ground Water Resources : Sonoma County"
+    ],
+    "location": [
+      "Sacramento"
+    ],
+    "publisher": [
+      "The"
+    ],
+    "container-title": [
+      "Department in cooperation with County of Sonoma Water Agency"
+    ],
+    "pages": [
+      "118–4"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "D.W.R.] California Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "1978"
+    ],
+    "title": [
+      "Evaluation of Ground Water Resources",
+      "Department and US Geological Survey"
+    ],
+    "location": [
+      "Sacramento Valley. Sacramento"
+    ],
+    "publisher": [
+      "The"
+    ],
+    "volume": [
+      "118-6. ix"
+    ],
+    "pages": [
+      "136"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Bulletin"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "D.W.R.] California Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "1980",
+      "1980-01"
+    ],
+    "title": [
+      "Ground Water Basins in California - A report to the Legislature in Response to Water Code Section 12924"
+    ],
+    "volume": [
+      "118-80"
+    ],
+    "pages": [
+      "73"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Bulletin"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "title": [
+      "California Department of Water Resources",
+      "California Water Plan Update"
+    ],
+    "date": [
+      "1994"
+    ],
+    "volume": [
+      "160-94. 2 v"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Sacramento. Bulletin"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "D.W.R.] California Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Compilation of Federal and State Drinking Water Standards and Criteria. The Department, Division of Local Assistance"
+    ],
+    "volume": [
+      "3"
+    ],
+    "location": [
+      "Jun"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Report on Quality Assurance Technical Document"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "title": [
+      "California Department of Water Resources",
+      "California Water Plan Update"
+    ],
+    "date": [
+      "1998"
+    ],
+    "volume": [
+      "160-98. 3 v"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Sacramento. Bulletin"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "D.W.R.] California Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2001",
+      "2001-01"
+    ],
+    "note": [
+      "Water Facts No. 3 - Adjudicated Groundwater Basins in California. 4"
+    ],
+    "pages": [
+
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "DivWR"
+      }
+    ],
+    "title": [
+      "California Division of Water Resources",
+      "Ground Water Basins in California"
+    ],
+    "date": [
+      "1952"
+    ],
+    "genre": [
+      "Sacramento. Report Number 3,"
+    ],
+    "publisher": [
+      "Water Quality Investigations"
+    ],
+    "pages": [
+      "44"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "given": "G.A.D.P.P."
+      }
+    ],
+    "title": [
+      "California Governor’s Advisory Drought Planning Panel",
+      "Critical Water Shortage Contingency Plan"
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Sacramento"
+    ],
+    "publisher": [
+      "California Dept. of Water Resources"
+    ],
+    "note": [
+      "1 v."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Driscoll",
+        "given": "F.G."
+      }
+    ],
+    "date": [
+      "1986",
+      "1089"
+    ],
+    "title": [
+      "Groundwater and Wells"
+    ],
+    "pages": [
+
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "St. Paul, Minn.: Johnson Division. xv"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "E.M.W.D."
+      }
+    ],
+    "title": [
+      "Eastern Municipal Water District",
+      "Groundwater Management Plan"
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Perris, CA"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "E.M.W.D."
+      }
+    ],
+    "title": [
+      "Eastern Municipal Water District",
+      "Groundwater Management Plan: Progress Report"
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Perris, CA"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fetter",
+        "given": "C.W."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "title": [
+      "Applied Hydrogeology"
+    ],
+    "location": [
+      "Columbus"
+    ],
+    "publisher": [
+      "Merrill Pub. Co. xvi"
+    ],
+    "pages": [
+      "592"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Glennon",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Water Follies: Groundwater Pumping and the Fate of America’s Fresh Water"
+    ],
+    "location": [
+      "Washington, DC"
+    ],
+    "publisher": [
+      "Island Press"
+    ],
+    "pages": [
+      "314"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Heath",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "Compilation of Federal and State Drinking Water Standards and Criteria"
+    ],
+    "location": [
+      "Sacramento"
+    ],
+    "publisher": [
+      "California Department of Water Resources"
+    ],
+    "volume": [
+      "vii"
+    ],
+    "pages": [
+      "35"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "Heath RC (North Carolina Department of Natural Resources and Community Development",
+      "Basic Ground-Water Hydrology"
+    ],
+    "date": [
+      "1983"
+    ],
+    "volume": [
+      "v"
+    ],
+    "pages": [
+      "84"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Council",
+        "given": "N.R.D.C.] Natural Resources Defense"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "California’s Contaminated Groundwater"
+    ],
+    "container-title": [
+      "Is the State Minding the Store?"
+    ],
+    "pages": [
+      "97"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Planert",
+        "given": "M."
+      },
+      {
+        "family": "Williams",
+        "given": "J.S."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "title": [
+      "Ground Water Atlas of the United States"
+    ],
+    "location": [
+      "Reston, Va"
+    ],
+    "publisher": [
+      "US Geological Survey"
+    ],
+    "pages": [
+      "28"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Program",
+        "given": "S.J.V.D.P.] San Joaquin Valley Drainage"
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "title": [
+      "A Management Plan for Agricultural Subsurface Drainage and Related Problems on the Westside San Joaquin Valley: Final Report of the San Joaquin Valley Drainage Program"
+    ],
+    "location": [
+      "Washington, D.C"
+    ],
+    "publisher": [
+      "US Dept",
+      "xiii"
+    ],
+    "container-title": [
+      "the Interior Bureau of Reclamation, US Fish and Wildlife Service, and US Geological Survey"
+    ],
+    "pages": [
+      "183"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "District",
+        "given": "S.C.V.W.D.] Santa Clara Valley Water"
+      },
+      {
+        "family": "JL",
+        "given": "Jul Sax"
+      },
+      {
+        "family": "WB",
+        "given": "Jan Solley"
+      },
+      {
+        "family": "RR",
+        "given": "Pierce"
+      },
+      {
+        "family": "HA",
+        "given": "Perlman"
+      }
+    ],
+    "date": [
+      "2001",
+      "2002"
+    ],
+    "title": [
+      "Santa Valley Water District Groundwater Management Plan",
+      "Review of the Laws Establishing the SWRCB’s Permitting Authority Over Appropriations of Groundwater Classified as Subterranean Streams and the SWRCB’s Implementation of Those Laws"
+    ],
+    "pages": [
+      "67",
+      "19",
+      "71"
+    ],
+    "volume": [
+      "92"
+    ],
+    "container-title": [
+      "US Geological Survey). 1998. Estimated use of water in the United States in 1995. US Geological Survey circular; 1200"
+    ],
+    "location": [
+      "Denver, Colo"
+    ],
+    "publisher": [
+      "US Geological Survey"
+    ],
+    "issue": [
+      "060790075X. ix"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "given": "T.L.B.W.S.D."
+      }
+    ],
+    "title": [
+      "Tulare Lake Basin Water Storage District",
+      "Tulare Lake Bed Coordinated Groundwater Management Plan Annual Report"
+    ],
+    "date": [
+      "2002"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Engineers",
+        "given": "Todd"
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "Scotts Valley Water District Groundwater Management Plan"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Engineers",
+        "given": "Todd"
+      }
+    ],
+    "date": [
+      "2002",
+      "Jul"
+    ],
+    "title": [
+      "Scotts Valley Water District Groundwater Management Plan, 2001-2002 Annual Report; Report to Scotts Valley Water District"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Assoc",
+        "given": "Matt Wiedlin Weidlin"
+      }
+    ],
+    "date": [
+      "5/29/2020"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5/29/2020"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5/29/2020"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5/29/2020"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5/29/2020"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5/29/2020"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "California Department of Water Resources (DWR",
+      "San Dieguito River Investigation"
+    ],
+    "date": [
+      "1959"
+    ],
+    "volume": [
+      "72"
+    ],
+    "pages": [
+      "174"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Bulletin"
+    ]
+  },
+  {
+    "author": [
+
+    ],
+    "date": [
+      "1967"
+    ],
+    "title": [
+      "Ground Water Occurrence and Quality, San Diego Region"
+    ],
+    "volume": [
+      "106-2"
+    ],
+    "pages": [
+      "233"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Bulletin"
+    ]
+  },
+  {
+    "author": [
+
+    ],
+    "date": [
+      "1975"
+    ],
+    "title": [
+      "California’s ground water"
+    ],
+    "volume": [
+      "118"
+    ],
+    "pages": [
+      "135"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Bulletin"
+    ]
+  },
+  {
+    "author": [
+
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "San Diego Region Ground Water Studies, Phase VI"
+    ],
+    "volume": [
+      "98"
+    ],
+    "pages": [
+
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Memorandum Report"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Izbicki",
+        "given": "John A."
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "Evaluation of the San Dieguito, San Elijo, and San Pasqual Hydrologic Subareas for Reclaimed Water Use, San Diego County, California"
+    ],
+    "volume": [
+      "83-4044"
+    ],
+    "pages": [
+      "131"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "U. S. Geological Survey Water-Resources Investigations Report"
+    ]
+  },
+  {
+    "title": [
+      "California Department of Water Resources (DWR",
+      "Preliminary Evaluation of Groundwater Basins in San Dieguito Investigation"
+    ],
+    "date": [
+      "1973"
+    ],
+    "genre": [
+      "Preliminary report."
+    ],
+    "pages": [
+      "20"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "San Diego County Cooperative Groundwater Studies Reclaimed Water Use, Phase I"
+    ],
+    "genre": [
+      "Southern District Report 84"
+    ],
+    "pages": [
+
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "S.R."
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "title": [
+      "Cenozoic stratigraphy and geologic history of the Tucson basin, Pima County"
+    ],
+    "location": [
+      "Arizona"
+    ],
+    "publisher": [
+      "U.S"
+    ],
+    "genre": [
+      "Geological Survey Water-Resources Investigations Report 87–4190,"
+    ],
+    "pages": [
+      "20"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "literal": "Anderson, S.R.,1988"
+      }
+    ],
+    "title": [
+      "Potential for aquifer compaction, land subsidence, and earth fissures in the Tucson basin, Pima County"
+    ],
+    "location": [
+      "Arizona"
+    ],
+    "publisher": [
+      "U.S"
+    ],
+    "note": [
+      "Geological Survey Hydrologic Investigations Atlas HA-713, 3 sheets, scale 1:250,000."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "T.W."
+      },
+      {
+        "family": "Freethey",
+        "given": "G.W."
+      },
+      {
+        "family": "Tucci",
+        "given": "Patrick"
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Geohydrology and water resources of alluvial basins in south-central Arizona and parts of adjacent states: U.S"
+    ],
+    "container-title": [
+      "Geological Survey Professional Paper 1406-B"
+    ],
+    "pages": [
+      "67"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Bailey",
+        "given": "M.A."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Analysis of vertical hydraulic conductivity using heat as a tracer to estimate streambed infiltration in Rillito Creek"
+    ],
+    "location": [
+      "Tucson"
+    ],
+    "publisher": [
+      "University of Arizona"
+    ],
+    "genre": [
+      "master’s thesis,"
+    ],
+    "pages": [
+      "158"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Blasch",
+        "given": "K.W."
+      },
+      {
+        "family": "Ferré",
+        "given": "T.P."
+      },
+      {
+        "family": "Hoffmann",
+        "given": "J.P."
+      },
+      {
+        "family": "Cordova",
+        "given": "J.T."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "Field measured infiltration fluxes at the onset of ephemeral streamflow"
+    ],
+    "volume": [
+      "82"
+    ],
+    "pages": [
+      "674"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "EOS Transactions American Geophysical Union"
+    ],
+    "issue": [
+      "47"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Burkham",
+        "given": "D.E."
+      }
+    ],
+    "date": [
+      "1970",
+      "1939"
+    ],
+    "title": [
+      "Depletion of streamflow by infiltration in the main channels of the Tucson basin, southeastern Arizona: U.S"
+    ],
+    "pages": [
+      "36"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Survey Water-Supply Paper"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Clark",
+        "given": "I.D."
+      },
+      {
+        "family": "Fritz",
+        "given": "Peter"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Environmental isotopes in hydrogeology: Boca Raton"
+    ],
+    "location": [
+      "Florida"
+    ],
+    "publisher": [
+      "CRC Press LLC"
+    ],
+    "pages": [
+      "328"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Craig",
+        "given": "Harmon"
+      }
+    ],
+    "date": [
+      "1961"
+    ],
+    "title": [
+      "Isotopic variations in meteoric waters"
+    ],
+    "volume": [
+      "v. 133"
+    ],
+    "pages": [
+      "1702–1703"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Science"
+    ]
+  },
+  {
+    "editor": [
+      {
+        "family": "Constantz",
+        "given": "J.E."
+      },
+      {
+        "family": "Tyler",
+        "given": "S.W."
+      },
+      {
+        "family": "Kwicklis",
+        "given": "Ed"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "Temperature-profile methods for estimating percolation rates in arid environments"
+    ],
+    "volume": [
+      "v. 2"
+    ],
+    "pages": [
+      "12–24"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Vadose Zone Journal"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Davidson",
+        "given": "E.S."
+      }
+    ],
+    "date": [
+      "1973",
+      "1939"
+    ],
+    "title": [
+      "Geohydrology and water resources of the Tucson basin"
+    ],
+    "location": [
+      "Arizona"
+    ],
+    "publisher": [
+      "U.S. Geological Survey WaterSupply Paper"
+    ],
+    "pages": [
+      "81"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Driscoll",
+        "given": "F.G."
+      }
+    ],
+    "date": [
+      "1986",
+      "1108"
+    ],
+    "title": [
+      "Groundwater and wells"
+    ],
+    "edition": [
+      "2nd ed.: St"
+    ],
+    "location": [
+      "Paul, Minnesota, Johnson Division"
+    ],
+    "pages": [
+
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Epstein",
+        "given": "Samual"
+      },
+      {
+        "family": "Mayeda",
+        "given": "T.K."
+      }
+    ],
+    "date": [
+      "1953"
+    ],
+    "title": [
+      "Variations of 18O content of waters from natural sources"
+    ],
+    "volume": [
+      "4"
+    ],
+    "pages": [
+      "213–224"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geochimica et Cosmochimica Acta"
+    ],
+    "issue": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Freeze",
+        "given": "R.A."
+      },
+      {
+        "family": "Cherry",
+        "given": "J.A."
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "title": [
+      "Groundwater: Englewood Cliffs"
+    ],
+    "location": [
+      "New Jersey"
+    ],
+    "publisher": [
+      "Prentice-Hall, Inc"
+    ],
+    "pages": [
+      "604"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hammermeister",
+        "given": "D.P."
+      },
+      {
+        "family": "Blout",
+        "given": "D.O."
+      },
+      {
+        "family": "McDaniel",
+        "given": "J.C."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "title": [
+      "Drilling and coring methods that minimize the disturbance of cuttings, core, and rock formations in the unsaturated zone, Yucca Mountain, Nevada"
+    ],
+    "editor": [
+      {
+        "family": "Klute",
+        "given": "A.L."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the National Water Well Association Conference on Characterization and Monitoring of the Vadose (Unsaturated) Zone"
+    ],
+    "location": [
+      "Worthington, Ohio",
+      "USA"
+    ],
+    "publisher": [
+      "National Water Well Association"
+    ],
+    "pages": [
+      "507–541"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Hanson",
+        "given": "R.T."
+      },
+      {
+        "family": "Benedict",
+        "given": "J.F."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "Simulation of groundwater flow and potential for land subsidence"
+    ],
+    "location": [
+      "Upper Santa Cruz Basin, Arizona"
+    ],
+    "publisher": [
+      "U.S"
+    ],
+    "genre": [
+      "Geological Survey WaterResources Investigations Report 93–4196,"
+    ],
+    "pages": [
+      "47"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Healy",
+        "given": "R.W."
+      },
+      {
+        "family": "Ronan",
+        "given": "A.D."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "Documentation of computer program VS2DH for simulation of energy transport in variably saturated porous media-modification of USGS computer program VS2DT: U.S"
+    ],
+    "volume": [
+      "96–4230"
+    ],
+    "pages": [
+      "36"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Survey WaterResources Investigations Report"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hoffmann",
+        "given": "J.P."
+      },
+      {
+        "family": "Ripich",
+        "given": "M.A."
+      },
+      {
+        "family": "Ellett",
+        "given": "K.M."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Characteristics of shallow deposits beneath Rillito Creek, Pima County"
+    ],
+    "location": [
+      "Arizona"
+    ],
+    "publisher": [
+      "U.S"
+    ],
+    "genre": [
+      "geological Survey Water-Resources Investigations Report 01–4257,"
+    ],
+    "pages": [
+      "51"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Katz",
+        "given": "L.T."
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "title": [
+      "Steady state infiltration processes along the Santa Cruz and Rillito Rivers"
+    ],
+    "genre": [
+      "Ph.D. dissertation,"
+    ],
+    "publisher": [
+      "Tucson, University of Arizona"
+    ],
+    "pages": [
+      "119"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Matlock",
+        "given": "W.G."
+      }
+    ],
+    "date": [
+      "1965"
+    ],
+    "title": [
+      "The effect of silt-laden water on infiltration in alluvial channels"
+    ],
+    "genre": [
+      "Ph.D. dissertation,"
+    ],
+    "publisher": [
+      "Tucson, University of Arizona"
+    ],
+    "pages": [
+      "109"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Moench",
+        "given": "A.F."
+      },
+      {
+        "family": "Kisiel",
+        "given": "C.C."
+      }
+    ],
+    "date": [
+      "1970"
+    ],
+    "title": [
+      "Application of the convolution relation to estimating recharge from an ephemeral stream"
+    ],
+    "volume": [
+      "6"
+    ],
+    "pages": [
+      "1087–1094"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Water Resources Research"
+    ],
+    "issue": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pool",
+        "given": "D.R."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "title": [
+      "Aquifer geology of alluvial basins of Arizona"
+    ],
+    "editor": [
+      {
+        "family": "Anderson T.W.",
+        "particle": "in."
+      },
+      {
+        "family": "A.I",
+        "given": "Johnson"
+      }
+    ],
+    "container-title": [
+      "Regional Aquifer Systems of the United States, Southwest Alluvial Basins of Arizona: American Water Resources Associations Monograph 7"
+    ],
+    "pages": [
+      "25–36"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Pool",
+        "given": "D.R."
+      },
+      {
+        "family": "Schmidt",
+        "given": "Werner"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Measurement of ground-water storage change and specific yield using the temporal-gravity method near Rillito Creek"
+    ],
+    "location": [
+      "Tucson, Arizona"
+    ],
+    "publisher": [
+      "U.S"
+    ],
+    "genre": [
+      "Geological Survey Water-Resources Investigations Report 97–4125,"
+    ],
+    "pages": [
+      "30"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Revesz",
+        "given": "Kinga"
+      },
+      {
+        "family": "Woods",
+        "given": "P.H."
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "title": [
+      "A method to extract soil water for stable isotopic analysis"
+    ],
+    "volume": [
+      "v. 115"
+    ],
+    "pages": [
+      "397–406"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Hydrology"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schwalen",
+        "given": "H.C."
+      },
+      {
+        "family": "Shaw",
+        "given": "R.J."
+      }
+    ],
+    "date": [
+      "1957"
+    ],
+    "title": [
+      "Ground water supplies of Santa Cruz Valley of southern Arizona between Rillito Station and the international boundary: Tucson, University of Arizona"
+    ],
+    "volume": [
+      "288"
+    ],
+    "pages": [
+      "119"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Agricultural Experiment Station Bulletin"
+    ]
+  },
+  {
+    "citation-number": [
+      "220"
+    ],
+    "author": [
+      {
+        "family": "Infiltration",
+        "given": "Estimated"
+      },
+      {
+        "family": "Percolation"
+      },
+      {
+        "family": "Rillito Creek Focused Recharge Investigation Site",
+        "given": "Recharge Rates",
+        "particle": "at the"
+      },
+      {
+        "family": "Arizona Scott",
+        "given": "R.L."
+      },
+      {
+        "family": "Shuttleworth",
+        "given": "W.J."
+      },
+      {
+        "family": "T.O.",
+        "given": "Keefer"
+      },
+      {
+        "family": "Warrick",
+        "given": "A.W."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Modeling multiyear observations of soil moisture recharge in the semiarid American Southwest"
+    ],
+    "volume": [
+      "36"
+    ],
+    "pages": [
+      "2233–2247"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Water Resources Research"
+    ],
+    "issue": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "G.E.P."
+      }
+    ],
+    "date": [
+      "1910"
+    ],
+    "title": [
+      "Groundwater supply and irrigation in the Rillito Valley: Tucson, University of Arizona"
+    ],
+    "volume": [
+      "64"
+    ],
+    "pages": [
+      "244"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Agricultural Experiment Station Technical Bulletin"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wallace",
+        "given": "D.E."
+      },
+      {
+        "family": "Lane",
+        "given": "L.J."
+      }
+    ],
+    "date": [
+      "1978",
+      "April 14-15, 1978"
+    ],
+    "title": [
+      "Geomorphic features affecting transmission loss potential on semiarid watersheds"
+    ],
+    "container-title": [
+      "Hydrology and Water Resources in Arizona and the Southwest—Proceedings of the 1978 Meetings of the Arizona Section, American Water Resources Association and the Hydrology Section, Arizona Academy of Science"
+    ],
+    "location": [
+      "Flagstaff, Arizona"
+    ],
+    "publisher": [
+      "American Water Resources Association"
+    ],
+    "volume": [
+      "v. 8"
+    ],
+    "pages": [
+      "157–164"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Tadayon",
+        "given": "Saeid"
+      },
+      {
+        "family": "Duet",
+        "given": "N.R."
+      },
+      {
+        "family": "Fisk",
+        "given": "G.G."
+      },
+      {
+        "family": "McCormack",
+        "given": "H.F."
+      },
+      {
+        "family": "Partin",
+        "given": "C.K."
+      },
+      {
+        "family": "Rigas",
+        "given": "P.D."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Water resources data—Arizona, water year 1999, U.S"
+    ],
+    "volume": [
+      "AZ–99–1"
+    ],
+    "pages": [
+      "370"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Survey WaterData Report"
+    ]
+  },
+  {
+    "publisher": [
+      "Water Resources Research Center",
+      "University of Arizona"
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "Water in the Tucson area–Seeking sustainability: College of Agriculture"
+    ],
+    "location": [
+      "Tucson, Arizona"
+    ],
+    "pages": [
+      "155"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Talwani",
+        "given": "Manik"
+      },
+      {
+        "family": "Worzel",
+        "given": "J.L."
+      },
+      {
+        "family": "Landisman",
+        "given": "Mark"
+      }
+    ],
+    "date": [
+      "1959"
+    ],
+    "title": [
+      "Rapid gravity computations for two-dimensional bodies with application to the Mendocino submarine fracture zone"
+    ],
+    "volume": [
+      "64"
+    ],
+    "pages": [
+      "49–59"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Geophysical Research"
+    ],
+    "issue": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "R.H.",
+        "given": "Webb"
+      },
+      {
+        "family": "Betancourt",
+        "given": "J.L."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Climatic variability and flood frequency of the Santa Cruz River, Pima County, Arizona: U.S"
+    ],
+    "volume": [
+      "2379"
+    ],
+    "pages": [
+      "40"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Survey Water-Supply Paper"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Thatcher",
+        "given": "L.L."
+      },
+      {
+        "family": "Janzer",
+        "given": "V.J."
+      },
+      {
+        "family": "Edwards",
+        "given": "K.W."
+      }
+    ],
+    "date": [
+      "1977"
+    ],
+    "title": [
+      "Methods for determination of radioactive substances in water and fluvial sediments: U.S"
+    ],
+    "container-title": [
+      "Geological Survey Techniques of Water-Resources Investigations, Chapter A-5"
+    ],
+    "pages": [
+      "95"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Won",
+        "given": "I.J."
+      },
+      {
+        "family": "Bevis",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "title": [
+      "Computing the gravitational and magnetic anomalies due to a polygon: Algorithms and Fortran subroutines"
+    ],
+    "volume": [
+      "v. 52"
+    ],
+    "pages": [
+      "232–238"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geophysics"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Water",
+        "given": "Tucson"
+      }
+    ],
+    "date": [
+      "2000",
+      "1997"
+    ],
+    "title": [
+      "Annual static water level basic data report Tucson basin and Avra Valley Pima County"
+    ],
+    "location": [
+      "Arizona"
+    ],
+    "publisher": [
+      "City of Tucson, Tucson Water, Planning and Engineering Division"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fay",
+        "given": "P.A."
+      },
+      {
+        "family": "Carlisle",
+        "given": "J.D."
+      },
+      {
+        "family": "Knapp",
+        "given": "A.K."
+      },
+      {
+        "family": "Blair",
+        "given": "J.M."
+      },
+      {
+        "family": "Collins",
+        "given": "S.L."
+      }
+    ],
+    "date": [
+      "2000",
+      "2000"
+    ],
+    "title": [
+      "Altering Rainfall Timing and Quantity in a Mesic Grassland Ecosystem: Design and Performance of Rainfall Manipulation Shelters"
+    ],
+    "publisher": [
+      "National Science Foundation"
+    ],
+    "location": [
+      "Arlington, Virginia. Ecosystems"
+    ],
+    "volume": [
+      "3"
+    ],
+    "pages": [
+      "308–319"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Klausmeyer",
+        "given": "K.R."
+      },
+      {
+        "family": "Tanushree",
+        "given": "B."
+      },
+      {
+        "family": "Rohde",
+        "given": "M.M."
+      },
+      {
+        "family": "Schuetzenmeister",
+        "given": "F."
+      },
+      {
+        "family": "Rindlaub",
+        "given": "N."
+      },
+      {
+        "family": "Housman",
+        "given": "I."
+      },
+      {
+        "family": "Howard",
+        "given": "J.K."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "GDE Pulse: Taking the Pulse of Groundwater Dependent Ecosystems with Satellite Data"
+    ],
+    "location": [
+      "San Francisco, California"
+    ],
+    "note": [
+      "Available at:"
+    ],
+    "url": [
+      "https://gde.codefornature.org"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Naumburg",
+        "given": "E."
+      },
+      {
+        "family": "Mata-Gonzalez",
+        "given": "R."
+      },
+      {
+        "family": "Hunter",
+        "given": "R.G."
+      },
+      {
+        "family": "T",
+        "given": "McLendon"
+      },
+      {
+        "family": "Martin",
+        "given": "D.W."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Phreatophytic vegetation and groundwater fluctuations: a review of current research and application of ecosystem response modeling with an emphasis on great basin vegetation"
+    ],
+    "volume": [
+      "35"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Environmental Management"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "726–40"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rains",
+        "given": "M.C."
+      },
+      {
+        "family": "Fogg",
+        "given": "E.G."
+      },
+      {
+        "family": "Harter",
+        "given": "T.Dahlgren R.A."
+      },
+      {
+        "family": "Williamson",
+        "given": "R.J."
+      }
+    ],
+    "date": [
+      "2006",
+      "2006"
+    ],
+    "title": [
+      "The role of perched aquifers in hydrological connectivity and biogeochemical processes in vernal pool landscapes, Central Valley, California"
+    ],
+    "volume": [
+      "20"
+    ],
+    "pages": [
+      "1157–1175"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Hydrological Processes"
+    ]
+  },
+  {
+    "editor": [
+      {
+        "family": "M.M",
+        "given": "Rohde"
+      },
+      {
+        "family": "B.",
+        "given": "Seapy"
+      },
+      {
+        "family": "R.",
+        "given": "Rogers"
+      },
+      {
+        "family": "Castañeda",
+        "given": "X."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Critical Species LookBook: A compendium of California’s threatened and endangered species for sustainable groundwater management"
+    ],
+    "publisher": [
+      "The Nature Conservancy"
+    ],
+    "location": [
+      "San Francisco, California"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "The Nature Conservancy",
+      "Groundwater Dependent Ecosystems Under the Sustainable Groundwater Management Act Guidance for Preparing Groundwater Sustainability Plans"
+    ],
+    "date": [
+      "2018"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "The Nature Conservancy",
+      "Identifying GDEs Under SGMA Best Practices for Using the NC Dataset"
+    ],
+    "date": [
+      "2019",
+      "2019"
+    ],
+    "note": [
+      "Available from:"
+    ],
+    "url": [
+      "https://groundwaterresourcehub.org/public/uploads/pdfs/TNC_NCdataset_BestPracticesGuide_"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2007"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2017"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2006"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2018"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2014"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2007"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2018"
+    ],
+    "note": [
+      "C) 2017 (W) 2016 (N) 2015 (N) 2014 (C) 2013 (D) 2012 (N) 2011 (W) 2010 (AN) 2009 (D) 2008 (N) 2007 (C"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2006"
+    ],
+    "note": [
+      "D"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Third Party GIS Disclaimer: This map is for reference and graphical purposes only and should not be relied upon by third parties for any legal decisions. Any reliance upon the map or data contained herein shall be at the users’ sole risk"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Data Source"
+    ]
+  },
+  {
+    "title": [
+      "Third Party GIS Disclaimer: This map is for reference and graphical purposes only and should not be relied upon by third parties for any legal decisions. Any reliance upon the map or data contained herein shall be at the users’ sole risk"
+    ],
+    "volume": [
+      "100,000"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Data Source"
+    ]
+  },
+  {
+    "date": [
+      "2030"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2034"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2024"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Section 7 Works Cited Bennett, J."
+      }
+    ],
+    "date": [
+      "2020",
+      "2020"
+    ],
+    "title": [
+      "Email from Jim Bennett. Subject: SPV Population, Indoor Water Use, and Wastewater"
+    ],
+    "volume": [
+      "3"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Received December"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Boyce",
+        "given": "S.E."
+      },
+      {
+        "family": "Hanson",
+        "given": "R.T."
+      },
+      {
+        "family": "Ferguson",
+        "given": "I."
+      },
+      {
+        "family": "Schmid",
+        "given": "W."
+      },
+      {
+        "family": "Henson",
+        "given": "W."
+      },
+      {
+        "family": "Reimann",
+        "given": "T."
+      },
+      {
+        "family": "Mehl",
+        "given": "S.M."
+      },
+      {
+        "family": "Earll",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "One-Water Hydrologic Flow Model: A MODFLOW based conjunctive-use simulation software: U.S"
+    ],
+    "volume": [
+      "6–A60"
+    ],
+    "pages": [
+      "435 ,"
+    ],
+    "url": [
+      "https://doi.org/10.3133/tm6a60."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Survey Techniques and Methods"
+    ],
+    "doi": [
+      "10.3133/tm6a60."
+    ]
+  },
+  {
+    "title": [
+      "American Society for Testing and Materials",
+      "Standard Guide for Calibrating a GroundWater Flow Model Application"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "5981–96"
+    ],
+    "note": [
+      "Reapproved 2002."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "California Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "Best Management Practices for the Sustainable Management of Groundwater"
+    ],
+    "publisher": [
+      "Modeling BMP. December"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "California Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "Best Management Practices for the Sustainable Management of Groundwater"
+    ],
+    "publisher": [
+      "Water Budget BMP. December"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Camp",
+        "given": "Dresser"
+      },
+      {
+        "given": "McKee"
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "San Pasqual Groundwater Conjunctive Use Study – Final Study Report"
+    ],
+    "publisher": [
+      "Appendix B. City of San Diego. May"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chow",
+        "given": "V.T."
+      }
+    ],
+    "date": [
+      "1959"
+    ],
+    "title": [
+      "Open-Channel Hydraulics"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "location": [
+      "New York"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Engineers",
+        "given": "CH2M H.I.L.L."
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "Characterization of the San Pasqual Groundwater Basin"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Technical Memorandum prepared for Hatch & Parent. April"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "San Diego",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "San Pasqual Valley Groundwater Basin Salt and Nutrient Management Plan"
+    ],
+    "container-title": [
+      "Prepared by CH2M"
+    ],
+    "publisher": [
+      "HILL Engineers, Inc. May"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "Climate Change Technical Advisory"
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "Perspectives and guidance for climate change analysis"
+    ],
+    "publisher": [
+      "California Department of Water Resources Technical Information Record"
+    ],
+    "pages": [
+      "142"
+    ],
+    "note": [
+      "https://water.ca.gov/-/media/DWR-Website/WebPages/Programs/All-Programs/Climate-Change-Program/Climate-ProgramActivities/Files/Reports/Perspectives-Guidance-Climate-Change-Analysis.pdf"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Inc",
+        "given": "Environmental Simulations"
+      }
+    ],
+    "date": [
+      "2020",
+      "July"
+    ],
+    "title": [
+      "Guide to Using Groundwater Vistas Version 8"
+    ],
+    "edition": [
+      "Fifth"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Flint",
+        "given": "L.E."
+      },
+      {
+        "family": "Flint",
+        "given": "A.L."
+      }
+    ],
+    "date": [
+      "2014",
+      "2017-05-01"
+    ],
+    "title": [
+      "California Basin Characterization Model: A Dataset of Historical and Future Hydrologic Response to Climate Change",
+      "U.S"
+    ],
+    "url": [
+      "https://doi.org/10.5066/F76T0JPB."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Survey Data Release"
+    ],
+    "doi": [
+      "10.5066/F76T0JPB."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Flint",
+        "given": "L.E."
+      },
+      {
+        "family": "Flint",
+        "given": "A.L."
+      },
+      {
+        "family": "Thorne",
+        "given": "J.H."
+      },
+      {
+        "family": "Boynton",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2013",
+      "2013"
+    ],
+    "title": [
+      "Fine-scale hydrologic modeling for regional landscape applications: the California Basin Characterization Model development and performance"
+    ],
+    "volume": [
+      "2"
+    ],
+    "pages": [
+      "25"
+    ],
+    "url": [
+      "https://doi.org/10.1186/21921709-2-25."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Ecol Process"
+    ],
+    "doi": [
+      "10.1186/21921709-2-25."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Environmental",
+        "given": "Formation"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "CalETa Mapping Program - Development and Validation"
+    ],
+    "note": [
+      "Technical Memorandum prepared for Jacobs Engineering Group, Inc.. June."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Freeze",
+        "given": "R.A."
+      },
+      {
+        "family": "Cherry",
+        "given": "J.A."
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "title": [
+      "Groundwater"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "location": [
+      "Englewood Cliffs, New Jersey"
+    ],
+    "volume": [
+      "07632"
+    ],
+    "pages": [
+      "604"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Harbaugh",
+        "given": "A.W."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "MODFLOW-2005, the U.S. Geological Survey Modular Ground-water Model - the Ground-Water Flow Process"
+    ],
+    "volume": [
+      "6 A16"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "U.S. Geological Survey Techniques and Methods"
+    ]
+  },
+  {
+    "container-title": [
+      "Intergovernmental Panel on Climate Change (IPCC"
+    ],
+    "date": [
+      "2013"
+    ],
+    "title": [
+      "Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change",
+      "A"
+    ],
+    "edition": [
+      "T.F"
+    ],
+    "author": [
+      {
+        "family": "Stocker",
+        "given": "D.Qin"
+      },
+      {
+        "family": "Plattner",
+        "given": "G.-K."
+      },
+      {
+        "family": "Tignor",
+        "given": "M."
+      },
+      {
+        "family": "Allen",
+        "given": "S.K."
+      },
+      {
+        "family": "Boschung",
+        "given": "J."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Nauels",
+        "given": "Y.Xia"
+      },
+      {
+        "family": "Bex",
+        "given": "V."
+      },
+      {
+        "family": "Midgley",
+        "given": "P.M."
+      }
+    ],
+    "location": [
+      "Cambridge, United Kingdom and New York, New York"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "pages": [
+      "1535"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Izbicki",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "Evaluation of the San Dieguito, San Elijo, and San Pasqual Hydrologic Subareas for Reclaimed Water Use, San Diego County, California"
+    ],
+    "genre": [
+      "Water-Resources Investigations Report 83-4044."
+    ],
+    "container-title": [
+      "Prepared in cooperation with the County of San Diego and the California Department of Water Resources"
+    ],
+    "location": [
+      "August"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Environmental",
+        "given": "Ogden"
+      },
+      {
+        "family": "Services",
+        "given": "Energy"
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Water Resources Evaluation at the Fenton Ranch in Escondido, California. Letter to Ms"
+    ],
+    "location": [
+      "Justine Fenton"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Pierce",
+        "given": "D.W."
+      },
+      {
+        "family": "Kalansky",
+        "given": "J.F."
+      },
+      {
+        "family": "Cayan",
+        "given": "D.R."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Climate, Drought, and Sea Level Rise Scenarios for the Fourth California Climate Assessment"
+    ],
+    "note": [
+      "Scripps Institution of Oceanography, California’s Fourth Climate Change Assessment, California Energy Commission. Publication Number: CNRA-CEC-2018-006."
+    ],
+    "type": null
+  },
+  {
+    "publisher": [
+      "PRISM Climate Group",
+      "Oregon State University"
+    ],
+    "date": [
+      "2020"
+    ],
+    "url": [
+      "https://prism.oregonstate.edu/."
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Slade",
+        "given": "Richard C."
+      },
+      {
+        "family": "Associates",
+        "given": "L.L.C."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "Package of aquifer testing results in Rockwood Canyon received from City of San Diego"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Rojstaczer",
+        "given": "S.A."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "The Limitations of Groundwater Models"
+    ],
+    "volume": [
+      "v.42"
+    ],
+    "pages": [
+      "362–368"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Geological Education"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Authority",
+        "given": "San Diego County Water"
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "Final 2013 Regional Water Facilities Optimization and Master Plan Update"
+    ],
+    "publisher": [
+      "Prepared by CH2M Hill and Black & Veatch. March"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Schwalm",
+        "given": "C.R."
+      },
+      {
+        "family": "S.Glendon"
+      },
+      {
+        "given": "PDuffy"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "RCP8.5 Tracks Cumulative CO2 Emissions"
+    ],
+    "container-title": [
+      "Proceedings of the National Academy of Sciences"
+    ],
+    "volume": [
+      "117"
+    ],
+    "pages": [
+      "19656–19657"
+    ],
+    "issue": [
+      "33"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Calflora"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Information on Wild California Plants"
+    ],
+    "note": [
+      "Available:"
+    ],
+    "url": [
+      "https://www.calflora.org/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Society",
+        "given": "California Native Plant"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "A Manual of California Vegetation Online"
+    ],
+    "note": [
+      "Available:"
+    ],
+    "url": [
+      "http://vegetation.cnps.org/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "San Diego",
+        "given": "City",
+        "particle": "of"
+      },
+      {
+        "family": "Griffith",
+        "given": "G.E.",
+        "particle": "fullversion.pdf"
+      },
+      {
+        "family": "Omernik",
+        "given": "J.M."
+      },
+      {
+        "family": "Smith",
+        "given": "D.W."
+      },
+      {
+        "family": "Cook",
+        "given": "T.D."
+      },
+      {
+        "family": "Tallyn",
+        "given": "E."
+      },
+      {
+        "family": "Moseley",
+        "given": "K."
+      },
+      {
+        "family": "Johnson",
+        "given": "C.B."
+      }
+    ],
+    "date": [
+      "1997",
+      "2016"
+    ],
+    "title": [
+      "Multiple Species Conservation Program: City of San Diego MSCP Subbarea Plan",
+      "Ecoregions of California (poster): U.S"
+    ],
+    "note": [
+      "Available:"
+    ],
+    "url": [
+      "https://www.sandiego.gov/sites/default/files/legacy/planning/programs/mscp/pdf/subarea",
+      "http://dx.doi.org/10.3133/ofr20161021."
+    ],
+    "genre": [
+      "Geological Survey Open-File Report 2016–1021, with map, scale 1:1,100,000,"
+    ],
+    "container-title": [
+      "California’s Threatened and Endangered Species for Sustainable Groundwater Management. The Nature Conservancy"
+    ],
+    "location": [
+      "San Francisco, California"
+    ],
+    "doi": [
+      "10.3133/ofr20161021."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Luhdorff"
+      },
+      {
+        "family": "Scalmanini Consulting Engineers",
+        "given": "J.W.Borchers"
+      },
+      {
+        "family": "Carpenter",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2014",
+      "2014-04"
+    ],
+    "title": [
+      "Land Subsidence from Groundwater Use in California. Full Report of Findings prepared for California Water Foundation"
+    ],
+    "pages": [
+      "151"
+    ],
+    "url": [
+      "http://ca.water.usgs.gov/land_subsidence/california-subsidence-cause-effect.html"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Faunt",
+        "given": "C.C."
+      },
+      {
+        "family": "Sneed",
+        "given": "M."
+      },
+      {
+        "family": "Traum",
+        "given": "J."
+      },
+      {
+        "family": "Brandt",
+        "given": "J.T."
+      },
+      {
+        "family": "Hydrogeol",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2015",
+      "2016"
+    ],
+    "title": [
+      "Water availability and land subsidence in the Central Valley"
+    ],
+    "location": [
+      "California, USA"
+    ],
+    "volume": [
+      "24"
+    ],
+    "pages": [
+      "675"
+    ],
+    "doi": [
+      "10.1007/s10040-015-1339-x."
+    ],
+    "url": [
+      "https://pubs.er.usgs.gov/publication/701605"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Poland",
+        "given": "J.F."
+      },
+      {
+        "family": "Lofgren",
+        "given": "B.E."
+      },
+      {
+        "family": "Ireland",
+        "given": "R.L."
+      },
+      {
+        "family": "Pugh",
+        "given": "R.G."
+      }
+    ],
+    "date": [
+      "1975"
+    ],
+    "title": [
+      "Land subsidence in the San Joaquin Valley"
+    ],
+    "container-title": [
+      "California, as of 1972; US Geological Survey Professional Paper 437-H; prepared in cooperation with the California Department of Water Resources"
+    ],
+    "pages": [
+      "87"
+    ],
+    "url": [
+      "http://pubs.usgs.gov/pp/0437h/report.pdf"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Sneed",
+        "given": "M."
+      },
+      {
+        "family": "Brandt",
+        "given": "J.T."
+      },
+      {
+        "family": "Solt",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "title": [
+      "Land subsidence along the Delta-Mendota Canal in the northern part of the San Joaquin Valley"
+    ],
+    "container-title": [
+      "California, 2003-10; USGS Scientific Investigations Report 2013-5142, prepared in cooperation with U.S. Bureau of Reclamation and the San Luis and Delta-Mendota Water Authority"
+    ],
+    "url": [
+      "https://pubs.er.usgs.gov/publication/sir20135142"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Sneed",
+        "given": "M."
+      },
+      {
+        "family": "Brandt",
+        "given": "J.T."
+      },
+      {
+        "family": "Solt",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2014",
+      "1993"
+    ],
+    "title": [
+      "Land subsidence, groundwater levels, and geology in the Coachella Valley",
+      "U.S"
+    ],
+    "location": [
+      "California"
+    ],
+    "genre": [
+      "Geological Survey, Scientific Investigations Report 2014–5075,"
+    ],
+    "pages": [
+      "62"
+    ],
+    "url": [
+      "http://dx.doi.org/10.3133/sir20145075."
+    ],
+    "container-title": [
+      "STANDARDS California Department of Transportation, various dates. Caltrans Surveys Manual. http://www.dot.ca.gov/hq/row/landsurveys/SurveysManual/Manual_TOC.html U.S. Environmental Protection Agency, 2006. Guidance on Systematic Planning Using the Data"
+    ],
+    "doi": [
+      "10.3133/sir20145075."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Rice",
+        "given": "E.W."
+      },
+      {
+        "family": "Baire",
+        "given": "R.B."
+      },
+      {
+        "family": "Eaton",
+        "given": "A.D."
+      },
+      {
+        "given": "L.S."
+      },
+      {
+        "family": "Barcelona",
+        "given": "Water Environment Federation G.U.I.D.A.N.C.E."
+      },
+      {
+        "family": "M.J.",
+        "given": "J.P.Gibb"
+      },
+      {
+        "family": "Helfrich",
+        "given": "J.A."
+      },
+      {
+        "given": "EEGraske"
+      },
+      {
+        "family": "Buchanan",
+        "given": "T.J."
+      },
+      {
+        "family": "Somers",
+        "given": "W.P."
+      },
+      {
+        "family": "Cunningham",
+        "given": "W.L."
+      },
+      {
+        "family": "Schalk",
+        "given": "C.W."
+      },
+      {
+        "given": "comps"
+      }
+    ],
+    "edition": [
+      "Clesceri"
+    ],
+    "date": [
+      "2012",
+      "1985",
+      "1969",
+      "2011",
+      "2010",
+      "2001"
+    ],
+    "title": [
+      "Standard methods for the examination of water and wastewater",
+      "Practical Guide for GroundWater Sampling",
+      "Discharge measurements at gaging stations; techniques of water-resources investigations of the United States Geologic Survey chapter A8",
+      "Groundwater technical procedures of the U.S",
+      "Groundwater elevation monitoring guidelines",
+      "Introduction to field methods for hydrologic and environmental studies"
+    ],
+    "location": [
+      "Washington, DC",
+      "Champaign, Illinois",
+      "Washington D.C",
+      "Holmes, R.R. Jr., P.J. Terrio, M.A",
+      "Urbana, Illinois"
+    ],
+    "publisher": [
+      "American Public Health Association, American Water Works Association",
+      "Illinois State Water Survey",
+      "California Department of Water Resources",
+      "Harris, and P.C. Mills",
+      "USGS"
+    ],
+    "pages": [
+      "103",
+      "241"
+    ],
+    "url": [
+      "http://pubs.usgs.gov/twri/twri3a8/html/pdf.html",
+      "https://pubs.usgs.gov/tm/1a1/pdf/tm1-a1.pdf",
+      "http://www.water.ca.gov/groundwater/casgem/pdfs/CASGEM%20DWR%20GW%20Gu",
+      "https://pubs.er.usgs.gov/publication/ofr0150"
+    ],
+    "container-title": [
+      "Geological Survey: U.S. Geological Survey Techniques and Methods 1–A1"
+    ],
+    "genre": [
+      "open-file report 01-50,"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Puls",
+        "given": "R.W."
+      },
+      {
+        "family": "Barcelona",
+        "given": "M.J."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "Low-Flow (Minimal Drawdown) Ground-Water Sampling Procedures; US EPA"
+    ],
+    "note": [
+      "Ground Water Issue EPA/540/S-95/504."
+    ],
+    "url": [
+      "https://www.epa.gov/sites/production/files/2015-06/documents/lwflw2a.pdf"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Rantz",
+        "given": "S.E."
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "title": [
+      "Measurement and computation of streamflow; U.S. Geological Survey, Water Supply Paper 2175"
+    ],
+    "url": [
+      "http://pubs.usgs.gov/wsp/wsp2175/#table"
+    ],
+    "note": [
+      "Subcommittee on Ground Water of the Advisory Committee on Water Information,"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2013",
+      "2013"
+    ],
+    "title": [
+      "A national framework for ground-water monitoring in the United States",
+      "Operating Procedure: Groundwater Sampling SESDPROC-301-R3"
+    ],
+    "url": [
+      "http://acwi.gov/sogw/ngwmn_framework_report_july2013.pdf"
+    ],
+    "author": [
+      {
+        "family": "Vail",
+        "given": "J."
+      },
+      {
+        "family": "France",
+        "given": "D."
+      },
+      {
+        "family": "Lewis",
+        "given": "B."
+      }
+    ],
+    "publisher": [
+      "California Department of Water Resources"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "Groundwater Monitoring Protocols, Standards, and Sites BMP"
+    ],
+    "url": [
+      "https://www.epa.gov/sites/production/files/2015-06/documents/GroundwaterSampling.pdf"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "F.D."
+      }
+    ],
+    "date": [
+      "2005-01",
+      "ver. 2.0"
+    ],
+    "title": [
+      "Preparations for water sampling",
+      "U.S. Geological Survey Techniques of Water-Resources Investigations, book 9, chap"
+    ],
+    "url": [
+      "http://water.usgs.gov/owq/FieldManual/compiled/NFM_complete.pdf",
+      "http://water.usgs.gov/osw/gps/"
+    ],
+    "container-title": [
+      "ONLINE RESOURCES Online System for Well Completion Reports (OSWCR). California Department of Water Resources. http://water.ca.gov/oswcr/index.cfm Measuring Land Subsidence web page. U.S. Geological Survey. http://ca.water.usgs.gov/land_subsidence/california-subsidence-measuring.html USGS Global Positioning Application and Practice web",
+      "A1"
+    ],
+    "pages": [
+
+    ],
+    "note": [
+      "U.S. Geological Survey."
+    ],
+    "type": "article-journal"
+  }
+]

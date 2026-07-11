@@ -1,0 +1,1943 @@
+[
+  {
+    "date": [
+      "2008"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Natural Communities Commonly Associated with Groundwater Dataset (NCCAG",
+      "San Joaquin County Multi-Species Habitat Conservation and Open Space Plan. 2000. San Joaquin County of Government"
+    ],
+    "date": [
+      "2018",
+      "2018",
+      "2000-11-14"
+    ],
+    "author": [
+      {
+        "family": "Klausmeyer",
+        "given": "K."
+      },
+      {
+        "family": "J.",
+        "given": "Howard"
+      },
+      {
+        "family": "T.",
+        "given": "Keeler-Wolf"
+      },
+      {
+        "family": "K.",
+        "given": "Davis-Fadtke"
+      },
+      {
+        "family": "R.",
+        "given": "Hull"
+      },
+      {
+        "family": "A",
+        "given": "Lyons"
+      }
+    ],
+    "title": [
+      "Mapping Indicators of Groundwater Dependent Ecosystems in California"
+    ],
+    "url": [
+      "https://data.cnra.ca.gov/dataset/natural-communities-commonly-associated-with-groundwater",
+      "https://www.sjcog.org/DocumentCenter/View/5/Habitat-Planpdf?bidId="
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Sneed",
+        "given": "Michelle"
+      },
+      {
+        "family": "Brandt",
+        "given": "Justin"
+      },
+      {
+        "family": "Solt",
+        "given": "Mike"
+      }
+    ],
+    "date": [
+      "2013",
+      "2003"
+    ],
+    "title": [
+      "Land subsidence along the Delta-Mendota Canal in the northern part of the San Joaquin Valley",
+      "U.S"
+    ],
+    "location": [
+      "California"
+    ],
+    "genre": [
+      "Geological Survey Scientific Investigations Report 2013–5142,"
+    ],
+    "pages": [
+      "87 ,"
+    ],
+    "note": [
+      ": https://pubs.usgs.gov/sir/2013/5142/ Chapter 4 – Hydrogeologic Conceptual Model"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "given": "Bartow"
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "title": [
+      "Maps showing Tertiary stratigraphy and structure of the Northern San Joaquin Valley, California"
+    ],
+    "note": [
+      "United States Geological Survey (USGS)."
+    ],
+    "url": [
+      "https://pubs.er.usgs.gov/publication/mf1761"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Berkstresser",
+        "given": "C.F.",
+        "suffix": "Jr"
+      }
+    ],
+    "date": [
+      "1973",
+      "1973"
+    ],
+    "title": [
+      "Base of Fresh Ground-Water -- Approximately 3,000 micromhos -- in the Sacramento Valley and Sacramento-San Joaquin Delta, California"
+    ],
+    "container-title": [
+      "U.S. Geological Survey Water-Resource Inv"
+    ],
+    "pages": [
+      "40–73"
+    ],
+    "url": [
+      "https://pubs.er.usgs.gov/publication/wri7340"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Bertoldi",
+        "given": "G."
+      },
+      {
+        "family": "Johnston",
+        "given": "R."
+      },
+      {
+        "family": "Evenson",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "title": [
+      "Groundwater in the Central Valley, California - A Summary Report"
+    ],
+    "container-title": [
+      "USGS Professional Paper 1401-A"
+    ],
+    "url": [
+      "https://doi.org/10.3133/pp1401A."
+    ],
+    "doi": [
+      "10.3133/pp1401A."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Burow",
+        "given": "Karen R."
+      },
+      {
+        "family": "Shelton",
+        "given": "Jennifer L."
+      },
+      {
+        "family": "Hevesi",
+        "given": "Joseph A."
+      },
+      {
+        "family": "Weissmann",
+        "given": "Gary S."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Hydrologic Characterization of the Modesto Area, San Joaquin Valley, California"
+    ],
+    "container-title": [
+      "Preliminary Draft. U.S. Geological Survey. Water-Resources Investigation Report. Prepared in cooperation with Modesto Irrigation District"
+    ],
+    "location": [
+      "Sacramento, California"
+    ],
+    "url": [
+      "https://pubs.er.usgs.gov/publication/sir20045232"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "California Department of Water Resources (DWR",
+      "Sacramento Delta San Joaquin Atlas"
+    ],
+    "date": [
+      "1995"
+    ],
+    "url": [
+      "https://www.waterboards.ca.gov/waterrights/water_issues/programs/bay_delta/deltaflow/docs/ex"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "G.H.",
+        "given": "Davis"
+      },
+      {
+        "family": "Green",
+        "given": "J.H."
+      },
+      {
+        "family": "Olmstead",
+        "given": "S.H."
+      },
+      {
+        "family": "Brown",
+        "given": "D.W."
+      }
+    ],
+    "date": [
+      "2006",
+      "1959"
+    ],
+    "title": [
+      "San Joaquin Valley Groundwater Basin Tracy Subbasin. California’s Groundwater, Bulletin 118. Last updated 1/20/06"
+    ],
+    "url": [
+      "https://water.ca.gov/-/media/DWR-Website/WebPages/Programs/Groundwater-Management/Bulletin-118/Files/2003-BasinDescriptions/5_022_15_TracySubbasin.pdf"
+    ],
+    "location": [
+      "Davis, G. H., J.H. Green, S.H"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Olmstead"
+      },
+      {
+        "family": "Brown",
+        "given": "D.W."
+      }
+    ],
+    "date": [
+      "1959"
+    ],
+    "title": [
+      "Ground water conditions and storage capacity in the San Joaquin Valley, California"
+    ],
+    "volume": [
+
+    ],
+    "pages": [
+      "287"
+    ],
+    "url": [
+      "https://doi.org/10.3133/wsp1469."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "U.S. Geological Survey Water Supply Paper"
+    ],
+    "issue": [
+      "1469"
+    ],
+    "doi": [
+      "10.3133/wsp1469."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Consultants",
+        "given": "G.E.I."
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "publisher": [
+      "Tracy Regional Groundwater Management Plan"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hotchkiss",
+        "given": "W.R."
+      },
+      {
+        "family": "Balding",
+        "given": "G.O."
+      }
+    ],
+    "date": [
+      "1971"
+    ],
+    "title": [
+      "Geology, hydrology, and water quality of the Tracy-Dos Palos area"
+    ],
+    "location": [
+      "San Joaquin Valley, California"
+    ],
+    "publisher": [
+      "U.S. Geological Survey. Open-File Report. Hotchkiss"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Conservancy",
+        "given": "Nature"
+      },
+      {
+        "given": "California"
+      }
+    ],
+    "title": [
+      "ICONS: Interconnected Surface Water in the Central Valley, Version 1.0.1"
+    ],
+    "url": [
+      "https://icons.codefornature.org/"
+    ],
+    "date": [
+      "2021-03"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Wagner",
+        "given": "D.L."
+      },
+      {
+        "family": "Bortugno",
+        "given": "E.J."
+      },
+      {
+        "family": "Mc Junkin",
+        "given": "R.D."
+      },
+      {
+        "given": "Woodard"
+      },
+      {
+        "given": "Curran"
+      }
+    ],
+    "date": [
+      "1991",
+      "2019",
+      "1982"
+    ],
+    "title": [
+      "Geologic Map of the San Francisco – San Jose Quadrangle",
+      "Northern & Central Delta-Mendota Region Groundwater Sustainability Plan",
+      "Chapter 5 – Groundwater Conditions Atwater, B.F"
+    ],
+    "volume": [
+
+    ],
+    "url": [
+      "https://www.conservation.ca.gov/cgs/maps-data/rgm",
+      "http://deltamendota.org/wpcontent/uploads/2019/11/Final_Draft_GSP_Nov19/RevExecSum_Nov19_Final.pdf",
+      "https://pubs.er.usgs.gov/publication/mf1401"
+    ],
+    "note": [
+      "Geologic Maps of the Sacramento-San Joaquin Delta, California, U.S. Geological Survey, Miscellaneous Field Studies Map MF – 1401."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "California Geological Survey, Regional Geologic Map"
+    ],
+    "issue": [
+      "5A, 1:250,000"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Burow",
+        "given": "Karen R."
+      },
+      {
+        "family": "Shelton",
+        "given": "Jennifer L."
+      },
+      {
+        "family": "Hevesi",
+        "given": "Joseph A."
+      },
+      {
+        "family": "Weissmann",
+        "given": "Gary S."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Hydrologic Characterization of the Modesto Area"
+    ],
+    "location": [
+      "San Joaquin Valley, California"
+    ],
+    "publisher": [
+      "Preliminary Draft. U.S"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Survey",
+        "given": "Geological"
+      }
+    ],
+    "title": [
+      "Water-Resources Investigation Report 2004-5232. Prepared in cooperation with Modesto Irrigation District"
+    ],
+    "location": [
+      "Sacramento, California"
+    ],
+    "url": [
+      "https://pubs.er.usgs.gov/publication/sir20045232"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "California Department of Water Resources (DWR). 1995"
+    ],
+    "location": [
+      "Sacramento Delta San Joaquin Atlas"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "San Joaquin Valley Groundwater Basin Tracy Subbasin"
+    ],
+    "volume": [
+      "118"
+    ],
+    "note": [
+      "Last updated 1/20/06."
+    ],
+    "url": [
+      "https://water.ca.gov/-/media/DWR-Website/WebPages/Programs/Groundwater-Management/Bulletin-118/Files/2003-BasinDescriptions/5_022_15_TracySubbasin.pdf"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "California’s Groundwater, Bulletin"
+    ]
+  },
+  {
+    "author": [
+
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "SGMA Data Viewer"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Davis",
+        "given": "G."
+      },
+      {
+        "family": "Green",
+        "given": "J."
+      },
+      {
+        "family": "Olmsted",
+        "given": "F."
+      },
+      {
+        "family": "Brown",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "1959"
+    ],
+    "title": [
+      "Ground-Water Conditions and Storage Capacity in the San Joaquin Valley California"
+    ],
+    "genre": [
+      "USGS."
+    ],
+    "url": [
+      "https://doi.org/10.3133/wsp1469"
+    ],
+    "doi": [
+      "10.3133/wsp1469"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Deverel",
+        "given": "S.J."
+      },
+      {
+        "family": "Rojstaczer",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "Subsidence of agricultural lands in the Sacramento-San Joaquin Delta, California: Role of aqueous and gaseous carbon fluxes"
+    ],
+    "volume": [
+      "32"
+    ],
+    "url": [
+      "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/96WR01338"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Water Resources Research"
+    ],
+    "issue": [
+      "8"
+    ],
+    "pages": [
+      "2359–2367"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Deverel",
+        "given": "Steven J."
+      },
+      {
+        "family": "Leighton",
+        "given": "David A."
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "Historic, Recent, and Future Subsidence"
+    ],
+    "location": [
+      "SacramentoSan Joaquin Delta, California, USA. San"
+    ],
+    "volume": [
+      "8"
+    ],
+    "url": [
+      "https://escholarship.org/uc/item/7xd4x0xw"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Francisco Estuary and Watershed Science"
+    ],
+    "issue": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Consultants",
+        "given": "G.E.I."
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "publisher": [
+      "Tracy Regional Groundwater Management Plan"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Hydrofocus"
+      },
+      {
+        "family": "Izbicki",
+        "given": "John A."
+      },
+      {
+        "family": "Metzger",
+        "given": "Loren F."
+      },
+      {
+        "family": "McPherson",
+        "given": "Kelly R."
+      },
+      {
+        "family": "Everett",
+        "given": "Rhett R."
+      },
+      {
+        "family": "Bennett",
+        "given": "George L."
+      }
+    ],
+    "date": [
+      "2015",
+      "2015-04-27",
+      "2006"
+    ],
+    "title": [
+      "San Joaquin County and Delta Quality Coalition Groundwater Quality Assessment"
+    ],
+    "genre": [
+      "Report,"
+    ],
+    "url": [
+      "https://www.waterboards.ca.gov/centralvalley/water_issues/irrigated_lands/water_quality/coaliti"
+    ],
+    "type": "report"
+  },
+  {
+    "title": [
+      "Sources of High-Chloride Water to Wells, Eastern San Joaquin Ground-Water Subbasin, California"
+    ],
+    "url": [
+      "https://pubs.usgs.gov/of/2006/1309/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Land",
+        "given": "I.Q."
+      }
+    ],
+    "date": [
+      "2014",
+      "2014",
+      "2017-06-07"
+    ],
+    "title": [
+      "Draft Report",
+      "Statewide Land Use Mapping"
+    ],
+    "url": [
+      "https://map.dfg.ca.gov/metadata/ds2677.html"
+    ],
+    "container-title": [
+      "Luhdorff and Scalmanini Consulting Engineers, 2015"
+    ],
+    "location": [
+      "Western San Joaquin River Watershed"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "W.C.",
+        "given": "Mendenhall"
+      },
+      {
+        "family": "Dole",
+        "given": "R.B."
+      },
+      {
+        "family": "Stabler",
+        "given": "Herman"
+      }
+    ],
+    "date": [
+      "1916",
+      "2004"
+    ],
+    "title": [
+      "Groundwater in the San Joaquin Valley, California",
+      "Padre and Associates"
+    ],
+    "genre": [
+      "USGS Water-Supply Paper 398."
+    ],
+    "url": [
+      "https://pubs.usgs.gov/wsp/0398/report.pdf"
+    ],
+    "note": [
+      "Personal communication with Mike Burke regarding aquifer testing at City of Tracy Well 8."
+    ],
+    "type": "personal_communication"
+  },
+  {
+    "author": [
+      {
+        "family": "Shlemon",
+        "given": "R.J."
+      },
+      {
+        "family": "Begg",
+        "given": "E.L."
+      }
+    ],
+    "date": [
+      "1975"
+    ],
+    "title": [
+      "Late Quaternary Evolution of the Sacramento-San Joaquin Delta, California in Suggate"
+    ],
+    "editor": [
+      {
+        "given": "R.P."
+      },
+      {
+        "family": "Cressel",
+        "given": "M.M."
+      }
+    ],
+    "container-title": [
+      "Quaternary Studies, Bulletin 13, The Royal Society of New Zealand, Wellington, New Zealand"
+    ],
+    "pages": [
+      "259– 266"
+    ],
+    "url": [
+      "https://www.researchgate.net/publication/298432349_Late_Quaternary_evolution_of_the_Sacra"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Sneed",
+        "given": "Michelle"
+      },
+      {
+        "family": "Brandt",
+        "given": "Justin"
+      },
+      {
+        "family": "Solt",
+        "given": "Mike"
+      }
+    ],
+    "date": [
+      "2013",
+      "2003"
+    ],
+    "title": [
+      "Land subsidence along the Delta-Mendota Canal in the northern part of the",
+      "U.S"
+    ],
+    "location": [
+      "San Joaquin Valley, California"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Survey"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Regulations",
+        "given": "California Code",
+        "particle": "of"
+      }
+    ],
+    "title": [
+      "Title 23, Division 2, Chapter 1.5, Subchapter 2 Groundwater Sustainability Plans"
+    ],
+    "date": [
+      "2016"
+    ],
+    "url": [
+      "https://cawaterlibrary.net/document/california-code-of-regulationstitle-23-waters-division-2-department-of-water-resources-chapter-1-5-groundwater-managementsubchapter-2-groundwater-sustainability-plans/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "California Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2017",
+      "2021-07-14",
+      "1968"
+    ],
+    "title": [
+      "Best management Practices for the Sustainable Management of Groundwater, Sustainable Management Criteria DRAFT",
+      "California Department of Water Resources, (DWR",
+      "California Data Exchange Center",
+      "California State Water Resources Control Board (State Water Board"
+    ],
+    "url": [
+      "https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/GroundwaterManagement/Sustainable-Groundwater-Management/Best-Management-Practices-andGuidance-Documents/Files/BMP-6-Sustainable-Management-Criteria-DRAFT_ay_19.pdf",
+      "https://cdec.water.ca.gov/reportapp/javareports?name=WSIHIST",
+      "https://www.waterboards.ca.gov/board_decisions/adopted_orders/resolutions/1968/rs68_016.pdf"
+    ],
+    "note": [
+      "Statement of Policy with Respect to Maintaining High Quality of Waters in California. Resolution No. 68-16."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Access"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "California Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "A Compilation of Water Quality Goals"
+    ],
+    "url": [
+      "https://www.waterboards.ca.gov/water_issues/programs/water_quality_goals/"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Central Valley Region Regional Water Quality Control Board (CVRWQCB",
+      "Water Quality Control Plan for the Sacramento and San Joaquin Rivers"
+    ],
+    "date": [
+      "2018"
+    ],
+    "url": [
+      "https://www.waterboards.ca.gov/centralvalley/water_issues/basin_plans/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Woodard"
+      },
+      {
+        "given": "Curran"
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Northern & Central Delta-Mendota Region GSP"
+    ],
+    "url": [
+      "http://deltamendota.org/wpcontent/uploads/2019/11/Final_Draft_GSP_Nov19/RevExecSum_Nov19_Final.pdf"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "146"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "100"
+    ],
+    "date": [
+      "7/25/2007 11/21/2008 12/13/2001 0 6/26/2014 11/17/2016 11/17/2016 11/17/2016 11/17/2016 11/17/2016 11/17/2016 11/17/2016 11/17/2016 11/16/2016 11/17/2016 11/17/2016 11/16/2016 4/16/2014 6/7/2011 11/14/2019 11/15/2016 11/15/2016 11/15/2016"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "12/15/2014"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "3900588–001 3901015–001 3901011–001 3901301–001 3901283–001 3900974–001 3901435–007 3901447–007 3901310–007 3901299–007 3902191–001 3900998–001 3901328–005 3901006–001 3902187–001 3901106–008 3901299–001 3900731–001 3901419–001 3901310–001 3901383–001 3900651–002 3901388–001 3901001–002 3900904–001 3900737–001 3900737–002 3901106–002 3901001–001"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "01/01/2016 01/01/2015 01/01/2014 01/01/2010 01/01/2009 01/01/2008 01/01/2007 01/01/2006 01/01/2005"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "01/01/2004 01/01/2003"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "01/01/2016 01/01/2015 01/01/2014 01/01/2010 01/01/2009 01/01/2008 01/01/2007 01/01/2006 01/01/2005"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "01/01/2004 01/01/2003"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "05/01/2003 09/01/2002 01/01/2002 05/01/2001 09/01/1998 01/01/1998 05/01/1997 09/01/1996 01/01/1996"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "05/01/1995 09/01/1994 01/01/1994 05/01/1993 09/01/1992 01/01/1992 05/01/1991 09/01/1990 01/01/1990 05/01/1989"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "12/01/2016 01/01/2016 02/01/2015 03/01/2014 08/01/2009 09/01/2008 10/01/2007 11/01/2006"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "12/01/2005 01/01/2005 02/01/2004 03/01/2003 04/01/2002 05/01/2001 06/01/2000 07/01/1999 08/01/1998 09/01/1997 10/01/1996"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "M.T."
+      }
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "03/01/2015 12/01/2013 09/01/2012 06/01/2011 06/01/2006 03/01/2005 12/01/2003 09/01/2002 06/01/2001"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "03/01/2000 12/01/1998 09/01/1997 06/01/1996 03/01/1995 12/01/1993 09/01/1992 06/01/1991 03/01/1990 12/01/1988"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "11/01/2014 12/01/2013 01/01/2013 02/01/2012 06/01/2008 07/01/2007 08/01/2006 09/01/2005 10/01/2004"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "11/01/2003 12/01/2002 01/01/2002 02/01/2001 03/01/2000 04/01/1999 05/01/1998 06/01/1997 07/01/1996"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "01/01/2018 01/01/2017 01/01/2016 01/01/2012 01/01/2011 01/01/2010 01/01/2009 01/01/2008 01/01/2007"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "01/01/2006 01/01/2005 01/01/2004 01/01/2003"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "01/01/2016 01/01/2015 01/01/2014 01/01/2011 01/01/2010 01/01/2009 01/01/2008 01/01/2007 01/01/2006 01/01/2005"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "01/01/2004 01/01/2003"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1988-09-08 1991-01-24 1993-03-15 1993-06-09 1996-01-23 1996-04-19 1996-07-16 1996-10-15 1999-04-29 2000-04-18 2001-04-10 2002-05-22 2003-05-07 2004-04-05 2004-05-03 2005-04-04 2005-05-16 2006-04-17 2007-04-02 2008-04-07 2009-04-06 2010-04-05 2011-04-04 2012-04-02 2013-04-01 2014-04-01 2015-04-07"
+    ],
+    "note": [
+      "Nitrate as N mg/L"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "12/01/2016 01/01/2016 02/01/2015 03/01/2014 08/01/2009 09/01/2008 10/01/2007 11/01/2006"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "12/01/2005 01/01/2005 02/01/2004 03/01/2003 04/01/2002 05/01/2001 06/01/2000 07/01/1999 08/01/1998 09/01/1997 10/01/1996"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "03/01/2015 12/01/2013 09/01/2012 06/01/2011 06/01/2006 03/01/2005 12/01/2003 09/01/2002 06/01/2001"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "03/01/2000 12/01/1998 09/01/1997 06/01/1996 03/01/1995 12/01/1993 09/01/1992 06/01/1991 03/01/1990 12/01/1988"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "10/01/2015 11/01/2014 12/01/2013 01/01/2013 05/01/2009 06/01/2008 07/01/2007 08/01/2006 09/01/2005"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "10/01/2004 11/01/2003 12/01/2002 01/01/2002 02/01/2001 03/01/2000 04/01/1999 05/01/1998 06/01/1997 07/01/1996"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "01/01/2016 01/01/2015 01/01/2014 01/01/2010 01/01/2009 01/01/2008 01/01/2007 01/01/2006 01/01/2005"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "01/01/2004 01/01/2003"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "01/01/2016 01/01/2015 01/01/2014 01/01/2011 01/01/2010 01/01/2009 01/01/2008 01/01/2007 01/01/2006 01/01/2005"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "01/01/2004 01/01/2003"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "06/01/2016 07/01/2015 08/01/2014 09/01/2013 10/01/2012 11/01/2011 12/01/2010 01/01/2010 02/01/2009 03/01/2008 04/01/2007 05/01/2006"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "06/01/2005 07/01/2004 08/01/2003 09/01/2002 10/01/2001 11/01/2000 12/01/1999 01/01/1999 02/01/1998 03/01/1997"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "09/01/2016 11/01/2015 01/01/2015 03/01/2014 05/01/2013 07/01/2012 09/01/2011 11/01/2010 01/01/2010 03/01/2009 05/01/2008 07/01/2007"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "09/01/2006 11/01/2005 01/01/2005 03/01/2004 05/01/2003 07/01/2002 09/01/2001 11/01/2000 01/01/2000"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "11/01/2015 03/01/2015 07/01/2014 11/01/2013 03/01/2013 07/01/2012 11/01/2011 03/01/2011 07/01/2010 11/01/2009 03/01/2009 07/01/2008"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "11/01/2007 03/01/2007 07/01/2006 11/01/2005 03/01/2005 07/01/2004 11/01/2003 03/01/2003 07/01/2002"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "11/01/2015 03/01/2015 07/01/2014 11/01/2013 03/01/2013 07/01/2012 11/01/2011 03/01/2011 07/01/2010 11/01/2009 03/01/2009 07/01/2008"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "11/01/2007 03/01/2007 07/01/2006 11/01/2005 03/01/2005 07/01/2004 11/01/2003 03/01/2003 07/01/2002"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Census",
+        "given": "Bay Area"
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "title": [
+      "Cities and Towns.\"Accessed on 10/5/2012 from <http://www.bayareacensus.ca.gov/cities/cities.htm >"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Al-Hamaiedeh",
+        "given": "H.D."
+      },
+      {
+        "family": "Bino",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "Effect of treated grey water reuse in irrigation on soil and plants"
+    ],
+    "volume": [
+      "256"
+    ],
+    "pages": [
+      "115–119"
+    ],
+    "doi": [
+      "10.1016/j.desal.2010.02.004"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Desalination"
+    ],
+    "issue": [
+      "1-3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Alfiya",
+        "given": "Y."
+      },
+      {
+        "family": "Damti",
+        "given": "O."
+      },
+      {
+        "family": "Stoler-Katz",
+        "given": "A."
+      },
+      {
+        "family": "Zoubi",
+        "given": "A."
+      },
+      {
+        "family": "Shaviv",
+        "given": "A."
+      },
+      {
+        "family": "E",
+        "given": "Friedler"
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "title": [
+      "Potential impacts of on-site greywater reuse in landscape irrigation"
+    ],
+    "volume": [
+      "65"
+    ],
+    "pages": [
+      "757–764"
+    ],
+    "doi": [
+      "10.2166/wst.2012.903"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Water Science & Technology"
+    ],
+    "issue": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Undated",
+        "given": "American Rivers"
+      },
+      {
+        "family": "Bennett",
+        "given": "R.",
+        "particle": "from www.americanrivers.org"
+      },
+      {
+        "others": true
+      }
+    ],
+    "title": [
+      "Health Risks of Sewage",
+      "Monitoring Graywater Use: Three Case Studies in California"
+    ],
+    "note": [
+      "Accessed on 11/5/2012",
+      "Accessed Jan 2010."
+    ],
+    "date": [
+      "2002"
+    ],
+    "url": [
+      "http://oasisdesign.net/greywater/SBebmudGWstudy.htm."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Birks",
+        "given": "R."
+      },
+      {
+        "family": "Colbourne",
+        "given": "J."
+      },
+      {
+        "family": "Hills",
+        "given": "S."
+      },
+      {
+        "family": "Hobson",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Microbiological Water Quality in a Large In-building Water Recycling Facility"
+    ],
+    "volume": [
+      "50"
+    ],
+    "pages": [
+      "165"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Wat. Sci. Tech"
+    ],
+    "issue": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Brady",
+        "given": "N."
+      },
+      {
+        "family": "Weil",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "The Nature and Properties of Soil"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Commission",
+        "given": "California Building Standards"
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "California Plumbing Code Title 24, Part 5, Chapter 16A"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Casanova",
+        "given": "L.M."
+      },
+      {
+        "family": "Little",
+        "given": "V."
+      },
+      {
+        "family": "Frye",
+        "given": "R.J."
+      },
+      {
+        "family": "Gerba",
+        "given": "C.P."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "A Survey of the Microbial Quality of Recycled Household Graywater"
+    ],
+    "volume": [
+      "37"
+    ],
+    "pages": [
+      "1313–1319"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "JAWRA Journal of the American Water Resources Association"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Los Angeles",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Graywater Pilot Project - Final Report"
+    ],
+    "publisher": [
+      "Office of Water Reclamation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cohen",
+        "given": "Y."
+      }
+    ],
+    "date": [
+      "2009",
+      "2009"
+    ],
+    "title": [
+      "Graywater- A potential source of water",
+      "UCLA Institute of Environment and Sustainability"
+    ],
+    "genre": [
+      "Southern California Environmental Report Card,"
+    ],
+    "note": [
+      "Retrieved October 12, 2012 from"
+    ],
+    "url": [
+      "http://www.ioe.ucla.edu/reportcard/article.asp?parentid=4870"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Costello",
+        "given": "L."
+      },
+      {
+        "others": true
+      }
+    ],
+    "title": [
+      "Abiotic Disorders of Landscape Plants: A Diagnostic Guide"
+    ],
+    "volume": [
+      "3420"
+    ],
+    "date": [
+      "2003"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "University of California Agriculture and Natural Resources. Publication"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Duttle",
+        "given": "M."
+      }
+    ],
+    "title": [
+      "Safe Use of Household Greywater Guide M-106 Revised by Marsha Duttle, Extension Research Assistant College of Agriculture, Consumer and Environmental Sciences New Mexico"
+    ],
+    "publisher": [
+      "State University"
+    ],
+    "note": [
+      "Retrieved on 11/5/2012 from"
+    ],
+    "url": [
+      "http://aces.nmsu.edu/pubs/_m/m-106.html"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Friedler",
+        "given": "E."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Quality of individual domestic greywater streams and its implication for on-site treatment and reuse possibilities"
+    ],
+    "volume": [
+      "25"
+    ],
+    "pages": [
+      "997–1008"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Environ Technol"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Undated",
+        "given": "Green Plumbers"
+      },
+      {
+        "family": "Gross",
+        "given": "A."
+      },
+      {
+        "family": "Azulai",
+        "given": "N."
+      },
+      {
+        "family": "Oron",
+        "given": "G."
+      },
+      {
+        "family": "Ronen",
+        "given": "Z."
+      },
+      {
+        "family": "Arnold",
+        "given": "M."
+      },
+      {
+        "family": "Nejidat",
+        "given": "A."
+      }
+    ],
+    "note": [
+      "Accessed on November 9th, 2012 from",
+      "IWA Publishing, Alliance House 12"
+    ],
+    "url": [
+      "http://greenplumbers.com.au/grey-wateruse-washing-agents"
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Environmental impact and health risks associated with greywater irrigation: a case study, 52"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Caxton Street London SW 1 H 0 QS UK"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Grattan",
+        "given": "Stephen"
+      },
+      {
+        "given": "E."
+      },
+      {
+        "others": true
+      }
+    ],
+    "title": [
+      "Irrigation Water Salinity and Crop Production Publication 8066 University of California Davis Agriculture and Natural Resources Howard",
+      "Laundry Greywater Potential Impact on Toowoomba Soils- Final Report"
+    ],
+    "date": [
+      "2005"
+    ],
+    "publisher": [
+      "Landloch and NCEA. Darling Heights",
+      "National Centre for engineering in Agriculture Publication"
+    ],
+    "location": [
+      "Queensland, Australia"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kim",
+        "given": "J."
+      },
+      {
+        "family": "Song",
+        "given": "I."
+      },
+      {
+        "family": "Oh",
+        "given": "H."
+      },
+      {
+        "family": "Jong",
+        "given": "J."
+      },
+      {
+        "family": "Park",
+        "given": "J."
+      },
+      {
+        "family": "Choung",
+        "given": "Y."
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "A laboratory-scale graywater treatment system based on a membrane filtration and oxidation process — characteristics of graywater from a residential complex"
+    ],
+    "volume": [
+      "238"
+    ],
+    "pages": [
+      "347–357"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Desalination"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Little"
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Residential Graywater Use: The Good, the Bad, The Healthy"
+    ],
+    "publisher": [
+      "Water Conservation Alliance of Southern Arizona"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ludwig",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "Reasons to Allow Simple Graywater Systems that Meet Standards, Without Requiring a Permit. Prepared for the California Building Standards Commission"
+    ],
+    "note": [
+      "Accessed on November 10, 2012 from www.oasisdesign.net/greywater/law/california/BSChandout.pdf."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Misra",
+        "given": "R."
+      },
+      {
+        "family": "Patel",
+        "given": "J.H."
+      },
+      {
+        "family": "Baxi",
+        "given": "V.R."
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "Reuse potential of laundry greywater for irrigation based on growth, water and nutrient use of tomato"
+    ],
+    "volume": [
+      "386"
+    ],
+    "pages": [
+      "95–102"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Hydrology"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Misra",
+        "given": "R.K."
+      },
+      {
+        "family": "Sivongxay",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "Reuse of laundry greywater as affected by its interaction with saturated soil"
+    ],
+    "volume": [
+      "366"
+    ],
+    "pages": [
+      "55–61"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Hydrology"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ottoson",
+        "given": "J."
+      },
+      {
+        "family": "Stenstrom",
+        "given": "T.A."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "Faecal contamination of greywater and associated microbial risks"
+    ],
+    "volume": [
+      "37"
+    ],
+    "pages": [
+      "645–655"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Water Research"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Pettygrove"
+      },
+      {
+        "given": "Asano"
+      }
+    ],
+    "date": [
+      "1985",
+      "1994"
+    ],
+    "title": [
+      "Irrigation with reclaimed municipal wastewater-- A guidance manual. Water Quality for Agriculture"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Agriculture and Consumer Protection"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pinto",
+        "given": "U."
+      },
+      {
+        "family": "Maheshwari",
+        "given": "B.L."
+      },
+      {
+        "family": "Grewal",
+        "given": "H.S."
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "Effects of greywater irrigation on plant growth, water use and soil properties"
+    ],
+    "volume": [
+      "54,(2010"
+    ],
+    "pages": [
+      "429–435"
+    ],
+    "url": [
+      "http://dx.doi.org/10.1016/j.resconrec.2009.09.007"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Resources, Conservation and Recycling"
+    ],
+    "doi": [
+      "10.1016/j.resconrec.2009.09.007"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sheikh",
+        "given": "Bahman"
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "Whitepaper on Graywater"
+    ],
+    "note": [
+      "Retrieved Nov. 1, 2012 from"
+    ],
+    "url": [
+      "http://www.awwa.org/files/Resources/Waterwiser/references/PDFs/GraywaterFinal%20Report2010.pdf."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Travis",
+        "given": "M.J."
+      },
+      {
+        "family": "Wiel-Shafran",
+        "given": "A."
+      },
+      {
+        "family": "Weisbrod",
+        "given": "N."
+      },
+      {
+        "family": "Adar",
+        "given": "E."
+      },
+      {
+        "family": "Gross",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "Greywater reuse for irrigation: Effect on soil properties"
+    ],
+    "volume": [
+      "408"
+    ],
+    "pages": [
+      "2501–2508"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Science of The Total Environment"
+    ],
+    "issue": [
+      "12"
+    ]
+  },
+  {
+    "title": [
+      "Western Regional Climate Center"
+    ],
+    "note": [
+      "Accessed on Aug 13, 2012.<http://www.wrcc.dri.edu/>"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Winward",
+        "given": "G."
+      },
+      {
+        "family": "Avery",
+        "given": "L."
+      },
+      {
+        "family": "Frazer-Williams",
+        "given": "R."
+      },
+      {
+        "family": "Pidou",
+        "given": "M."
+      },
+      {
+        "family": "Jeffrey",
+        "given": "P."
+      },
+      {
+        "family": "Stephenson",
+        "given": "T."
+      },
+      {
+        "family": "Jefferson",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "A study of the microbial quality of grey water and an evaluation of treatment technologies for reuse"
+    ],
+    "volume": [
+      "32"
+    ],
+    "pages": [
+      "187–197"
+    ],
+    "url": [
+      "http://dx.doi.org/10.1016/j.ecoleng.2007.11.001"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Ecological Engineering"
+    ],
+    "doi": [
+      "10.1016/j.ecoleng.2007.11.001"
+    ]
+  }
+]

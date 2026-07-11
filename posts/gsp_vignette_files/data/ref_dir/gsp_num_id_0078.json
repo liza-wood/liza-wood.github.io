@@ -1,0 +1,4951 @@
+[
+  {
+    "author": [
+      {
+        "given": "unshaded"
+      }
+    ],
+    "title": [
+      "Notes: WMA = Western Management Area; USGS = U.S. Geological Survey; SWRCB = State Water Resources Control Board; WRO = Water Resources Order; in/year = inches per year"
+    ],
+    "note": [
+      "B Average for period of record (1955–2020) is 14.6 inches per year. C GSI 2021."
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "I:\\DATA\\2710\\Analyses\\2021-07 Time Periods\\Fig 2a.1-2 Water Budget Timelines WMA.grf 7/3/2021 M"
+    ],
+    "note": [
+      "McCammon Projected 2018-2072 Current 2011-2018 Historical 1982-2018"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "CA Bulletin 118 Groundwater Basins"
+    ],
+    "container-title": [
+      "GIS Vector Digital Data Set"
+    ],
+    "note": [
+      "Accessed 2019.-02-11"
+    ],
+    "url": [
+      "https://data.cnra.ca.gov/dataset/ca-bulletin-118-groundwaterbasins"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "NAIP (National Agriculture Imagery Program",
+      "Department of Agriculture. GIS Layer. Multi-resolution Seamless Image Database"
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "True Color Imagery Aerial Photography 2018. Field Office, Farm Service Agency, U.S"
+    ],
+    "note": [
+      "1 meter ground sample distance."
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "USGS (United States Geological Survey",
+      "The National Elevation Data Set"
+    ],
+    "date": [
+      "2002"
+    ],
+    "container-title": [
+      "Photogrammetric Engineering and Remote Sensing. USGS"
+    ],
+    "publisher": [
+      "GIS Layer"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Resources"
+      }
+    ],
+    "title": [
+      "97 pg"
+    ],
+    "volume": [
+      "310"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "SYWATER"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "Disadvantaged Communities Mapping Tool. Designed to assist with responsibilities related to IRWM, SGMA, and the CA Water Plan"
+    ],
+    "note": [
+      "Accessed 2021-04-15."
+    ],
+    "url": [
+      "https://gis.water.ca.gov/app/dacs/."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "E.S.R.I."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "ESRI World Imagery"
+    ],
+    "container-title": [
+      "Maxar Technologies 2018. GIS Layer"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Geosyntec"
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Santa Barbara County-Wide Integrated Stormwater Resource Plan"
+    ],
+    "publisher": [
+      "Santa Barbara County Cooperating Entities"
+    ],
+    "pages": [
+      "321 193"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "MHCSD (Mission Hills Community Services District",
+      "Mission Hills Community Services District—Water/Wastewater"
+    ],
+    "date": [
+      "2021"
+    ],
+    "note": [
+      "Accessed April 2021."
+    ],
+    "url": [
+      "http://www.mhcsd.org/water-operations."
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "NAIP (National Agriculture Imagery Program",
+      "Department of Agriculture. GIS Layer. Multi-resolution Seamless Image Database"
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "True Color Imagery Aerial Photography 2018. Field Office, Farm Service Agency, U.S"
+    ],
+    "note": [
+      "1 meter ground sample distance."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "N.M.F.S."
+      }
+    ],
+    "date": [
+      "2000",
+      "2000-09"
+    ],
+    "title": [
+      "Endangered Species Act Section 7 Consultation Biological Opinion U.S"
+    ],
+    "container-title": [
+      "Bureau of Reclamation Operation and Maintenance of the Cachuma Project on the Santa Ynez River in Santa Barbara County"
+    ],
+    "location": [
+      "California"
+    ],
+    "pages": [
+      "100 312"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "R.W.Q.C.B."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Water Quality Control Plan for the Central Coastal Basin"
+    ],
+    "note": [
+      "RWQCB, Central Coast Region. June 2019 Edition. June 14, 2019. 595 pg. SYWATER"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "S.W.R.C.B."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "Safe Drinking Water Information System Drinking Water Watch"
+    ],
+    "note": [
+      "Accessed 2021-04-15."
+    ],
+    "url": [
+      "https://sdwis.waterboards.ca.gov/PDWW/."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "S.W.R.C.B."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "Stormwater Multiple Application and Report Tracking System (SMARTS) Resources"
+    ],
+    "note": [
+      "Accessed 2021-04-15."
+    ],
+    "url": [
+      "https://www.waterboards.ca.gov/water_issues/programs/stormwater/smarts/."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "S.W.R.C.B."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "GeoTracker"
+    ],
+    "note": [
+      "Accessed April 2021."
+    ],
+    "url": [
+      "https://geotracker.waterboards.ca.gov/map/."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "S.Y.R.T.A.C."
+      }
+    ],
+    "date": [
+      "2000",
+      "2000-10"
+    ],
+    "title": [
+      "Lower Santa Ynez River Fish Management Plan"
+    ],
+    "volume": [
+      "II"
+    ],
+    "pages": [
+      "420 451"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "S.Y.R.W.C.D."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "Santa Ynez River Water Conservation District – Mission Statement"
+    ],
+    "note": [
+      "Accessed 2021-04-15."
+    ],
+    "url": [
+      "https://www.syrwcd.com/mission-statement."
+    ],
+    "type": null
+  },
+  {
+    "editor": [
+      {
+        "family": "Upson",
+        "given": "J.E."
+      },
+      {
+        "family": "Thomasson",
+        "given": "H.G."
+      }
+    ],
+    "date": [
+      "1951"
+    ],
+    "title": [
+      "Geology and water resources of the Santa Ynez River basin"
+    ],
+    "location": [
+      "Santa Barbara County, California"
+    ],
+    "note": [
+      "202 pg. DOI: 10.3133/wsp1107. SYWATER 68."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Bureau",
+        "given": "U.S.Census"
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "TIGER/Line Shapefiles and data"
+    ],
+    "publisher": [
+      "GIS Vector Digital Data Set"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bureau",
+        "given": "U.S.Census"
+      }
+    ],
+    "date": [
+      "2021",
+      "2010-07-01"
+    ],
+    "title": [
+      "Annual Estimates of the Resident Population for Incorporated Places in California: April 1"
+    ],
+    "note": [
+      "Accessed 2021-07-27."
+    ],
+    "type": null
+  },
+  {
+    "url": [
+      "https://www.census.gov/data/tables/time-series/demo/popest/2010s-total-cities-and-towns.html"
+    ],
+    "title": [
+      "USGS (United States Geological Survey",
+      "The National Elevation Data Set"
+    ],
+    "date": [
+      "2002"
+    ],
+    "container-title": [
+      "Photogrammetric Engineering and Remote Sensing. USGS"
+    ],
+    "publisher": [
+      "GIS Layer"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "U.S.G.S."
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Gap Analysis Project (GAP) Protected Areas Database of the United States (PAD-US"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Version 2.1 USGS. GIS Vector Digital Data Set"
+    ],
+    "publisher": [
+      "Version"
+    ],
+    "date": [
+      "2020-09-30"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "VVCSD (Vandenberg Village Community Services District",
+      "Vandenberg Village Community Services District Strategic Plan"
+    ],
+    "date": [
+      "2005",
+      "2005"
+    ],
+    "volume": [
+      "10"
+    ],
+    "note": [
+      "19 pg. SYWATER 293."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "May"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "V.V.C.S.D."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "Vandenberg Village Community Services District – About Us"
+    ],
+    "note": [
+      "Accessed 2021-04-15."
+    ],
+    "url": [
+      "http://vvcsd.org/about-us.html."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Allen",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2020",
+      "2020-04-17"
+    ],
+    "title": [
+      "Vandenberg Village Community Services District"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Administrative Services Manager. Email communications with Stetson Engineers"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Plan",
+        "given": "Arcadis Project Management"
+      }
+    ],
+    "date": [
+      "2016",
+      "2016"
+    ],
+    "title": [
+      "Annual Update. Performance-Based Remediation Vandenberg Air Force Base, California"
+    ],
+    "pages": [
+      "349"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "October"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "C.D.F.W."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "California Amphibian and Reptile Species of Special Concern. California Department of Fish and Wildlife"
+    ],
+    "publisher": [
+      "University of California Press"
+    ],
+    "note": [
+      "Thomson, Robert C.; Wright, Amber N.; Shaffer, H. Bradley 407 pg. ISBN 978-0520290907. SYWATER 349."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "C.D.F.W."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "BIOS Viewer"
+    ],
+    "url": [
+      "https://apps.wildlife.ca.gov/bios/"
+    ],
+    "note": [
+      "Accessed 2021-08-03."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Web Application"
+    ]
+  },
+  {
+    "title": [
+      "CCWA (Central Coast Water Authority",
+      "Central Coast Water Authority 2010 Urban Water Management Plan"
+    ],
+    "date": [
+      "2011"
+    ],
+    "publisher": [
+      "Brady John"
+    ],
+    "pages": [
+      "139 185"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "C.C.W.A."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "CCWA Water Quality Tables 2015-2019"
+    ],
+    "note": [
+      "Email 2021-01-22."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Lompoc",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2021",
+      "2021"
+    ],
+    "title": [
+      "Urban Water Management Plan for the City of Lompoc. Final. Prepared by Water Systems Consulting, Inc"
+    ],
+    "pages": [
+      "181 288"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Jun"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "C.O.M.B."
+      }
+    ],
+    "date": [
+      "2021",
+      "2021"
+    ],
+    "title": [
+      "WY2020 Annual Monitoring Summary for The Biological Opinion for The Operation and Maintenance of The Cachuma Project on The Santa Ynez River in Santa Barbara County, California"
+    ],
+    "volume": [
+      "24"
+    ],
+    "pages": [
+      "232 313"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "February"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Santa Barbara",
+        "given": "County",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2014",
+      "Date 2014-06-20"
+    ],
+    "title": [
+      "Land Use Permit No. 13LUP-00000-00009. Freeport McMoran Oil & Gas Lompoc Diatomite Project"
+    ],
+    "note": [
+      "8 pg. SYWATER 361."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Final Approval"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Berenbrock",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "1988",
+      "1983"
+    ],
+    "title": [
+      "Ground-water quality in the Lompoc Plain, Santa Barbara County"
+    ],
+    "location": [
+      "California"
+    ],
+    "genre": [
+      "Water-Resources Investigations Report 87-4101."
+    ],
+    "note": [
+      "58 pg. doi: 10.3133/wri874101. SYWATER 72."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Bright",
+        "given": "D.J."
+      },
+      {
+        "family": "Stamos",
+        "given": "C.L."
+      },
+      {
+        "family": "Martin",
+        "given": "P."
+      },
+      {
+        "family": "Nash",
+        "given": "D.B."
+      }
+    ],
+    "date": [
+      "1992",
+      "1987"
+    ],
+    "title": [
+      "Ground-Water Hydrology and Quality in the Lompoc Area"
+    ],
+    "location": [
+      "Santa Barbara County, California"
+    ],
+    "genre": [
+      "USGS Water-Resources Investigations Report 91-4172."
+    ],
+    "note": [
+      "82 pg. doi: 10.3133/wri914172. SYWATER 71."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Bright",
+        "given": "D.J."
+      },
+      {
+        "family": "Nash",
+        "given": "D.B."
+      },
+      {
+        "family": "Martin",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Evaluation of Ground-Water Flow and Solute Transport in the Lompoc Area, Santa Barbara County, California"
+    ],
+    "genre": [
+      "USGS Water-Resources Investigations Report 97-4056."
+    ],
+    "pages": [
+      "120"
+    ],
+    "doi": [
+      "10.3133/wri974056."
+    ],
+    "note": [
+      "SYWATER 58."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Dibblee",
+        "given": "T.W.",
+        "suffix": "Jr"
+      },
+      {
+        "family": "Arguello",
+        "given": "Point"
+      },
+      {
+        "family": "Lompoc",
+        "given": "Point Conception"
+      },
+      {
+        "family": "Olivos",
+        "given": "Los"
+      },
+      {
+        "family": "Quadrangles",
+        "given": "Gaviota"
+      }
+    ],
+    "date": [
+      "1950"
+    ],
+    "title": [
+      "Geology of Southwestern Santa Barbara County California",
+      "Bulletin 150"
+    ],
+    "publisher": [
+      "State of California Department of Natural Resources"
+    ],
+    "pages": [
+      "112 98"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dibblee",
+        "given": "T.W.",
+        "suffix": "Jr"
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "Geologic map of the Lomopc & Surf quadrangles, Santa Barbara County, California"
+    ],
+    "volume": [
+      "1"
+    ],
+    "container-title": [
+      "Santa Barbara Museum of Natural History. SYWATER 42",
+      "Dibblee Geology Center Map"
+    ],
+    "type": "article-journal",
+    "issue": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dibblee",
+        "given": "T.W.",
+        "suffix": "Jr"
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "Geologic map of the Lompoc Hills and Point Conception quadrangles, Santa Barbara County, California"
+    ],
+    "volume": [
+      "1"
+    ],
+    "container-title": [
+      "Santa Barbara Museum of Natural History. SYWATER 45",
+      "Dibblee Geology Center Map"
+    ],
+    "type": "article-journal",
+    "issue": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dibblee",
+        "given": "T.W.",
+        "suffix": "Jr"
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "Geologic map of the Point Arguello and Tranquillon Mountain quadrangles, Santa Barbara County, California"
+    ],
+    "volume": [
+      "1"
+    ],
+    "container-title": [
+      "Santa Barbara Museum of Natural History. SYWATER 43",
+      "Dibblee Geology Center Map"
+    ],
+    "type": "article-journal",
+    "issue": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Driscoll"
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "title": [
+      "Groundwater and Wells"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "note": [
+      "Johnson Screens. ISBN 9780961645601. SYWATER 358."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Dudek"
+      }
+    ],
+    "date": [
+      "2019",
+      "2019"
+    ],
+    "title": [
+      "Santa Barbara County Integrated Regional Water Management Plan"
+    ],
+    "pages": [
+      "340 143"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Update"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "Best Management Practices for Sustainable Management of Groundwater"
+    ],
+    "volume": [
+      "25"
+    ],
+    "pages": [
+      "357"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Hydrogeologic Conceptual Model"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Summary of the “Natural Communities Commonly Associated with Groundwater"
+    ],
+    "note": [
+      "17 pg. SYWATER 243."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Dataset and Online Web Viewer"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "E.N.T.R.I.X."
+      },
+      {
+        "family": "Plan",
+        "given": "Management"
+      }
+    ],
+    "date": [
+      "2000",
+      "2000"
+    ],
+    "title": [
+      "Lower Santa Ynez River Fish Management Plan",
+      "Santa Ynez River Consensus Committee"
+    ],
+    "volume": [
+      "I",
+      "2"
+    ],
+    "pages": [
+      "180 312"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "October"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Evenson",
+        "given": "R.E."
+      },
+      {
+        "family": "Miller",
+        "given": "G.A."
+      }
+    ],
+    "date": [
+      "1963"
+    ],
+    "title": [
+      "Geology and Ground-Water Features of Point Arguello Naval Missile Facility Santa Barbara County California"
+    ],
+    "container-title": [
+      "USGS Water-Supply Paper 1619-F. 41 pg"
+    ],
+    "doi": [
+      "10.3133/wsp1619F."
+    ],
+    "pages": [
+      "136"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "FMMP (Farmland Mapping and Monitoring Program) 2016"
+    ],
+    "date": [
+      "1984"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "California Important Farmland"
+    ]
+  },
+  {
+    "title": [
+      "Farmland Mapping and Monitoring Program, Division of Land Resource Protection, California Department of Conservation"
+    ],
+    "container-title": [
+      "Published 2016-06-07. GIS Vector Digital Data Set (Polygon"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Consultants",
+        "given": "Fugro"
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "Geophysical and Geotechnical Study Sewer Force Main Crossing Santa Ynez River Solvang, California"
+    ],
+    "volume": [
+
+    ],
+    "pages": [
+      "58 187"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Fugro Job"
+    ],
+    "issue": [
+      "3568.001"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Haas"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Haas",
+        "given": "R."
+      },
+      {
+        "family": "Kolb",
+        "given": "H."
+      },
+      {
+        "family": "Bishop",
+        "given": "James"
+      }
+    ],
+    "date": [
+      "2019",
+      "2019-06-18"
+    ],
+    "title": [
+      "Santa Barbara County Groundwater Characterization Project: Santa Ynez River Valley Groundwater Basin"
+    ],
+    "note": [
+      "96 pg. SYWATER 160."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Heal the Ocean and Central Coast. Regional Water Quality Control Board"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "H.C.I."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Development of a System of Models for the Lompoc GroundWater Basin and Santa Ynez River for the City of Lompoc"
+    ],
+    "note": [
+      "560 pg. SYWATER 87."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Hoffman"
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Water Well Completion Report - Fire Station #51 Test Well for Vandenberg Community Services District"
+    ],
+    "publisher": [
+      "Rick Hoffman and Associates"
+    ],
+    "pages": [
+      "172 355"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Klausmeyer"
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Mapping Indicators of Groundwater Dependent Ecosystems in California: Methods Report. The Nature Conservancy. 36 pg. SYWATER 244",
+      "Main Season Agricultural Land Use, Wetlands, and Urban Boundaries"
+    ],
+    "date": [
+      "2016"
+    ],
+    "container-title": [
+      "Land IQ, www.LandIQ.com, California Department of Water Resources, Division of Regional Assistance Regional Offices: Northern, North Central, South Central and Southern Regional Offices, and Water Use Efficiency Branch (Sacramento Headquarters). GIS Vector Digital Data Set (Polygon",
+      "LandIQ"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "given": "LandIQ"
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Main Season Agricultural Land Use, Wetlands, and Urban Boundaries. Land IQ, www.LandIQ.com, California Department of Water Resources"
+    ],
+    "container-title": [
+      "Division of Regional Assistance Regional Offices: Northern, North Central, South Central and Southern Regional Offices, and Water Use Efficiency Branch (Sacramento Headquarters). GIS Vector Digital Data Set (Polygon"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "MHCSD (Mission Hills Community Services District",
+      "Wastewater Flows Tables 2015-2019"
+    ],
+    "date": [
+      "2020"
+    ],
+    "note": [
+      "Email 2020-04-22."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Miller"
+      }
+    ],
+    "date": [
+      "1976"
+    ],
+    "title": [
+      "Ground-water resources in the Lompoc area, Santa Barbara County, California"
+    ],
+    "genre": [
+      "USGS OpenFile Report 76-183."
+    ],
+    "location": [
+      "Miller, G.A"
+    ],
+    "publisher": [
+      "USGS. California Water Resources Control Board"
+    ],
+    "note": [
+      "84 pg. doi: 10.3133/ofr76183. SYWATER 73."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "given": "N.M.F.S."
+      }
+    ],
+    "date": [
+      "2000",
+      "2000-09-08"
+    ],
+    "title": [
+      "Biological Opinion. U.S. Bureau of Reclamation operation and maintenance of the Cachuma Project on the Santa Ynez River in Santa Barbara County"
+    ],
+    "location": [
+      "California"
+    ],
+    "pages": [
+      "100"
+    ],
+    "note": [
+      "SYWATER 296."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "N.M.F.S."
+      },
+      {
+        "family": "O’Geen",
+        "given": "A.T."
+      },
+      {
+        "family": "Saal",
+        "given": "Matthew B.B."
+      },
+      {
+        "family": "Dahlke",
+        "given": "Helen E."
+      },
+      {
+        "family": "Doll",
+        "given": "David A."
+      },
+      {
+        "family": "Elkins",
+        "given": "Rachel B."
+      },
+      {
+        "family": "Fulton",
+        "given": "Allan"
+      },
+      {
+        "family": "Fogg",
+        "given": "Graham E."
+      },
+      {
+        "family": "Harter",
+        "given": "Thomas"
+      },
+      {
+        "family": "Hopmans",
+        "given": "Jan W."
+      },
+      {
+        "family": "Ingles",
+        "given": "Chuck"
+      },
+      {
+        "family": "Niederholzer",
+        "given": "Franz J."
+      },
+      {
+        "family": "Solies",
+        "given": "Samuel Sandoval"
+      },
+      {
+        "family": "Verdegaal",
+        "given": "Paul S."
+      },
+      {
+        "family": "Walkinshaw",
+        "given": "Mike"
+      }
+    ],
+    "date": [
+      "2012",
+      "2012-01-01",
+      "2015"
+    ],
+    "title": [
+      "Southern California Steelhead Recovery Plan. National Marine Fisheries Service",
+      "Soil Suitability Index Identifies Potential Areas for Groundwater Banking on Agricultural Lands"
+    ],
+    "pages": [
+      "563 390",
+      "75–84"
+    ],
+    "volume": [
+      "69"
+    ],
+    "doi": [
+      "doi:"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "California Agriculture"
+    ],
+    "issue": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Upson",
+        "given": "J.E."
+      },
+      {
+        "family": "Thomasson",
+        "given": "H.G.",
+        "suffix": "Jr"
+      }
+    ],
+    "date": [
+      "1951"
+    ],
+    "title": [
+      "Geology and Water Resources of the Santa Ynez River Basin, Santa Barbara County, California"
+    ],
+    "container-title": [
+      "USGS Water Supply Paper 1107. 202 pg"
+    ],
+    "doi": [
+      "10.3133/wsp1107."
+    ],
+    "note": [
+      "SYWATER 68."
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "USDA (United States Department of Agriculture"
+    ],
+    "date": [
+      "2020"
+    ],
+    "publisher": [
+      "National Agricultural Statistics Service"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "CropScape"
+      }
+    ],
+    "title": [
+      "Cropland Data Layer"
+    ],
+    "note": [
+      "Accessed July 20, 2020."
+    ],
+    "url": [
+      "https://nassgeodata.gmu.edu/CropScape/."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fish",
+        "given": "U.S."
+      },
+      {
+        "family": "Service",
+        "given": "Wildlife"
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "title": [
+      "Unarmored Threespine Stickleback"
+    ],
+    "note": [
+      "Recovery Plan (revised). U.S. Fish and Wildlife Service. 90 pg. SYWATER 399."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fish",
+        "given": "U.S."
+      },
+      {
+        "family": "Service",
+        "given": "Wildlife"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Final Recovery Plan Southwestern Willow Flycatcher (Empidonax traillii extimus). Southwestern Willow Flycatcher Recovery Team Technical Subgroup"
+    ],
+    "note": [
+      "446 pg. SYWATER 408."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "U.S. Fish and Wildlife Service"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fish",
+        "given": "U.S."
+      },
+      {
+        "family": "Service",
+        "given": "Wildlife"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Recovery Plan for the California Red-legged Frog (Rana aurora draytonii"
+    ],
+    "publisher": [
+      "U.S. Fish and Wildlife Service"
+    ],
+    "pages": [
+      "180 396"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fish",
+        "given": "U.S."
+      },
+      {
+        "family": "Service",
+        "given": "Wildlife"
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Recovery Plan for the Tidewater Goby (Eucyclogobius newberryi"
+    ],
+    "note": [
+      "208 pg. SYWATER 401."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "U.S. Fish and Wildlife Service"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fish",
+        "given": "U.S."
+      },
+      {
+        "family": "Service",
+        "given": "Wildlife"
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "Tidewater Goby (Eucyclogobius newberryi). 5-Year Review: Summary and Evaluation. U.S"
+    ],
+    "note": [
+      "50 pg. SYWATER 409."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Fish and Wildlife Service"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fish",
+        "given": "U.S."
+      },
+      {
+        "family": "Service",
+        "given": "Wildlife"
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "Recovery Plan for the Santa Barbara County Distinct Population Segment of the California Tiger Salamander (Ambystoma californiense"
+    ],
+    "note": [
+      "97 pg. SYWATER 397."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "U.S. Fish and Wildlife Service"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fish",
+        "given": "U.S."
+      },
+      {
+        "family": "Service",
+        "given": "Wildlife"
+      },
+      {
+        "family": "Fish",
+        "given": "U.S."
+      },
+      {
+        "family": "Service",
+        "given": "Wildlife"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Species Status Assessment for La Graciosa thistle (Cirsium scariosum var. loncholepis [Cirsium loncholepis",
+      "89 pg"
+    ],
+    "volume": [
+      "2"
+    ],
+    "container-title": [
+      "SYWATER 412.U.S. Fish and Wildlife Service. 2021. FWS Critical Habitat. GIS Vector Digital Data Set (Polygon",
+      "Asteraceae). Version"
+    ],
+    "note": [
+      "Published 2021-07-01."
+    ],
+    "type": "article-journal",
+    "issue": [
+      "0"
+    ]
+  },
+  {
+    "title": [
+      "USGS (United States Geological Survey",
+      "Quaternary Fault and Fold Database for the Nation"
+    ],
+    "date": [
+      "2020"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Accessed June 15, 2020."
+    ],
+    "url": [
+      "https://earthquake.usgs.gov/static/lfs/nshm/qfaults/Qfaults_GIS.zip."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Visser"
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "California GAMA Special Study: Geostatistical analysis of groundwater age and other noble gas derived parameters in California groundwater"
+    ],
+    "publisher": [
+      "LLNL-TR-654049. Lawrence Livermore National Laboratory"
+    ],
+    "note": [
+      "Prepared for"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Banks",
+        "given": "C."
+      },
+      {
+        "family": "Howd",
+        "given": "R."
+      },
+      {
+        "family": "Steinmaus",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Nitrate and Nitrite in Drinking Water"
+    ],
+    "container-title": [
+      "Public Health Goals. Pesticide and Environmental Toxicology Branch, Office of Environmental Health Hazard Assessment, California Environmental Protection Agency"
+    ],
+    "note": [
+      "126 pg. SYWATER 200."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Brady",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Central Coast Water Authority. Deputy Director of Operations and Engineering"
+    ],
+    "genre": [
+      "Personal communications,"
+    ],
+    "note": [
+      "Dudek 2020 (Appendix 2b-A)."
+    ],
+    "type": "personal_communication"
+  },
+  {
+    "author": [
+      {
+        "family": "Borchers",
+        "given": "J.W."
+      },
+      {
+        "family": "Carpenter",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2014",
+      "2014-04"
+    ],
+    "title": [
+      "Land Subsidence from Groundwater Use in California. Full Report. Prepared by Luhdorff & Scalmanini Consulting Engineers with support from the California Water Foundation"
+    ],
+    "pages": [
+      "193 363"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Bright",
+        "given": "D.J."
+      },
+      {
+        "family": "Stamos",
+        "given": "C.L."
+      },
+      {
+        "family": "Martin",
+        "given": "P."
+      },
+      {
+        "family": "Nash",
+        "given": "D.B."
+      }
+    ],
+    "date": [
+      "1992",
+      "1987"
+    ],
+    "title": [
+      "Ground-Water Hydrology and Quality in the Lompoc Area"
+    ],
+    "location": [
+      "Santa Barbara County, California"
+    ],
+    "genre": [
+      "USGS Water-Resources Investigations Report 91-4172."
+    ],
+    "note": [
+      "82 pg. doi: 10.3133/wri914172. SYWATER 71."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Bright",
+        "given": "D.J."
+      },
+      {
+        "family": "Nash",
+        "given": "D.B."
+      },
+      {
+        "family": "Martin",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Evaluation of Ground-Water Flow and Solute Transport in the Lompoc Area, Santa Barbara County, California"
+    ],
+    "genre": [
+      "USGS Water-Resources Investigations Report 97-4056."
+    ],
+    "pages": [
+      "120"
+    ],
+    "doi": [
+      "10.3133/wri974056."
+    ],
+    "note": [
+      "SYWATER 58."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Domako",
+        "given": "Ken"
+      }
+    ],
+    "date": [
+      "2020",
+      "2020"
+    ],
+    "title": [
+      "Chief Portfolio Optimization. 30th Civil Engineer Squadron"
+    ],
+    "publisher": [
+      "Vandenberg Space Force Base"
+    ],
+    "genre": [
+      "personal communication"
+    ],
+    "type": "personal_communication"
+  },
+  {
+    "author": [
+      {
+        "given": "Haas"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Haas",
+        "given": "R."
+      },
+      {
+        "family": "Kolb",
+        "given": "H."
+      },
+      {
+        "family": "Bishop",
+        "given": "James"
+      }
+    ],
+    "date": [
+      "2019",
+      "2019-06-18"
+    ],
+    "title": [
+      "Santa Barbara County Groundwater Characterization Project: Santa Ynez River Valley Groundwater Basin"
+    ],
+    "note": [
+      "96 pg. SYWATER 160."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Heal the Ocean and Central Coast. Regional Water Quality Control Board"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hammond",
+        "given": "W.C."
+      },
+      {
+        "family": "Burgette",
+        "given": "R.J."
+      },
+      {
+        "family": "Johnson",
+        "given": "K.M."
+      },
+      {
+        "family": "Blewitt",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Uplift of the Western Transverse Ranges and Ventura area of Southern California: A four-technique geodetic study combining GPS, InSAR, leveling, and tide gauges"
+    ],
+    "volume": [
+      "123"
+    ],
+    "pages": [
+      "836–858 23"
+    ],
+    "doi": [
+      "10.1002/2017JB014499."
+    ],
+    "note": [
+      "SYWATER 364."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Journal of Geophysical Research: Solid Earth"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hanson",
+        "given": "B.R."
+      },
+      {
+        "family": "Gratton",
+        "given": "S.R."
+      },
+      {
+        "family": "Fulton",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "Agricultural Salinity and Drainage. Division of Agriculture and Natural Resources Publication 3375"
+    ],
+    "publisher": [
+      "University of California Irrigation Program. U.S"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "Department of Agriculture Water Quality Initiative. 180 pg"
+    ],
+    "doi": [
+      "10.2172/1162236."
+    ],
+    "date": [
+      "SYWATER 198"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "H.C.I."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Development of a System of Models for the Lompoc GroundWater Basin and Santa Ynez River for the City of Lompoc"
+    ],
+    "note": [
+      "560 pg. SYWATER 87."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hem",
+        "given": "J.D."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "title": [
+      "Study and Interpretation of the Chemical Characteristics of Natural Water"
+    ],
+    "container-title": [
+      "USGS Water Supply Paper 2254"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "pages": [
+      "272"
+    ],
+    "doi": [
+      "10.3133/wsp2254."
+    ],
+    "note": [
+      "SYWATER 197."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Jones"
+      },
+      {
+        "given": "Stokes"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Santa Ynez River Vegetation Monitoring Study"
+    ],
+    "genre": [
+      "Final Phase I Report."
+    ],
+    "note": [
+      "Chainey, Steve Prepared for the Santa Ynez River Vegetation Oversight Committee. 306 pg. SYWATER 260."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Murray",
+        "given": "J.R."
+      },
+      {
+        "family": "Svarc",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "Global Positioning System data collection, processing, and analysis conducted by the U.S. Geological Survey Earthquake Hazards Program, Seismol"
+    ],
+    "volume": [
+      "88"
+    ],
+    "pages": [
+      "916–925,"
+    ],
+    "doi": [
+      "10.1785/0220160204."
+    ],
+    "note": [
+      "SYWATER 365."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Res. Lett"
+    ],
+    "issue": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "N.M.F.S."
+      }
+    ],
+    "date": [
+      "2000",
+      "2000-09-08"
+    ],
+    "title": [
+      "Biological Opinion. U.S. Bureau of Reclamation operation and maintenance of the Cachuma Project on the Santa Ynez River in Santa Barbara County"
+    ],
+    "location": [
+      "California"
+    ],
+    "pages": [
+      "100"
+    ],
+    "note": [
+      "SYWATER 296."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Marine",
+        "given": "Pacific"
+      },
+      {
+        "family": "Partnership",
+        "given": "Estuarine Fish Habitat"
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Current and Historical Estuary Extent –California"
+    ],
+    "container-title": [
+      "GIS Layer. California Department of Fish and Wildlife. ds2792. GIS Vector Digital Data Set (Polygon"
+    ],
+    "genre": [
+      "Web."
+    ],
+    "note": [
+      "Accessed 2021-01-08."
+    ],
+    "url": [
+      "https://map.dfg.ca.gov/metadata/ds2792.html"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Rohde"
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Groundwater Dependent Ecosystems under the Sustainable Groundwater Management Act"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Guidance For Preparing Groundwater Sustainability Plans"
+    ],
+    "note": [
+      "100 pg."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "The Nature Conservancy"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "G.S.I."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "publisher": [
+      "PUBLIC REVIEW DRAFT Santa Ynez River Valley Groundwater Basin"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "Eastern Management Area Groundwater Sustainability Plan DRAFT Section 3 – Basin Setting: Groundwater Budget. Santa Ynez Sustainable Groundwater Management Act Draft Documents"
+    ],
+    "volume": [
+      "6"
+    ],
+    "date": [
+      "2021"
+    ],
+    "pages": [
+      "249"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "April"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hamlin",
+        "given": "S.N."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "title": [
+      "Ground-Water Quality in the Santa Rita, Buellton, and Los Olivos Hydrologic Subareas of the Santa Ynez River Basin, Santa Barbara County, California"
+    ],
+    "genre": [
+      "USGS Water-Resources Investigations Report 84-4131."
+    ],
+    "note": [
+      "84 pg. doi: 10.3133/wri844131. SYWATER 59."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "given": "H.C.I."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Development of a System of Models for the Lompoc GroundWater Basin and Santa Ynez River for the City of Lompoc"
+    ],
+    "note": [
+      "560 pg. SYWATER 87."
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "NAIP (National Agriculture Imagery Program",
+      "Color Infrared Imagery Aerial Photography"
+    ],
+    "date": [
+      "2012",
+      "2012"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Office",
+        "given": "Field"
+      },
+      {
+        "family": "Farm Service Agency",
+        "given": "U.S.Department of Agriculture"
+      }
+    ],
+    "title": [
+      "Captured 2012-05-18 and 201205-19"
+    ],
+    "container-title": [
+      "GIS Layer. Multi-resolution Seamless Image Database"
+    ],
+    "note": [
+      "1 meter ground sample distance."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "P.R.I.S.M.Climate"
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "Average Annual Precipitation 1981–2010"
+    ],
+    "container-title": [
+      "GIS Vector Digital Data Set (Polygon"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "S.B.C.W.A."
+      }
+    ],
+    "date": [
+      "2014",
+      "2014"
+    ],
+    "title": [
+      "County of Santa Barbara Groundwater Basins Status Report",
+      "Santa Barbara County Public Works Water Resource Department Water Agency Division"
+    ],
+    "note": [
+      "51 pg. SYWATER 86."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Stetson"
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Santa Ynez River Water Conservation District"
+    ],
+    "publisher": [
+      "Water Resources"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "Section 3b: Sustainable Management Criteria",
+      "Ground-Water Hydrology and Quality in the Lompoc Area"
+    ],
+    "location": [
+      "Bright, D.J",
+      "Santa Barbara County, California"
+    ],
+    "author": [
+      {
+        "family": "Stamos",
+        "given": "C.L."
+      },
+      {
+        "family": "Martin",
+        "given": "P."
+      },
+      {
+        "family": "Nash",
+        "given": "D.B."
+      }
+    ],
+    "date": [
+      "1992",
+      "1987"
+    ],
+    "genre": [
+      "USGS Water-Resources Investigations Report 91-4172."
+    ],
+    "note": [
+      "82 pg. doi: 10.3133/wri914172. SYWATER 71."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Santa Barbara",
+        "given": "County",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "Sea Level Rise & Coastal Hazards Vulnerability Assessment"
+    ],
+    "publisher": [
+      "County of Santa Barbara Coastal Resiliency Project"
+    ],
+    "pages": [
+      "272 340"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Driscoll"
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "title": [
+      "Groundwater and Wells"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "note": [
+      "Johnson Screens. ISBN 9780961645601. SYWATER 358."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Haas"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Haas",
+        "given": "R."
+      },
+      {
+        "family": "Kolb",
+        "given": "H."
+      },
+      {
+        "family": "Bishop",
+        "given": "James"
+      }
+    ],
+    "date": [
+      "2019",
+      "2019-06-18"
+    ],
+    "title": [
+      "Santa Barbara County Groundwater Characterization Project: Santa Ynez River Valley Groundwater Basin"
+    ],
+    "note": [
+      "96 pg. SYWATER 160."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Heal the Ocean and Central Coast. Regional Water Quality Control Board"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Heady"
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Conserving California's Coastal Habitats. A Legacy and a Future with Sea Level Rise"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "The Nature"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Freeze"
+      },
+      {
+        "given": "Cherry"
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "publisher": [
+      "Prentice-Hall Inc. Groundwater"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Inc",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "title": [
+      "August 31, 1992.Santa Ynez River Water Conservation District Water Resources Management Planning Process, Phase 1: Baseline Data and Background Information"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Stetson",
+        "given": "Thomas M."
+      }
+    ],
+    "date": [
+      "1977-02-15"
+    ],
+    "title": [
+      "Water System Master Plan, Buellton Community Services District"
+    ],
+    "location": [
+      "Santa Barbara County, CA"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Stetson Engineers Inc"
+    ],
+    "container-title": [
+      "October 2020. DRAFT Central Management Area Hydrogeologic Conceptual Model (HCM"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Inc",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-04"
+    ],
+    "title": [
+      "Forty-third Annual Engineering and Survey Report on Water Supply Conditions of the Santa Ynez River Water Conservation District 2020-2021"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "U.S.G.S."
+      }
+    ],
+    "date": [
+      "1951"
+    ],
+    "editor": [
+      {
+        "family": "Upson",
+        "given": "J.E."
+      },
+      {
+        "family": "Thomasson",
+        "given": "H.G.",
+        "suffix": "Jr"
+      }
+    ],
+    "title": [
+      "Geology and Water Resources of the Santa Ynez River Basin, Santa Barbara County, California"
+    ],
+    "container-title": [
+      "USGS Water Supply Paper 1107"
+    ],
+    "doi": [
+      "10.3133/wsp1107."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "U.S.G.S."
+      },
+      {
+        "family": "Wilson",
+        "given": "H.D.",
+        "suffix": "Jr"
+      }
+    ],
+    "date": [
+      "1959",
+      "1945"
+    ],
+    "title": [
+      "Ground-Water Appraisal of Santa Ynez River Basin",
+      "USGS Water Supply Paper 1467"
+    ],
+    "location": [
+      "Santa Barbara County, California"
+    ],
+    "doi": [
+      "10.3133/wsp1467."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "U.S.G.S."
+      },
+      {
+        "family": "Sweetkind",
+        "given": "D.S."
+      },
+      {
+        "family": "Langenheim",
+        "given": "V.E."
+      },
+      {
+        "family": "McDougall-Reid",
+        "given": "K."
+      },
+      {
+        "family": "Sorlien",
+        "given": "C.C."
+      },
+      {
+        "family": "Demas",
+        "given": "S.C."
+      },
+      {
+        "family": "Tennyson",
+        "given": "M.E."
+      },
+      {
+        "family": "Johnson",
+        "given": "S.Y."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "title": [
+      "Geologic and Geophysical Maps of the Santa Maria and Part of the Point Conception 30'×60' Quadrangles, California"
+    ],
+    "volume": [
+      "3472"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Scientific Investigations Map"
+    ]
+  },
+  {
+    "title": [
+      "California Code of Regulations-Title 23 Waters",
+      "Groundwater Sustainability Plan Regulations"
+    ],
+    "date": [
+      "2014"
+    ],
+    "note": [
+      "23 CCR Section 350-358.4."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Code",
+        "given": "California Water"
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "Sustainable Groundwater Management Act (“SGMA”"
+    ],
+    "genre": [
+      "CA WAT Section 10720-10737.8."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2016",
+      "2016",
+      "2016-12"
+    ],
+    "title": [
+      "Bulletin 118",
+      "California’s Groundwater: Working Towards Sustainability"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Interim Update"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2016",
+      "2016-12"
+    ],
+    "title": [
+      "Monitoring Networks and Identification of Data Gaps"
+    ],
+    "container-title": [
+      "Best Management Practices for the Sustainable Management of Groundwater"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2016",
+      "2016-12"
+    ],
+    "title": [
+      "Monitoring Protocols, Standards, and Sites. Best Management Practices for the Sustainable Management of Groundwater"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Borchers",
+        "given": "J.W."
+      },
+      {
+        "family": "Carpenter",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2014",
+      "2014-04"
+    ],
+    "title": [
+      "Land Subsidence from Groundwater Use in California. Summary Report. Prepared by Luhdorff & Scalmanini Consulting Engineers with support from the California Water Foundation"
+    ],
+    "volume": [
+      "118"
+    ],
+    "pages": [
+      "20004"
+    ],
+    "publisher": [
+      "Central Coast Hydrologic Region. Santa Ynez River Valley Groundwater Basin"
+    ],
+    "note": [
+      "Last Update 2/27/04."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "California’s Groundwater Bulletin"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "DWR SGMA Data Viewer–Land Subsidence, Land Subsidence Layers and TRE Altamira Displacement Point Data"
+    ],
+    "note": [
+      "Accessed April 23, 2020."
+    ],
+    "url": [
+      "https://sgma.water.ca.gov/webgis/?appid=SGMADataViewer#landsub."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Geosyntec"
+      }
+    ],
+    "date": [
+      "2020",
+      "2020-05",
+      "2020",
+      "2020"
+    ],
+    "title": [
+      "Draft Technical memorandum. Regional Geology and 3D Geologic Model for the Santa Ynez River Valley Groundwater Basin",
+      "UNAVCO",
+      "All Real-Time Networks & Stations Monitoring"
+    ],
+    "url": [
+      "https://www.unavco.org/instrumentation/networks/status/all/realtime."
+    ],
+    "note": [
+      "Accessed December 17,"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Berenbrock",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "1988",
+      "1983"
+    ],
+    "title": [
+      "Ground-water quality in the Lompoc Plain"
+    ],
+    "location": [
+      "Santa Barbara County, California"
+    ],
+    "genre": [
+      "Water-Resources Investigations Report 87-4101."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "given": "Durbin"
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Hydrologic Consultants, Inc. (HCI). Development of a System of Models for the Lompoc Ground-Water Basin and Santa Ynez River for the City of Lompoc"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Flint",
+        "given": "L.E."
+      },
+      {
+        "family": "Flint",
+        "given": "A.L."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "California Basin Characterization Model: A Dataset of Historical and Future Hydrologic Response to Climate Change"
+    ],
+    "volume": [
+      "1"
+    ],
+    "publisher": [
+      "U.S"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Version"
+    ],
+    "issue": [
+      "1"
+    ]
+  },
+  {
+    "title": [
+      "Geological Survey Data Release"
+    ],
+    "note": [
+      "Published in 2014; updated in May 2017."
+    ],
+    "url": [
+      "https://ca.water.usgs.gov/projects/reg_hydro/basin-characterization-model.html."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Harbaugh",
+        "given": "A.W."
+      },
+      {
+        "family": "Banta",
+        "given": "E.R."
+      },
+      {
+        "family": "Hill",
+        "given": "M.C."
+      },
+      {
+        "family": "McDonald",
+        "given": "M.G."
+      },
+      {
+        "family": "Harbaugh",
+        "given": "A.W."
+      }
+    ],
+    "date": [
+      "2000",
+      "2005"
+    ],
+    "title": [
+      "MODFLOW-2000 – The U.S. Geological Survey Modular Ground-Water Model-User Guide to Modularization Concepts and the Ground-Water Flow Process, U.S",
+      "MODFLOW-2005, the U.S. Geological Survey Modular Ground-Water Model – The Ground-Water Flow Process, U.S"
+    ],
+    "volume": [
+      "00-92",
+      "6 – A16"
+    ],
+    "pages": [
+      "121",
+      "253"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological. Survey Open-File Report",
+      "Geological Survey; Techniques and Methods"
+    ]
+  },
+  {
+    "date": [
+      "2021-05-19"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hamlin",
+        "given": "S.N."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "title": [
+      "Ground-Water Quality in the Santa Rita, Buellton, and Los Olivos Hydrologic Subareas of the Santa Ynez River Basin, Santa Barbara County, California"
+    ],
+    "genre": [
+      "USGS Water-Resources Investigations Report 84-4131."
+    ],
+    "doi": [
+      "10.3133/wri844131."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Niswonger",
+        "given": "R.G."
+      },
+      {
+        "family": "Prudic",
+        "given": "D.E."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "Documentation of the streamflow-routing (SFR2) package to include unsaturated flow beneath streams—A modification to SFR1"
+    ],
+    "volume": [
+      "6"
+    ],
+    "pages": [
+      "13"
+    ],
+    "location": [
+      "Carson City, Nevada"
+    ],
+    "publisher": [
+      "USGS"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "U.S. Geological Survey Techniques and Methods, Book"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Panday",
+        "given": "Sorab"
+      },
+      {
+        "family": "Langevin",
+        "given": "C.D."
+      },
+      {
+        "family": "Niswonger",
+        "given": "R.G."
+      },
+      {
+        "family": "Ibaraki",
+        "given": "Motomu"
+      },
+      {
+        "family": "Hughes",
+        "given": "J.D."
+      }
+    ],
+    "date": [
+      "2017",
+      "2017-10-27",
+      "2020-09"
+    ],
+    "title": [
+      "MODFLOW-USG version 1.4.00: Asfn unstructured grid version of MODFLOW for simulating groundwater flow and tightly coupled processes using a control volume finitedifference formulation: U.S"
+    ],
+    "url": [
+      "https://dx.doi.org/10.5066/F7R20ZFJ"
+    ],
+    "publisher": [
+      "Stetson Engineers, Inc"
+    ],
+    "note": [
+      "Draft Hydrogeologic Conceptual Model (HCM"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geological Survey Software Release"
+    ],
+    "doi": [
+      "10.5066/F7R20ZFJ"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Santa Ynez River - Central Managemetn Area Santa Ynez River - Central Managemetn Area Santa Ynez River - Central Managemetn Area Santa Ynez River - Central Managemetn Area Santa Ynez River - Central Managemetn Area Santa Ynez River - Central Managemetn Area Santa Ynez River -"
+      }
+    ],
+    "title": [
+      "Central Managemetn Area Santa Ynez River - Central Managemetn Area Santa Ynez River - Central Managemetn Area Santa Ynez River - Central Managemetn Area Santa Ynez River - Central Managemetn Area Santa Ynez River - Central Managemetn Area Santa Ynez River - Central Managemetn Area Santa Ynez River - Central Managemetn Area Santa Ynez River - Central Managemetn Area Western Estuary Area Western Estuary Area Western Estuary Area Western Estuary Area Lompoc Terrace Area Santa Ynez River - Western Managemetn Area Santa Ynez River - Western Managemetn Area Santa Ynez River - Western Managemetn Area Santa Ynez River - Western Managemetn Area Santa Ynez River - Western Managemetn Area Santa Ynez River - Western Managemetn Area Santa Ynez River - Western Managemetn Area Santa Ynez River - Western Managemetn Area Santa Ynez River - Western Managemetn Area Santa Ynez River - Western Managemetn Area"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1995"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2010"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2005"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2015"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "220"
+    ],
+    "date": [
+      "1980"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2005"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1985"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2005"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "220"
+    ],
+    "date": [
+      "1980"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2005"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1990"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2015"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Water Level (ft msl"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1995"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Water Level (ft msl"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1995"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Water Level (ft msl"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1995"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Water Level (ft msl"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1995"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Water Level (ft msl"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1995"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Water Level (ft msl"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1995"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Water Level (ft msl"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1995"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Water Level (ft msl"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1990"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Water Level (ft msl"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1990"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2015"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Water Level (ft msl"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2020"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Water Level (ft msl) 240"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2020"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1995"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Water Level (ft msl"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1995"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Water Level (ft msl"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1995"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Water Level (ft msl"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1995"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Water Level (ft msl"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1990"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1995"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1995"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1995"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1995"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "California Departement of Water Resources"
+    ],
+    "date": [
+      "2003"
+    ],
+    "volume": [
+      "Bulletin 118-03"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "California's Groundwater"
+    ]
+  },
+  {
+    "title": [
+      "California Department of Water Resources",
+      "California Water Plan Update"
+    ],
+    "date": [
+      "2009",
+      "2009"
+    ],
+    "pages": [
+      "160–09"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Geosyntec"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "DRAFT Regional Geology and 3D Geologic Model for the Santa Ynez River Valley Groundwater Basin"
+    ],
+    "publisher": [
+      "Santa Ynez Sustainable Groundwater Management Act Draft Documents"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Stetson"
+      }
+    ],
+    "date": [
+      "2021",
+      "2021-05-21"
+    ],
+    "title": [
+      "DRAFT Western Management Area Groundwater Conditions"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Stetson"
+      }
+    ],
+    "title": [
+      "Forty-Third Annual Engineering and Survey Report On Water Supply Conditions Of The Santa Ynez River Water Conservation District 2020-2021"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Stetson"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "DRAFT Western Management Area Hydrogeologic Conceptual Model"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1990"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-11"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-11"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1990"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10 Page 1/55"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10 Page 2/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10 Page 6/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1930"
+    ],
+    "title": [
+      "Date SDWIS (4210006-016) Stetson Engineers Draft 2021-06-10"
+    ],
+    "type": null
+  },
+  {
+    "genre": [
+      "Page 7/55"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Date SDWIS (4200848-012) Stetson Engineers Draft 2021-06-10 Page 9/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1930"
+    ],
+    "title": [
+      "Date ILRP (AGL020035942) Stetson Engineers Draft 2021-06-10"
+    ],
+    "type": null
+  },
+  {
+    "volume": [
+      "10"
+    ],
+    "issue": [
+      "55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1980"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10 Page 11/55"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Measurable Objective 150 mg/L"
+    ],
+    "date": [
+      "2010"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10 Page 12/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10 Page 15/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1930"
+    ],
+    "title": [
+      "Date SDWIS (4210006-016) Stetson Engineers Draft 2021-06-10"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "Page 17/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1990"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10 Page 18/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10 Page 19/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1930"
+    ],
+    "title": [
+      "Date ILRP (AGL020035942) Stetson Engineers Draft 2021-06-10"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "Page 20/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10 Page 21/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1990"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Date Federal / USGS (343929120321001) Stetson Engineers Draft 2021-06-10 Page 22/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Date Federal / USGS (343926120293001) Stetson Engineers Draft 2021-06-10 Page 23/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1990"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10 Page 24/55"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Measurable Objective 250 mg/L 100"
+    ],
+    "date": [
+      "2000"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10 Page 25/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1990"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "100"
+    ],
+    "date": [
+      "1930"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Date SDWIS (4210006-016) Stetson Engineers Draft 2021-06-10 Page 27/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10 Page 28/55"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10 Page 29/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1930"
+    ],
+    "title": [
+      "Date ILRP (AGL020035942) Stetson Engineers Draft 2021-06-10"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "Page 30/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1990"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10 Page 31/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10 Page 32/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1990"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10 Page 33/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1990"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10 Page 34/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1990"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10 Page 35/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1930"
+    ],
+    "title": [
+      "Date SDWIS (4210006-016) Stetson Engineers Draft 2021-06-10"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "Page 36/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10 Page 37/55"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Measurable Objective 225 mg/L"
+    ],
+    "date": [
+      "2000"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10 Page 39/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1980"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10 Page 40/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1980"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10 Page 41/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10 Page 42/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1990"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10 Page 43/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1990"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10 Page 44/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1930"
+    ],
+    "title": [
+      "Date SDWIS (4210006-016) Stetson Engineers Draft 2021-06-10"
+    ],
+    "type": null
+  },
+  {
+    "genre": [
+      "Page 45/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1990"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10 Page 46/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1990"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10 Page 47/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1930"
+    ],
+    "title": [
+      "Date ILRP (AGL020035942) Stetson Engineers Draft 2021-06-10"
+    ],
+    "type": null
+  },
+  {
+    "genre": [
+      "Page 48/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1990"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1990"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10 Page 51/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10 Page 54/55"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2010"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Draft",
+        "given": "Stetson Engineers"
+      }
+    ],
+    "date": [
+      "2021-06-10"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Beneficial uses and users were sufficiently analyzed, which is why the minimum thresholds set in the WMA are conservative and protective of all groundwater users, including the ISWs and GDEs for the SYR, with thresholds set 10-feet below 2020 water levels for the Upper Aquifer and 20-feet below 2020 water levels for the Lower Aquifer"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "Data gaps are not sufficiently identified and the GSP does not have a plan to eliminate them"
+    ],
+    "date": [
+      "2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "title": [
+      "Projects and Management Actions do not sufficiently consider potential impacts or benefits to beneficial uses and users"
+    ],
+    "date": [
+      "2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "While the plan provides a density map of domestic wells in the WMA, the GSP fails to provide depth of these wells (such as minimum well depth, average well depth, or depth range"
+    ],
+    "container-title": [
+      "Recommendations: Include a map showing domestic well locations and average well depth across the WMA"
+    ],
+    "date": [
+      "2021-10-25"
+    ],
+    "type": "chapter"
+  },
+  {
+    "date": [
+      "2021-10-26"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2021-10-26"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2021-10-26"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2021-10-26"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "The important issue of funding of implementation measures will be addressed by the GSA in early 2022 following submission of the Plan"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2021-10-26"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Please see added text in 3b.2-4 Degradation of Water Quality –Undesirable Results"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2021-10-26"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Please see added text in 3b.2-4 Degradation of Water Quality –Undesirable Results"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2021-10-26"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "The important issue of funding of implementation measures will be worked on early in 2022 following submission of the Plan"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7.The"
+    ],
+    "title": [
+      "GSP contains questionable implementation schedules. For example, the GSP requires two years to survey a single well (see 5a.1-1 Surveying Representative Wells) and plans to phase meter installation over multiple years yet complete that task by the end of 2023"
+    ],
+    "note": [
+      "less than 2 years from the GSP submittal date). 2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "noted",
+        "given": "Comment"
+      }
+    ],
+    "title": [
+      "Completion date for surveying changed from 2023 to"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2022",
+      "2023"
+    ],
+    "title": [
+      "Completion date for well meter installation changed from"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "B.Specific Comments3b.2-1 Chronic Lowering of Groundwater LevelsEKI extracted the water level data for Representative Monitoring Sites (RMS) located in the City of Lompoc from the Data Management System (DMS). The MT values were then calculated and found to be 3 feet greater than the values reported in Table 3b.3-1"
+    ],
+    "note": [
+      "This discrepancy needs to be reconciled. 2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Appendix",
+        "given": "P.C.-B."
+      }
+    ],
+    "date": [
+      "2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Section 2b.2-1 represents and is qualified as the historical reporting on groundwater storage, in terms of historical context. Table 2c.2-6 is the results of the analysis done as part of the preparation of this GSP"
+    ],
+    "container-title": [
+      "Additional text added in Section 2b.2-1: “Historically reported change of groundwater in storage for the WMA is shown on Figure 2b.2-1 in acrefeet (AF).”"
+    ],
+    "note": [
+      "Underlining added for emphasis"
+    ],
+    "type": "chapter"
+  },
+  {
+    "date": [
+      "2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "noted",
+        "given": "Comment"
+      }
+    ],
+    "title": [
+      "Change in groundwater storage will be included in the Annual Reports"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3b.3-4"
+    ],
+    "title": [
+      "Degraded Water Quality Minimum Thresholds. This section needs to be rewritten. It includes conflicting statements and confuses units"
+    ],
+    "date": [
+      "2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Because the 2015 levels for some water quality constituents are above the CCWQCP water quality objectives, GSA Committee set the MT at the 2015 levels"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Last sentence in Section 3b.3-4 deleted"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3b.3-4-1"
+    ],
+    "author": [
+      {
+        "family": "Threshold",
+        "given": "Nitrate Minimum"
+      }
+    ],
+    "title": [
+      "There is confusion in concentration units for the Water Quality Objectives in Table 3b.2-2, the MT reported in Table 3b.3-2, and the MT reported in the text. Use one consistent set of units"
+    ],
+    "date": [
+      "2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Text in Section 4a-2-1-1 has been deleted"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "See edits in Section 4a-2-1-1 with \"mandatory\" deleted"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Section 4a.2-1-2."
+      }
+    ],
+    "title": [
+      "What is the basis for the estimated potential yield from water conservation activities?"
+    ],
+    "date": [
+      "2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Please see study cited in 4a.2-2-2 Project Benefits and the successful conservation program by the City of Lompoc"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4a.2-2-8."
+    ],
+    "title": [
+      "As noted previously, Water Code section 10725.4 concerns investigations. The specific fee authority is in Water Code sections 10730"
+    ],
+    "volume": [
+      "10730"
+    ],
+    "pages": [
+      "2021–10–25"
+    ],
+    "issue": [
+      "2"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4a.2-3-5."
+    ],
+    "title": [
+      "The reduction in wastewater flow associated with this recycled water project would require approval by the State Water Board"
+    ],
+    "note": [
+      "See Water Code section 1211. 2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "See added text in Section 4a.2-3-5: “..., and approval by the"
+    ],
+    "publisher": [
+      "State Water Resources Control Board.”"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "a3-1-1"
+      }
+    ],
+    "title": [
+      "Explain the criteria that SYRWCD uses to assess a request for a Below Narrows Account release"
+    ],
+    "date": [
+      "2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2021-10-25"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "See deleted text in Section 4a.3-3-3"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2021-10-25"
+    ],
+    "title": [
+      "Thank you"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7-Oct-21"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "D",
+        "given": "Page Intentionally Left Blank) Joseph"
+      }
+    ],
+    "title": [
+      "Hughes 661‐328‐5217 jhughes@kleinlaw.com 4550 California Ave., Second Floor"
+    ],
+    "location": [
+      "Bakersfield, CA"
+    ],
+    "pages": [
+      "93309 661–395–1000 661–326–0418"
+    ],
+    "url": [
+
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Conserving California’s Wildlife Since 1870 DocuSign Envelope ID: 49D5A9A7-D0FF-40F5-9282-3BCE6DE3FB9C Mr"
+    ],
+    "container-title": [
+      "Bill Buelow, P.G. Santa Ynez River Water Conservation District October 26"
+    ],
+    "date": [
+      "2021"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "literal": "DocuSign Envelope ID: 49D5A9A7-D0FF-40F5-9282-3BCE6DE3FB9C Mr. Bill Buelow, P.G."
+      }
+    ],
+    "title": [
+      "Santa Ynez River Water Conservation District October 26"
+    ],
+    "date": [
+      "2021"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "DocuSign Envelope ID: 49D5A9A7-D0FF-40F5-9282-3BCE6DE3FB9C Mr. Bill Buelow, P.G."
+      }
+    ],
+    "title": [
+      "Santa Ynez River Water Conservation District October 26"
+    ],
+    "date": [
+      "2021"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "DocuSign Envelope ID: 49D5A9A7-D0FF-40F5-9282-3BCE6DE3FB9C Mr. Bill Buelow, P.G."
+      }
+    ],
+    "title": [
+      "Santa Ynez River Water Conservation District October 26"
+    ],
+    "date": [
+      "2021"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "DocuSign Envelope ID: 49D5A9A7-D0FF-40F5-9282-3BCE6DE3FB9C Mr. Bill Buelow, P.G."
+      }
+    ],
+    "title": [
+      "Santa Ynez River Water Conservation District October 26"
+    ],
+    "date": [
+      "2021"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "DocuSign Envelope ID: 49D5A9A7-D0FF-40F5-9282-3BCE6DE3FB9C Mr. Bill Buelow, P.G."
+      }
+    ],
+    "title": [
+      "Santa Ynez River Water Conservation District October 26"
+    ],
+    "date": [
+      "2021"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Bauer",
+        "given": "S."
+      },
+      {
+        "family": "Cockrill",
+        "given": "Olson J."
+      },
+      {
+        "family": "A",
+        "given": "van Hattem"
+      },
+      {
+        "family": "M",
+        "given": "Miller"
+      },
+      {
+        "family": "L",
+        "given": "Tauzer"
+      },
+      {
+        "given": "M."
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "container-title": [
+      "Impacts of Surface Water Diversions for Marijuana Cultivation on Aquatic Habitat in Four Northwestern California Watersheds"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "C.D.F.W."
+      },
+      {
+        "family": "Dagit",
+        "given": "R."
+      },
+      {
+        "family": "Booth",
+        "given": "M.T."
+      },
+      {
+        "family": "Gomez",
+        "given": "M."
+      },
+      {
+        "family": "Hovey",
+        "given": "T."
+      },
+      {
+        "family": "Howard",
+        "given": "S."
+      },
+      {
+        "family": "Lewis",
+        "given": "S.D."
+      },
+      {
+        "family": "Jacobson",
+        "given": "S."
+      },
+      {
+        "family": "Larson",
+        "given": "M."
+      },
+      {
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "California Natural Diversity Data Base (CNDDB"
+    ],
+    "url": [
+      "https://www.wildlife.ca.gov/data/cnddb)"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "McCanne"
+      },
+      {
+        "family": "Robinson",
+        "given": "T.H."
+      }
+    ],
+    "date": [
+      "2020",
+      "2020"
+    ],
+    "title": [
+      "Occurrences of Steelhead Trout (Oncorhynchus mykiss) in southern California, 1994-2018"
+    ],
+    "volume": [
+      "106"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "California Fish and Wildlife"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "39–58"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2020",
+      "2020"
+    ],
+    "title": [
+      "Bulletin 118",
+      "California’s Groundwater: Working Toward Sustainability"
+    ],
+    "url": [
+      "https://data.cnra.ca.gov/dataset/calgw_update2020"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Interim Update"
+    ]
+  },
+  {
+    "title": [
+      "Fortune Business Insights",
+      "Cannabis Market Size to be Worth $97.35 Billion by"
+    ],
+    "date": [
+      "2021-06-08"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2026"
+    ],
+    "title": [
+      "Increased Use for Medical & Therapeutic Purposes to Aid Marijuana Industry Growth"
+    ],
+    "publisher": [
+      "Says Fortune Business InsightsTM"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Froend",
+        "given": "R."
+      },
+      {
+        "family": "Sommer",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "Phreatophytic vegetation response to climatic and abstraction-induced groundwater drawdown: Examples of long-term spatial and temporal variability in community response"
+    ],
+    "volume": [
+      "36"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Ecological Engineering"
+    ],
+    "issue": [
+      "1191"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Service",
+        "given": "National Marine Fisheries"
+      },
+      {
+        "family": "E.",
+        "given": "Naumburg"
+      },
+      {
+        "family": "R.",
+        "given": "Mata-Gonzalez"
+      },
+      {
+        "family": "R.G.",
+        "given": "Hunter"
+      },
+      {
+        "family": "T.",
+        "given": "McLendon"
+      },
+      {
+        "family": "D.W",
+        "given": "Martin"
+      }
+    ],
+    "date": [
+      "2013",
+      "2005"
+    ],
+    "title": [
+      "South-central California coast steelhead recovery plan. West Coast Region, California Coastal Area Office, Long Beach, California",
+      "Phreatophytic vegetation and groundwater fluctuations: a review of current research and application of ecosystem response modeling with an emphasis on great basin vegetation"
+    ],
+    "url": [
+      "https://www.westcoast.fisheries.noaa.gov/publications/recovery_planning/salmon_steelhead/do"
+    ],
+    "volume": [
+      "35"
+    ],
+    "publisher": [
+      "Page Intentionally Left Blank"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Environment Management"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "726–40"
+    ]
+  }
+]

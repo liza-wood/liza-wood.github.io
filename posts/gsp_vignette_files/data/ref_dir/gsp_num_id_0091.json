@@ -1,0 +1,5985 @@
+[
+  {
+    "date": [
+      "2022-01"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "LSCE",
+        "given": "Borchers"
+      },
+      {
+        "family": "J."
+      },
+      {
+        "family": "Carpenter",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "Land Subsidence for Groundwater Use in California"
+    ],
+    "publisher": [
+      "Prepared for California Water Foundation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Muir",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "Groundwater Recharge in the East Bay Plain Area"
+    ],
+    "location": [
+      "Alameda County, California"
+    ],
+    "note": [
+      "Prepared for ACFCWCD."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Muir",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "Groundwater Discharge in the East Bay Plain Area"
+    ],
+    "location": [
+      "Alameda County, California"
+    ],
+    "note": [
+      "Prepared for ACFCWCD."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Consultants",
+        "given": "Norfleet"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Groundwater Study and Water Supply History of the East Bay Plain, Alameda and Contra Costa Counties, California. Prepared for The Friends of the San Francisco Estuary"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "San Francisco Bay Area Integrated Regional Water Management (IRWM) Coordinating Committee"
+    ],
+    "date": [
+      "2019"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "San Francisco Bay Area Integrated Regional Water Management Plan"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Sneed",
+        "given": "M."
+      },
+      {
+        "family": "Orlando",
+        "given": "P."
+      },
+      {
+        "family": "Borchers",
+        "given": "J."
+      },
+      {
+        "family": "Everett",
+        "given": "R."
+      },
+      {
+        "family": "Solt",
+        "given": "M.McGann"
+      },
+      {
+        "family": "Lowers",
+        "given": "H."
+      },
+      {
+        "family": "Mahan",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Lithostratigraphic",
+        "given": "Bore-Geophysical"
+      }
+    ],
+    "title": [
+      "Hydrogeologic, and Hydrochemical Data from the East Bay Plain, Alameda County, California"
+    ],
+    "container-title": [
+      "United States Geological Survey (USGS) Data Series 890"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Resources",
+        "given": "Water"
+      },
+      {
+        "family": "Engineering",
+        "given": "Information Management"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Niles Cone and South East Bay Plain Integrated Groundwater and Surface Water Model (NEBIGSM"
+    ],
+    "note": [
+      "Prepared for ACWD, EBMUD, and City of Hayward."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Wood"
+      }
+    ],
+    "title": [
+      "Data Submittal for Compliance with 13267 Order WQ 2019-0006-DWQ",
+      "Waste management of Alameda County"
+    ],
+    "date": [
+      "2020-04"
+    ],
+    "publisher": [
+      "Inc., West Winton Landfill"
+    ],
+    "location": [
+      "Hayward, Alameda County, California"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "Prepare for Waste Management of Alameda County"
+    ],
+    "publisher": [
+      "Inc"
+    ],
+    "location": [
+      "San Leandro, California"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "District",
+        "given": "Alameda County Water"
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "Northwest Niles Cone Monitoring Wells Project"
+    ],
+    "publisher": [
+      "Prepared for State of California Department of Water Resources (DWR"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hill",
+        "given": "CH2M"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Regional Hydrogeologic Investigation, South East Bay Plain"
+    ],
+    "note": [
+      "Prepared for EBMUD."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hill",
+        "given": "CH2M"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "Regional Hydrogeologic Investigation, Outer Basins"
+    ],
+    "note": [
+      "Prepared for EBMUD."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "1960"
+    ],
+    "title": [
+      "Intrusion of Salt Water into Ground Water Basins of Southern Alameda County"
+    ],
+    "volume": [
+
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Bulletin"
+    ],
+    "issue": [
+      "81"
+    ]
+  },
+  {
+    "title": [
+      "East Bay Municipal Utility District (EBMUD"
+    ],
+    "date": [
+      "2012"
+    ],
+    "note": [
+      "Water Supply Management Program 2040."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "E.B.M.U.D."
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "title": [
+      "South East Bay Plain Basin Groundwater Management Plan"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "E.B.M.U.D."
+      }
+    ],
+    "date": [
+      "2016",
+      "2015"
+    ],
+    "title": [
+      "East Bay Municipal Utility District Urban Water Management Plan"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "1963"
+    ],
+    "title": [
+      "Alameda County Investigation"
+    ],
+    "volume": [
+
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Bulletin"
+    ],
+    "issue": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Figuers",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Groundwater Study and Water Supply History of the East Bay Plain, Alameda and Contra Costa Counties, CA"
+    ],
+    "publisher": [
+      "Prepared for The Friends of San Francisco Estuary"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Consultants",
+        "given": "Fugro"
+      },
+      {
+        "family": "Mechanics",
+        "given": "Earth"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "Final Marine Geotechnical Site Characterization, San Francisco-Oakland Bay Bridge East Span Seismic Safety Project"
+    ],
+    "publisher": [
+      "Prepared for California Department of Transportation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Consultants",
+        "given": "Fugro"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "The Bayside Groundwater Project, 2010 Phase 1 Well Aquifer Test"
+    ],
+    "note": [
+      "Prepared for EBMUD."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Inc",
+        "given": "Fugro West"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Oakport Groundwater Storage Pilot Project"
+    ],
+    "note": [
+      "Technical Memorandum No. 1, Phase 1, Task 1.1. Prepared for EBMUD."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Inc",
+        "given": "Fugro West"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "Oakport Groundwater Storage Pilot Project"
+    ],
+    "volume": [
+      "1"
+    ],
+    "note": [
+      "Technical Memorandum No. 3, Phase 2 Field Investigation. Prepared for EBMUD."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hickenbottom",
+        "given": "K."
+      },
+      {
+        "family": "Muir",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "title": [
+      "Geohydrology and Groundwater-Quality Overview of the East Bay Plain Area, Alameda County"
+    ],
+    "volume": [
+      "205"
+    ],
+    "note": [
+      "j). Report prepared for ACFCWCD and submitted to California Regional Water Quality Control Board, San Francisco Bay Region."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "California"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Jennings"
+      }
+    ],
+    "date": [
+      "1977"
+    ],
+    "title": [
+      "Geologic Map of California: California Division of Mines and Geology"
+    ],
+    "volume": [
+
+    ],
+    "editor": [
+      {
+        "family": "Gutierrez",
+        "given": "C.",
+        "particle": "Updated version by"
+      },
+      {
+        "family": "Bryant",
+        "given": "W."
+      },
+      {
+        "family": "Saucedo",
+        "given": "G."
+      },
+      {
+        "family": "Willis",
+        "given": "C."
+      }
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geologic Data Map Series"
+    ],
+    "issue": [
+      "2, scale 1:750,000"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Patell",
+        "given": "M.",
+        "particle": "Digital preparation by"
+      },
+      {
+        "family": "Thompson",
+        "given": "J."
+      },
+      {
+        "family": "Wanish",
+        "given": "B."
+      },
+      {
+        "family": "Fonseca",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Land",
+        "given": "I.Q."
+      }
+    ],
+    "date": [
+      "2017",
+      "2014"
+    ],
+    "title": [
+      "Statewide Crop Mapping"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Luhdorff"
+      },
+      {
+        "family": "Engineers",
+        "given": "Scalmanini Consulting"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "East Bay Plain, Aquifer Test Project, South East Bay Plain and Niles Cone Ground-Water Basins. Prepared for Alameda County Water District"
+    ],
+    "publisher": [
+      "City of Hayward, and East Bay Municipal Utility District"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Maslonkowski",
+        "given": "D.P."
+      }
+    ],
+    "date": [
+      "1984"
+    ],
+    "title": [
+      "Groundwater in the San Leandro and San Lorenzo Alluvial Cones of the East Bay Plain of Alameda County"
+    ],
+    "note": [
+      "Prepared for Alameda County Flood Control and Water Conservation District."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Muir",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "Geologic Framework of the East Bay Plain Groundwater Basin, Alameda County, California"
+    ],
+    "note": [
+      "Prepared for Alameda County Flood Control and Water Conservation District (ACFCWCD)."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Muir",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "Groundwater Discharge in the East Bay Plain Area"
+    ],
+    "location": [
+      "Alameda County, California"
+    ],
+    "note": [
+      "Prepared for ACFCWCD."
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "The Nature Conservancy (TNC",
+      "Groundwater Dependent Ecosystems under the Sustainable Groundwater Management Act"
+    ],
+    "date": [
+      "2018"
+    ],
+    "publisher": [
+      "Guidance for Preparing Groundwater Sustainability Plans"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rogers",
+        "given": "J."
+      },
+      {
+        "family": "Figuers",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "title": [
+      "Engineering Geologic Site Characterization of the Greater OaklandAlameda Area, Alameda and San Francisco Counties, California"
+    ],
+    "genre": [
+      "Final Report to"
+    ],
+    "publisher": [
+      "National Science Foundation"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Sneed",
+        "given": "M."
+      },
+      {
+        "family": "Orlando",
+        "given": "P."
+      },
+      {
+        "family": "Borchers",
+        "given": "J."
+      },
+      {
+        "family": "Everett",
+        "given": "R."
+      },
+      {
+        "family": "Solt",
+        "given": "M.McGann"
+      },
+      {
+        "family": "M.",
+        "given": "Lowers"
+      },
+      {
+        "family": "H."
+      },
+      {
+        "family": "Mahan",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Lithostratigraphic",
+        "given": "Bore-Geophysical"
+      }
+    ],
+    "title": [
+      "Hydrogeologic, and Hydrochemical Data from the East Bay Plain, Alameda County, California"
+    ],
+    "container-title": [
+      "United States Geological Survey (USGS) Data Series 890"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "literal": "Subsurface Consultants Inc. (SCI) and Todd Engineers,.1999."
+      }
+    ],
+    "title": [
+      "Hydrogeologic Investigation, Oakland Harbor Navigation Improvement (-50 Foot"
+    ],
+    "genre": [
+      "Project,"
+    ],
+    "publisher": [
+      "Port of Oakland"
+    ],
+    "location": [
+      "Oakland and Alameda, California"
+    ],
+    "note": [
+      "Prepared for Port of Oakland."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Teague",
+        "given": "N."
+      },
+      {
+        "family": "Izbicki",
+        "given": "J."
+      },
+      {
+        "family": "Borchers",
+        "given": "J."
+      },
+      {
+        "family": "Kulongoski",
+        "given": "J."
+      },
+      {
+        "family": "Jurgens",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Hydrogeologic Controls and Geochemical Indicators of Groundwater Movement in the Niles Cone and Southern East Bay Plain Groundwater Subbasins, Alameda County, California"
+    ],
+    "note": [
+      "United States Geological Survey (USGS) Scientific Investigations Report 2018-5003."
+    ],
+    "type": "report"
+  },
+  {
+    "title": [
+      "United States Department of Agriculture (USDA"
+    ],
+    "date": [
+      "2016",
+      "2016"
+    ],
+    "publisher": [
+      "USDA, National Agricultural Statistics Service",
+      "Cropland Data Layer"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Resources",
+        "given": "Water"
+      },
+      {
+        "family": "Engineering",
+        "given": "Information Management"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Niles Cone and South East Bay Plain Integrated Groundwater and Surface Water Model (NEBIGSM"
+    ],
+    "note": [
+      "Prepared for ACWD, EBMUD, and City of Hayward."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Aquaveo"
+      },
+      {
+        "given": "A.S.T.M."
+      }
+    ],
+    "date": [
+      "2018",
+      "1998"
+    ],
+    "title": [
+      "Groundwater Modeling System 10.4.1",
+      "Standard Guide for Calibrating a Ground-Water Flow Model Application"
+    ],
+    "url": [
+      "https://www.aquaveo.com/software/gmsgroundwater-modeling-system-introduction"
+    ],
+    "volume": [
+      "D 5981-96"
+    ],
+    "pages": [
+      "6"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Banta",
+        "given": "E.R."
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "Model Mate—A Graphical User Interface for Model Analysis. US Geological Survey Techniques and Methods"
+    ],
+    "volume": [
+      "E4"
+    ],
+    "pages": [
+      "31"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Book. Chapter"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bakker",
+        "given": "M."
+      },
+      {
+        "family": "Schaars",
+        "given": "F.S."
+      },
+      {
+        "family": "Hughes",
+        "given": "J.D."
+      },
+      {
+        "family": "Langevin",
+        "given": "C.D."
+      },
+      {
+        "family": "Dausman",
+        "given": "A.M."
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "title": [
+      "Documentation of the Seawater Intrusion (SWI2) Package for MODFLOW"
+    ],
+    "note": [
+      "Chapter 46 of Section A. Groundwater Book 6."
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Modeling Techniques, Techniques and Methods 6–A46",
+      "Land Subsidence in the Southwestern Mojave Desert"
+    ],
+    "url": [
+      "https://pubs.er.usgs.gov/publication/tm6A46",
+      "https://pubs.usgs.gov/fs/2017/3053/fs20173053.pdf"
+    ],
+    "author": [
+      {
+        "family": "Brandt",
+        "given": "J."
+      },
+      {
+        "family": "Sneed",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2017",
+      "1992"
+    ],
+    "location": [
+      "California"
+    ],
+    "note": [
+      "Fact Sheet 2017-3053."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Water Resources",
+        "given": "California Department",
+        "particle": "of"
+      },
+      {
+        "family": "Hill",
+        "given": "CH2M"
+      }
+    ],
+    "date": [
+      "2016",
+      "2017",
+      "1992"
+    ],
+    "title": [
+      "Best Management Practices for the Sustainable Management of Groundwater. BMP 5. Modeling BMP",
+      "California Department of Water Resources",
+      "Santa Clara Valley Groundwater Model Project, Hydrogeological Interpretation and Numerical Flow Model"
+    ],
+    "url": [
+      "https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/GroundwaterManagement/Sustainable-Groundwater-Management/Best-Management-Practices-and-GuidanceDocuments/Files/BMP-5-Modeling.pdf",
+      "http://baydeltaoffice.water.ca.gov/modeling/hydrology/IDC/index_IDC.cfm"
+    ],
+    "note": [
+      "IWFM: Integrated Water Flow Model – Demand Calculator (IDC). Accessed on March 10, 2017.",
+      "Prepared for City of San Jose and Santa Clara Valley Water District. (pp.35)."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "December",
+      "Draft Technical Memorandum"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "C.D.M."
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "title": [
+      "Draft Task 5-D Memo: Brackish Groundwater Desalination Feasibility Assessment, BAWSCA’s Strategy Groundwater Model Development"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "C.D.M."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "Long-Term Reliable Water Supply Strategy, Strategy Phase II Final Report"
+    ],
+    "note": [
+      "Prepared for BAWSCA. February. (pp.217)."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Doherty",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "PEST - The Book: Calibration and Uncertainty Analysis for Complex Environmental Models. Watermark Numerical Computing"
+    ],
+    "location": [
+      "Brisbane, Australia"
+    ],
+    "publisher": [
+      "ISBN"
+    ],
+    "pages": [
+      "978–0–9943786–0–6 227"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dogrul",
+        "given": "E.C."
+      },
+      {
+        "family": "Schmid",
+        "given": "W."
+      },
+      {
+        "family": "Hanson",
+        "given": "R.T."
+      },
+      {
+        "family": "Kadir",
+        "given": "T."
+      },
+      {
+        "family": "Chung",
+        "given": "F."
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "Integrated Water Flow Model and Modflow-Farm Process: A Comparison of Theory, Approaches, and Features of Two Integrated Hydrologic Models. Prepared by the California DWR, Integrated Hydrological Models Development Unit, Modeling Support Branch, Bay - Delta Office in collaboration with the USGS, California WaterScience Center, and the University of Arizona"
+    ],
+    "url": [
+      "https://data.cnra.ca.gov/dataset/integrated-water-flow-model-iwfm-publications/resource/06077fde647a-450d-a1e3-51725b7ca8a1"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "East Bay Municipal Utility District (EBMUD"
+    ],
+    "date": [
+      "2013"
+    ],
+    "publisher": [
+      "South East Bay Plain Basin Groundwater Management Plan"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Environment",
+        "given": "E.K.I."
+      },
+      {
+        "family": "Groundwater",
+        "given": "Water Todd"
+      },
+      {
+        "given": "Hydrofocus"
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "San Mateo Plain Groundwater Basin Assessment"
+    ],
+    "container-title": [
+      "Prepared for County of San Mateo. June"
+    ],
+    "pages": [
+      "328"
+    ],
+    "url": [
+      "https://www.smcsustainability.org/download/energy-water/groundwater/Final-Phase-1-Report.pdf"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Environment",
+        "given": "E.K.I."
+      },
+      {
+        "given": "Water"
+      }
+    ],
+    "title": [
+      "Todd Groundwater and Hydrofocus",
+      "San Mateo Plain Groundwater Basin Assessment"
+    ],
+    "date": [
+      "2018"
+    ],
+    "container-title": [
+      "Prepared for County of San Mateo. July"
+    ],
+    "pages": [
+      "397"
+    ],
+    "type": "chapter"
+  },
+  {
+    "url": [
+      "https://www.smcsustainability.org/download/energy-water/groundwater/SMP-Groundwater-BasinAssessment_July-2018.pdf",
+      "http://www.cwemf.org/Pubs/index.htm"
+    ],
+    "author": [
+      {
+        "family": "Harter",
+        "given": "T."
+      },
+      {
+        "family": "Morel-Seytoux",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "title": [
+      "Peer Review of the IWFM, MODFLOW and HGS Model Codes: Potential for Water Management Applications in California’s Central Valley and Other Irrigated Groundwater Basins"
+    ],
+    "pages": [
+      "112"
+    ],
+    "location": [
+      "Sacramento, California"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Final Report. California Water and Environmental Modeling. Forum"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hanson",
+        "given": "R.T."
+      },
+      {
+        "family": "Zhen",
+        "given": "L."
+      },
+      {
+        "family": "Faunt",
+        "given": "C.C."
+      }
+    ],
+    "date": [
+      "2004",
+      "2004"
+    ],
+    "title": [
+      "Documentation of the Santa Clara Valley Regional Groundwater/Surface Water Flow Model",
+      "Geological Survey Scientific Investigations Report"
+    ],
+    "location": [
+      "Santa Clara County, California",
+      "Hanson, R.T., Boyce, S.E"
+    ],
+    "publisher": [
+      "US"
+    ],
+    "pages": [
+      "75"
+    ],
+    "url": [
+      "https://pubs.usgs.gov/sir/2004/5231/"
+    ],
+    "editor": [
+      {
+        "literal": "Schmid, W., Hughes, J. D., Mehl, S. W., Leake, S. A., Maddock III, T. and"
+      }
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Niswonger",
+        "given": "R.G."
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "One-Water Hydrologic Flow Model (MODFLOW-OWHM), USGS Techniques and Methods 6-A51. Prepared in cooperation with the US Bureau of Reclamation"
+    ],
+    "note": [
+      "Chapter 51 of Section A): Groundwater. Book 6. Modeling Techniques."
+    ],
+    "url": [
+      "https://pubs.er.usgs.gov/publication/tm6A51_https://water.usgs.gov/ogw/modflow-owhm/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Harbaugh",
+        "given": "A.W."
+      },
+      {
+        "family": "Banta",
+        "given": "E.R."
+      },
+      {
+        "family": "C.",
+        "given": "Hill M."
+      },
+      {
+        "family": "McDonald",
+        "given": "M.G."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "MODFLOW-2000: The US Geological Survey Modular Ground-Water Model– User guide to Modularization Concepts and the Ground-Water Flow Process"
+    ],
+    "volume": [
+      "92"
+    ],
+    "pages": [
+      "121"
+    ],
+    "url": [
+      "https://water.usgs.gov/nrp/gwsoftware/modflow2000/ofr00-92.pdf"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "US Geological Survey. Open-File Report"
+    ],
+    "issue": [
+      ""
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Harbaugh",
+        "given": "A.W."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "MODFLOW-2005: The US Geological Survey Modular Ground-Water Model- The Ground-Water Flow Process"
+    ],
+    "note": [
+      "Techniques and Methods (6-A16)."
+    ],
+    "url": [
+      "https://pubs.usgs.gov/tm/2005/tm6A16/"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "U. S. Geological Survey"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hill",
+        "given": "M.C."
+      },
+      {
+        "family": "Tiedeman",
+        "given": "C.R."
+      },
+      {
+        "family": "M.C.",
+        "given": "Hill"
+      },
+      {
+        "family": "D’Agnese",
+        "given": "F.A."
+      },
+      {
+        "family": "Faunt",
+        "given": "C.F."
+      }
+    ],
+    "date": [
+      "2000",
+      "2000"
+    ],
+    "title": [
+      "Effective Groundwater Model Calibration: With Analysis of Data, Sensitivities, Predictions, and Uncertainty, Computer Instructions for the Exercises, Using Four US Geological Survey Computer Programs: MODFLOW-2000 and its Observation, Sensitivity, and ParameterEstimation Processes",
+      "Guidelines for Model Calibration and Application to Flow Simulation in the Death Valley Regional Groundwater System"
+    ],
+    "container-title": [
+      "MFI2K; GW Chart; and ModelViewer",
+      "Calibration and Reliability in Groundwater Modelling. Proceedings of the ModelCARE 99 Conference. IAHS Publication",
+      "E.R. 2000b. MODFLOW-2000. The US Geological Survey Modular Ground-Water Model—User Guide to the Observation, Sensitivity, and ParameterEstimation Processes and Three Post-Processing Programs. US Geological Survey"
+    ],
+    "url": [
+      "https://wwwbrr.cr.usgs.gov/projects/GW_ModUncert/hill_tiedeman_book/exercise-filesMF2K/ExerciseInstructionsMF2K.pdf",
+      "http://hydrologie.org/redbooks/a265/iahs_265_0195.pdf",
+      "https://pubs.usgs.gov/of/2000/0184/report.pdf"
+    ],
+    "volume": [
+
+    ],
+    "location": [
+      "Hill, M.C., Banta, E.R"
+    ],
+    "editor": [
+      {
+        "family": "Harbaugh",
+        "given": "A.W."
+      },
+      {
+        "given": "Anderman"
+      }
+    ],
+    "note": [
+      "Open-File Report (00–184, pp.210)."
+    ],
+    "issue": [
+      "265)"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Hughes",
+        "given": "J.D."
+      },
+      {
+        "family": "Langevin",
+        "given": "C.D."
+      },
+      {
+        "family": "Chartier",
+        "given": "K.L."
+      },
+      {
+        "family": "White",
+        "given": "J.T."
+      }
+    ],
+    "date": [
+      "2012",
+      "2005"
+    ],
+    "title": [
+      "Documentation of the Surface-Water Routing (SWR1) Process for Modeling Surface-Water Flow with the US Geological Survey Modular Ground-Water Model",
+      "US Geological Survey Techniques and Methods"
+    ],
+    "volume": [
+
+    ],
+    "pages": [
+      "113"
+    ],
+    "url": [
+      "https://www.usgs.gov/software/surface-water-routing-swr-processa-program-modeling-surface-water-flow-usgs-modular",
+      "https://pubs.usgs.gov/tm/6a40/"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Book"
+    ],
+    "issue": [
+      "ap. A40. Version 1.0)"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Hydrofocus"
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "Westside Basin Groundwater-Flow Model: Extended and Updated Model Results"
+    ],
+    "volume": [
+      "4"
+    ],
+    "pages": [
+      "1959–2014"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Version"
+    ],
+    "issue": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "N.L.",
+        "given": "Jones"
+      },
+      {
+        "family": "Strassberg",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "The Arc Hydro MODFLOW Data Model"
+    ],
+    "volume": [
+      "10"
+    ],
+    "pages": [
+      "17–19"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Water Resources Impact"
+    ],
+    "issue": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Konikow",
+        "given": "L.F."
+      },
+      {
+        "family": "Hornberger",
+        "given": "G.Z."
+      },
+      {
+        "family": "Halford",
+        "given": "K.J."
+      },
+      {
+        "family": "Hanson",
+        "given": "R.T."
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "Revised Multi-Node Well (MNW2) Package for MODFLOW Ground-Water Flow Model"
+    ],
+    "container-title": [
+      "US Geological Survey Techniques and Methods"
+    ],
+    "pages": [
+      "6– 30 67"
+    ],
+    "url": [
+      "https://pubs.usgs.gov/tm/tm6a30/"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Kumar",
+        "given": "C.P."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "An Overview of Commonly Used Groundwater Modelling Software"
+    ],
+    "volume": [
+      "6"
+    ],
+    "location": [
+      "January"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "International Journal of Advanced Research in Science Engineering and Technology (IJARSET). ISSN"
+    ],
+    "issue": [
+      "ue 1)"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "LaBolle",
+        "given": "E.M."
+      },
+      {
+        "family": "Ahmed",
+        "given": "A.A."
+      },
+      {
+        "family": "Fogg",
+        "given": "G.E."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Investigations of Methods Used in the Integrated Groundwater and Surface-Water Model. Department of Land, Air and Water Resources"
+    ],
+    "publisher": [
+      "Hydrologic Graduate Group: University of California Davis. October"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Langevin",
+        "given": "C.D."
+      },
+      {
+        "family": "Hughes",
+        "given": "J.D."
+      },
+      {
+        "family": "Banta",
+        "given": "E.R."
+      },
+      {
+        "family": "Niswonger",
+        "given": "R.G."
+      },
+      {
+        "family": "Panday",
+        "given": "S."
+      },
+      {
+        "family": "Provost",
+        "given": "A.M."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Documentation for the MODFLOW 6 Groundwater Flow Model. US Geological Survey Techniques and Methods",
+      "Final Task 8B"
+    ],
+    "volume": [
+
+    ],
+    "pages": [
+      "197"
+    ],
+    "url": [
+      "https://doi.org/10.3133/tm6A55."
+    ],
+    "author": [
+      {
+        "given": "Luhdorff"
+      },
+      {
+        "family": "Engineers",
+        "given": "Scalmanini Consulting"
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "note": [
+      "Technical Memorandum No. 1, Hydrologic Setting of the Westside Basin. May."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Book"
+    ],
+    "issue": [
+      "ap. A55"
+    ],
+    "doi": [
+      "10.3133/tm6A55."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Middlemis",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Groundwater Flow Modelling Guideline"
+    ],
+    "publisher": [
+      "Murray-Darling Basin Commission, Aquaterra Consulting. November"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Watson",
+        "given": "Montgomery"
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "title": [
+      "Model Documentation and User Manual for Integrated Groundwater and Surface Water Model"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Neville",
+        "given": "C.J."
+      },
+      {
+        "family": "Tonkin",
+        "given": "M.J."
+      }
+    ],
+    "date": [
+      "2004",
+      "2004"
+    ],
+    "title": [
+      "Modeling Multiaquifer Wells with MODFLOW"
+    ],
+    "volume": [
+      "42"
+    ],
+    "pages": [
+      "910–919",
+      "01–9–"
+    ],
+    "doi": [
+      "10.1111/j.1745-6584)."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Ground Water"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Niswonger",
+        "given": "R.G."
+      },
+      {
+        "family": "Panday",
+        "given": "S."
+      },
+      {
+        "family": "Ibaraki",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "MODFLOW-NWT, A Newton Formulation for MODFLOW-2005"
+    ],
+    "container-title": [
+      "US Geological Survey Techniques and Methods (6-A37"
+    ],
+    "pages": [
+      "44"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Niswonger",
+        "given": "R.G."
+      },
+      {
+        "family": "Prudic",
+        "given": "D.E."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Documentation of the Streamflow-Routing (SFR2) Package to Include Unsaturated Flow Beneath Streams—A modification to SFR1"
+    ],
+    "container-title": [
+      "US Geological Survey Techniques and Methods (6-A13"
+    ],
+    "pages": [
+      "50"
+    ],
+    "url": [
+      "https://pubs.usgs.gov/tm/2006/tm6A13/"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Poeter",
+        "given": "E.P."
+      },
+      {
+        "family": "Hill",
+        "given": "M.C.Lu"
+      },
+      {
+        "family": "D.",
+        "given": "Tiedeman"
+      },
+      {
+        "given": "C.R."
+      },
+      {
+        "family": "Mehl",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "UCODE_2014, with New Capabilities to Define Parameters Unique to Predictions, Calculate Weights Using Simulated Values, Estimate Parameters with SVD, Evaluate Uncertainty with MCMC, and More"
+    ],
+    "note": [
+      "Integrated Groundwater Modeling Center Report Number: GWMI 2014-02."
+    ],
+    "url": [
+      "https://uzox244a2mtu64wa37z9d5qy-"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Harbaugh",
+        "given": "Reilly T.E.",
+        "particle": "and."
+      },
+      {
+        "given": "A.W."
+      }
+    ],
+    "date": [
+      "2004",
+      "2004"
+    ],
+    "title": [
+      "Guidelines for Evaluating Ground-Water Flow Models"
+    ],
+    "container-title": [
+      "USGS SIR"
+    ],
+    "pages": [
+      "37"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Commission",
+        "given": "San Francisco Public Utilities"
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Final Draft North Westside Basin Groundwater Basin Management Plan"
+    ],
+    "url": [
+      "https://sfwater.org/Modules/ShowDocument.aspx?documentid=3105"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "April"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sneed",
+        "given": "N."
+      },
+      {
+        "family": "J.",
+        "given": "Brandt"
+      },
+      {
+        "family": "Solt",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2018",
+      "2003"
+    ],
+    "title": [
+      "Land Subsidence Along the California Aqueduct in West-Central"
+    ],
+    "location": [
+      "San Joaquin Valley, California"
+    ],
+    "note": [
+      "Scientific Investigations Report 2018-5144."
+    ],
+    "url": [
+      "https://pubs.usgs.gov/sir/2018/5144/sir20185144.pdf"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "given": "A.C.W.D."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "Northwest Niles Cone Monitoring Wells Project"
+    ],
+    "publisher": [
+      "Prepared for State of California Department of Water Resources"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "District",
+        "given": "Alameda County Water"
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "ACWD Comments on Proposed Phase 1 and Phase 2 Bayside Groundwater Project FEIR"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Brown"
+      },
+      {
+        "given": "Caldwell"
+      }
+    ],
+    "date": [
+      "1984"
+    ],
+    "title": [
+      "Groundwater Resource Evaluation for an Emergency Water Supply"
+    ],
+    "publisher": [
+      "Prepared for City of Hayward"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Brown"
+      },
+      {
+        "given": "Caldwell"
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "title": [
+      "Final Report – Evaluation of Groundwater Resources and Proposed Design of Emergency Water Supply Wells"
+    ],
+    "publisher": [
+      "Prepared for City of Hayward"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "C.D.F.W."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "California Natural Diversity Database"
+    ],
+    "note": [
+      "Accessed December 2019."
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "California Department of Fish and Wildlife (CDFW). 2019a"
+    ],
+    "date": [
+      "Version 3"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "California Streams"
+    ]
+  },
+  {
+    "title": [
+      "California Department of Water Resources (DWR",
+      "Intrusion of Salt Water into Groundwater Basins of Southern Alameda County"
+    ],
+    "date": [
+      "1960"
+    ],
+    "volume": [
+
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Bulletin"
+    ],
+    "issue": [
+      "81"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Network",
+        "given": "California Lands"
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "CLN 2.0 Vegetation"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Canadell",
+        "given": "J."
+      },
+      {
+        "family": "Jackson",
+        "given": "R.B."
+      },
+      {
+        "family": "Ehleringer",
+        "given": "J.R."
+      },
+      {
+        "family": "Mooney",
+        "given": "H.A."
+      },
+      {
+        "family": "Sala",
+        "given": "O.E."
+      },
+      {
+        "family": "Schulze",
+        "given": "E.D."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "Maximum Rooting Depth of Vegetation Types at the Global Scale"
+    ],
+    "volume": [
+      "108"
+    ],
+    "pages": [
+      "583–595"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Oecologia"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Engineers",
+        "given": "Carollo"
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "Final Draft, WWTP Facility Plan"
+    ],
+    "genre": [
+      "Report Prepared"
+    ],
+    "publisher": [
+      "for City of Richmond and Veolia Water"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Catchings",
+        "given": "etal"
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "Subsurface Structure of the East Bay Plain Ground-Water Basin: San Francisco Bay to the Hayward Fault, Alameda County, California"
+    ],
+    "note": [
+      "United States Geological Survey (USGS) Open-File Report (2006-1084)."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Hill",
+        "given": "CH2M"
+      }
+    ],
+    "date": [
+      "2000",
+      "2016"
+    ],
+    "title": [
+      "Regional Hydrogeologic Investigation, South East Bay Plain. Prepared for EBMUD"
+    ],
+    "publisher": [
+      "City of Hayward",
+      "Urban Water Management Plan"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "San Leandro",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "publisher": [
+      "City of San Leandro, Sewer System Management Plan"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Jury",
+        "given": "Costa County Grand"
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "Report 1602. Protecting Our Groundwater Resources, Who’s Minding the Storage?. Prepared by the 2015-2016 Contra Costa Grand Jury"
+    ],
+    "note": [
+      "Accepted for filing by John T. Laettner, Judge of the Superior Court."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "1962"
+    ],
+    "title": [
+      "Recommended Minimum Water Well Construction and Sealing Standards for the Protection of Groundwater Quality, Alameda Cunty"
+    ],
+    "volume": [
+
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Bulletin"
+    ],
+    "issue": [
+      "74-2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "1963"
+    ],
+    "title": [
+      "Alameda County Investigation"
+    ],
+    "volume": [
+
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Bulletin"
+    ],
+    "issue": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "1967"
+    ],
+    "title": [
+      "Evaluation of Ground Water Resources, South Bay, Appendix A: Geology"
+    ],
+    "volume": [
+
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Bulletin"
+    ],
+    "issue": [
+      "118-1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "Ground Water Storage Capacity of a Portion of the East Bay Plain"
+    ],
+    "location": [
+      "Alameda County, California"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "Groundwater Basin Descriptions, San Francisco Bay Hydrologic Region, Santa Clara Valley Groundwater Basin, East Bay Plain Subbasin"
+    ],
+    "volume": [
+      "118"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Bulletin"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "NC Dataset Viewer"
+    ],
+    "note": [
+      "Accessed December 2019."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "California’s Groundwater"
+    ],
+    "volume": [
+      "118"
+    ],
+    "location": [
+      "Santa Clara Valley East Bay Plain"
+    ],
+    "note": [
+      "Accessed December 2019."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Bulletin"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Basin Prioritization"
+    ],
+    "note": [
+      "Available at:",
+      "Accessed October 4, 2019."
+    ],
+    "url": [
+      "https://water.ca.gov/Programs/Groundwater-Management/Basin-Prioritization."
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "East Bay Municipal Utility District (EBMUD"
+    ],
+    "date": [
+      "2012"
+    ],
+    "note": [
+      "Water Supply Management Program 2040."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "E.B.M.U.D."
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "title": [
+      "South East Bay Plain Basin"
+    ],
+    "publisher": [
+      "Groundwater Management Plan"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "E.B.M.U.D."
+      }
+    ],
+    "date": [
+      "2016",
+      "2015"
+    ],
+    "title": [
+      "East Bay Municipal Utility District Urban Water Management Plan"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "EKI",
+        "given": "HydroFocus"
+      },
+      {
+        "family": "Groundwater",
+        "given": "Todd"
+      }
+    ],
+    "date": [
+      "2018-06"
+    ],
+    "title": [
+      "Public Review Draft – San Mato Plain Groundwater Basin Assessment"
+    ],
+    "publisher": [
+      "Prepared for County of San Mateo"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Figuers",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Groundwater Study and Water Supply History of the East Bay Plain, Alameda and Contra Costa Counties, CA"
+    ],
+    "publisher": [
+      "Prepared for The Friends of San Francisco Estuary"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fio",
+        "given": "J."
+      },
+      {
+        "family": "Leighton",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "title": [
+      "Geohydrologic Framework, Historical Development of the Ground-Water System, and General Hydrologic and Water-Quality Conditions in 1990, South San Francisco Bay and Peninsula Area, California"
+    ],
+    "genre": [
+      "USGS Open-File Report (94-357)."
+    ],
+    "type": "report"
+  },
+  {
+    "title": [
+      "Fugro Consultants and Earth Mechanics",
+      "Final Marine Geotechnical Site Characterization"
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "San"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Inc",
+        "given": "Fugro West"
+      }
+    ],
+    "date": [
+      "1998-02"
+    ],
+    "title": [
+      "Well Completion Report"
+    ],
+    "volume": [
+      "97WR132, 97WR133"
+    ],
+    "pages": [
+      "97 134"
+    ],
+    "publisher": [
+      "Prepared for Alameda County Public Works Agency, Water Resources Section"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Drilling Permit Nos"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Inc",
+        "given": "Fugro West"
+      }
+    ],
+    "date": [
+      "1998-09"
+    ],
+    "title": [
+      "Oakport Groundwater Storage Pilot Project"
+    ],
+    "note": [
+      "Technical Memorandum No. 1, Phase 1, Task 1.1. Prepared for EBMUD."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Inc",
+        "given": "Fugro West"
+      }
+    ],
+    "date": [
+      "1999-06"
+    ],
+    "title": [
+      "Oakport Groundwater Storage Pilot Project"
+    ],
+    "volume": [
+      "1"
+    ],
+    "note": [
+      "Technical Memorandum No. 3, Phase 2 Field Investigation. Prepared for EBMUD."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Inc",
+        "given": "Fugro West"
+      }
+    ],
+    "date": [
+      "1999-06"
+    ],
+    "title": [
+      "Oakport Groundwater Storage Pilot Project"
+    ],
+    "volume": [
+      "2"
+    ],
+    "note": [
+      "- Technical Memorandum No. 3, Phase 2 Field Investigation, Appendix E – Water Quality Data. Prepared for EBMUD."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Inc",
+        "given": "Fugro West"
+      }
+    ],
+    "date": [
+      "2000-04"
+    ],
+    "title": [
+      "Well Completion Documentation, Oro Loma Nos"
+    ],
+    "note": [
+      "5 and 6. Prepared for EBMUD."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Inc",
+        "given": "Fugro West"
+      }
+    ],
+    "date": [
+      "2000-05"
+    ],
+    "title": [
+      "Hydrogeologic Investigation, East Bay Plain ASR Project, Farmhouse Site"
+    ],
+    "location": [
+      "Alameda County, California"
+    ],
+    "note": [
+      "Prepared for EBMUD."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Inc",
+        "given": "Fugro West"
+      }
+    ],
+    "date": [
+      "2000-06"
+    ],
+    "title": [
+      "Draft Hydrogeologic Investigation, East Bay Plain ASR Project"
+    ],
+    "publisher": [
+      "Davis Street Site"
+    ],
+    "location": [
+      "Alameda County, California"
+    ],
+    "note": [
+      "Prepared for EBMUD."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Inc",
+        "given": "Fugro West"
+      }
+    ],
+    "date": [
+      "2001-06"
+    ],
+    "genre": [
+      "Well Completion Report,"
+    ],
+    "publisher": [
+      "Bayside Well Nos"
+    ],
+    "note": [
+      "Q-1, R-1, and S-1. Prepared for EBMUD."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "August",
+        "given": "Fugro West Inc"
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "The Bayside Groundwater Project"
+    ],
+    "note": [
+      "Bayside Well No. 1 Inspection. Prepared for EBMUD."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "August",
+        "given": "Fugro West Inc"
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "Characterization of Existing Groundwater Quality for Bayside Groundwater Projects, Waste Discharge Requirements"
+    ],
+    "note": [
+      "Order No. R2-2007-0037, San Lorenzo, CA. Prepared for EBMUD."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "June",
+        "given": "Fugro West Inc"
+      }
+    ],
+    "date": [
+      "2009",
+      "2019"
+    ],
+    "title": [
+      "Monitoring Well Destruction and Instrumentation of Phase 1 Monitoring Wells, Bayside Groundwater Project, San Lorenzo and San Leandro, California"
+    ],
+    "note": [
+      "Accessed December 2019."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Prepared for EBMUD. Google Earth"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Maps",
+        "given": "Google"
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Street View Imagery"
+    ],
+    "note": [
+      "Accessed December 2019."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Grande",
+        "given": "E."
+      },
+      {
+        "family": "Visser",
+        "given": "A."
+      },
+      {
+        "family": "Beitz",
+        "given": "P."
+      },
+      {
+        "family": "Moran",
+        "given": "J.E."
+      }
+    ],
+    "date": [
+      "2019",
+      "1923"
+    ],
+    "title": [
+      "Examination of Nutrient Sources and Transport in a Catchment with an Audubon Certified Golf Course"
+    ],
+    "volume": [
+      "11(9"
+    ],
+    "url": [
+      "https://doi.org/10.3390/w11091923."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Water"
+    ],
+    "doi": [
+      "10.3390/w11091923."
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Hazen"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "East Bay Municipal Utility District 2050 Demand Study"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hickenbottom",
+        "given": "K."
+      },
+      {
+        "family": "K",
+        "given": "Muir"
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "title": [
+      "Geohydrology and Groundwater-Quality Overview of the East Bay Plain Area, Alameda County"
+    ],
+    "volume": [
+      "205"
+    ],
+    "note": [
+      "j). Report. Prepared for ACFCWCD and submitted to California Regional Water Quality Control Board, San Francisco Bay Region."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "California"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "HydroFocus"
+      },
+      {
+        "family": "Yates",
+        "given": "Gus"
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "Westside Basin Groundwater-Flow Model (version 2.0"
+    ],
+    "container-title": [
+      "Historical Calibration Run (1959-2005) Results and Sensitivity Analysis. Technical Memorandum"
+    ],
+    "publisher": [
+      "Prepared for City of Daly City"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Izbicki",
+        "given": "J."
+      },
+      {
+        "family": "Borchers",
+        "given": "J."
+      },
+      {
+        "family": "Leighton",
+        "given": "D."
+      },
+      {
+        "family": "Kulongoski",
+        "given": "J."
+      },
+      {
+        "family": "Fields",
+        "given": "L."
+      },
+      {
+        "family": "Galloway",
+        "given": "D."
+      },
+      {
+        "family": "Michel",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "Hydrogeology and Geochemistry of Aquifers Underlying the San Lorenzo and San Leandro Areas of the East Bay Plain"
+    ],
+    "location": [
+      "Alameda County, California"
+    ],
+    "note": [
+      "USGS Water-Resources Investigations Report (WRI) 02-4259."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "given": "Jennings"
+      }
+    ],
+    "date": [
+      "1977"
+    ],
+    "title": [
+      "Geologic Map of California: California Division of Mines and Geology"
+    ],
+    "volume": [
+
+    ],
+    "editor": [
+      {
+        "family": "Gutierrez",
+        "given": "C.",
+        "particle": "Updated version by"
+      },
+      {
+        "family": "Bryant",
+        "given": "W."
+      },
+      {
+        "family": "Saucedo",
+        "given": "G."
+      },
+      {
+        "family": "Willis",
+        "given": "C."
+      }
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geologic Data Map Series"
+    ],
+    "issue": [
+      "2, scale 1:750,000"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Patell",
+        "given": "M.",
+        "particle": "Digital preparation by"
+      },
+      {
+        "family": "Thompson",
+        "given": "J."
+      },
+      {
+        "family": "Wanish",
+        "given": "B."
+      },
+      {
+        "family": "Fonseca",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "K.",
+        "given": "Klausmeyer"
+      },
+      {
+        "family": "Howard",
+        "given": "J."
+      },
+      {
+        "family": "Keeler-Wolf",
+        "given": "T."
+      },
+      {
+        "family": "Davis-Fadtke",
+        "given": "K."
+      },
+      {
+        "family": "Hull",
+        "given": "R."
+      },
+      {
+        "family": "Lyons",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Mapping Indicators of Groundwater Dependent Ecosystems in California"
+    ],
+    "genre": [
+      "Methods Report."
+    ],
+    "location": [
+      "San Francisco, California"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Koltermann",
+        "given": "C."
+      },
+      {
+        "family": "Gorelick",
+        "given": "S.",
+        "particle": "and."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Paleoclimatic Signature in Terrestrial Flood Deposits"
+    ],
+    "volume": [
+      "256"
+    ],
+    "location": [
+      "June"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Science"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Land",
+        "given": "I.Q."
+      }
+    ],
+    "date": [
+      "2017",
+      "2014"
+    ],
+    "title": [
+      "Statewide Crop Mapping"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Luhdorff"
+      },
+      {
+        "family": "Engineers",
+        "given": "Scalmanini Consulting"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "East bay Plain, Aquifer Test Project, South East Bay Plain and Niles Cone Ground-Water Basins. Prepared for Alameda County Water District"
+    ],
+    "publisher": [
+      "City of Hayward, and East Bay Municipal Utility District"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Maslonkowski",
+        "given": "D.P."
+      }
+    ],
+    "date": [
+      "1984"
+    ],
+    "title": [
+      "Groundwater in the San Leandro and San Lorenzo Alluvial Cones of the East Bay Plain of Alameda County"
+    ],
+    "note": [
+      "Prepared for Alameda County Flood Control and Water Conservation District."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Muir",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "Geologic Framework of the East Bay Plain Groundwater Basin, Alameda County, California"
+    ],
+    "note": [
+      "Prepared for Alameda County Flood Control and Water Conservation District (ACFCWCD)."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Muir",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "Groundwater Recharge in the East Bay Plain Area"
+    ],
+    "location": [
+      "Alameda County, California"
+    ],
+    "note": [
+      "Prepared"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.N.C."
+      },
+      {
+        "family": "O’Geen",
+        "given": "A.T."
+      },
+      {
+        "family": "Saal",
+        "given": "M.B.B."
+      },
+      {
+        "family": "Dahlke",
+        "given": "H."
+      },
+      {
+        "family": "Doll",
+        "given": "D."
+      },
+      {
+        "family": "Elkins",
+        "given": "R."
+      },
+      {
+        "family": "Fulton",
+        "given": "A."
+      },
+      {
+        "family": "Fogg",
+        "given": "G."
+      },
+      {
+        "family": "Harter",
+        "given": "T."
+      },
+      {
+        "family": "Hopmans",
+        "given": "J.W."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Plant Rooting Depth Database"
+    ],
+    "url": [
+      "https://groundwaterresourcehub.org/public/uploads/pdfs/Plant_Rooting_Depth_Database_20180419.x"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ingels",
+        "given": "C."
+      },
+      {
+        "family": "Niederholzer",
+        "given": "F."
+      },
+      {
+        "family": "Sandovol Solis",
+        "given": "S."
+      },
+      {
+        "family": "P.",
+        "given": "Verdegaal"
+      },
+      {
+        "family": "M",
+        "given": "Walkinshaw"
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "Soil suitability Index Identifies Potential Areas for Groundwater Banking on Agricultural Lands"
+    ],
+    "volume": [
+      "69"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "California Agriculture"
+    ],
+    "pages": [
+      "7–84"
+    ]
+  },
+  {
+    "title": [
+      "Oro Loma Sanitary District Website"
+    ],
+    "note": [
+      "accessed September 2020."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Communication",
+        "given": "Personal"
+      }
+    ],
+    "date": [
+      "2020-10"
+    ],
+    "title": [
+      "James Yoo"
+    ],
+    "publisher": [
+      "Alameda County Public Works"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Phillips",
+        "given": "S.P."
+      },
+      {
+        "family": "Hamlin",
+        "given": "S.N."
+      },
+      {
+        "family": "E.B",
+        "given": "Yates"
+      }
+    ],
+    "date": [
+      "1993",
+      "1987"
+    ],
+    "title": [
+      "Geohydrology, Water Quality, and Estimation of GroundWater Recharge in San Francisco"
+    ],
+    "location": [
+      "California",
+      "Sacramento, CA"
+    ],
+    "genre": [
+      "Water-Resources Investigations Report (93-4019)."
+    ],
+    "publisher": [
+      "U.S. Geological Survey"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Rogers",
+        "given": "J."
+      },
+      {
+        "family": "Figuers",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "title": [
+      "Engineering Geologic Site Characterization of the Greater OaklandAlameda Area, Alameda and San Francisco Counties, California"
+    ],
+    "genre": [
+      "Final Report to"
+    ],
+    "publisher": [
+      "National Science Foundation"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "given": "S.C.I."
+      },
+      {
+        "family": "Engineers",
+        "given": "Todd"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "Hydrogeologic Investigation, Oakland Harbor Navigation Improvement (-50 Foot"
+    ],
+    "genre": [
+      "Project,"
+    ],
+    "publisher": [
+      "Port of Oakland"
+    ],
+    "location": [
+      "Oakland and Alameda, California"
+    ],
+    "note": [
+      "Prepared for Port of Oakland."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Serov",
+        "given": "P."
+      },
+      {
+        "family": "Kuginis",
+        "given": "L."
+      },
+      {
+        "family": "J.P",
+        "given": "Williams"
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "title": [
+      "Risk Assessment Guidelines for Groundwater Dependent Ecosystems: Volume 1—The Conceptual Framework"
+    ],
+    "publisher": [
+      "NSW Department of Primary Industries, Office of Water"
+    ],
+    "location": [
+      "Sydney"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sneed",
+        "given": "M."
+      },
+      {
+        "family": "Orlando",
+        "given": "P."
+      },
+      {
+        "family": "Borchers",
+        "given": "J."
+      },
+      {
+        "family": "Everett",
+        "given": "R."
+      },
+      {
+        "family": "Solt",
+        "given": "M.McGann"
+      },
+      {
+        "family": "Lowers",
+        "given": "H."
+      },
+      {
+        "family": "Mahan",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Lithostratigraphic",
+        "given": "Bore-Geophysical"
+      }
+    ],
+    "title": [
+      "Hydrogeologic, and Hydrochemical Data from the East Bay Plain, Alameda County, California"
+    ],
+    "container-title": [
+      "United States Geological Survey (USGS) Data Series 890"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Stege Sanitary District Website"
+    ],
+    "note": [
+      "accessed September 2020."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Inc.",
+        "given": "Subsurface Consultants"
+      },
+      {
+        "family": "Engineers",
+        "given": "Todd"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "Hydrogeologic Investigation, Oakland Harbor Navigation Improvement (-50 Foot"
+    ],
+    "genre": [
+      "Project,"
+    ],
+    "publisher": [
+      "Port of Oakland"
+    ],
+    "location": [
+      "Oakland and Alameda, California"
+    ],
+    "note": [
+      "Prepared for Port of Oakland."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Teague",
+        "given": "N."
+      },
+      {
+        "family": "Izbicki",
+        "given": "J."
+      },
+      {
+        "family": "Borchers",
+        "given": "J."
+      },
+      {
+        "family": "Kulongoski",
+        "given": "J."
+      },
+      {
+        "family": "Jurgens",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Hydrogeologic Controls and Geochemical Indicators of Groundwater Movement in the Niles Cone and Southern East Bay Plain Groundwater Subbasins, Alameda County, California"
+    ],
+    "genre": [
+      "Scientific Investigations Report 2018-5003. Original Report"
+    ],
+    "note": [
+      "Dated February 1, 2018. (Ver. 1.1 revised and dated February 1, 2019)."
+    ],
+    "type": "report"
+  },
+  {
+    "title": [
+      "United States Department of Agriculture (USDA"
+    ],
+    "date": [
+      "2016",
+      "2016"
+    ],
+    "publisher": [
+      "USDA, National Agricultural Statistics Service",
+      "Cropland Data Layer"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "United States Geological Survey (USGS"
+    ],
+    "date": [
+      "1999"
+    ],
+    "note": [
+      "Land Subsidence in the United States, Circular 1182."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Resources",
+        "given": "Water"
+      },
+      {
+        "family": "Engineering",
+        "given": "Information Management"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Niles Cone and South East Bay Plain Integrated Groundwater and Surface Water Model (NEBIGSM"
+    ],
+    "note": [
+      "Prepared for ACWD, EBMUD, and City of Hayward."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Associates",
+        "given": "West Yost"
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "City of Richmond Sewer Collection System Master Plan"
+    ],
+    "publisher": [
+      "Prepared for Veolia Water"
+    ],
+    "location": [
+      "N.A"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Woodard"
+      },
+      {
+        "given": "Curran"
+      },
+      {
+        "given": "Brown"
+      },
+      {
+        "given": "Caldwell"
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Updated Recycled Water Master Plan"
+    ],
+    "publisher": [
+      "East Bay Municipal Utility District"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Woodard"
+      },
+      {
+        "given": "Curran"
+      },
+      {
+        "given": "Todd"
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "Groundwater, Groundwater Assessment, and Indirect Potable Reuse Feasibility Evaluation and Implementation Strategy, Northwest County Recycled Water Strategic Plan"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Report Prepared for City of Palo Alto and Santa Clara Valley Water District"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Yates",
+        "given": "E.B."
+      },
+      {
+        "family": "S.N.",
+        "given": "Hamlin"
+      },
+      {
+        "family": "L.H",
+        "given": "McCann"
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "title": [
+      "Geohydrology, Water Quality, and Water Budgets of Golden Gate Park and Lake Merced area in the Western Part of San Francisco, California"
+    ],
+    "genre": [
+      "Water-Resources Investigations Report 90-4080."
+    ],
+    "publisher": [
+      "U.S. Geological Survey"
+    ],
+    "location": [
+      "Sacramento, CA"
+    ],
+    "type": "report"
+  },
+  {
+    "date": [
+      "2010"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1992"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1968"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1985"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1959"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1935"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1911"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2018"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2004"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2015"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1991"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2010"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1986"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1962"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fish",
+        "given": "California Department",
+        "particle": "of"
+      },
+      {
+        "given": "Wildlife"
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "California Natural Diversity Database"
+    ],
+    "note": [
+      "Accessed December 2019."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Grinnell",
+        "given": "J."
+      },
+      {
+        "family": "Miller",
+        "given": "A.H."
+      }
+    ],
+    "date": [
+      "1944"
+    ],
+    "title": [
+      "The Distribution of the Birds of California"
+    ],
+    "volume": [
+      "27"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Pac. Coast Avifauna"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Leidy",
+        "given": "R.A."
+      },
+      {
+        "family": "Becker",
+        "given": "G.S."
+      },
+      {
+        "family": "Harvey",
+        "given": "B.N."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Historical Distribution and Current Status of Steelhead/Rainbow Trout (Oncorhynchus mykiss) in Streams of the San Francisco Estuary, California"
+    ],
+    "publisher": [
+      "Center for Ecosystem Management and Restoration"
+    ],
+    "location": [
+      "Oakland, CA"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Leidy",
+        "given": "R.A."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "Ecology, Assemblage Structure, Distribution, and Status of Steelhead/Rainbow Trout (Oncorhynchus mykiss) in Streams of the San Francisco Estuary, California"
+    ],
+    "publisher": [
+      "Center for Ecosystem Management and Restoration"
+    ],
+    "location": [
+      "Oakland, CA"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Serov",
+        "given": "P."
+      },
+      {
+        "family": "Kuginis",
+        "given": "L."
+      },
+      {
+        "family": "P",
+        "given": "Williams J."
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "title": [
+      "Risk Assessment Guidelines for Groundwater Dependent Ecosystems"
+    ],
+    "volume": [
+
+    ],
+    "container-title": [
+      "Conceptual Framework. NSW Department of Primary Industries. Office of Water"
+    ],
+    "location": [
+      "Sydney"
+    ],
+    "issue": [
+      "e"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "editor": [
+      {
+        "family": "Shuford",
+        "given": "W.D."
+      },
+      {
+        "family": "Gardali",
+        "given": "T."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "California Bird Species of Special Concern: A Ranked Assessment of Species, Subspecies, and Distinct Populations of Birds of Immediate Conservation Concern in California. Studies of Western Birds 1"
+    ],
+    "publisher": [
+      "Western Field Ornithologists"
+    ],
+    "location": [
+      "Camarillo, California",
+      "Sacramento"
+    ],
+    "container-title": [
+      "and California Department of Fish and Game"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Fish",
+        "given": "U.S."
+      },
+      {
+        "family": "Service",
+        "given": "Wildlife"
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "Endangered and Threatened Wildlife and Plants; Designation of Critical Habitat for the California Red-Legged Frog, and Special Rule Exemption Associated With Final Listing for Existing Routine Ranching Activities"
+    ],
+    "note": [
+      "71 FR 19244."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fish",
+        "given": "U.S."
+      },
+      {
+        "family": "Service",
+        "given": "Wildlife"
+      }
+    ],
+    "date": [
+      "2010",
+      "2010"
+    ],
+    "title": [
+      "ECOS Environmental Conservation Online System Critical Habitat Mapper"
+    ],
+    "note": [
+      "Available at",
+      "Accessed November 15, 2021."
+    ],
+    "url": [
+      "https://ecos.fws.gov/ecp/report/table/critical-habitat.html."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fish",
+        "given": "U.S."
+      },
+      {
+        "family": "Service",
+        "given": "Wildlife"
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "Endangered and Threatened Wildlife and Plants: Revised Designation of Critical Habitat for California Red-Legged Frog; Final Rule"
+    ],
+    "note": [
+      "75 FR 12816."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "FC01"
+      }
+    ],
+    "title": [
+      "Grand Avenue at Weldon Ave"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "FJ01"
+    ],
+    "title": [
+      "- Altamont St"
+    ],
+    "note": [
+      "at Sunnymere"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "FK01"
+      }
+    ],
+    "title": [
+      "Hegenberger St"
+    ],
+    "note": [
+      "at Rudsdale 1000"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Dec-2019 Nov-2019 Oct-2019 Sep-2019 Aug-2019 Jul-2019 Jun-2019 May-2019 Apr-2019 Feb-2019 Mar-2019 Jan-2019 Dec-2018"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Nov-2018 Oct-2018 Sep-2018 Aug-2018 Jul-2018 Jun-2018 May-2018 Apr-2018 Feb-2018 Mar-2018 Jan-2018 Dec-2017 Nov-2017"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Oct-2017 Sep-2017 Aug-2017"
+    ],
+    "date": [
+      "2017-01"
+    ],
+    "note": [
+      "Flow (cfs"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "M02A0001"
+    ],
+    "author": [
+      {
+        "literal": "-"
+      }
+    ],
+    "title": [
+      "Estudillo Canal at Manor Bvld"
+    ],
+    "container-title": [
+      "Dec-2019 Nov-2019 Oct-2019 Sep-2019 Aug-2019"
+    ],
+    "type": "chapter"
+  },
+  {
+    "date": [
+      "2019-02"
+    ],
+    "note": [
+      "Jan-2019 Dec-2018 Nov-2018 Oct-2018 Sep-2018 Aug-2018 Jul-2018"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Jun-2018 May-2018 Apr-2018 Feb-2018 Mar-2018 Jan-2018 Dec-2017 Nov-2017 Oct-2017 Sep-2017 Aug-2017"
+    ],
+    "date": [
+      "2017-06"
+    ],
+    "type": "chapter"
+  },
+  {
+    "date": [
+      "2017-01"
+    ],
+    "note": [
+      "Final depth (ft"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "M02B0002"
+    ],
+    "author": [
+      {
+        "literal": "-"
+      }
+    ],
+    "title": [
+      "San Lorenzo Creek at Don Castro Reservoir (dam crest"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Dec-2019 Nov-2019 Oct-2019 Sep-2019 Aug-2019 Jul-2019 Jun-2019 May-2019 Apr-2019 Feb-2019 Mar-2019 Jan-2019 Dec-2018"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Nov-2018 Oct-2018 Sep-2018 Aug-2018 Jul-2018 Jun-2018 May-2018 Apr-2018 Feb-2018 Mar-2018 Jan-2018 Dec-2017 Nov-2017"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Oct-2017 Sep-2017 Aug-2017"
+    ],
+    "date": [
+      "2017-01"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Dec-2019 Nov-2019 Oct-2019 Sep-2019 Aug-2019 Jul-2019 Jun-2019 May-2019 Apr-2019 Feb-2019 Mar-2019 Jan-2019 Dec-2018"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Nov-2018 Oct-2018 Sep-2018 Aug-2018 Jul-2018 Jun-2018 May-2018 Apr-2018 Feb-2018 Mar-2018 Jan-2018 Dec-2017 Nov-2017"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Oct-2017 Sep-2017 Aug-2017"
+    ],
+    "date": [
+      "2017-01"
+    ],
+    "note": [
+      "Flow (cfs"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "M03B0001"
+    ],
+    "author": [
+      {
+        "literal": "-"
+      }
+    ],
+    "title": [
+      "Ward Creek at Folsom and Thackery Dec-2019 Nov-2019 Oct-2019 Sep-2019 Aug-2019"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2019-02"
+    ],
+    "note": [
+      "Jan-2019 Dec-2018 Nov-2018 Oct-2018 Sep-2018 Aug-2018 Jul-2018"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Jun-2018 May-2018 Apr-2018 Feb-2018 Mar-2018 Jan-2018 Dec-2017 Nov-2017 Oct-2017 Sep-2017 Aug-2017"
+    ],
+    "date": [
+      "2017-06"
+    ],
+    "type": "chapter"
+  },
+  {
+    "date": [
+      "2017-01"
+    ],
+    "title": [
+      "Flow (cfs) M06L0004"
+    ],
+    "publisher": [
+      "Mission Creek Creek below Mission Blvd"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "Dec-2019 Nov-2019 Oct-2019 Sep-2019 Aug-2019 Jul-2019 Jun-2019 May-2019 Apr-2019 Feb-2019 Mar-2019 Jan-2019 Dec-2018"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Nov-2018 Oct-2018 Sep-2018 Aug-2018 Jul-2018 Jun-2018 May-2018 Apr-2018 Feb-2018 Mar-2018 Jan-2018 Dec-2017 Nov-2017"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Oct-2017 Sep-2017 Aug-2017"
+    ],
+    "date": [
+      "2017-01"
+    ],
+    "note": [
+      "Flow (cfs"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "M06E0001"
+    ],
+    "author": [
+      {
+        "family": "S",
+        "given": "Laguna Creek",
+        "particle": "at"
+      }
+    ],
+    "title": [
+      "Grimmer Blvd"
+    ],
+    "container-title": [
+      "Dec-2019 Nov-2019 Oct-2019 Sep-2019 Aug-2019"
+    ],
+    "type": "chapter"
+  },
+  {
+    "date": [
+      "2019-02"
+    ],
+    "note": [
+      "Jan-2019 Dec-2018 Nov-2018 Oct-2018 Sep-2018 Aug-2018 Jul-2018"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Jun-2018 May-2018 Apr-2018 Feb-2018 Mar-2018 Jan-2018 Dec-2017 Nov-2017 Oct-2017 Sep-2017 Aug-2017"
+    ],
+    "date": [
+      "2017-06"
+    ],
+    "type": "chapter"
+  },
+  {
+    "date": [
+      "2017-01"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1994"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1999"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2004"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2009"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2013"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2018"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Deep Shallow Intermediate Deep Deep Intermediate Intermediate Deep Deep Deep Deep Shallow Intermediate Intermediate Shallow Intermediate Deep 12/9/2015 12/9/2015 12/9/2015 1/28/2016 4/1/2011 4/1/2011 4/1/2011 4/1/2011 4/1/2011 4/1/2011 5/22/2014 10/1/2011 4/11/2016 4/1/2012 5/22/2014 5/22/2014 4/1/2011 4/1/2012 4/1/2011 10/1/2011 11/6/2020 11/6/2020 11/6/2020 1/19/2021 1/19/2021"
+    ],
+    "date": [
+      "1/19/2021 1/19/2021 1/19/2021 1/19/2021 1/19/2021 1/19/2021 1/19/2021 1/19/2021 1/19/2021 1/19/2021 1/19/2021 1/19/2021 1/19/2021 1/19/2021 1/19/2021"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "September 16, 2021 REFERENCES City of Alameda"
+    ],
+    "date": [
+      "2021",
+      "2040"
+    ],
+    "publisher": [
+      "Alameda General Plan"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Albany",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "Albany 2035 General Plan"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Berkeley",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "City of Berkeley General Plan: A Guide for Public Decision‐Making"
+    ],
+    "publisher": [
+      "Department of Planning & Development"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "El Cerrito",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "El Cerrito General Plan"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Emeryville",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "Emeryville General Plan"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hayward",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "Hayward 2040 General Plan Policy Document"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Oakland",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "Open Space Conservation and Recreation, An Element of the Oakland General Plan"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "City of Oakland General Plan, Land Use and Transportation Element"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Richmond",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2012",
+      "2030"
+    ],
+    "title": [
+      "Richmond General Plan"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "San Leandro",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "San Leandro 2035 General Plan"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "San Pablo",
+        "given": "City",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2011",
+      "2030"
+    ],
+    "publisher": [
+      "San Pablo General Plan"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "County",
+        "given": "Contra Costa"
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Contra Costa County General Plan, 2005–2020"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Department of Conservation and Development"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Alameda",
+        "given": "County",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "Eden Area General Plan"
+    ],
+    "publisher": [
+      "Alameda County Community Development Agency"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "CA Department of Water Resources CA Department of Water Resources Bay Area Water Supply & Conservation Agency Bay Area Water Supply & Conservation Agency CA Department of Water Resources"
+    ],
+    "type": null
+  },
+  {
+    "publisher": [
+      "City of Berkeley City of Hayward City of Richmond City of Albany City of Berkeley City of Berkeley City of San Leandro City of Emeryville City of Oakland City of Piedmont City of Berkeley Contra Costa County Water Agency City of Berkeley Public Works City of Albany City of Piedmont City of San Leandro City of Emeryville City of Berkeley City of Oakland City of Oakland City of Richmond City of San Leandro"
+    ],
+    "type": "book"
+  },
+  {
+    "publisher": [
+      "City of San Leandro City of San Pablo City of San Pablo City of Alameda City of Oakland City of Richmond Contra Costa County Conservation and Development City of Alameda Contra Costa County Public Works City of Berkeley"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "1945"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1945"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1945"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1945"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1945"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1945"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1945"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1940"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1945"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1945"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1945"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1945"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1945"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1945"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1945"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1945"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "–50 –65"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Well Name: 02S/03W-27H08 Depth Zone: Unknown Subbasin: East Bay Plain GSE"
+    ],
+    "genre": [
+      "(ft, msl):"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1945"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Well Name: 02S/03W-28G02 Depth Zone: Unknown Subbasin: East Bay Plain GSE"
+    ],
+    "genre": [
+      "(ft, msl):"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1945"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1945"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1945"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1945"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1945"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1945"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1945"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1945"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1945"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1945"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1945"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Deep Shallow Intermediate Intermediate Shallow Intermediate Deep Shallow Shallow Deep Shallow TBD Shallow TBD Shallow Intermediate Shallow Intermediate Deep Shallow Intermediate Deep Deep Deep Deep Deep Deep"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Port of Oakland Port of Oakland Port of Oakland Port of Oakland Port of Oakland Port of Oakland Port of Oakland Port of Oakland Port of Oakland Port of Oakland Port of Oakland Port of Oakland Port of Oakland Port of Oakland"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Drought"
+      }
+    ],
+    "date": [
+      "2022",
+      "2025",
+      "2029"
+    ],
+    "title": [
+      "Drought ‐ 2023 2024 Drought",
+      "Wet ‐ 2027 Wet ‐ 2028 Wet"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Drought"
+      }
+    ],
+    "date": [
+      "2022",
+      "2025",
+      "2029"
+    ],
+    "title": [
+      "Drought ‐ 2023 2024 Drought",
+      "Wet ‐ 2027 Wet ‐ 2028 Wet"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6.B."
+    ],
+    "title": [
+      "Contact Information for Plan Manager and GSA Mailing Address (Reg. Section 354.6) Appendix 6.B"
+    ],
+    "note": [
+      "Contact Information for Plan Manager and GSA Mailing Address (Reg. § 354.6"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Appendix 6.C"
+    ],
+    "publisher": [
+      "List of Public Meetings"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "APPENDIX 6D | SEPTEMBER 2021"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Plan",
+        "given": "Hayward Regional Shoreline Master"
+      }
+    ],
+    "date": [
+      "2019-11"
+    ],
+    "title": [
+      "– This study documented various SLR projections for mapping inundation areas. These SLR projections included a range from 2.4 to 6.9 feet for the year 2100 and were based on the California Ocean Protection Council (2018) Study"
+    ],
+    "container-title": [
+      "Another cited reference is the California Coastal Commission (CCC) 2018 Guidance, which provides ranges of 0.5"
+    ],
+    "note": [
+      "17% exceedance probability) to 0.8 feet (0.5% exceedance probability) for 2030 and 1.9 (17% exceedance probability) to 3.5 feet (0.5% exceedance probability) for 2070."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Ackerly",
+        "given": "D.J."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "San Francisco Bay Area Summary Report"
+    ],
+    "publisher": [
+      "University of California"
+    ],
+    "location": [
+      "Berkeley"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rising Tides",
+        "given": "Adapting",
+        "particle": "to"
+      }
+    ],
+    "date": [
+      "2020-03"
+    ],
+    "title": [
+      "Adapting to Rising Tides, Bay Area: Regional Sea Level Rise Vulnerability and Adaptation Study"
+    ],
+    "container-title": [
+      "Bay Conservation and Development Commission (BCDC) and Metropolitan Transportation commission/Association of Bay Area Governments (MTC/ABAG"
+    ],
+    "location": [
+      "San Francisco, CA"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "California Department of Water Resources (DWR",
+      "Perspectives and Guidance for Climate Change Analysis"
+    ],
+    "date": [
+      "2015-08",
+      "2018-07"
+    ],
+    "container-title": [
+      "Climate Change Technical Advisory Group (CCTAG), DWR Sustainable Groundwater Management Program"
+    ],
+    "publisher": [
+      "Guidance for Climate Change Data Use During Groundwater Sustainability Plan Development"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "DWR Sustainable Groundwater Management Program",
+      "Resource Guide for DWR-Provided Climate Change Data and Guidance for Use During Groundwater Sustainability Plan Development"
+    ],
+    "date": [
+      "2018-07"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Commission",
+        "given": "California Coastal"
+      }
+    ],
+    "date": [
+      "2018",
+      "2018"
+    ],
+    "title": [
+      "Sea Level Rise Policy Guidance Science"
+    ],
+    "location": [
+      "Sacramento"
+    ],
+    "publisher": [
+      "CA. Update"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Council",
+        "given": "California Ocean Protection"
+      }
+    ],
+    "date": [
+      "2018",
+      "2018"
+    ],
+    "title": [
+      "State of California, Sea-Level Rise Guidance"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Update"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Griggs",
+        "given": "G."
+      },
+      {
+        "family": "Arvai",
+        "given": "J."
+      },
+      {
+        "family": "Cayan",
+        "given": "D."
+      },
+      {
+        "family": "DeConto",
+        "given": "R."
+      },
+      {
+        "family": "Fox",
+        "given": "J."
+      },
+      {
+        "family": "Fricker",
+        "given": "H.A."
+      },
+      {
+        "family": "Kopp",
+        "given": "R.E."
+      },
+      {
+        "family": "Tebaldi",
+        "given": "C."
+      },
+      {
+        "family": "EA",
+        "given": "Whiteman"
+      }
+    ],
+    "date": [
+      "2017-04"
+    ],
+    "title": [
+      "Seas in California: An Update on Sea-Level Rise Science, Rising"
+    ],
+    "publisher": [
+      "California Ocean Protection Council Science Advisory Team Working Group. Report Prepared for California Ocean Science Trust"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Hazen"
+      }
+    ],
+    "date": [
+      "2020-07"
+    ],
+    "title": [
+      "East Bay Municipal Utility District, 2050 Demand Study"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "May",
+        "given": "C.L."
+      },
+      {
+        "family": "Mohan",
+        "given": "A.T."
+      },
+      {
+        "family": "Mak",
+        "given": "M."
+      },
+      {
+        "family": "September",
+        "given": "Y.Badet"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "The Response of the Shallow Groundwater Layer and Contaminants to Sea Level Rise"
+    ],
+    "container-title": [
+      "Report by Silvestrum Climate Associates for the City of Alameda"
+    ],
+    "location": [
+      "California"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Council",
+        "given": "National Research"
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "title": [
+      "Sea-Level Rise for the Coasts of California, Oregon, and Washington: Past Present and Future"
+    ],
+    "publisher": [
+      "The National Academies Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "SCAPE",
+        "given": "A.R.C.A.D.I.S."
+      },
+      {
+        "family": "Convey",
+        "given": "re"
+      },
+      {
+        "family": "focus"
+      },
+      {
+        "family": "Institute",
+        "given": "San Francisco Estuary"
+      }
+    ],
+    "date": [
+      "2019-11"
+    ],
+    "title": [
+      "Hayward Regional Shoreline Master Plan, Task 2, Data Collection and Sea Level Rise Mapping Report"
+    ],
+    "note": [
+      "Prepared for the Hayward Area Shoreline Planning Agency (HASPA)."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "U.S.G.C.R.P."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "Fourth National Climate. Assessment Climate Science Special Report"
+    ],
+    "volume": [
+      "1"
+    ],
+    "location": [
+      "Washington DC"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "X:\\2018\\18-012 East Bay Plain GSP\\GIS\\MapFiles\\Climate Change\\Change Factors.aprx:Figure X-X32"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "January-December Streamflow Change Factors for 2030 and 2070 by Watershed East Bay Plain Subbasin Groundwater Sustainability Plan"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Modeled and Observed Groundwater Contours in the Shallow, Intermediate, and Deep Aquifer Zones – 1995 Figure 4-9"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Modeled and Observed Groundwater Contours in the Shallow, Intermediate, and Deep Aquifer Zones – 2011 Figure 4-10"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Annual Simulated Water Budget for the East Bay Plain Subbasin, 1990 – 2015 Figure 4-11a-b Hydrographs of Modeled and Observed 2002 Aquifer Test Data Figure 4-12"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Observed vs Simulated Drawdown Attained for 2002 Aquifer Test Figure 4-13a-b Hydrographs of Modeled and Observed 2010 Aquifer Test Data Figure 4-14"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Observed vs Simulated Drawdown Attained for 2010 Aquifer Test Figure 4-15"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Contour Map of Modeled Drawdown Attained during 2010 Aquifer Test with Observed Values Posted"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Alameda County Flood Control and Water Conservation District",
+      "Geohydrology and Groundwater –Quality Overview"
+    ],
+    "date": [
+      "1988"
+    ],
+    "publisher": [
+      "East Bay Plain Area"
+    ],
+    "location": [
+      "Alameda County, California",
+      "June"
+    ],
+    "edition": [
+      "205(J) Report"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "District",
+        "given": "Alameda County Water"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "note": [
+      "Groundwater Monitoring Report 2019."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "given": "Aquaveo"
+      }
+    ],
+    "date": [
+      "2018",
+      "2016"
+    ],
+    "title": [
+      "Groundwater Modeling System 10.4.1. https://www.aquaveo.com/software/gmsgroundwater‐modeling‐system‐introduction California Department of Water Resources (DWR",
+      "Modeling BMP, Best Management Practices for the Sustainable Management of Groundwater"
+    ],
+    "container-title": [
+      "December"
+    ],
+    "pages": [
+      "43"
+    ],
+    "url": [
+      "https://water.ca.gov/-/media/DWRWebsite/Web-Pages/Programs/Groundwater-Management/Sustainable-GroundwaterManagement/Best-Management-Practices-and-Guidance-Documents/Files/BMP-5-Modeling_ay_19.pdf"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "Ground Water Storage Capacity of a Portion of the East Bay Plain"
+    ],
+    "location": [
+      "Alameda County, California"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "CH2M",
+        "given": "H.I.L.L."
+      }
+    ],
+    "date": [
+      "2001",
+      "2001-05"
+    ],
+    "title": [
+      "South East Bay Plain Groundwater Model Calibration"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Access"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "CH2M",
+        "given": "H.I.L.L."
+      }
+    ],
+    "date": [
+      "2001",
+      "2001-06"
+    ],
+    "title": [
+      "Bayside Wellfield Simulation Results"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Access"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "CH2M",
+        "given": "H.I.L.L."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "East Bay Municipal Utility District, Bayside Groundwater Project"
+    ],
+    "volume": [
+
+    ],
+    "container-title": [
+      "Prepared for EBMUD",
+      "SCH"
+    ],
+    "pages": [
+      "301"
+    ],
+    "type": "article-journal",
+    "issue": [
+      "2000092044"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Doherty",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "PEST, Model-independent Parameter Estimation—User manual",
+      "with slight additions"
+    ],
+    "edition": [
+      "5th"
+    ],
+    "location": [
+      "Brisbane, Australia"
+    ],
+    "publisher": [
+      "Watermark Numerical Computing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "J.E.",
+        "given": "Doherty"
+      },
+      {
+        "family": "Hunt",
+        "given": "R.J."
+      }
+    ],
+    "date": [
+      "2010",
+      "2010"
+    ],
+    "title": [
+      "Approaches to Highly Parameterized Inversion: A Guide to Using PEST for Groundwater-Model Calibration"
+    ],
+    "pages": [
+      "70"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "USGS Scientific Investigations Report"
+    ]
+  },
+  {
+    "url": [
+      "https://pubs.usgs.gov/sir/2010/5169/pdf/GWPEST_sir2010-5169.pdf"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "DWR Groundwater Basin Boundary Assessment Tool (BBAT) – Last updated 2/11/2019"
+    ],
+    "url": [
+      "https://gis.water.ca.gov/app/bbat/."
+    ],
+    "note": [
+      "Accessed March 2021."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "title": [
+      "Santa Clara Valley East Bay Plain"
+    ],
+    "volume": [
+      "118"
+    ],
+    "note": [
+      "Accessed December 2019."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "California’s Groundwater. Bulletin"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "D.W.R."
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "National Hydrography Dataset"
+    ],
+    "url": [
+      "https://data.cnra.ca.gov/dataset/national-hydrographydataset-nhd."
+    ],
+    "note": [
+      "Accessed June 2020."
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "East Bay Municipal Utility District (EBMUD"
+    ],
+    "date": [
+      "2013"
+    ],
+    "publisher": [
+      "South East Bay Plain Basin Groundwater Management Plan"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Environment",
+        "given": "E.K.I."
+      },
+      {
+        "family": "Water",
+        "given": "Todd Groundwater"
+      },
+      {
+        "given": "Hydrofocus"
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "title": [
+      "San Mateo Plain Groundwater Basin Assessment"
+    ],
+    "container-title": [
+      "Prepared for the County of San Mateo. July"
+    ],
+    "pages": [
+      "397"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Freeze",
+        "given": "R.A."
+      },
+      {
+        "family": "Cherry",
+        "given": "J.A."
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "title": [
+      "Groundwater: Englewood Cliffs"
+    ],
+    "container-title": [
+      "NJ, Prentice-Hall"
+    ],
+    "pages": [
+      "604"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Consultants",
+        "given": "Fugro"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "date": [
+      "2011-09",
+      "2010"
+    ],
+    "title": [
+      "The Bayside Groundwater Project",
+      "Phase 1 Well Aquifer Test"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fregoso",
+        "given": "T.A."
+      },
+      {
+        "family": "Wang",
+        "given": "R.-F."
+      },
+      {
+        "family": "Alteljevich",
+        "given": "E."
+      },
+      {
+        "family": "Jaffe",
+        "given": "B.E."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "San Francisco Bay-Delta Bathymetric/Topographic Digital Elevation Model (DEM"
+    ],
+    "url": [
+      "https://doi.org/10.5066/F7GH9G27."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "U.S. Geological Survey, Data Release"
+    ],
+    "doi": [
+      "10.5066/F7GH9G27."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hanson",
+        "given": "R.T."
+      },
+      {
+        "family": "Li",
+        "given": "Z."
+      },
+      {
+        "family": "Faunt",
+        "given": "C.C."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Documentation of the Santa Clara Valley Regional Groundwater/Surface-Water Flow Model"
+    ],
+    "location": [
+      "Santa Clara County, California"
+    ],
+    "note": [
+      "Scientific Investigations Report. 2004-5231."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Harbaugh",
+        "given": "A.W."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "MODFLOW‐2005. The US Geological Survey Modular Ground‐Water Model‐ the Ground‐Water Flow Process"
+    ],
+    "volume": [
+      "6‐A16"
+    ],
+    "url": [
+      "https://pubs.usgs.gov/tm/2005/tm6A16/"
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "U. S. Geological Survey. Techniques and Methods"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "HydroFocus"
+      }
+    ],
+    "date": [
+      "2017-03",
+      "1959"
+    ],
+    "title": [
+      "Westside Basin Groundwater Flow Model: Extended and Updated Model Simulation Results"
+    ],
+    "volume": [
+      "4"
+    ],
+    "note": [
+      "Prepared for Daly City."
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Version"
+    ],
+    "issue": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Jennings"
+      }
+    ],
+    "date": [
+      "1977"
+    ],
+    "title": [
+      "Geologic Map of California: California Division of Mines and Geology"
+    ],
+    "volume": [
+
+    ],
+    "editor": [
+      {
+        "family": "Gutierrez",
+        "given": "C.",
+        "particle": "Updated version by"
+      },
+      {
+        "family": "Bryant",
+        "given": "W."
+      },
+      {
+        "family": "Saucedo",
+        "given": "G."
+      },
+      {
+        "family": "Willis",
+        "given": "C."
+      }
+    ],
+    "type": "article-journal",
+    "container-title": [
+      "Geologic Data Map Series"
+    ],
+    "issue": [
+      "2, scale 1:750,000"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Patell",
+        "given": "M.",
+        "particle": "Digital preparation by"
+      },
+      {
+        "family": "Thompson",
+        "given": "J."
+      },
+      {
+        "family": "Wanish",
+        "given": "B."
+      },
+      {
+        "family": "Fonseca",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "N.L.",
+        "given": "Jones"
+      },
+      {
+        "family": "Strassberg",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "The Arc Hydro MODFLOW Data Model, Water Resources Impact"
+    ],
+    "volume": [
+      "10"
+    ],
+    "pages": [
+      "17–19"
+    ],
+    "issue": [
+      "1"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "LaBolle",
+        "given": "E.M."
+      },
+      {
+        "family": "Ahmed",
+        "given": "A.A."
+      },
+      {
+        "family": "Fogg",
+        "given": "G.E."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Investigations of Methods Used in the Integrated Groundwater and Surface‐Water Model. Department of Land, Air and Water Resources"
+    ],
+    "publisher": [
+      "Hydrologic Graduate Group. University of California Davis. October"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Luhdorff"
+      },
+      {
+        "family": "Engineers",
+        "given": "Scalmanini Consulting"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "East Bay Plain Aquifer Test Project"
+    ],
+    "publisher": [
+      "South East Bay Plain and Niles Cone Ground-water Basins. April"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Team",
+        "given": "L.S.C.E."
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "title": [
+      "Technical Memorandum for Subtask 4.3 Model Objectives and Selection for the East Bay Plain Subbasin Groundwater Sustainability Plan"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Montgomery",
+        "given": "James M.September"
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "title": [
+      "Alameda County Water District Integrated GroundwaterSurface Water Model"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Muir",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "Groundwater Recharge in the East Bay Plain Area"
+    ],
+    "location": [
+      "Alameda County, California"
+    ],
+    "note": [
+      "Prepared for ACFCWCD."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Niswonger",
+        "given": "R.G."
+      },
+      {
+        "family": "Prudic",
+        "given": "D.E."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Documentation of the Streamflow‐Routing (SFR2) Package to include unsaturated flow beneath streams—A modification to SFR1"
+    ],
+    "container-title": [
+      "US Geological Survey Techniques and Methods 6‐A13"
+    ],
+    "pages": [
+      "50"
+    ],
+    "url": [
+      "https://pubs.usgs.gov/tm/2006/tm6A13/"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Niswonger",
+        "given": "R.G."
+      },
+      {
+        "family": "Panday",
+        "given": "Sorab"
+      },
+      {
+        "family": "Ibaraki",
+        "given": "Motomu"
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "MODFLOW-NWT, A Newton Formulation for MODFLOW-2005"
+    ],
+    "container-title": [
+      "U.S. Geological Survey Techniques and Methods 6-A37"
+    ],
+    "pages": [
+      "44"
+    ],
+    "url": [
+      "http://pubs.usgs.gov/tm/tm6a37/"
+    ],
+    "type": "chapter"
+  },
+  {
+    "date": [
+      "2008"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Dataset",
+        "given": "Calibration"
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "Aquifer Pump Test 2010 Aquifer Pump Test 2010 Aquifer Pump Test 2010 Aquifer Pump Test 2010 Aquifer Pump Test 2010 Aquifer Pump Test 2010 Aquifer Pump Test 2010 Aquifer Pump Test 2010 Aquifer Pump Test 2010 Aquifer Pump Test 2010 Aquifer Pump Test 2010 Aquifer Pump Test 2010 Aquifer Pump Test 2010 Aquifer Pump Test 2010 Aquifer Pump Test 2010 Aquifer Pump Test 2010 Aquifer Pump Test 2010 Aquifer Pump Test 2010 Aquifer Pump Test 2010 Aquifer Pump Test 2010 Aquifer Pump Test 2010 Aquifer Pump Test 2010 Aquifer Pump Test 2010 Aquifer Pump Test 2010 Aquifer Pump Test 2010 Aquifer Pump Test 2002 Aquifer Pump Test 2002 Aquifer Pump Test 2002 Aquifer Pump Test 2002 Aquifer Pump Test 2002 Aquifer Pump Test 2002 Aquifer Pump Test 2002 Aquifer Pump Test 2002 Aquifer Pump Test 2002 Aquifer Pump Test 2002 Aquifer Pump Test 2002 Aquifer Pump Test 2002 Aquifer Pump Test 2002 Aquifer Pump Test 2002 Aquifer Pump Test 2002 Aquifer Pump Test Historical Historical Historical and"
+    ],
+    "publisher": [
+      "Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Historical",
+        "given": "Calibration Dataset Historical"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State Historical"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State Historical"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State Historical"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "family": "Historical",
+        "given": "Steady State"
+      },
+      {
+        "given": "Steady"
+      }
+    ],
+    "publisher": [
+      "State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State Historical and Steady State"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "Layer/Aquifer Zone Layers 1-3; Shallow Aquifer Zone Layers 1-3; Shallow Aquifer Zone Layers 1-3; Shallow Aquifer Zone Layers 1-3; Shallow Aquifer Zone Layers 1-3; Shallow Aquifer Zone Layers 1-3; Shallow Aquifer Zone Layers 1-3; Shallow Aquifer Zone Layers 1-3; Shallow Aquifer Zone Layers 1-3; Shallow Aquifer Zone Layers 1-3; Shallow Aquifer Zone Layers 1-3; Shallow Aquifer Zone Layers 1-3; Shallow Aquifer Zone Layers 1-3; Shallow Aquifer Zone Layers 1-3; Shallow Aquifer Zone"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Layer 8; Lower Aquitard Layers 10-11; Deep Aquifer Zone Layers 10-11; Deep Aquifer Zone Layers 10-11; Deep Aquifer Zone Layers 10-11; Deep Aquifer Zone Layers 10-11; Deep Aquifer Zone Layers 10-11; Deep Aquifer Zone Layers 10-11; Deep Aquifer Zone"
+    ],
+    "type": null
+  }
+]
