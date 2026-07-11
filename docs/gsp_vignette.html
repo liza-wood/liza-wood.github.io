@@ -1,0 +1,1151 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+<meta name="author" content="Liza Wood" />
+<meta name="author" content="Tyler A. Scott" />
+
+
+<title>The science informing California’s Groundwater Sustainability
+Plans</title>
+
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<script src="site_libs/htmlwidgets-1.6.0/htmlwidgets.js"></script>
+<link href="site_libs/datatables-css-0.0.0/datatables-crosstalk.css" rel="stylesheet" />
+<script src="site_libs/datatables-binding-0.26/datatables.js"></script>
+<link href="site_libs/dt-core-1.12.1/css/jquery.dataTables.min.css" rel="stylesheet" />
+<link href="site_libs/dt-core-1.12.1/css/jquery.dataTables.extra.css" rel="stylesheet" />
+<script src="site_libs/dt-core-1.12.1/js/jquery.dataTables.min.js"></script>
+<link href="site_libs/crosstalk-1.2.0/css/crosstalk.min.css" rel="stylesheet" />
+<script src="site_libs/crosstalk-1.2.0/js/crosstalk.min.js"></script>
+<script src="site_libs/kePrint-0.0.1/kePrint.js"></script>
+<link href="site_libs/lightable-0.0.1/lightable.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">govscienceuseR</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="gsp_vignette.html">Vignettes</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">The science informing California’s
+Groundwater Sustainability Plans</h1>
+<h3 class="subtitle">A test case using <code>govscienceuseR</code>
+tools</h3>
+<h4 class="author">Liza Wood</h4>
+<h4 class="author">Tyler A. Scott</h4>
+
+</div>
+
+
+<div id="introduction" class="section level3">
+<h3>Introduction</h3>
+<p>Aligning scientific supply with policy demand in order to develop
+evidence-based policy is considered a gold standard by many accounts.
+The Biden Administration recently reaffirmed that ‘It is the policy of
+[the Biden] Administration to make evidence-based decisions guided by
+the best available science and data… Scientific findings should never be
+distorted or influenced by political considerations’ (Biden, 2021). This
+sentiment has been echoed by the calls for use-inspired basic research
+to deliver innovative solutions in service of social and environmental
+goals (Stokes 2011; Fuglie &amp; Toole 2014).</p>
+<p>However, there is broad recognition that promoting evidence-based
+policymaking at face value overlooks challenges related to knowledge
+politics and the selective use of science. Namely, policymakers’
+emphasis on science as a neutral arbiter masks the politics of
+generating and communicating scientific knowledge (Sarewitz 2000).
+Rather than seeing science as independent, supply and demand of science
+are politically linked (Sarewitz &amp; Pielke 2007). As such, research
+to support evidence-based policymaking requires intentional engagement
+by scientists to not only reduce uncertainty through high-quality
+research, but also reduce ambiguity through strategic communication and
+problem framing (Cairney 2016). Emphasis on communication is echoed by
+literature on boundary spanners that can broker between the scientific
+and policy communities (Guston 2001).</p>
+<!--- Qualitative case descriptions have described the recursive science-policy relationship for environmental issues such as acid rain, ozone repletion, and climate change (Pielke & Betsill 1997; Sarewitz 2000)--->
+<p>Recognizing the complex interplay of science and policymaking, what
+methods can we use to better understand these dynamics? Through surveys
+and interviews of public servants, studies find wide variation in how
+policy makers interact with scientific information (Newman et al. 2016),
+and highlight that internal governmental reports and personal networks
+are among the most popular sources of information (Piczak et al. 2022).
+These findings have been supported and detailed through a handful of
+bibliometric analyses of policy documents. Desmaris and Herd (2014)
+evaluated 102 Regulatory Impact Assessments, confirming a majority of
+governmental citations and describing the prevalence of disciplines like
+economics, environmental science, and public health from high-impact
+journals across 1,378 scholarly citations. Koontz (2022) finds similar
+trends when analyzing 12 salmon recovery plans, categorizing 1,104
+references from various sources (academic, governmental, organizational,
+etc.) and expanding on how science is used to support causal
+arguments.</p>
+<p>The insights from bibliometric analyses of policy documents lay an
+important foundation for systematically quantifying the evidence used to
+support policy. However, manually extracting and indexing references can
+be a tedious task. Unlike ‘science of science’ research, where
+bibliometric methods are made easier through publishing norms of
+citations and indexing (e.g. DOIs, ORCIds, etc.), science of policy
+research is less systematic. Policy documents do not always follow
+consistent formatting or citations norms, and references outside of
+non-scholarly articles (which are the majority of references) are not
+systematically indexed. However, developments in computational tools for
+reading and analyzing large texts create an opportunity for automating
+some of the more tedious phases of bibliometry on policy documents. This
+paper presents a set of tools for aiding bibliometic analysis of policy
+documents, <code>govscienceuseR</code>, which we hope will support
+policy process researchers in quantifying and unpacking the complex
+interplay of science and policymaking.</p>
+</div>
+<div id="method" class="section level3">
+<h3>Method</h3>
+<p>The <code>govscienceuseR</code> tools provide a computational
+approach for indexing and summarizing references from policy documents.
+This is vignette walking through the steps of the R packages in the
+<code>govscienceuseR</code> tool set: <code>referenceExtract</code>,
+<code>referenceClassify</code>, <code>indexBuild</code>, and
+<code>referenceSearch</code>. Together, these four packages allow
+researchers to go from PDF documents to a data frame of indexed
+citations in only a handful of steps in the R coding language (steps
+mapped below). The goal of these tools is to allow researchers working
+with various types of policy documents to analyze citations using a
+systematic and reproducible approach.</p>
+<p><img src="img/workflow.png" width="75%" style="display: block; margin: auto;" /></p>
+</div>
+<div id="case-groundwater-sustainability-plans" class="section level3">
+<h3>Case: Groundwater Sustainability Plans</h3>
+<p>California’s Sustainable Groundwater Management Act (SGMA) of 2014
+sets out a framework for local Groundwater Sustainability Agencies to
+work towards sustainable management of their groundwater basins.
+Agencies are required to outline their strategies in Groundwater
+Sustainability Plans (GSPs) – documents reviewed by the Department of
+Water Resources (DWR) to ensure that Agency strategies comply with SGMA,
+the GSP regulations, and achieve groundwater sustainability for the
+basin (DWR no date). Among the criteria for plan evaluation, the
+California Code specifies: “When evaluating whether a Plan is likely to
+achieve the sustainability goal for the basin, the Department shall
+consider… Whether the assumptions, criteria, findings, and objectives,
+including the sustainability goal… are reasonable and supported by the
+best available information and best available science” (23 CCR §
+355.4).</p>
+<p>There is a clear mandate that GSP documents use scientific evidence
+to support their strategies for groundwater sustainability, but defining
+and measuring sustainability is no simple feat (Kuhlman &amp; Farrington
+2010). DWR sets out six sustainability indicators, whereby the
+occurrence of any indicator would be an undesirable result: lowering
+groundwater levels, reduction of storage, seawater intrusion, degraded
+quality, land subsidence, and surface water depletion. However, it is
+the Agencies that set measurable objectives and minimum thresholds for
+these indicators by considering all ‘beneficial users and uses’ for
+their basin (Austin, 2019). Beneficial uses include ‘domestic,
+municipal, agricultural, and industrial supply; power generation;
+recreation; aesthetic enjoyment; navigation; and preservation and
+enhancement of fish, wildlife, and other aquatic resources or preserves’
+(California Water Plan glossary 2018).</p>
+<p>Facing the challenge of managing groundwater resources across a wide
+array of users and interests, we ask: <strong>How is science used to
+inform the multiple dimensions of groundwater sustainability?</strong>
+Analyses of the SGMA collaborative process and GSP drafts have already
+shown that achieving groundwater sustainability while supporting
+<em>all</em> beneficial uses is unlikely. * Some beneficial uses are
+preferenced over others: domestic well depths above minimum threshold
+(Bostic et al. 2020. Sustainable for whom?)<br />
+* Representation challenges (Dobbin)</p>
+<p>To build on this existing research, we turn to the scientific
+evidence used in GSPs to tell us something about how agencies are
+defining sustainability. (and as a result, preferencing some groundwater
+users over others?). We trial the govscienceuseR tool kit on 114 GSPs,
+published between X and X year…</p>
+</div>
+<div id="getting-started" class="section level3">
+<h3>Getting started</h3>
+<div id="installations" class="section level4">
+<h4>Installations</h4>
+<p>To begin, download all four packages from the <a
+href="https://github.com/govscienceuseR">govscienceuseR GitHub
+page</a>:</p>
+<pre class="r"><code>devtools::install_github(&quot;govscienceuseR/referenceExtract&quot;)
+devtools::install_github(&quot;govscienceuseR/referenceClassify&quot;)
+devtools::install_github(&quot;govscienceuseR/referenceBuild&quot;)
+devtools::install_github(&quot;govscienceuseR/citationSearch&quot;)</code></pre>
+<p>Then load these and dependent packages into library. [<strong>Note:
+All of the dependent packages required should be imported when we load
+in these packages, but they currently aren’t – still strugglin with
+package imports when function-building</strong>]. You may be prompted to
+install some of the dependent packages if you do not already have them,
+such as <code>keras</code>.</p>
+<pre class="r"><code>library(referenceExtract)
+library(referenceClassify)
+library(referenceBuild)
+library(citationSearch)
+packs = c(&#39;data.table&#39;, &#39;dplyr&#39;, &#39;stringr&#39;, &#39;keras&#39;, &#39;tensorflow&#39;,
+          &#39;tidyr&#39;, &#39;purrr&#39;)
+sapply(packs, require, character.only = T)</code></pre>
+<p>Outside of R, the <code>referenceSearch</code> package also requires
+installation and running of <a href="https://solr.apache.org">Solr</a>.
+This software should be downloaded to a known location on your
+computer.</p>
+</div>
+<div id="data" class="section level4">
+<h4>Data</h4>
+<p>The documents of interest for this paper are California’s Groundwater
+Sustainability Plans. These documents are available publicly to download
+from <a
+href="https://ucdavis.box.com/s/9m3dogbibkrwy01pg4sdwouhzl8i6sef">Box</a>.
+To follow along with this tutorial, download the files to a file that
+will be considered your document directory. My document directory is
+specified below. There are 114 plans which total over 160,000 pages.</p>
+<pre class="r"><code>doc_directory &lt;- &quot;~/Box/reference_classifier/documents_gsp/&quot;</code></pre>
+</div>
+</div>
+<div id="referenceextract" class="section level3">
+<h3>1. <code>referenceExtract</code></h3>
+<p>The <code>referenceExtract</code> package from govscienceuseR is
+designed to take unstructured PDF documents, feed them through the <a
+href="https://anystyle.io/">anystyle.io</a> citation extraction
+software, and return tagged citation data in a tabular format.</p>
+<div id="reference_extract" class="section level4">
+<h4><code>reference_extract()</code></h4>
+<p>The first step of extracting references is to input PDF documents
+into the <code>reference_extract()</code> function. This function reads
+in every PDF in the document directory (doc_dir), and runs them through
+anystyle.io. Anystyle extracts probable citations and exports them to
+the reference directory (ref_dir) as JSON files. Depending on the number
+and size of files, this can take some time. For example, these 114
+documents took over an hour to extract.</p>
+<pre class="r"><code># Extract probable citations from PDF documents and convert them to .json files
+ref_directory &lt;- &quot;data/ref_dir&quot;
+reference_extract(doc_dir = doc_directory, 
+                 ref_dir = ref_directory, 
+                 layout = &quot;none&quot;)</code></pre>
+</div>
+<div id="reference_compile" class="section level4">
+<h4><code>reference_compile()</code></h4>
+<p>Next, the <code>reference_compile()</code> function transforms the
+JSON files into tabular data and compiles them all in one data table,
+adding the file name as an identifier.</p>
+<pre class="r"><code># Compile json files into a singular tabular data table
+dt &lt;- reference_compile(ref_directory)</code></pre>
+<p>After these first two steps we can take a look at our probable
+citations according to the Anystyle software. Initially, there are 26528
+probable citations across these 114 documents.</p>
+<div class="datatables html-widget html-fill-item-overflow-hidden html-fill-item" id="htmlwidget-963e029edadd52300c6d" style="width:100%;height:auto;"></div>
+<script type="application/json" data-for="htmlwidget-963e029edadd52300c6d">{"x":{"filter":"none","vertical":false,"data":[[{"family":["Ayers","Westcot"],"given":["R.S.","D.W."]},null,null,null,null,{"family":["Water Resources"],"given":["California Department"],"particle":["of"]},{"family":["Water Resources"],"given":["California Department"],"particle":["of"]},null,null,{"family":["Daly","Neilson","Phillips"],"given":["C.","R.P.","D.L."]},{"family":["Davis","Green","Olmsted","Brown"],"given":["G.H.","J.H.","F.H.","D.W."]},null,{"given":["Sink","G.H.","Z.A."],"family":[null,"Hargreaves","Samani"]},{"family":["Hopkins","B"],"given":["J.","Anderson"]},{"family":["Schmidt",null],"given":["Kenneth D.","Associates"]},{"family":["MacGillivray"],"given":["N.A."]},{"family":["County"],"given":["Madera"]},{"family":["County"],"given":["Madera"]},null,{"family":["Hayes","Eching"],"given":["S.","S."]},{"family":["Page"],"given":["R.W."]},{"given":["Provost","Pritchard Consulting"],"family":[null,"Group"]},{"family":["Program"],"given":["San Joaquin River Restoration"]},null,{"family":["Program"],"given":["San Joaquin River Restoration"]},{"family":["Board"],"given":["State Water Resources Control"]},{"family":["Agency"],"given":["U.S.Environmental Protection"]},{"given":["U.S.G.S."]},{"family":["Williamson","Prudic","Swain"],"given":["A.K.","D.E.","L.A."]},{"given":["A.E.C.O.M."]},null,{"family":["Belitz","Heimes"],"given":["K.","F.J."]},{"family":["Bertoldi","Johnston","Evenson"],"given":["G.L.","R.H.","K.D."]},{"literal":["–"]},{"family":["Borchers","Carpenter"],"given":["J.W.","M."]},{"family":["Assembly"],"given":["California"]},null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,{"family":["Board"],"given":["California State Water Resources Control"]},null,null,{"given":["Caltrans"]},null,{"given":["Caltrans"]},null,{"family":["Corwin"],"given":["D.L."]},{"family":["Croft"],"given":["M.G."]},null,{"family":["Davis","Poland"],"given":["G.H.","J.F."]},{"family":["Davis","Green","Olmstead","Brown"],"given":["G.H.","J.H.","S.H.","D.W."]},{"family":["Davis","Lofgren","Mack"],"given":["G.H.","B.E.","S."]},null,null,{"family":["Farr","Jones","Lieu"],"given":["Tom G.","Cathleen E.","Zhen"]},null,null,{"family":["Farrar","Bertoldi"],"given":["C.D.","G.L."]},{"family":["Faunt","Hanson","Belitz","Schmid","Predmore","Rewis","McPherson"],"given":["C.","R.T.","K.","W.","S.","D.L.","K."]},{"family":["Faunt","Belitz.","Hanson","Survey"],"given":["C.C.","K.","R.T.","Geological"]},{"family":["Faunt","Sneed","Traum","Brandt"],"given":["C.C.","M.","J.","J.T."]},{"family":["Fio"],"given":["J.L."]},{"family":["Foss","Blaisdell"],"given":["F.D.","R."]},{"family":["Galloway","Riley"],"given":["D.L.","F.S."]},{"family":["Galloway","Jones","Ingebritsen"],"given":["D.L.","D.R.","S.E."]},{"family":["Hotchkiss"],"given":["W.R."]},null,{"family":["Hotchkiss","Balding"],"given":["W.R.","G.O."]},{"family":["Ireland"],"given":["R.L."]},{"family":["R.L.","Poland","Riley"],"given":["Ireland","J.F.","F.S."]},{"family":["Jacob"],"given":["C.E."]},{"family":["Jennings","Strand"],"given":["C.W.","R.G."]},null,{"family":["Mendenhall","Dole","Stabler"],"given":["W.C.","R.B.","H."]},{"given":["Luhdorff","Scalmanini Consulting"],"family":[null,"Engineers"]}],[["1985","XXXX"],["2003"],null,["1981-12"],["1991-06"],["2016-12","2016-12"],["2017","XXXX"],["1949","XXXX"],["2019"],["1994"],["1959"],["2017-08-06"],["1982"],["2016-09"],["2013"],["1989"],["1995-10-24","2008"],["2019"],["2002","2006"],["2013"],["1973"],["2017-05-15"],["2014","2018"],["2019"],["XXXX"],["2018","2013"],["2006","2014","1969"],["XXXX"],["1989"],["2011"],["2018-07-25"],["1990"],["1991"],null,["2014-04"],["2014","1471"],null,["2013"],null,["2016"],null,["1965"],["1981"],null,null,["1998"],["2003"],null,["2017-06"],null,["2017"],null,["2018-05"],["2018"],null,["2018-07"],null,["2017-07-17"],["2018"],["2018"],["2019"],["2018-06"],null,["1977"],["2011"],null,null,["2017"],null,["2018"],null,["2012"],["1972","1999"],["2019-08"],["1957"],["1959"],["1964"],["2017"],["2018-07-26"],["2017"],["2015 – September 2016"],null,["1988"],["2009"],["2010"],["2015"],["1994"],["1968"],["1999"],["1999"],["1972"],["2019-08"],["1971"],["1986"],["1984"],["1940"],["1958"],null,["1916"],["2011"]],[["Water Quality for Agriculture (FAO 29). Food and Agriculture Organization of the United Nations"],["California Department of Water Resources (DWR","California’s Groundwater Bulletin"],null,["California Department of Water Resources (DWR","California Water Well Standards"],["California Department of Water Resources (DWR","California Water Well Standards: Supplement to Bulletin 74-81"],["Monitoring Networks and Identification of Data Gaps BMP","Monitoring Protocols, Standards, and Sites BMP"],["Draft Sustainable Management Criteria Best Management Practices","a_2017-11-06.pdf California Department of Water Resources","SGMA Data Viewer for Land Subsidence"],["California Open Data Portal","NASA JPL InSAR Subsidence Data"],null,["A statistical-topographic model for mapping climatological precipitation over mountainous terrain"],["Ground-Water Conditions and Storage Capacity in the San Joaquin Valley California"],null,["Estimating potential evapotranspiration"],["A Field Manual for Groundwater-level Monitoring at the Texas Water Development Board, User Manual 52"],["Aliso Water District Groundwater Management Plan AB 303 Plan for Aliso Water District"],["Effective precipitation: a field study to assess consumptive use of winter rains by spring and summer crops"],["Madera County General Plan Policy Document","Madera County"],["Madera County Municipal Code"],["San Joaquin River Restoration Study Background Report, prepared for Friant Water Users Authority, Lindsay, CA, and Natural Resources Defense Council","Natural Resources Defense Council v","San Joaquin River Restoration Settlement"],["California simulation of evapotranspiration of applied water and agricultural energy use in California"],["Base of Fresh Groundwater (Approximately 3,000 Micromhos) in the San Joaquin Valley, California"],null,["Seepage Management Plan, http://www.restoresjr.net/wp-content/uploads/2018/02/SMP_Draft_September_2014.pdf San Joaquin River Restoration Program (SJRRP","Channel Capacity Report 2018 Restoration Year. http://www.restoresjr.net/restoration-flows/levee-stability-channel-capacity/ San Joaquin River Restoration Program website"],null,["Water Quality"],["Aliso Water District – Application to Appropriate Water","otices/2018/t032962_app.pdf Tetra Tech","San Joaquin River and Bypass System 1-D Steady State HEC-RAS Model Documentation"],["Guidance on Systematic Planning Using the Data Quality Objectives Process","ess.pdf United States Bureau of Reclamation (USBR","Upper San Joaquin River Basin Storage Investigation","Contract Between the United Stated of America and the Newhall Land and Farming Company for Groundwater Pumping"],["Land Subsidence in California"],["Groundwater Flow in the Central Valley, California. United States Geological Survey","*Note references for the Hydrogeologic Conceptual Model and Groundwater Conditions for the Aliso Water District GSP (sections 3.1 and 3.2) are included at the end of Appendix A"],["Groundwater Management Plan for the Northern Agencies in the Delta-Mendota Canal Service Area"],null,["Character and Evolution of Ground-Water flow System in the Central Part of the Western San Joaquin Valley, California"],["Ground water in the"],["A Summary Report"],["Land Subsidence from Groundwater Use in California"],["Assembly Bill No","Water Quality, Supply, and Infrastructure Improvements Act of 2014"],["California Department of Conservation, California Geologic Survey. Various dates. Faults shapefiles"],["California Department of Fish and Wildlife","California Lakes shapefile"],null,["California Department of Fish and Wildlife","California Streams shapefile"],null,["California Department of Water Resources (DWR","San Joaquin Valley Drainage Investigation –San Joaquin Master Drain"],["California Department of Water Resources (DWR","Water Well Standards: State of California, Bulletin 74-81"],["California Department of Water Resources (DWR). 1991"],null,["California Department of Water Resources (DWR","The California Water Plan Update"],["California Department of Water Resources (DWR","California’s Groundwater Bulletin 118 –Update 2003"],null,["California Department of Water Resources (DWR","California Aqueduct Subsidence Study"],null,["California Department of Water Resources (DWR","DRAFT Best Management Practices for the"],["Sustainable Management of Groundwater: Sustainable Management Criteria BMP"],["California Department of Water Resources (DWR","Evaluation of the Effect of Subsidence on Flow Capacity in the Chowchilla and Eastside Bypasses, and Reach 4A of the"],["Received via personal communication with Alexis R"],null,["California Department of Water Resources (DWR","Water Data Library database"],["California Department of Water Resources (DWR). 2018a"],null,["California Department of Water Resources (DWR","Economically Distressed Areas Mapping Tool"],["California Department of Water Resources (DWR","Natural Communities Commonly Associated with Groundwater (NCCAG) dataset"],["California Department of Water Resources (DWR","CA Bulletin 118 Groundwater Basins shapefile"],["California Natural Resources Agency","NASA JPL InSAR Subsidence Data"],null,["California State Water Resources Control Board (SWRCB","San Joaquin Valley Interagency Drainage Program Environmental Assessment – Phase I. Prepared for the California State Water Resources Control Board by Environmental Impact Planning Corporation"],["CV-SALTS Lower San Joaquin River Committee, April 28, 2011 Meeting Materials, Agenda Item 4 – Problem Statement"],["California State Water Resources Control Board (SWRCB). n.d (a). State Intervention – The State Back Stop, Sustainable Groundwater Management Act (SGMA"],["California State Water Resources Control Board (SWRCB). n.d (b). What is a Public Water System?"],["Caltrans Adjusted County Boundaries shapefile"],null,["California National Highway System shapefile"],null,["Field-scale monitoring of the long-term impact and sustainability of drainage water reuse on the west side of California’s San Joaquin Valley"],["Subsurface geology of the Late Tertiary and Quarternary water-bearing deposits of the southern part of the"],null,["Ground-water conditions in the Mendota- Huron Area Fresno and Kings Counties, California"],["Ground water conditions and storage capacity in the San Joaquin Valley, California"],["Use of ground-water reservoirs for storage of surface water in the San Joaquin Valley California"],["East Stanislaus Regional Water Management Group","East Stanislaus Region Integrated Regional"],["Water Management Plan Update – Public Draft"],null,["Jet Propulsion Laboratory"],null,["Region 4, Central Valley and Pacific Coast Ranges"],["Groundwater availability of the Central Valley Aquifer, California"],["Development of a three-dimensional model of sedimentary texture in valley-fill deposits of Central Valley"],["Water availability and land subsidence in the Central Valley"],["Calculation of a water budget and delineation of contributing sources to drainflows in the Western San Joaquin Valley, California"],["Stratigraphy of the West Side Southern San Joaquin Valley"],["San Joaquin Valley, California—Largest human alteration of the Earth’s surface"],["Land subsidence in the United States"],["Generalized subsurface geology of water-bearing deposits"],null,["hydrology, and water quality of the Tracy-Dos Palo area"],["Land subsidence in the San Joaquin Valley, California, as of 1983"],["Land subsidence in the San Joaquin Valley, California, as of 1980"],["On the flow of water in an elastic artesian aquifer"],["Geological Atlas of California"],["California Geological Survey, Geologic Atlas of California Map"],["Ground water in the San Joaquin Valley, California"],["State of California Well Completion Report"]],[["California Data Exchange Center"],null,null,["California’s Groundwater Bulletin"],["California’s Groundwater Bulletin"],["California Department of Water Resources (DWR"],null,null,null,["Journal of applied meteorology"],["United States Geological Survey"],null,["Journal of Irrigation and Drainage Engineering"],null,null,null,null,null,["United State Bureau of Reclamation (NRDC"],["J. Integr. Agric"],null,null,null,null,null,["Inc"],["United States Bureau of Reclamation (USBR"],null,null,null,null,["USGS WaterSupply Paper 2348"],null,["U.S. Geological Survey Professional Paper 1401-A"],null,null,null,null,null,null,null,["Department of Water Resources Bulletin No.127"],null,["California Well Standards"],null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,["Journal of Environmental Monitoring"],null,null,["U.S. Geological Survey Water Supply Paper"],["U.S. Geological Survey Water Supply Paper"],["U.S. Geological Survey Water-Supply Paper 1618"],null,null,null,null,null,["Hydrogeology: Boulder, Colorado, Geological Society of America, Geology of North America"],["U.S. Geological Survey Professional Paper 1766"],["Hydrogeology Journal"],null,null,null,["Land Subsidence in the United States: U.S. Geological Survey Circular 1182"],["U.S. Geological Survey Circular"],null,null,null,["U.S. Geological Survey Water Resources Investigations Report"],["U.S. Geological Survey Professional Paper"],["American Geophysical Union Trans., pt"],null,null,["U.S. Geological Survey Water-Supply Paper"],null]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th>author<\/th>\n      <th>date<\/th>\n      <th>title<\/th>\n      <th>container-title<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"columnDefs":[],"order":[],"autoWidth":false,"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
+<p>It is noticeable above that the data provided by Anystyle has its
+challenges for further analysis. The first is a related to data
+structure: authors are nested into matrices, some rows (such as the
+date) have multiple listed values, etc., all of which make the data hard
+to analyze. For example, here is what seems to be two probable citations
+combined into one observation:</p>
+<pre class="r"><code>unnest(dt[204, c(2,3)])</code></pre>
+<pre><code>## # A tibble: 3 × 2
+##   date  title                                                                   
+##   &lt;chr&gt; &lt;chr&gt;                                                                   
+## 1 2017  Long‐Term Socio‐Economic Forecasts by County: Kings County              
+## 2 2015  Progress Report: Subsidence in the Central Valley, California. For Depa…
+## 3 2009  Ground‐water availability in California’s Central Valley</code></pre>
+<p>The second challenge is related to quality: many of the probable
+citations are not sensible. The Anystyle software seems sensitive to
+multiple formats like numbers and short-form sentences, such as
+addresses, resulting in false positive identification of references. For
+example, here is an address listed as a probable citation from our
+data:</p>
+<pre class="r"><code>unlist(dt[148, c(1,3,5)])</code></pre>
+<pre><code>##                                                                                      author.family 
+##                                                                                             &quot;When&quot; 
+##                                                                                       author.given 
+##                                                                                        &quot;Firebaugh&quot; 
+##                                                                                              title 
+## &quot;5:00 - 7:00 PM Firebaugh Middle School MPR 1600 16th Street, Firebaugh, CA Los Banos – Wednesday&quot; 
+##                                                                                   container-title1 
+##                                                    &quot;PM College Greens Building 1815 Scripps Drive&quot; 
+##                                                                                   container-title2 
+##                                                &quot;PM Hammon Senior Center 1033 W. Las Palmas Avenue&quot; 
+##                                                                                   container-title3 
+##                                                                                           &quot;Monday&quot;</code></pre>
+</div>
+<div id="reference_clean" class="section level4">
+<h4><code>reference_clean()</code></h4>
+<p>To try to address the challenges in these probable citations, the
+<code>reference_clean()</code> function goes through a series of steps.
+For each column the function unlists the data and filters out unlikely
+candidates for that column. For instance, if a number listed in the date
+column does not match any reasonable date format or expectation, it is
+removed. If a string in the URL column actually resembles a DOI, it is
+moved to that column. And so on. Furthermore, if there seem to be
+multiple citations listed in one row that can be broken apart in
+parallel across all of the columns, we unnest these rows. (Note:
+depending on the size of the files this function may take some time.
+Cleaning these 26528 citations takes about 18 minutes).</p>
+<pre class="r"><code># Unnests list structures into tabular data and filters out low probability refs
+dt &lt;- reference_clean(dt)</code></pre>
+<p>This cleaning process has changed probable citations now a bit. Some
+of the probable citations have been unnested (and therefore expanded)
+while others have been removed, leaving us with 14423 probable
+citations. Examples of these probable citations are below:</p>
+<div class="datatables html-widget html-fill-item-overflow-hidden html-fill-item" id="htmlwidget-e50941a479534550c8e8" style="width:100%;height:auto;"></div>
+<script type="application/json" data-for="htmlwidget-e50941a479534550c8e8">{"x":{"filter":"none","vertical":false,"data":[["Ayers, RS; Westcot, DW",null,null,null,null,"California Department of Water Resources","California Department of Water Resources",null,null,"Daly, C; Neilson, RP; Phillips, DL","Davis, GH; Green, JH; Olmsted, FH; Brown, DW","Sink; Hargreaves, GH; Samani, ZA","Hopkins, J; B, Anderson","Schmidt, Kenneth D; Associates","MacGillivray, NA","Madera County","Madera County",null,"Hayes, S; Eching, S","Page, RW","Provost; Group, Pritchard Consulting","Program, San Joaquin River Restoration",null,"Program, San Joaquin River Restoration","State Water Resources Control Board","USEnvironmental Protection Agency","USGS","Williamson, AK; Prudic, DE; Swain, LA","AECOM","Belitz, K; Heimes, FJ","Bertoldi, GL; Johnston, RH; Evenson, KD",null,"Borchers, JW; Carpenter, M","Assembly, California",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"California State Water Resources Control Board",null,null,"Caltrans",null,"Caltrans",null,"Corwin, DL","Croft, MG","Davis, GH; Poland, JF","Davis, GH; Green, JH; Olmstead, SH; Brown, DW","Davis, GH; Lofgren, BE; Mack, S",null,null,"Farr, Tom G; Jones, Cathleen E; Lieu, Zhen",null,"Farrar, CD; Bertoldi, GL","Faunt, C; Hanson, RT; Belitz, K; Schmid, W; Predmore, S; Rewis, DL; McPherson, K","Faunt, CC; Belitz, K; Hanson, RT; Survey, Geological","Faunt, CC; Sneed, M; Traum, J; Brandt, JT","Fio, JL","Foss, FD; Blaisdell, R","Galloway, DL; Riley, FS","Galloway, DL; Jones, DR; Ingebritsen, SE","Hotchkiss, WR","Hotchkiss, WR; Balding, GO","Ireland, RL","RL, Ireland; Poland, JF; Riley, FS","Jacob, CE","Jennings, CW; Strand, RG","Mendenhall, WC; Dole, RB; Stabler, H","Luhdorff; Engineers, Scalmanini Consulting","Luhdorff; Engineers, Scalmanini Consulting; Engineering, Davids; Associates, Larry Walker","Luhdorff; Engineers, Scalmanini Consulting","Madera Regional Water Management Group","McBain; Trush, Inc","Mosley, J","National Resources Conservation Service",null,"Ogden, GR","Page, RW",null,"Poland, JF; Lofgren, BE; Ireland, RL; Pugh, AG","Rohde, MM; Matsumoto, S; Howard, J; Liu, S; Riege, L; Remson, EJ"],["1985","2003",null,"1981","1991","2016","2017","1949","2019","1994","1959","1982","2016","2013","1989","1995","2019","2002","2013","1973","2017","2014","2019",null,"2018","2006",null,"1989","2011","1990","1991",null,"2014","2014",null,"2013",null,"2016","1965","1981",null,"1998","2003",null,"2017",null,"2017",null,"2018","2018","2017","2018","2018","2019","2018",null,"2011",null,null,"2017",null,"2018",null,"2012","1972","1957","1959","1964","2017","2018","2017",null,"1988","2009","2010","2015","1994","1968","1999","1999","1972","1971","1986","1984","1940","1958","1916","2011","2015","2016","2014","2002","2017","2009",null,"1988","1973",null,"1975","2018"],["Water Quality for Agriculture FAO 29 Food and Agriculture Organization of the United Nations","Californias Groundwater Bulletin",null,"California Water Well Standards","California Water Well Standards Supplement to Bulletin 7481","Monitoring Networks and Identification of Data Gaps BMP Monitoring Protocols Standards and Sites BMP","Draft Sustainable Management Criteria Best Management Practices SGMA Data Viewer for Land Subsidence","California Open Data Portal NASA JPL InSAR Subsidence Data",null,"A Statisticaltopographic Model for Mapping Climatological Precipitation over Mountainous Terrain","GroundWater Conditions and Storage Capacity in the San Joaquin Valley California","Estimating Potential Evapotranspiration",null,null,"Effective Precipitation a Field Study to Assess Consumptive Use of Winter Rains by Spring and Summer Crops",null,null,"San Joaquin River Restoration Settlement","California Simulation of Evapotranspiration of Applied Water and Agricultural Energy Use in California","Base of Fresh Groundwater Approximately 3000 Micromhos in the San Joaquin Valley California",null,"Seepage Management Plan httpwwwrestoresjrnetwpcontentuploads201802SMP_Draft_September_2014pdf San Joaquin River Restoration Program SJRRP Channel Capacity Report 2018 Restoration Year Httpwwwrestoresjrnetrestorationflowsleveestabilitychannelcapacity San Joaquin River Restoration Program Website",null,"Water Quality","Otices2018t032962_apppdf Tetra Tech San Joaquin River and Bypass System 1d Steady State HECRAS Model Documentation","Guidance on Systematic Planning Using the Data Quality Objectives Process Upper San Joaquin River Basin Storage Investigation Contract Between the United Stated of America and the Newhall Land and Farming Company for Groundwater Pumping","Land Subsidence in California",null,null,"Character and Evolution of GroundWater Flow System in the Central Part of the Western San Joaquin Valley California","Ground Water in the","A Summary Report","Land Subsidence from Groundwater Use in California","Assembly Bill No Water Quality Supply and Infrastructure Improvements Act of 2014",null,"California Lakes Shapefile",null,"California Streams Shapefile","San Joaquin Valley Drainage Investigation San Joaquin Master Drain","Water Well Standards State of California Bulletin 7481",null,"The California Water Plan Update","Californias Groundwater Bulletin 118 Update 2003",null,"California Aqueduct Subsidence Study",null,"DRAFT Best Management Practices for the","Sustainable Management of Groundwater Sustainable Management Criteria BMP","Evaluation of the Effect of Subsidence on Flow Capacity in the Chowchilla and Eastside Bypasses and Reach 4a of the","Water Data Library Database",null,"Economically Distressed Areas Mapping Tool","Natural Communities Commonly Associated with Groundwater NCCAG Dataset","CA Bulletin 118 Groundwater Basins Shapefile","NASA JPL InSAR Subsidence Data",null,"CVSALTS Lower San Joaquin River Committee April 28 2011 Meeting Materials Agenda Item 4 Problem Statement",null,null,null,null,"California National Highway System Shapefile",null,"Fieldscale Monitoring of the Longterm Impact and Sustainability of Drainage Water Reuse on the West Side of Californias San Joaquin Valley","Subsurface Geology of the Late Tertiary and Quarternary Waterbearing Deposits of the Southern Part of the","Groundwater Conditions in the Mendota Huron Area Fresno and Kings Counties California","Ground Water Conditions and Storage Capacity in the San Joaquin Valley California","Use of Groundwater Reservoirs for Storage of Surface Water in the San Joaquin Valley California","East Stanislaus Region Integrated Regional","Water Management Plan Update Public Draft",null,null,"Region 4 Central Valley and Pacific Coast Ranges","Groundwater Availability of the Central Valley Aquifer California","Development of a Threedimensional Model of Sedimentary Texture in Valleyfill Deposits of Central Valley","Water Availability and Land Subsidence in the Central Valley","Calculation of a Water Budget and Delineation of Contributing Sources to Drainflows in the Western San Joaquin Valley California","Stratigraphy of the West Side Southern San Joaquin Valley","San Joaquin Valley CaliforniaLargest Human Alteration of the Earths Surface","Land Subsidence in the United States","Generalized Subsurface Geology of Waterbearing Deposits","Hydrology and Water Quality of the TracyDos Palo Area","Land Subsidence in the San Joaquin Valley California as of 1983","Land Subsidence in the San Joaquin Valley California as of 1980","On the Flow of Water in an Elastic Artesian Aquifer","Geological Atlas of California","Ground Water in the San Joaquin Valley California","State of California Well Completion Report","Western San Joaquin River Watershed Groundwater Quality Assessment Report","Grassland Drainage Area Groundwater Quality Assessment Report","Madera Integrated Regional Water Management Plan Final Draft",null,null,null,null,"Agricultural Land Use and Wildlife in the San Joaquin Valley 17691930 an Overview","Base of Fresh Groundwater Approximately 2000 Micromhos in the San Joaquin Valley",null,"Land Subsidence in the San Joaquin Valley California as of 1972 US","Groundwater Dependent Ecosystems under the Sustainable Groundwater Management Act Guidance for Preparing Groundwater Sustainability Plans"],["California Data Exchange Center",null,null,"Californias Groundwater Bulletin","Californias Groundwater Bulletin","California Department of Water Resources DWR",null,null,null,"Journal of Applied Meteorology","United States Geological Survey","Journal of Irrigation and Drainage Engineering",null,null,null,null,null,"United State Bureau of Reclamation NRDC","J Integr Agric",null,null,null,null,null,"Inc","United States Bureau of Reclamation USBR",null,null,null,"USGS WaterSupply Paper 2348",null,"US Geological Survey Professional Paper 1401a",null,null,null,null,null,null,"Department of Water Resources Bulletin No127",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"Journal of Environmental Monitoring",null,"US Geological Survey Water Supply Paper","US Geological Survey Water Supply Paper","US Geological Survey WaterSupply Paper 1618",null,null,null,null,"Hydrogeology Boulder Colorado Geological Society of America Geology of North America","US Geological Survey Professional Paper 1766","Hydrogeology Journal",null,null,null,"Land Subsidence in the United States US Geological Survey Circular 1182","US Geological Survey Circular",null,null,"US Geological Survey Water Resources Investigations Report","US Geological Survey Professional Paper","American Geophysical Union Trans Pt",null,"US Geological Survey WaterSupply Paper",null,null,null,null,null,null,null,null,"SOLO Heritage Research San Joaquin Valley Drainage Program US Department of Interior",null,null,"Geological Survey Professional Paper",null],[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th>author<\/th>\n      <th>year<\/th>\n      <th>title<\/th>\n      <th>container<\/th>\n      <th>publisher<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"columnDefs":[],"order":[],"autoWidth":false,"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
+</div>
+</div>
+<div id="referenceclassify" class="section level3">
+<h3>2. <code>referenceClassify</code></h3>
+<p>The <code>referenceClassify</code> package is designed to take a data
+frame of tabular, tagged citation data (author, year, container,
+publisher, doi, etc), look for exact matches between those tags and
+various high-level indices (mainly journal and agency names), and begin
+to classify probable citations into these high-level categories. These
+indices are 1:) an index of academic journals from the <a
+href="https://rdrr.io/github/ikashnitsky/sjrdata/man/sjr_journals.html"><code>sjr</code>
+package</a> relying on the <a href="https://www.scimagojr.com/">Scimago
+database</a>, 2) an index of academic conference papers/proceedings also
+from the Scimago database, 3) and an index of US state and federal
+agencies, curated by the package authors. All three of these indices are
+built into this package and can be accessed with
+<code>data(scimago.j)</code> for journals, <code>data(scimago.c)</code>
+for conferences, and <code>data(agencies)</code> for agencies.</p>
+<!---
+#### `_match()` functions  
+
+Based on our initial cleaning of the GSP data in the previous section, we can see which of these probable citations are exact matches to three different indices: an index of academic journals from the Scimago database, an index of academic conference papers/proceedings also from the Scimago database, and an index of US state and federal agencies, curated by the package authors. We can look for matches using the `journal_match()`, `conference_match()` and `agency_match()` functions.
+
+
+```r
+table(journal_match(dt$container))
+```
+
+```
+## 
+## FALSE  TRUE 
+## 13543   880
+```
+
+
+```r
+table(conference_match(dt$container))
+```
+
+```
+## 
+## FALSE  TRUE 
+## 14420     3
+```
+
+
+```r
+table(agency_match(dt$container, dt$author))
+```
+
+```
+## 
+## FALSE  TRUE 
+## 13967   456
+```
+--->
+<div id="prepared_by-and-journal_disambig" class="section level4">
+<h4><code>prepared_by()</code> and <code>journal_disambig()</code></h4>
+<p>[<strong>Note: Should these be moved to the cleaning function, or to
+the other package?</strong>]</p>
+<p>Before classifying our probable references, we can further clean and
+refine these potential citations with the <code>prepared_by()</code>
+function, which removes commonly-seen lead-ins to references (‘prepared
+for/by’, etc.) to improve exact matching.</p>
+<pre class="r"><code>dt &lt;- prepared_by(dt, x = &#39;container&#39;, y = &#39;author&#39;, z = &#39;publisher&#39;)</code></pre>
+<p>Additionally, we disambiguate the journals with the
+<code>journal_disambig()</code> function, which references indices of
+common journal abbreviations and through manual cleaning of journals
+referenced in transportation documents.</p>
+<pre class="r"><code>dt$container &lt;- journal_disambig(dt$container)</code></pre>
+</div>
+<div id="regex_classify" class="section level4">
+<h4><code>regex_classify()</code></h4>
+<p>Now with probable references as ‘clean’ as possible, we use regular
+expressions to classify our data based on exact matches using the
+<code>regex_classify()</code> function. This function does two things.
+First it looks across all of the columns for exact matches to our
+indices, and if there is an exact match, it pulls out that value into a
+‘input’ column. If there is no exact match, the value in the input
+column will be selected in the following order of preference: doi,
+container, publisher, title, author. Second, based on the matches the
+function will assign the potential citation into one of four classes:
+journal, agency, conference, or none. If none of the potential
+citations’ data is an exact match to any of the indices, the
+classification is NA.</p>
+<pre class="r"><code># Extract most descriptive &#39;input&#39; and look for exact match to index 
+dt &lt;- regex_classify(dt, &#39;container&#39;)</code></pre>
+<p>Based on these classifications, we can see the counts of exact
+matches, and which ones have not been classified.</p>
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:center;">
+Agency
+</th>
+<th style="text-align:center;">
+Conference
+</th>
+<th style="text-align:center;">
+Journal
+</th>
+<th style="text-align:center;">
+Not a citation
+</th>
+<th style="text-align:center;">
+Unclassified
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center;">
+1867
+</td>
+<td style="text-align:center;">
+3
+</td>
+<td style="text-align:center;">
+997
+</td>
+<td style="text-align:center;">
+146
+</td>
+<td style="text-align:center;">
+10899
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="keras_classify" class="section level4">
+<h4><code>keras_classify()</code></h4>
+<p>Next we want to classify the probable references that are not exact
+matches to any of our indices. To do this, we use
+<code>keras_classify()</code> input our probable into a neural network
+trained to predict the reference class. To train this model, we used
+data from Environmental Impact Statements, classified through both
+manual classification and the semi-automated regex classification
+explained above.</p>
+<pre class="r"><code># Use the descriptive &#39;input&#39; to probabilistically identify the reference class
+## Note: Need to set this wd right now because I can&#39;t actually get the model object to save within the package itself
+setwd(&quot;~/Documents/Davis/R-Projects/referenceClassify/&quot;)
+# Something is wrong with the auto_input
+predictions &lt;- keras_classify(dt, probability = .85, 
+                              &#39;container&#39;, auto_input = F,
+                              &#39;training_input&#39;) 
+dt &lt;- cbind(dt, select(predictions, predict_class))</code></pre>
+<p>Because we ran this model on the whole data frame, we can compare our
+regex classification with the Keras classifications to get a sense of
+the model performance.</p>
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:center;">
+Incorrect
+</th>
+<th style="text-align:center;">
+Match
+</th>
+<th style="text-align:center;">
+Classified as unsure
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center;">
+30
+</td>
+<td style="text-align:center;">
+2801
+</td>
+<td style="text-align:center;">
+182
+</td>
+</tr>
+</tbody>
+</table>
+<p>These results, altogether, suggest that the Keras model is 93%
+accurate in its prediction of the citations we are able to do exact
+matching for. Now, let’s unify the classification columns and have a
+look at the total for each estimated grouping.</p>
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:center;">
+Agency
+</th>
+<th style="text-align:center;">
+Conference
+</th>
+<th style="text-align:center;">
+Not a citation
+</th>
+<th style="text-align:center;">
+Journal
+</th>
+<th style="text-align:center;">
+Unsure
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center;">
+3675
+</td>
+<td style="text-align:center;">
+5
+</td>
+<td style="text-align:center;">
+3163
+</td>
+<td style="text-align:center;">
+1856
+</td>
+<td style="text-align:center;">
+5213
+</td>
+</tr>
+</tbody>
+</table>
+<p>And we’ll tidy up these data by filtering out the citations
+classificied to ‘delete’ (the false positives) in preparation for our
+indexing in the next step.</p>
+<pre class="r"><code>dt &lt;- dt %&gt;% 
+  select(-c(predict_class, method_comparison)) %&gt;% 
+  filter(class != &quot;delete&quot;)</code></pre>
+</div>
+<div id="interim-check-in-journals-and-agencies-from-exact-matching"
+class="section level4">
+<h4>Interim check in: Journals and agencies from exact matching</h4>
+<p>So far, we’ve identified exact matches to our high-level indices
+(journal, agency, conference) and then used machine learning to classify
+citations that are not exact matches so that we can begin to figure out
+their source. At this interim stage, we can take a look at the
+high-level classifications across citations, and the journals and
+agencies for which we’ve found exact matches.</p>
+<p>First, let’s take a look at the high-level matches. A reference list
+was required by DWR for GSPs, and indeed we see that all 114 of the
+documents have references that we can identify as either a scholarly
+journal or agency. Based on our tool’s probabilistic tags, it looks like
+the number of references ranges from 1 to 128, with 24 being the average
+number of classified references. That average differs between references
+classes, whereby the average number of journal references is 16 and the
+average number of agency references is twice that, at 32. In total,
+there are 1,865 journal references and 3,675 agency references.</p>
+<p>Of these references, we display the top 15 references journals and
+agencies identified by our exact matching strategies. At a glance, we
+see a strong representation of geological, hydrological, and
+agricultural science…</p>
+<p><img src="gsp_vignette_files/figure-html/unnamed-chunk-10-1.png" width="1152" style="display: block; margin: auto;" /></p>
+<p>Regarding the impact factor of academic references…</p>
+<pre class="r"><code>dt_journals %&gt;% 
+  group_by(journal_title, sjr_avg) %&gt;% 
+  count() %&gt;% 
+  ungroup() %&gt;% 
+  ggplot(aes(x = sjr_avg, y = n)) +
+  geom_point(alpha = .5) +
+  geom_smooth(method = &#39;lm&#39;, color = &quot;#03989e&quot;) +
+  labs(x = &#39;Journal impact factor&#39;, y = &#39;Number of citations&#39;) +
+  theme_govuser(base_size = 10)</code></pre>
+<p><img src="gsp_vignette_files/figure-html/unnamed-chunk-11-1.png" width="50%" style="display: block; margin: auto;" /></p>
+</div>
+</div>
+<div id="indexbuild" class="section level3">
+<h3>3. <code>indexBuild</code></h3>
+<p>Now that we have a general sense of what kind of reference types are
+represented within the probable citations, the next step is to try to
+index these reference exactly. The <code>indexBuild</code> package is
+designed to query the <a href="https://docs.openalex.org/">openAlex
+API</a>, an open access catalog of research, in order to build a
+personalized catalog relevant to the field of research. This step is
+optional for the <code>govscienceuseR</code> workflow, as the tool kit
+provides a default index with the top X research categories over the
+past X years [<strong>Note: need to build some default index</strong>].
+However, building an index for a given research project will likely
+increase the matching abilities of the tool.</p>
+<div id="identify-index-concepts" class="section level4">
+<h4>Identify index concepts</h4>
+<p>To build an index, we first need to define the scope. openAlex allows
+indices to be built based on five different types of entities: authors,
+institutions, venues, concepts, and works. We choose to build our index
+based on concepts, as this casts the widest and most inclusive net. We
+use the known journal names we already have in our data to define the
+concepts that we want in build our index on. To identify these concepts
+we use journals’ disciplinary category metadata from the Scimago
+database.</p>
+<pre class="r"><code>themes &lt;- dt_journals %&gt;% 
+  select(sourceid, journal_title, cat1:cat13) %&gt;% 
+  pivot_longer(cols = cat1:cat13, 
+               names_to = &quot;number&quot;,
+               values_to = &quot;cat&quot;) %&gt;% 
+  filter(!is.na(cat)) %&gt;% 
+  group_by(cat) %&gt;% 
+  count() %&gt;% 
+  arrange(n)</code></pre>
+<p>Across the journals identified in our references there are 92
+disciplinary categories and the top categories are displayed below.</p>
+<p><img src="gsp_vignette_files/figure-html/unnamed-chunk-14-1.png" width="50%" style="display: block; margin: auto;" />
+[Also consider taking keywords? This is mainly because even though
+‘water science and technology’ is the main theme, this doesn’t match to
+an openAlex concept, and so I didn’t want to lose out on concepts like
+‘water’. But then opens up a whole long list of things I’m not
+interested in, and because this is a massive list of concepts to build
+from I’d like to figure out a way to scale it back].</p>
+<pre class="r"><code>personal_stop &lt;- c(&quot;science&quot;, &quot;theory&quot;, &quot;apply&quot;, &quot;theoretical&quot;, &quot;information&quot;,
+                   &quot;uncertainty&quot;, &quot;system&quot;, &quot;plan&quot;, &quot;model&quot;, &quot;change&quot;)
+keywords &lt;- themes %&gt;% 
+  tidytext::unnest_tokens(word, cat) %&gt;% 
+  dplyr::filter(!word %in% tidytext::stop_words$word &amp; 
+                  !word %in% personal_stop) %&gt;% 
+  mutate(word = textstem::lemmatize_words(word)) %&gt;% 
+  unique()</code></pre>
+<p>Let’s use these themes and keywords to inform our index creation.</p>
+</div>
+<div id="queryconcepts" class="section level4">
+<h4><code>queryConcepts()</code></h4>
+<p>The <code>queryConcepts()</code> function allows us to enter themes
+into openAlex API and find a number of associated research concepts. I
+input the 192 Scimago themes and keywords into the
+<code>concept_string</code> argument to query the API.</p>
+<p>[<strong>Note: I think we should build in sleep time to this function
+because if you try to input multiple concepts it is
+rejected</strong>]</p>
+<pre class="r"><code>query_slowly &lt;- function(x){
+  index &lt;- queryConcepts(concept_string = x, 
+                         per_page = 50)
+  return(index)
+  Sys.sleep(1)
+}
+key_themes &lt;- unique(c(themes$cat, keywords$word))
+index &lt;- lapply(key_themes, query_slowly)
+# For some reason there was a bit of missing data for particular concepts
+index[[66]]$description &lt;- &#39;&#39;
+indexdf &lt;- do.call(&#39;rbind&#39;, index) %&gt;% unique()</code></pre>
+<p>From the 192 themes, openAlex identifies 3982 associated concepts,
+representing 898507778 works.</p>
+<p>[<strong>Note: This is not a sustainable number of works to index,
+so… need to ditch this or limit it severely</strong>]</p>
+<p>To focus our index, we select only the concepts that are associated
+with the themes at ‘level 0’ – that is, the highest match of relevance
+(?). This reduces our concepts down to 15, high-level concepts,
+representing 444886007 works.</p>
+<p>A summary of these concepts is below:</p>
+<div class="datatables html-widget html-fill-item-overflow-hidden html-fill-item" id="htmlwidget-01169b5c0122beb263e5" style="width:100%;height:auto;"></div>
+<script type="application/json" data-for="htmlwidget-01169b5c0122beb263e5">{"x":{"filter":"none","vertical":false,"data":[["https://openalex.org/C127413603","https://openalex.org/C33923547","https://openalex.org/C192562407","https://openalex.org/C185592680","https://openalex.org/C71924100","https://openalex.org/C39432304","https://openalex.org/C127313418","https://openalex.org/C41008148","https://openalex.org/C17744445","https://openalex.org/C86803240","https://openalex.org/C142362112","https://openalex.org/C162324750","https://openalex.org/C205649164","https://openalex.org/C95457728","https://openalex.org/C138885662"],["Engineering","Mathematics","Materials science","Chemistry","Medicine","Environmental science","Geology","Computer science","Political science","Biology","Art","Economics","Geography","History","Philosophy"],[30258212,26765592,21134752,33498935,57674025,11917971,13532900,76730026,33763335,41686775,20280573,16320165,19248685,11561884,30512177],["applied science","field of study","interdisciplinary field which deals with the discovery and design of new materials; primarily concerned with the physical and chemical properties of solids","branch of physical science concerned with the composition, structure and properties of matter","field of study for diagnosing, treating and preventing disease","interdisciplinary field that studies human interaction with the environment","study of the composition, structure, physical properties, and history of Earth's components, and the processes by which they are shaped","theoretical study of the formal foundation enabling the automated processing or computation of information, for example on a computer or over a data transmission network","social science concerned with the study of politics and political systems","branch of science that primarily deals with structure, function, growth, evolution, and distribution of organisms","expressive work intended to be appreciated for its beauty or emotional power; or the process of creating such a work","social science that analyzes the production, distribution, and consumption of goods and services","science that studies the terrestrial surface, the societies that inhabit it and the territories, landscapes, places or regions that form it when interacting with each other","past events and their tracks or records, studied by various branches of human sciences of history","study of the truths and principles of being, knowledge, or conduct"]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th>id<\/th>\n      <th>display_name<\/th>\n      <th>works_count<\/th>\n      <th>description<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"columnDefs":[{"className":"dt-right","targets":2}],"order":[],"autoWidth":false,"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
+</div>
+<div id="extractworks" class="section level4">
+<h4><code>extractWorks()</code></h4>
+<p>Using the concept page ID from the previous function, the
+<code>extractWorks()</code> function extracts the associated works from
+the openAlex API and saves them as compressed .json.gz files.</p>
+<pre class="r"><code>for(j in 2000:2020){
+sapply(indexdf$id, FUN = function(x){
+  extractWorks(mailto = &quot;belwood@ucdavis.edu&quot;,
+             concept_page = x,
+             dest_file = paste0(&quot;~/Box/govscienceuseR/openalex_index_gsp/&quot;, 
+                              stringr::str_extract(x,&#39;[A-Za-z0-9]+$&#39;),
+                              &quot;_2000_2020&quot;, &quot;.json.gz&quot;),
+             per_page = 200, # must be between 1 and 200
+             to_date = j,
+             from_date = j,
+             sleep_time = 0.5)
+
+})
+}</code></pre>
+<p>The .json.gz files are stored in the <code>dest_file</code>
+specified.</p>
+</div>
+<div id="works2dt" class="section level4">
+<h4><code>works2dt()</code></h4>
+<p>[Note: From here on we are using only a sample of the index, since it
+takes time to extract]. Intermin index has over 3 million works. This
+conversion from json concepts to works took 12.5 hours.</p>
+<pre class="r"><code>jsons &lt;- list.files(&quot;~/Box/govscienceuseR/openalex_index_gsp/&quot;, full.names = T)
+# Anything that is 23 is empty
+jsons &lt;- jsons[file.size(jsons) &gt; 23]
+t1 &lt;- Sys.time()
+records &lt;- lapply(jsons, works2dt)
+recordsdf &lt;- do.call(&quot;rbind&quot;, records)
+t2 &lt;- Sys.time()</code></pre>
+<p>We’ll also want to make sure our record data frame has the column
+names that are compatible with the next stage, so let’s go ahead and
+rename them appropriately.</p>
+<pre class="r"><code>colnames(recordsdf)[c(1,2,3,5,7,8,10,12)] &lt;- c(&quot;source&quot;, &quot;title&quot;, &quot;doi&quot;, 
+                                               &quot;year&quot;, &quot;miscid&quot;,
+                                               &quot;journal_title&quot;,
+                                               &quot;publisher&quot;, &quot;authors&quot;)</code></pre>
+<p>We’ve generated quite a wide database, including [draft number based
+on only a fraction of the concepts of interest: 3315077] records in our
+index. However, this likely leaves out edge cases, and we are developing
+ways to develop broader indices.</p>
+</div>
+</div>
+<div id="referencesearch" class="section level3">
+<h3>4. <code>referenceSearch</code></h3>
+<p>Now we have our probable citations and their groupings and we have an
+index in which to look them up. The final step, supported by the
+<code>referenceSearch</code> package, is to probabilistically match the
+citation outputs from our GSP documents to the index of journal
+citations that we just built.</p>
+<div id="create_queries" class="section level4">
+<h4><code>create_queries()</code></h4>
+<p>Let’s isolate our probable citations that would likely map onto our
+index of academic reference.</p>
+<pre class="r"><code>dt_solr &lt;- dt %&gt;% 
+  filter(class == &quot;journal&quot;) %&gt;% 
+  select(title, author, year, publisher, container,  
+         doi) %&gt;% 
+  rename(&quot;journal_title&quot; = container,
+         &quot;authors&quot; = author) %&gt;% 
+  mutate(year = as.numeric(year))
+
+queries &lt;- create_queries(dt_solr)</code></pre>
+</div>
+<div id="index_records" class="section level4">
+<h4><code>index_records()</code></h4>
+<p>Once our probable references have been converted into queries, we
+will index them with <code>index_records()</code>. We input the records
+data frame we generated from the index building and assign it a
+collection name.</p>
+<p>This is the stage of the process where we also use the Solr software.
+To start a Solr instance, in the command line/terminal, navigate to your
+solr download, then start a cloud instance with the
+<code>start -c</code> command. On my computer, Solr is located in my
+Applications, so my Terminal commands looks like this:</p>
+<pre class="bash"><code>~/Applications/solr-9.1.0/bin/solr start -c</code></pre>
+<pre><code>## *** [WARN] *** Your open file limit is currently 10496.  
+##  It should be set to 65000 to avoid operational disruption. 
+##  If you no longer wish to see this warning, set SOLR_ULIMIT_CHECKS to false in your profile or solr.in.sh
+## *** [WARN] ***  Your Max Processes Limit is currently 2784. 
+##  It should be set to 65000 to avoid operational disruption. 
+##  If you no longer wish to see this warning, set SOLR_ULIMIT_CHECKS to false in your profile or solr.in.sh
+## Waiting up to 180 seconds to see Solr running on port 8983 [|]   [/]   [-]   [\]   [|]   [/]   [-]   [\]   [|]   [/]   [-]   [\]   [|]  
+## Started Solr server on port 8983 (pid=6559). Happy searching!
+## 
+##     </code></pre>
+<p>**CHALLENGES For index_records, I get this error: Error in
+collapse(tmp, inner = FALSE, indent = indent) : R character strings are
+limited to 2^31-1 bytes</p>
+<p>Is it too big?</p>
+<p>Also the overwrite = T argument does not seem to activate anything,
+so I have now written gsp_index, gsp_index2, gsp_index3, ugh**</p>
+<pre class="r"><code>index_records(recordsdf, collection_name = &quot;gsp_index3&quot;, overwrite = T)</code></pre>
+<p>Because the index won’t build, I tried to see what would happen with
+just the demo data, but I also get an error:</p>
+<p>For search_collection, I get this error: ” Error: 400 - undefined
+field year ”</p>
+<pre class="r"><code>results &lt;- search_collection(q = queries[3], 
+                                   collection_name = &quot;WOS_demo&quot;, 
+                                   topn = 3)</code></pre>
+<p>So just saving this until later.</p>
+<pre class="r"><code>results = list()
+count = 1
+for (q in queries[1:10]) {
+  res = search_collection(q, collection_name = &quot;gsp_index&quot;)
+  res$id = count
+  res$q = q
+  results[[count]] = res
+  count = count + 1
+}
+results_df = do.call(dplyr::bind_rows, results)</code></pre>
+<pre class="bash"><code>~/Applications/solr-9.1.0/bin/solr stop</code></pre>
+<pre><code>## Sending stop command to Solr running on port 8983 ... waiting up to 180 seconds to allow Jetty process 6559 to stop gracefully.
+##  [|]   [/]   [-]   [\]      </code></pre>
+</div>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

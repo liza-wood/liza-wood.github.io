@@ -1,0 +1,37 @@
+---
+title: "Gender"
+author: "Liza Wood"
+date: "February 13 2024"
+description: ""
+type: post
+toc: TRUE
+---
+
+```{r, echo = F, results = F}
+knitr::opts_chunk$set(
+  echo = T, warning = F,  error = F, message = F)
+```
+
+
+## Get data 
+
+### Gender pay 
+
+```{r, eval = F}
+# https://gender-pay-gap.service.gov.uk/viewing/download
+years <- 2017:2025
+for(i in years){
+  download.file(paste0('https://gender-pay-gap.service.gov.uk/viewing/download-data/', i), paste0('posts/data/gender_pay_data_', i, '.csv'))
+}
+```
+
+### Defra employees 
+
+Combine their reporting: https://www.gov.uk/government/collections/defra-workforce-management-information
+
+With this secondary data: https://www.data.gov.uk/dataset/9fb1ed1f-00c9-421b-ab18-c30c14559681/workforce-management-information-defra
+
+## Explore
+
+
+
