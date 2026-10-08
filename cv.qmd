@@ -13,6 +13,25 @@ h1.title, h2.subtitle, h3.subtitle {
 
 ***
 
+### EMPLOYMENT  
+
+Senior Data Scientist <span style="float:right;">2026 – present</span>   
+UK Department of Environment, Food & Rural Affairs -- Data Analytics and Science Hub   
+
+Data Science Instructor <span style="float:right;">2023 – present</span>   
+Convolve Cooperative  
+
+Postdoctoral Research Fellow <span style="float:right;">2023 – 2025</span>   
+University of Exeter, Department of Management -- Sustainable Futures    
+
+Graduate Researcher and Teaching Assistant <span style="float:right;">2018 – 2023</span>   
+University of California Davis, Center for Environmental Policy & Behavior and DataLab
+
+Assistant Director <span style="float:right;">2016 – 2018</span>    
+College of Charleston, New Student Programs -- First-Year Experience  
+
+***
+
 ### EDUCATION 
 
 Ph.D., Environmental Policy emphasis in Ecology  <span style="float:right;">2023</span>  
@@ -29,24 +48,6 @@ B.A., Political Science | B.A., Biology 		             	   	           <span sty
 Honors College at the College of Charleston, Charleston, SC  
 
 ***  
-
-### EMPLOYMENT  
-
-Senior Data Scientist <span style="float:right;">2026 – present</span>   
-UK Department of Environment, Food & Rural Affairs, Data Analytics and Science Hub   
-Data Science Instructor <span style="float:right;">2023 – present</span>   
-Convolve Cooperative  
-
-Postdoctoral Research Fellow <span style="float:right;">2023 – 2025</span>   
-University of Exeter, Department of Management -- Sustainable Futures    
-
-Graduate Student Researcher and Teaching Assistant <span style="float:right;">2018 – 2023</span>   
-University of California Davis, Center for Environmental Policy & Behavior and DataLab
-
-Assistant Director of First-Year Experience <span style="float:right;">2016 – 2018</span>    
-College of Charleston, New Student Programs  
-
-***
 
 ### PUBLICATIONS
 
@@ -95,6 +96,35 @@ Hubbard, K., Zystro, J., & **Wood, L**. (2022). [State of Organic Seed](https://
 
 ***
 
+### TEACHING   
+
+#### DATA SCIENCE   
+
+Instructor |  Contracted by California State Water Board   
+  [R for Water Resources Data Science](https://r4wrds.netlify.app/) <span style="float:right;">Spring 2023 - 2026</span>  
+  
+Teaching Assistant | UC Davis -- UC Davis DataLab   
+  IST 8x: [Adventures in Data Science](https://ucdavisdatalab.github.io/adventures_in_data_science/) <span style="float:right;">Winter & Spring 2022 & 2023</span>   
+  
+Instructor |  UC Davis -- Graduate Group in Ecology  
+  ECL 298: [R Data Analysis for Visualization in Science](https://gge-ucd.github.io/R-DAVIS/) <span style="float:right;">Fall 2020 - 2022</span>    
+
+
+#### ENVIRONMENTAL AND SUSTAINABILITY SCIENCE  
+
+Teaching Assistant | UC Davis -- Departments of Plant Sciences and Environmental Science and Policy  
+  PLS 49: Organic Crop Production Practicum <span style="float:right;">Fall 2019, Spring 2020</span>   
+  ESP 10: Current Issues in the Environment <span style="float:right;">Winter 2019</span>  
+  
+Instructor | UC Davis -- Graduate Group Ecology  
+  ECL 290: Science Fiction and Near Futures of Ecology <span style="float:right;">Spring 2020</span>  
+
+Instructor |  College of Charleston -- Department of Environmental and Sustainability Science  
+  FYET 177: Sustainable Food in the Foothills of the Andes <span style="float:right;">Spring 2017, 2018 & 2019</span>      
+  FYSE 142: Farm to Fork: The Sustainable Food Movement in Charleston <span style="float:right;">Spring 2018</span>    
+
+***  
+
 ### PRESENTATIONS  
 
 #### CONFERENCE PRESENTATIONS  
@@ -137,38 +167,7 @@ Mars-Wrigley Cacao Research and Development Seminar Series <span style="float:ri
   
 
 ***
-
-
-### TEACHING EXPERIENCE    
-
-#### DATA SCIENCE   
-
-Instructor |  Contracted by California State Water Board   
-  [R for Water Resources Data Science](https://r4wrds.netlify.app/) <span style="float:right;">Spring 2023 - 2026</span>  
-  
-Teaching Assistant | UC Davis -- UC Davis DataLab   
-  IST 8x: [Adventures in Data Science](https://ucdavisdatalab.github.io/adventures_in_data_science/) <span style="float:right;">Winter & Spring 2022 & 2023</span>   
-  
-Instructor |  UC Davis -- Graduate Group in Ecology  
-  ECL 298: [R Data Analysis for Visualization in Science](https://gge-ucd.github.io/R-DAVIS/) <span style="float:right;">Fall 2020 - 2022</span>    
-
-
-#### ENVIRONMENTAL AND SUSTAINABILITY SCIENCE  
-
-Teaching Assistant | UC Davis -- Departments of Plant Sciences and Environmental Science and Policy  
-  PLS 49: Organic Crop Production Practicum <span style="float:right;">Fall 2019, Spring 2020</span>   
-  ESP 10: Current Issues in the Environment <span style="float:right;">Winter 2019</span>  
-  
-Instructor | UC Davis -- Graduate Group Ecology  
-  ECL 290: Science Fiction and Near Futures of Ecology <span style="float:right;">Spring 2020</span>  
-
-Instructor |  College of Charleston -- Department of Environmental and Sustainability Science  
-  FYET 177: Sustainable Food in the Foothills of the Andes <span style="float:right;">Spring 2017, 2018 & 2019</span>      
-  FYSE 142: Farm to Fork: The Sustainable Food Movement in Charleston <span style="float:right;">Spring 2018</span>    
-
-***
-
-### GRANTS, FELLOWSHIPS & AWARDS  
+### AWARDS  
 
 #### RESEARCH 
 University of Exeter Department of Management Seed Funding (£1,000)  <span style="float:right;">2024 – 2025</span>      
