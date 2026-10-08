@@ -13,8 +13,19 @@ h1.title {
 
 ### Science in policymaking
 
-This research agenda is rooted in the premise that science – how it is conducted and how it is used – is not immune from politics. Instead, science and policy are in dynamic interaction, shaping one another and having a considerable impact on how we understand and react to sustainability challenges. To explore this, I focus on how science is used in environmental policy using computational tools. Specifically, I work with a team designing programs and workflows for extracting and analyzing citations across a range of policy documents, allowing for large-scale bibliometric analyses.
+Science – how it is conducted and how it is used – is not immune from politics. Instead, science and policy are in dynamic interaction, shaping one another and having a considerable impact on how we understand and react to sustainability challenges. To explore this, I focus on how science is used in environmental policy using computational tools. Specifically, I work with a team designing programs and workflows for extracting and analyzing citations across a range of policy documents, allowing for large-scale bibliometric analyses.
 
+<!---
+::: {.panel-tabset}
+### Regulatory Impact Assessments 
+
+### Environmental Impact Assessments 
+
+### California Transport Policy 
+
+### `govscienceuseR`  
+:::
+--->
 
 Relevant publications and projects:  
 
@@ -30,7 +41,15 @@ Relevant publications and projects:
 
 <!---<img height="350" style="float: right; margin-left: 2em;" src="img/field.jpg"> --->
 
-This research agenda explores the conditions under which ‘niche’ innovations develop, as these niches are an important source of the technological and organizational changes necessary for environmental sustainability. Theories in this field have been built around qualitative case studies, but rarely have these propositions been quantitatively tested. My research fills this gap by analyzing niche innovation systems using social network methods, focusing on an innovation that is deeply intertwined with regional agro-ecological diversity: agricultural seeds. Specifically, I work with the case of the organic seed niche – a network of informational, economic, and ecological relationships – built using original survey data of organic seed stakeholders in the US. In this research I have worked along with the [Organic Seed Alliance](https://seedalliance.org/) to release the [2022 State of Organic Seed Report](https://stateoforganicseed.org/state-of-organic-seed-2022/) and submit [public comments](https://seedalliance.org/2022/osa-provides-comments-to-usda-on-corporate-consolidation-and-control-over-seed/) regarding seed industry consolidation. This project is funded by the [Western Sustainable Agriculture Research and Education Program](https://projects.sare.org/sare_project/GW20-216/). 
+Innovation 'niches' are an important source of the technological and organizational changes necessary for environmental sustainability. Theories in this field have been built around qualitative case studies, but rarely have the proposed conditions under which niche innovations develop been quantitatively tested. My research fills this gap by analyzing niche innovation systems using social network methods, focusing on an innovation that is deeply intertwined with regional agro-ecological diversity: agricultural seeds. I work with the case of the organic seed niche – a network of informational, economic, and ecological relationships – built using original survey data of organic seed stakeholders in the US. In this research I have worked along with the [Organic Seed Alliance](https://seedalliance.org/) to release the [2022 State of Organic Seed Report](https://stateoforganicseed.org/state-of-organic-seed-2022/) and submit [public comments](https://seedalliance.org/2022/osa-provides-comments-to-usda-on-corporate-consolidation-and-control-over-seed/) regarding seed industry consolidation. This project is funded by the [Western Sustainable Agriculture Research and Education Program](https://projects.sare.org/sare_project/GW20-216/). 
+
+<!---
+::: {.panel-tabset} 
+### Organic seed networks 
+
+### State of Organic Seed  
+:::
+--->
 
 Relevant publications and reports:  
 
@@ -44,7 +63,15 @@ Relevant publications and reports:
 
 ### Agri-environmental regulation 
 
-I investigate whether the policy tools designed for better environmental outcomes have their intended effect. Policies such as voluntary incentives and certification, mandatory reporting, and sponsored research support are just some of the approaches utilized by the US government. These tools often have complex designs, such as blending stringent requirements with regulator discretion, and there is still much to be understood about how and why firms comply in different policy landscapes. I use farmer surveys in different agri-environmental contexts to understand compliance from the lenses of regulation and farmer behavior literature.
+Do the policy tools designed for better environmental outcomes have their intended effect? Policies such as voluntary incentives and certification, mandatory reporting, and sponsored research support are just some of the approaches utilized by the US government. These tools often have complex designs, such as blending stringent requirements with regulator discretion, and there is still much to be understood about how and why firms comply in different policy landscapes. I use farmer surveys in different agri-environmental contexts to understand compliance from the lenses of regulation and farmer behavior literature.
+
+<!---
+::: {.panel-tabset}
+### Organic seed policy 
+### Nitrogen management plans 
+### Sustainable groundwater 
+:::
+--->
 
 Relevant publications and projects:  
 
@@ -60,6 +87,14 @@ Relevant publications and projects:
 ### Innovation for the public good
 
 Improving environmental outcomes will depend, in part, on technological innovation. But innovation is not value-free; it reflects the diverse motivations and imaginations of innovators. Sector can influence these motivations and public, 'mission-oriented' innovation policy has recently gained traction as a promise for sustainability transitions. However, there is still much to understand about how public institutions are involved in mission-based innovation. This research agenda shifts the focus from traditional innovation studies' attention from _how much_ to _what kinds_ of innovation are publicly supported. 
+
+<!---
+::: {.panel-tabset}
+### Breeding history disclosure / patent bargain 
+### Public & private breeding priorities / mission orientation 
+### Land Grant University plant licensing 
+:::
+--->
 
 Relevant publications and projects:  
 
