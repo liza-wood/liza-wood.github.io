@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,6 +11,9 @@
 
 <title>Opinion: UC Strike Action Vote – Liza Wood</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -38,10 +41,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-da8b172a02874737bcb635f9675afdc6.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-c53915727f8fc946d8562e43b5ab33fb.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -203,7 +206,7 @@ div.white { background-color:#FFFFFF; border-radius: 5px; padding: 20px;}
 <p>I selected a handful of other universities that feel comparable to where I am housed (UC Davis), and that have some overlap with my work in environmental policy. They feel comparable in that they are large public universities from various locations across the country, capturing a range of living costs. And as a member of the Environmental Science and Policy Department, I wanted to know how graduate students are paid in schools that have comparable Environmental Science/Environmental Policy programs. I settled on the following universities, with their details below:</p>
 <div class="cell" data-layout-align="center">
 <div class="cell-output-display">
-<table class="table caption-top table-sm table-striped small" data-quarto-postprocess="true">
+<table class="table caption-top table-sm table-striped small">
 <thead>
 <tr class="header">
 <th style="text-align: left;" data-quarto-table-cell-role="th">University</th>
@@ -268,7 +271,7 @@ div.white { background-color:#FFFFFF; border-radius: 5px; padding: 20px;}
 <h2 class="anchored" data-anchor-id="how-does-uc-pay-compare-to-other-program-given-the-cost-of-living-in-each-city">How does UC pay compare to other program given the cost of living in each city?</h2>
 <p>How to measure cost of living in a city is not easy. UAW seems to be relying on union member surveys to gather data on how much rent costs are for graduate students, which they use as the basis to discuss rent burden. I’m not entirely convinced by their approach here, but luckily, there are tools that can provide some rich data on cost-of living. I rely on the <a href="https://livingwage.mit.edu/">MIT’s Living Wage Calculator</a>, which I think provides a well-documented understanding of living wages (thank you Tara Pozzi, for suggesting this resource).</p>
 <div class="cell" data-layout-align="center">
-<table class="table caption-top table-sm table-striped small" data-quarto-postprocess="true">
+<table class="table caption-top table-sm table-striped small">
 <thead>
 <tr class="header">
 <th style="text-align: left;" data-quarto-table-cell-role="th">University</th>
@@ -366,7 +369,7 @@ div.white { background-color:#FFFFFF; border-radius: 5px; padding: 20px;}
 <p>The union’s proposal is high, and perhaps overshoots a justifiable mark. But so what would a more realistic ask be? <strong>Based on data from comparable universities, it seems like 90% of a city’s living wage is a competitive ask</strong>. Because the UC wants to set UC-wide pay grades, let’s take a look at the living wages across 9 UC campuses (SF excluded):</p>
 <div class="cell" data-layout-align="center">
 <div class="cell-output-display">
-<table class="table caption-top table-sm table-striped small" data-quarto-postprocess="true">
+<table class="table caption-top table-sm table-striped small">
 <thead>
 <tr class="header">
 <th style="text-align: left;" data-quarto-table-cell-role="th">UC Campus</th>
@@ -510,13 +513,14 @@ How much does a grad student make compared to their faculty?
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

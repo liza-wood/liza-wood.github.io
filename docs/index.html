@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Liza Wood</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -35,10 +38,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-da8b172a02874737bcb635f9675afdc6.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-c53915727f8fc946d8562e43b5ab33fb.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -140,7 +143,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
   </div>
   <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>I am a Data Scientist at the UK Department of Environment, Food and Rural Affairs, working with the Data Analytics &amp; Science Hub. I am also a fractional Postdoctoral Research Fellow at the University of Exeter, working with the <a href="https://gtr.ukri.org/projects?ref=10056474">EU Horizon/UKRI InBestSoil project</a>.</p>
+<p>I am a Data Scientist at the UK Department of Environment, Food and Rural Affairs, working with the Data Analytics &amp; Science Hub.</p>
 <p>I earned my PhD at University of California Davis in the <a href="https://ecology.ucdavis.edu/environmental-policy-and-human-ecology">Environmental Policy specialization of the Ecology Graduate Group</a>, with a designated emphasis in <a href="https://css.ucdavis.edu/">Computational Social Science</a>. My research spans four areas: science in policymaking, innovation systems and networks, agri-environmental regulation, and innovation for the public good. I specialize in cases related to agri-food systems, ranging from agrobiodiversity management and organic certification to nitrogen policy. I also hold degrees in Sustainability Science and Policy (MSc), Organic Farming (MSc), and Biology and Political Science (BA).</p>
 <p>This website includes <a href="workshops.html">workshops and tutorials</a> in R that focus on computational and statistical topics. I am enthusiastic about teaching and publicly sharing code to promote data and statistical literacy, particularly for early learners.</p>
 <!-- Google tag (gtag.js) -->
@@ -200,13 +203,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
